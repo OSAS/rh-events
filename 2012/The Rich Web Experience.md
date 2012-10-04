@@ -2,11 +2,9 @@
 ## Location: Fort Lauderdale, Florida, US
 
 
-### Name: Jason Porter
 ## Growing an OSS project by turning followers into leaders
+### Name: Jason Porter
 ### Time: November 28, 2012 20:30 - 22:00 EST
-
-
 
 Open Source is about building a community of developers and users around a project willing to cooperate, exchange ideas and provide peer review. Participating in the project provides mutual benefit to all parties, including better software, skill improvement, respect, and being a member of a group of peers. But how does it happen? What motivates people to join your project? How do you grow the community?
 
@@ -15,13 +13,9 @@ We'll use Seam 3 as a case study. We'll present the factors we believe led to a 
 For more information, including speaker bio, visit https://therichwebexperience.com/conference/fort_lauderdale/2012/11/session?id=26458
 
 
-
-
-### Name: Dan Allen
 ## Drop the angled brackets. Write (Ascii)Docs with pleasure!
+### Name: Dan Allen
 ### Time: November 29, 2012 19:30 - 21:00 EST
-
-
 
 Writing documentation is already hard enough. Why do we make it more difficult by burying the content in an XML syntax like DocBook or wrestling with finicky WSYWIG editors? Come learn how to write documentation with pleasure using AsciiDoc and still be able to produce beautiful HTML, DocBook and PDF documentsand even presentation slides!
 
@@ -34,13 +28,9 @@ Come learn how to write documentation with pleasure using AsciiDoc and still be 
 For more information, including speaker bios, visit https://therichwebexperience.com/conference/fort_lauderdale/2012/11/session?id=26856
 
 
-
-
-### Name: Dan Allen and Jason Porter 
 ## Bake your HTML5 website with Awestruct, publish with git
+### Name: Dan Allen and Jason Porter 
 ### Time: November 30, 2012 09:00 - 10:30 EST
-
-
 
 Static is the new dynamic. Learn how to use Awestruct to build and publish static websites and leverage the ever increasing capabilities of HTML5-based browsers to make your site more dynamic than ever before.
 
