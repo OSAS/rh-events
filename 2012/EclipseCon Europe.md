@@ -1,4 +1,3 @@
-
 # EclipseCon Europe
 ## Location: Ludwigsburg, Germany
 
@@ -6,8 +5,6 @@
 ## Tycho adoption: Lessons learned, tips and tricks from the 1st line of front
 ### Name: Krzysztof Daniel and Mickael Istria
 ### Time: October 24, 2012 10:30 - 11:30 CST
-
-
 
 Common Build Infrastracture (CBI) is an landscape-changing initiative to make builds easy for everyone. The technologies that are used in that build system are relatively young in the Eclipse environment, however, they'd been already adopted in a number of not-only-eclipse projects.
 
@@ -24,13 +21,9 @@ which include:
 For more information, including speaker bios, visit http://www.eclipsecon.org/europe2012/sessions/tycho-adoption-hints-based-examples-mylyn-and-platform-cbi
 
 
-
-
 ## OSGi and Cloud Computing
 ### Name: David Bosschaert
 ### Time: October 24, 2012 13:30 - 14:00 CST
-
-
 
 OSGi and Cloud Computing go very well together. Previously held OSGi Cloud Workshops have clearly shown that many people are using or planning to use OSGi in the Cloud. This session focuses on a demonstration of how OSGi can really help in a Cloud environment, taking advantage of OSGi's dynamism and services model.
 
@@ -43,8 +36,6 @@ For more information, including speaker bio, visit http://www.eclipsecon.org/eur
 ### Name: Mickael Istria
 ### Time: October 24, 2012 17:00 - 17:30 CST
 
-
-
 Target Platform are a powerful concept for Eclipse Plugin/RCP development. They are basically specification of how to resolve dependencies. But behind this very technical definition, target-platforms are a very elegant way to resolve some common use-cases at both dev-time and build-time. In this presentation, Mickael will highlight how you can profit from target-platforms by reminding concepts, typical use-cases and sharing some tips & tricks to stop fighting with dependency management, and turn it into your dedicated friend.
 
 For more information, including speaker bio, visit http://www.eclipsecon.org/europe2012/sessions/journey-target-platforms
@@ -53,8 +44,6 @@ For more information, including speaker bio, visit http://www.eclipsecon.org/eur
 ## Forging a Bond Between Eclipse and the Command-line
 ### Name: Koen Aers
 ### Time: October 25, 2012 11:30 - 12:00 CST
-
-
 
 It is common knowledge that some developers swear by using command-line tools to do their job. Typing quickly, the use of tabbed completion and running scripts are key ingredients to their productivity. Nevertheless a fancy IDE such as Eclipse also attracts many developers. These love to rely on key benefits such as incremental building, form based editing, outline views and navigating the workspace. Well, we have some excellent news for developers that want the best of both worlds.
 
@@ -67,18 +56,16 @@ In this talk, Koen will show this powerful integration between IDE and command-l
 For more information, including speaker bio, visit http://www.eclipsecon.org/europe2012/sessions/forging-bond-between-eclipse-and-command-line
 
 
-
 ## Kick your Java EE development up a notch with m2e-wtp
 ### Name: Fred Bricon
 ### Time: October 25, 2012 11:30 - 12:00 CST
 
-
 The m2e-wtp project is a new project incubating at the Eclipse foundation. Built upon the popular m2eclipse-wtp plugin, it aims at providing a tight integration between the Eclipse’s Web Tools Platform and m2e, the Maven Integration plugin for Eclipse.
 
-In this heavily demo-focused presentation, Fred will show you how you can bring powerful Maven capabilities to your legacy Eclipse Java EE applications, detailing 3 features m2e-wtp adds over your typical WTP installation :
+In this heavily demo-focused presentation, Fred will show you how you can bring powerful Maven capabilities to your legacy Eclipse Java EE applications, detailing 3 features m2e-wtp adds over your typical WTP installation:
 
-    Convert your Eclipse projects to Maven : taking advantage of the new Eclipse to Maven Conversion API added in m2e 1.1, m2e-wtp translates your WTP project settings (Web, EJB, EAR ...) to their equivalent maven plugin configurations in a jiffy.
-    web resource filtering : lets you dynamically change the content of your web resources (web pages, css files, deployment descriptors...) using placeholders much like a templating engine. This allows you, for instance, to enable or disable debug parameters in your web.xml depending on some specific Maven profiles.
-    war overlays : ever needed to share the same web resources (images, css ...) across different web applications? The Maven war overlay mechanism allows you to define these common files in one location (be it a workspace project or a war archive) and let other web applications consume them without the need to duplicate them into their source control system
+* Convert your Eclipse projects to Maven : taking advantage of the new Eclipse to Maven Conversion API added in m2e 1.1, m2e-wtp translates your WTP project settings (Web, EJB, EAR ...) to their equivalent maven plugin configurations in a jiffy.
+* web resource filtering : lets you dynamically change the content of your web resources (web pages, css files, deployment descriptors...) using placeholders much like a templating engine. This allows you, for instance, to enable or disable debug parameters in your web.xml depending on some specific Maven profiles.
+* war overlays : ever needed to share the same web resources (images, css ...) across different web applications? The Maven war overlay mechanism allows you to define these common files in one location (be it a workspace project or a war archive) and let other web applications consume them without the need to duplicate them into their source control system
 
 For more information, including speaker bio, visit http://www.eclipsecon.org/europe2012/sessions/kick-your-java-ee-development-notch-m2e-wtp
