@@ -29,6 +29,16 @@ Come to this session if you want to see this powerful tool live in action!
 For more information, including speaker bio, visit http://www.devoxx.com/display/DV12/Raise+Your+Java+EE+6+Productivity+Bar+With+JBoss+Forge
 
 
+## Measuring performance and capacity planning in Java-based data grids
+### Name: Mircea Markus
+### Time: November 13, 2012 18:05 - 18:35 CET
+### Room: 9
+
+Measuring your data grid's performance it's not a trivial task. In this presentation, Mircea Markus will introduce project Radargun: a benchmarking framework that helps measuring the performance and throughput of in-memory data grids. Radargun offers an simple and effective way to compare how various data grid products would behave based on a specific use case helping you to chose the one that fits your need. It also makes it a great tool setting up a prototyping your data-grid based application in a matter of minutes.
+
+For more information, including speaker bio, visit http://www.devoxx.com/display/DV12/Measuring+performance+and+capacity+planning+in+Java-based+data+grids
+
+
 ## Why JRuby and TorqueBox Belong in Your Java Tool Box
 ### Name: Ben Browning
 ### Time: November 12, 2012 19:00 - 20:00 CET
