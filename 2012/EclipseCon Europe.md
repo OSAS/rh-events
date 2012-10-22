@@ -4,7 +4,7 @@
 
 ## Tycho adoption: Lessons learned, tips and tricks from the 1st line of front
 ### Name: Krzysztof Daniel and Mickael Istria
-### Time: October 24, 2012 10:30 - 11:30 CST
+### Time: October 24, 2012 10:30 - 11:30 CEST
 
 Common Build Infrastracture (CBI) is an landscape-changing initiative to make builds easy for everyone. The technologies that are used in that build system are relatively young in the Eclipse environment, however, they'd been already adopted in a number of not-only-eclipse projects.
 
@@ -23,7 +23,7 @@ For more information, including speaker bios, visit http://www.eclipsecon.org/eu
 
 ## OSGi and Cloud Computing
 ### Name: David Bosschaert
-### Time: October 24, 2012 13:30 - 14:00 CST
+### Time: October 24, 2012 13:30 - 14:00 CEST
 
 OSGi and Cloud Computing go very well together. Previously held OSGi Cloud Workshops have clearly shown that many people are using or planning to use OSGi in the Cloud. This session focuses on a demonstration of how OSGi can really help in a Cloud environment, taking advantage of OSGi's dynamism and services model.
 
@@ -34,7 +34,7 @@ For more information, including speaker bio, visit http://www.eclipsecon.org/eur
 
 ## A journey with Target Platforms
 ### Name: Mickael Istria
-### Time: October 24, 2012 17:00 - 17:30 CST
+### Time: October 24, 2012 17:00 - 17:30 CEST
 
 Target Platform are a powerful concept for Eclipse Plugin/RCP development. They are basically specification of how to resolve dependencies. But behind this very technical definition, target-platforms are a very elegant way to resolve some common use-cases at both dev-time and build-time. In this presentation, Mickael will highlight how you can profit from target-platforms by reminding concepts, typical use-cases and sharing some tips & tricks to stop fighting with dependency management, and turn it into your dedicated friend.
 
@@ -43,7 +43,7 @@ For more information, including speaker bio, visit http://www.eclipsecon.org/eur
 
 ## Forging a Bond Between Eclipse and the Command-line
 ### Name: Koen Aers
-### Time: October 25, 2012 11:30 - 12:00 CST
+### Time: October 25, 2012 11:30 - 12:00 CEST
 
 It is common knowledge that some developers swear by using command-line tools to do their job. Typing quickly, the use of tabbed completion and running scripts are key ingredients to their productivity. Nevertheless a fancy IDE such as Eclipse also attracts many developers. These love to rely on key benefits such as incremental building, form based editing, outline views and navigating the workspace. Well, we have some excellent news for developers that want the best of both worlds.
 
@@ -58,7 +58,7 @@ For more information, including speaker bio, visit http://www.eclipsecon.org/eur
 
 ## Kick your Java EE development up a notch with m2e-wtp
 ### Name: Fred Bricon
-### Time: October 25, 2012 11:30 - 12:00 CST
+### Time: October 25, 2012 11:30 - 12:00 CEST
 
 The m2e-wtp project is a new project incubating at the Eclipse foundation. Built upon the popular m2eclipse-wtp plugin, it aims at providing a tight integration between the Eclipse’s Web Tools Platform and m2e, the Maven Integration plugin for Eclipse.
 
