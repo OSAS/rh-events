@@ -1,6 +1,6 @@
 # GNOME Boston Summit
 ## Location: Boston, Massachusetts, US
-## Date: October 6-8, 2012
+## Date: October 6 - 8, 2012
 
 The Boston Summit is a three-day hackfest for GNOME developers and contributors. It is not primarily aimed at users or new contributors, but if you want to jump right into the deep end, it's a fantastic way to meet everyone and get involved. Unlike traditional conferences, the Boston Summit is all about getting developers together and getting things done. While there are some non-hacking sessions, they are geared heavily towards many-to-many, interactive discussion and planning, rather than one-to-many presentations.
 However, unlike previous years, there are plans to run in parallel a more newbie-oriented set of sessions, such as a basic Linux/GNOME "installfest" and help learning about GNOME application technologies.

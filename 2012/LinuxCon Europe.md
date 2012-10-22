@@ -4,7 +4,7 @@
 
 ## Virtual Machine snapshots: Overview and Illustration of Different Types of Snapshots with libvirt/QEMU
 ### Name: Kashyap Chamarthy
-### Time: November 5, 2012 11:05 -11:50 CEST
+### Time: November 5, 2012 11:05 - 11:50 CEST
 
 This session discusses different types of virtual machine snapshots with QCOW2 disk images. A snapshot is a view of a virtual machine (its OS and all its applications) at a given point in time, giving an ability to revert to a known sane state in case of a failure. The session also includes a brief demonstration of the different types of snapshots under discussion (Internal snapshots, External snapshots, System Checkpoint, Online/Offline snapshots) and their use-cases.
 Audience would include Linux system administrators familiar with KVM virtualization. The take-away would be an overall understanding of different snapshotting capabilities using QCOW2 disk images, and some practical examples which could be applied while managing virtual machines and snapshots. Finally, a glimpse of upcoming developments in this area.
@@ -14,7 +14,7 @@ For more information, including speaker bio, visit http://linuxconeurope2012.sch
 
 ## Assembling a Kernel Test Grid with Autotest
 ### Name: Lucas Meneghel Rodrigues
-### Time: November 5, 2012 11:05 -11:50 CEST
+### Time: November 5, 2012 11:05 - 11:50 CEST
 
 Autotest (autotest.github.com) is a framework for fully automated kernel testing, although it works fine for userspace bits as well. In this presentation, we'll discuss the strategies and techniques you can use to deploy a fully automated test farm, with periodic or per-commit test jobs, with bare metal machine provisioning, console control and VM testing. For embedded farms we need a different approach, which will be discussed as well. The presentation consists in slides and a demo using virtual machines on the presenter's laptop.
 
