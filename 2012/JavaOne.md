@@ -1,7 +1,6 @@
 # JavaOne 
 ## Location: San Francisco, California, US
 
-
 In addition to all the great talks in the main conference program, make sure to visit the JBoss team in Booth #5201 to hear even more technical talks in the JBoss mini-theater. For a full schedule of talks and speaker biographies, visit http://www.jboss.org/events/javaone/sessions.html
 
 
