@@ -17,6 +17,7 @@ For more information, including speaker bios, visit http://www.devoxx.com/displa
 ### Name: Koen Aers
 ### Time: November 12, 2012 18:05 - 18:35 CET
 
+
 Getting started with Java EE development can, despite the important improvements over time, still be quite daunting for newbies. Putting a JSF application to work, setting up persistence or enabling restful web services are not trivial tasks. 
 
 JBoss Forge is a versatile and lean development environment entirely written in Java and making smart use of CDI. Its purpose is to offer you the possibility of incrementally working in new functionality into existing Java projects. It is a command-line oriented tool, so creating entities or scaffolding a user interface is just a matter of issuing a few commands.
@@ -32,7 +33,6 @@ For more information, including speaker bio, visit http://www.devoxx.com/display
 ## Measuring performance and capacity planning in Java-based data grids
 ### Name: Mircea Markus
 ### Time: November 13, 2012 18:05 - 18:35 CET
-### Room: 9
 
 Measuring your data grid's performance it's not a trivial task. In this presentation, Mircea Markus will introduce project Radargun: a benchmarking framework that helps measuring the performance and throughput of in-memory data grids. Radargun offers an simple and effective way to compare how various data grid products would behave based on a specific use case helping you to chose the one that fits your need. It also makes it a great tool setting up a prototyping your data-grid based application in a matter of minutes.
 
@@ -58,6 +58,13 @@ In this session, you’ll be presented with several Maven puzzlers. Each Maven p
 
 For more information, including speaker bio, visit http://www.devoxx.com/display/DV12/Maven+dependency+puzzlers
 
+
+
+## JBoss Announcement
+### Name: Dr. Mark Little and Ray Ploski
+### Time: November 15, 2012 9:30 - 9:40 
+
+Mark and Ray will unveil the new name for JBoss Application Server chosen by the JBoss community. For more information, including speaker bios, visit http://www.devoxx.com/display/DV12/JBoss+Announcement
 
 ## Bean Validation 1.1: it's not Beansland anymore
 ### Name: Emmanuel Bernard
