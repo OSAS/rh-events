@@ -59,7 +59,6 @@ In this session, you’ll be presented with several Maven puzzlers. Each Maven p
 For more information, including speaker bio, visit http://www.devoxx.com/display/DV12/Maven+dependency+puzzlers
 
 
-
 ## JBoss Announcement
 ### Name: Dr. Mark Little and Ray Ploski
 ### Time: November 15, 2012 9:30 - 9:40 
