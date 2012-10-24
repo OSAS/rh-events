@@ -65,6 +65,7 @@ For more information, including speaker bio, visit http://www.devoxx.com/display
 
 Mark and Ray will unveil the new name for JBoss Application Server chosen by the JBoss community. For more information, including speaker bios, visit http://www.devoxx.com/display/DV12/JBoss+Announcement
 
+
 ## Bean Validation 1.1: it's not Beansland anymore
 ### Name: Emmanuel Bernard
 ### Time: November 15, 2012 10:50 - 11:50 CET
