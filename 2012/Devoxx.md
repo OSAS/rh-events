@@ -30,6 +30,21 @@ Come to this session if you want to see this powerful tool live in action!
 For more information, including speaker bio, visit http://www.devoxx.com/display/DV12/Raise+Your+Java+EE+6+Productivity+Bar+With+JBoss+Forge
 
 
+## OpenShift State of the Union
+### Name: Marco Rietveld
+### Time: November 13, 2012 14:00 - 15:00 CET
+
+There are plenty of clouds and platform-as-a-services to choose from, but where to start?
+
+Join us for an action-packed hour of power where we'll show you how to deploy an application written in the language of your choice - Java, Ruby, PHP, Perl or Python, with the framework of your choice - EE6, CDI, Seam, Spring or Rails to the OpenShift PaaS in just minutes. All without having to rewrite your app to get it to work as the cloud provider thinks it should work.
+
+We will focus on examples that highlight what OpenShift has to offer, how to get started, & provide example projects that you can access now. Bring your laptop & follow along as we help you get started with Aerogears, Drools Planner, BRMS, Switchyard & much more. Real world projects put on display for you with code you can access live during this session.
+
+If you want to learn how the OpenShift PaaS & investing an hour of your time can change everything you thought you knew about developing apps in the cloud, this session is for you!
+
+For more information, including speaker bio, visit http://www.devoxx.com/display/DV12/OpenShift+State+of+the+Union
+
+
 ## Measuring performance and capacity planning in Java-based data grids
 ### Name: Mircea Markus
 ### Time: November 13, 2012 18:05 - 18:35 CET
