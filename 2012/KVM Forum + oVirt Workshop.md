@@ -160,3 +160,38 @@ This presentation aims to show the work that has been done in making the tests m
 We'll talk about what was done and what's on the pipeline, with a demo.
 
 For more information, including speaker bio, visit http://kvmforumovirtworkshop2012.sched.org/event/afda3d75d9b7ec618042eb38a91eea64?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no
+
+
+## Virtio & Networking Status and Challenges
+### Name: Michael S. Tsirkin
+### Time: November 8, 2012 9:15 - 10:00 CEST
+
+This talk will present a high level description of current work on virtio, vhost - in general with focus on paravirtualized networking in particular.
+
+The talk will start with a quick overview of a paravirtualized networking in KVM. It will next describe new enhancements in this field developed in the last year, most of them performance-related.
+
+The talk will include a description of upcoming challenges in enhancing paravirtualized networking in KVM.
+
+For a selected subset of the enhancements the talk will include some background and motivation, an architecture-level view of the implementation and a short description of the benefits to the user.
+
+The talk is targeted at developers with high level understanding of KVM and networking, and interest in their internals.
+
+For more information, including speaker bio, visit http://kvmforumovirtworkshop2012.sched.org/event/0de1f5ad81a707953b48c3d12a488da9?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no
+
+
+## Scripting and Integration : oVirt CLI and SDK
+### Name: Simon Grinberg
+### Time: November 8, 2012 9:15 - 10:00 CEST
+
+How to leverage ovirt api, sdk and cli for scripting and automation.
+
+For more information, including speaker bio, visit http://kvmforumovirtworkshop2012.sched.org/event/5d37c086b4f8afd653af75abffae74d4?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no
+
+
+## KVM Memory Management Update & Plans
+### Name: Rik van Riel
+### Time: November 8, 2012 10:30 - 11:00 CEST
+
+Rik van Riel and Andrea Arcangeli will go over the KVM memory management changes from the last year, as well as possible changes for the next year. Topics include THP, ballooning, NUMA and more. The goal is a shorter presentation, with plenty of time for open discussion.
+
+For more information, including speaker bio, visit http://kvmforumovirtworkshop2012.sched.org/event/c3de4c709ca0a3ee9101825bd82bab47?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no
