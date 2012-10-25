@@ -2,10 +2,6 @@
 ## Location: Barcelona, Spain
 ## Date: November 7-9, 2012
 
-
-
-
-
 KVM is an industry leading open source hypervisor that provides an ideal platform for datacenter virtualization, virtual desktop infrastructure, and cloud computing. Once again, it's time to bring together the community of developers and users that define the KVM ecosystem for our annual technical conference. We will discuss the current state of affairs and plan for the future of KVM, its surrounding infrastructure, and management tools. So mark your calendar and join us in advancing KVM.
 
 We are excited to announce that the oVirt Workshop will be held in conjunction with KVM Forum this year. The oVirt Project is an open virtualization project for anyone who cares about Linux-based KVM virtualization. Providing a feature-rich server virtualization management system with advanced capabilities for hosts and guests, including high availability, live migration, storage management, system scheduler, and more. By open we mean open source & open governance, done right.
@@ -85,18 +81,14 @@ For more information, including speaker bio, visit http://kvmforumovirtworkshop2
 
 In this session we cover two aspects of live migration:
 
-<ul>
-<li>We discuss the work of moving the execution of outgoing live migration to a separate dedicated thread in QEMU.</li>
-<li>Using a separate thread for live migration reduces contention with the IO thread and vcpus which results in higher throughput and more reliable downtime.</li>
-</ul>
+* We discuss the work of moving the execution of outgoing live migration to a separate dedicated thread in QEMU.
+* Using a separate thread for live migration reduces contention with the IO thread and vcpus which results in higher throughput and more reliable downtime.
 
 We analyze Live Migration performance state:
 
-<ul>
-<li>Performance on very large guests and the issues we encounter with such a guest. This discussion will include convergence and actual downtime (compared to user configured downtime).</li>
-<li>Live migration effects on the running guest (downtime and performance impact on the guest workload)</li>
-<li>Resource consumption (network bandwidth and CPU usage)</li>
-</ul>
+* Performance on very large guests and the issues we encounter with such a guest. This discussion will include convergence and actual downtime (compared to user configured downtime).
+* Live migration effects on the running guest (downtime and performance impact on the guest workload)
+* Resource consumption (network bandwidth and CPU usage)
 
 For more information, including speaker bio, visit http://kvmforumovirtworkshop2012.sched.org/event/bd85e13226f05d127cdd256e0626008c?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no
 
@@ -162,11 +154,9 @@ However, during the last couple of years, we've been working on bringing the ben
 
 This presentation aims to show the work that has been done in making the tests more approachable and useable for KVM developers:
 
-<ul>
-<li>Separation of tests from autotest core</li>
-<li>Exposing APIs for convenient use on external test scripts</li>
-<li>Abstract concepts that are not entirely necessary for a casual developer to make use of autotest (such as configuration files)</li>
-</ul>
+* Separation of tests from autotest core
+* Exposing APIs for convenient use on external test scripts
+* Abstract concepts that are not entirely necessary for a casual developer to make use of autotest (such as configuration files)
 
 We'll talk about what was done and what's on the pipeline, with a demo.
 
@@ -338,33 +328,26 @@ For more information, including speaker bio, visit http://kvmforumovirtworkshop2
 ### Name: Asias He
 ### Time: November 8, 2012 16:00 - 16:30 CEST
 
-<ol>
-<li>A very short overview of storage choices in KVM</li>
-<ul>
-<li>IDE, AHCI, SCSI, virito-scsi, virtio-blk, device assignment, network based (glusterfs, sheepdog, etc.) </li>
-<li>performance comparison (esp. virtio-scsi v.s virtio-blk)</li>
-<li>why improve virtio-blk</li>
-</ul>
-<li>Host side improvement for virtio-blk</li>
-<ul>
-<li>userspace based virito-blk solution</li>
-<li>QEMU current v.s QEMU data-plane v.s kvm tool's virio-blk</li>
-<li>vhost based virito-blk solution</li>
-<li>using existing kernel aio interface</li>
-<li>using new in kernel aio interface</li>
-<li>using in kernel bio interface</li>
-<li>userspace solution v.s. vhost solution</li>
-</ul>
-<li>Guest side improvement for virtio-blk</li>
-<ul>
-<li>bio based virtio-blk</li>
-<li>bio based v.s. request based virtio-blk</li>
-</ul>
-<li>Future work</li>
-<ul>
-<li>multiqueue virtio-blk</li>
-</ul>
-</ol>
+A very short overview of storage choices in KVM:
+* IDE, AHCI, SCSI, virito-scsi, virtio-blk, device assignment, network based (glusterfs, sheepdog, etc.) 
+* performance comparison (esp. virtio-scsi v.s virtio-blk)
+* why improve virtio-blk
+
+Host side improvement for virtio-blk:
+* userspace based virito-blk solution
+* QEMU current v.s QEMU data-plane v.s kvm tool's virio-blk
+* vhost based virito-blk solution
+* using existing kernel aio interface
+* using new in kernel aio interface
+* using in kernel bio interface
+* userspace solution v.s. vhost solution
+
+Guest side improvement for virtio-blk:
+* bio based virtio-blk
+* bio based v.s. request based virtio-blk
+
+Future work:
+* multiqueue virtio-blk
 
 For more information, including speaker bio, visit http://kvmforumovirtworkshop2012.sched.org/event/62bd2de9ba84ef3e0c3d23862159712e?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no
 
