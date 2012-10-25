@@ -110,6 +110,17 @@ This talk gives an overview on the state of the qemu usb subsystem. What happene
 For more information, including speaker bio, visit http://kvmforumovirtworkshop2012.sched.org/event/ff493b72d2b64336d0a3d84705da91a7?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no
 
 
+## Spice Status Update
+### Name: Hans de Goede
+### Time: November 7, 2012 16:00 - 16:30 CEST
+
+Spice, the opensource remote virtual desktop protocol, aims to provide a complete open source solution for interaction with virtualized desktop devices. As such Spice is undergoing rapid development atm. This talk will look back at what has been achieved the last year, and look forward to what the Spice team plans to work on for the coming year.
+
+The talk is for developers and users who are using Spice, plan to deploy Spice in the future, or are interested in Spice in general. The audience is expected to be familiar with generic virtualization concepts, but no deep technical knowledge is required.
+
+For more information, including speaker bio, visit http://kvmforumovirtworkshop2012.sched.org/event/3ab961d729c92f83245c86cfca78efd5?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no
+
+
 ## A New Chipset for Qemu - Intel's Q35
 ### Name: Jason Baron
 ### Time: November 7, 2012 16:30 - 17:00 CEST
