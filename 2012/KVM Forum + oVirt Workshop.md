@@ -71,7 +71,7 @@ For more information, including speaker bio, visit http://kvmforumovirtworkshop2
 
 
 ## Deep Dive Features: Storage
-### Name: Ayal Baron
+### Name: Andrew Cathrow
 ### Time: November 7, 2012 14:20 - 15:00 CEST
 
 Deep dive to recently added storage features in ovirt (hot plug disk, live snapshot, storage live migration, shared disk, posix domains, nfs v4 and domain options, floating disks, direct lun, multiple storage domains, etc.).
@@ -190,8 +190,220 @@ For more information, including speaker bio, visit http://kvmforumovirtworkshop2
 
 ## KVM Memory Management Update & Plans
 ### Name: Rik van Riel
-### Time: November 8, 2012 10:30 - 11:00 CEST
+### Time: November 8, 2012 10:30 - 11:15 CEST
 
 Rik van Riel and Andrea Arcangeli will go over the KVM memory management changes from the last year, as well as possible changes for the next year. Topics include THP, ballooning, NUMA and more. The goal is a shorter presentation, with plenty of time for open discussion.
 
 For more information, including speaker bio, visit http://kvmforumovirtworkshop2012.sched.org/event/c3de4c709ca0a3ee9101825bd82bab47?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no
+
+
+## Using oVirt Via ec2/cimi With Deltacloud
+### Name: Oved Ourfali
+### Time: November 8, 2012 10:30 - 11:00 CEST
+
+How to script via ec2 and cimi api's on top of ovirt by using deltacloud.
+
+For more information, including speaker bio, visit http://kvmforumovirtworkshop2012.sched.org/event/323af0309acd91f334ab692d85463f93?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no
+
+
+## Extending oVirt Web Interface with UI Plugins
+### Name: Vojtech Szocs
+### Time: November 8, 2012 11:00 - 11:30 CEST
+
+oVirt web administration application (WebAdmin) is a powerful tool to manage various assets of the virtualization infrastructure. In addition to existing functionality, there can be times when administrators want to expose additional features of their infrastructure through WebAdmin user interface.
+
+In this session, Vojtech will present the concept and implementation of UI plugins, upcoming oVirt feature that allows third-party developers to extend WebAdmin user interface and related functionality. UI plugins integrate with WebAdmin directly on the client through JavaScript programming language, which makes the plugin infrastructure simple and flexible.
+
+Attend this session to learn more about UI plugins, update on current implementation, and live demo showing how to write and deploy custom plugin. This session is intended for anyone interested in extending oVirt WebAdmin functionality.
+
+For more information, including speaker bio, visit http://kvmforumovirtworkshop2012.sched.org/event/fcf60f14ff3208fc9874fa08071a1a4b?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no
+
+
+## Revamping the QEMU Memory API
+### Name: Avi Kivity
+### Time: November 8, 2012 11:15 - 12:00 CEST
+
+QEMU's original memory API, was complicated, hard to use, incorrect, insecure, did not scale, and consumed a lot of memory. None of these was particularly problematic with the original use cases of emulating embedded boards, or perhaps running a virtualized desktop system to use "the other OS". However, for enterprise and cloud users running hundreds of untrusted guests on a single host, the API and its implementation presents a problem.
+
+This talk will cover the new QEMU memory API, its design considerations, and how it addresses the limitations of the old implementation.
+
+For more information, including speaker bio, visit http://kvmforumovirtworkshop2012.sched.org/event/468b55a5cebc18bb80d10350eb380580?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no
+
+
+## Integrating oVirt into GNOME Boxes
+### Name: Christophe Fergeau
+### Time: November 8, 2012 11:30 - 12:00 CEST
+
+This talk will describe how oVirt support was added to GNOME Boxes, a Vala/C application. It will present the libgovirt library, a GObject library wrapping oVirt REST API, and then expand on the work that needed to be done in Boxes. Finally, we will talk about the future improvements that can be done for this support.
+
+The audience should have basic development experience as it will describe my experience with wrapping the oVirt REST API in C, and then using it in a Vala application.
+
+For more information, including speaker bio, visit http://kvmforumovirtworkshop2012.sched.org/event/0196a0d9d10a0fb454f678a377cd7d7c?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no
+
+
+## A Block Layer Overview
+### Name: Kevin Wolf
+### Time: November 8, 2012 13:00 - 13:45  CEST
+
+The block layer is one of qemu's most complex subsystems, and it has seen a very high and even increasing development activity recently. This talk will give an overview of the features of the block layer and its basic objects, highlighting the changes since last year and outlining some plans for the future.
+
+It will span the whole area from guest devices (IDE, AHCI, virtio-blk/scsi) to block drivers implementing different image formats and protocols (especially qcow2) and background jobs operating on block devices, referring to the more detailed talks that may be given on some of the topics.
+
+For more information, including speaker bio, visit http://kvmforumovirtworkshop2012.sched.org/event/5def1cf58a44432a6f7c674796a586c6?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no
+
+
+## Extending oVirt via Custom Hooks
+### Name: Andrew Cathrow
+### Time: November 8, 2012 13:00 - 13:40  CEST
+
+Introduction and samples to ovirt custom hooks for extending and changing the behavior of ovirt/vdsm.
+
+For more information, including speaker bio, visit http://kvmforumovirtworkshop2012.sched.org/event/6a992ed5d3f0806561c91903594a030d?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no
+
+
+## SLA@oVirt
+### Name: Doron Fediuck
+### Time: November 8, 2012 13:40 - 14:20  CEST
+
+SLA@oVirt is quite challenging. Allowing users to have policies to prioritize virtual machines, limit CPU and RAM consumption, and allow overcommitment are not easy tasks. Now throw in VM affinity, VM High-Availability and see what we're up against. 
+
+In this talk, oVirt users, developers and others will get a review of existing SLA and scheduling elements in today's oVirt, as well as new features added and being added into current and future versions of oVirt. Relevant architecture and API changes across oVirt project will be discussed, and feedback is more than welcome.
+
+For more information, including speaker bio, visit http://kvmforumovirtworkshop2012.sched.org/event/72d9009486f1c1f38ebdbc2b002f3609?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no
+
+
+## The Road to Effective Thin Provisioning in QEMU
+### Name: Paolo Bonzini
+### Time: November 8, 2012 13:45 - 14:30  CEST
+
+QEMU (and hence KVM) has long supported thin provisioning, through both sparse raw files and image formats such as qcow2. However, there are several limitations in the implementation of this feature, which make it much less effective as the lifetime of a virtual machine image grows. This talk will cover how thin provisioning can help both virtual machine and host administrators, as well as when/how it can be used now. It will also present a plan for making this feature more generally, effectively and easily usable.
+
+This talk is aimed at system administrators and developers. While relevant concepts will be introduced during the talk, some familiarity with storage technology is expected.
+
+For more information, including speaker bio, visit http://kvmforumovirtworkshop2012.sched.org/event/91c04b4447e8c3467bfee63a79003d59?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no
+
+
+## VFIO: A User's Perspective
+### Name: Alex Williamson, Red Hat
+### Time: November 8, 2012 13:45 - 14:30 CEST
+
+The VFIO userspace driver interface is now available in Linux v3.6 release candidates and the matching Qemu driver will be merged into the Qemu 1.3 release. By the time of this talk, VFIO will be available in the latest stable kernels and the Qemu development tree. VFIO breaks physical device assignment free from KVM, making it available to more architectures, more platforms and more device types. In this talk we'll take a high level look at VFIO and IOMMU grouping with a focus on how to make use of it, the restrictions and benefits it adds, and how it compares to KVM PCI device assignment in setup, functionality, and performance.
+
+For more information, including speaker bio, visit http://kvmforumovirtworkshop2012.sched.org/event/90666f8ae871f6f0d2445634b07c2ced?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no
+
+
+## Extending oVirt Network With Quantum
+### Name: Oved Ourfali
+### Time: November 8, 2012 14:20 - 15:00 CEST
+
+Deep dive to future network roadmap and planned quantum integration.
+
+For more information, including speaker bio, visit http://kvmforumovirtworkshop2012.sched.org/event/593d03104f136a5ef7ad0ed7a7bc8259?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no
+
+
+## GlusterFS for KVM Users and Developers
+### Name: Stefan Hajnoczi
+### Time: November 8, 2012 14:30 - 15:00 CEST
+
+This talk gives an overview of GlusterFS for scale-out storage management of KVM disk images. GlusterFS creates network attached storage on commodity hardware, including features for elastically adding/removing nodes and georeplication. Recent improvements in GlusterFS and KVM make it easy to run VM disk images on GlusterFS volumes. We also focus on GlusterFS architecture and how it could be extended for virtualization-specific needs.
+
+Previous experience with KVM or GlusterFS is not necessary, but a general understanding of virtualization and disk images is required. Users of NFS and iSCSI may be particularly interested in this talk to see how GlusterFS approaches networked storage differently and is uniquely flexible.
+
+For more information, including speaker bio, visit http://kvmforumovirtworkshop2012.sched.org/event/01d580a7d1eabbf0d1875bd00ab58cef?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no
+
+
+## QEMU Live Block Operations: Snapshots, Merging, and Mirroring
+### Name: Jeff Cody
+### Time: November 8, 2012 15:30 - 16:00 CEST
+
+Over the last year, QEMU's support for live block operations has grown to encompass atomic snapshots of multiple disks, merging of snapshots via block streaming and block commit, and block mirroring support.
+
+While this talk is suitable for technical end-users, it deals with features that are primarily accessible by means of QAPI and QMP commands. It will focus on the snapshot and merging commands, how these operations are performed, and their limitations. Block mirroring will also be covered in similar detail. In addition, this talk will feature a demonstration of live atomic snapshots of multiple devices, and subsequent live merging of the resulting images by means of block commit and block streaming.
+
+For more information, including speaker bio, visit http://kvmforumovirtworkshop2012.sched.org/event/fe1c8e70c385c00ecb6ad070e2f99fa7?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no
+
+
+## Virtio-blk Performance Improvement
+### Name: Asias He
+### Time: November 8, 2012 16:00 - 16:30 CEST
+
+<ol>
+<li>A very short overview of storage choices in KVM</li>
+<ul>
+<li>IDE, AHCI, SCSI, virito-scsi, virtio-blk, device assignment, network based (glusterfs, sheepdog, etc.) </li>
+<li>performance comparison (esp. virtio-scsi v.s virtio-blk)</li>
+<li>why improve virtio-blk</li>
+</ul>
+<li>Host side improvement for virtio-blk</li>
+<ul>
+<li>userspace based virito-blk solution</li>
+<li>QEMU current v.s QEMU data-plane v.s kvm tool's virio-blk</li>
+<li>vhost based virito-blk solution</li>
+<li>using existing kernel aio interface</li>
+<li>using new in kernel aio interface</li>
+<li>using in kernel bio interface</li>
+<li>userspace solution v.s. vhost solution</li>
+</ul>
+<li>Guest side improvement for virtio-blk</li>
+<ul>
+<li>bio based virtio-blk</li>
+<li>bio based v.s. request based virtio-blk</li>
+</ul>
+<li>Future work</li>
+<ul>
+<li>multiqueue virtio-blk</li>
+</ul>
+</ol>
+
+For more information, including speaker bio, visit http://kvmforumovirtworkshop2012.sched.org/event/62bd2de9ba84ef3e0c3d23862159712e?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no
+
+
+## oVirt/Gluster Integration
+### Name: Vijay Bellur
+### Time: November 8, 2012 16:15 - 17:00 CEST
+
+Gluster management is integrated in oVirt. This session will cover how gluster basics and introduce using gluster as storage backend from ovirt.
+
+For more information, including speaker bio, visit http://kvmforumovirtworkshop2012.sched.org/event/0c41350a6cb4dd5c4db19c6c149ec399?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no
+
+
+## Multiqueue Networking for KVM
+### Name: Jason Wang
+### Time: November 8, 2012 16:30 - 17:00 CEST
+
+Multiqueue networking of kvm guest were introduced to eliminate the bottleneck of current single queue model and scale the performance for smp guest running on hosts with multiqueue cards. Multiqueue capable kvm guest will have a higher network performance compared to single queue. This presentation discusses the design and implementation of extending the kernel/qemu components of both host and guest to be multiqueue capable. Performance numbers and pending issues will also coverd in the talk.
+
+The developers, customers and hardware vendors who are interested in the solution of high performance virtualized networking were targerted at this talk. They would expect a kind of high performance solution with multiqueue and virtio-net. Some basic knowledge of kvm, virtio and high performance networking were required for this talk.
+
+For more information, including speaker bio, visit http://kvmforumovirtworkshop2012.sched.org/event/7b0cff16d944556148e082c527e61617?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no
+
+
+## oVirt Infrastructure Overview
+### Name: Mike Burns
+### Time: November 9, 2012 9:15 - 9:35 CEST
+
+An overview of the various infrastructure tools and services available in the ovirt.org domain. We’ll discuss various aspects from how different tools are leveraged with a heavy focus on the use of Jenkins for build and test automation, Gerrit for source code management, and Puppet for configuring the various servers for different uses. We’ll also discuss how we grew the infrastructure from a just a couple of EC2 hosts to where we are today, to where we’re planning to go in the future. 
+
+This is primarily geared toward people interested in how we go about managing and coordinating the various pieces of infrastructure in the oVirt site. It will range from high level discussion of what we're trying to accomplish to diving into some of the technical details. I'd like this talk to be very interactive, but will be prepared to present in the event there aren't a lot of questions.
+
+For more information, including speaker bio, visit http://kvmforumovirtworkshop2012.sched.org/event/80914f36d80c66c2e9ab56e073686d05?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no
+
+
+## Automated Testing of oVirt Node
+### Name: Fabian Deutsch
+### Time: November 9, 2012 9:35 - 10:00 CEST
+
+This talk will dive into the method and implementation of automated testing with oVirt Node. We’ll discuss the challenges and problems with testing in an automated fashion. We’ll then explore how the challenges have been met and overcome. We’ll dive into the framework and design of the the various test cases and how they can be run on both physical hardware and virtual machines.
+
+For more information, including spoeaker bio, visit http://kvmforumovirtworkshop2012.sched.org/event/2f018366511e3590c3f622b0fb07fc98?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no
+
+
+## OpenStack: KVM for the Masses
+### Name: Mark McLoughlin
+### Time: November 9, 2012 10:30 - 11:00 CEST
+
+Having recently passes its second birthday, OpenStack is a relatively new entrant into the world of open-source virtualization. Since its announcement, it has gained incredible traction and momentum with hundreds of developers contributing to each release. OpenStack's success - and the potential for it to be deployed pervasively at massive scale, particularly in public clouds - presents an opportunity for KVM's continued growth and adoption.
+
+Mark, a former KVM developer, will introduce the OpenStack project, its architecture and current status. Mark will then talk in some detail about how OpenStack currently uses KVM and libvirt before setting the scene for a a discussion about how OpenStack could adopt more of KVM's unique features to the benefit of both projects.
+
+For more information, including speaker bio, visit http://kvmforumovirtworkshop2012.sched.org/event/bd91ab75c57b6460cc418392c105669a?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no
