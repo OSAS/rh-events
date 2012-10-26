@@ -22,10 +22,8 @@ GlusterFS is a distributed file system that can scale to several PetaBytes. oVir
 
 This presentation will discuss integration of KVM and GlusterFS through various mechanisms like: 
 
-<ul>
-<li>GlusterFS's FUSE based native protocol</li>
-<li>Qemu and libglusterfsclient </li>
-</ul>
+* GlusterFS's FUSE based native protocol
+* Qemu and libglusterfsclient 
 
 Details on how both file and block based interfaces can be presented to  host KVM images from GlusterFS will be provided. 
 
