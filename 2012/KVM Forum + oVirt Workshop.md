@@ -401,3 +401,77 @@ Having recently passes its second birthday, OpenStack is a relatively new entran
 Mark, a former KVM developer, will introduce the OpenStack project, its architecture and current status. Mark will then talk in some detail about how OpenStack currently uses KVM and libvirt before setting the scene for a a discussion about how OpenStack could adopt more of KVM's unique features to the benefit of both projects.
 
 For more information, including speaker bio, visit http://kvmforumovirtworkshop2012.sched.org/event/bd91ab75c57b6460cc418392c105669a?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no
+
+
+## Boxes: A Box for Everyone!
+### Name: Zeeshan Ali
+### Time: November 9, 2012 11:15 - 12:00 CEST
+
+Boxes is a new GNOME application for easily handling other systems: local virtual machines and remote desktop. A local machine is powered by KVM and SPICE, and you can access remote desktop via libvirt, SPICE and VNC. During this talk I will demonstrate latest version and describe the design of Boxes. I will discuss the importance of Boxes as part of the GNOME project. Finally, a list of missing features and the roadmap for the next cycle will be presented.
+
+The talk is indented for Linux users, system administrators and developers a like. Audience will be expected to have very basic understanding of, and experience with virtual machines, Linux and GNOME. Experience with virtual machine managers, like virt-manager will be an advantage but not required.
+
+For more information, including speaker bio, visit http://kvmforumovirtworkshop2012.sched.org/event/1a25a9c09b40e31c4af5214f19dccc44?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no
+
+
+## VDSM For Developers
+### Name: Federico Simoncelli
+### Time: November 9, 2012 11:15 - 12:00 CEST
+
+Learn about VDSM internals.
+
+For more information, including speaker bio, visit http://kvmforumovirtworkshop2012.sched.org/event/629ed5ae84be0b22bc5f8a2f9ed0aa75?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no
+
+
+## Engine for Developers
+### Name: Juan Hernandez
+### Time: November 9, 2012 13:00 - 13:40 CEST
+
+oVirt engine internals.
+
+For more information, including speaker bio, visit http://kvmforumovirtworkshop2012.sched.org/event/7c0a9ec1b79a48e1f4d57680da00c47e?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no
+
+
+## Storage Live Migration: Below The Hood
+### Name: Federico Simoncelli
+### Time: November 9, 2012 13:40 - 14:20 CEST
+
+This session will review end-to-end the implementation of storage live migration.
+
+For more information, including speaker bio, visit http://kvmforumovirtworkshop2012.sched.org/event/50129181f4d56d00c370c1768cdcba77?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no
+
+
+## UI For Developers
+### Name: Vojtech Szocs
+### Time: November 9, 2012 14:20 - 15:00 CEST
+
+Introduction to ovirt GWT UI internals.
+
+For more information, including speaker bio, visit http://kvmforumovirtworkshop2012.sched.org/event/3b4d0115f9a5f39186f7579d6608648f?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no
+
+
+## oVirt Node and OpenStack 
+### Name: Fabian Deutsch
+### Time: November 9, 2012 15:30 -  16:00 CEST
+
+A talk diving into the details of using the oVirt Node framework with projects different to oVirt. We’ll dive into details of how oVirt Node is different depending in which environment it is being used. There will be a heavy focus on how it is or can be used with OpenStack as the IaaS platform.
+
+For more information, including speaker bio, visit http://kvmforumovirtworkshop2012.sched.org/event/a31ccd8702d7cc1a6bcd8c66d8f8443c?iframe=no&w=750&sidebar=yes&bg=no#
+
+
+## Drools Integration in oVirt Engine
+### Name: Laszlo Hornyak
+### Time: November 9, 2012 16:00 - 16:45 CEST
+
+The VM scheduler is the heart of a private cloud, it selects host for your virtual machine, decides about VM migrations and aligns the load on the hosts. While this is not a simple task, performance and the costs of the virtualization system is largely dependent on the decisions this component makes. JBoss Drools can help us to make the decision logic more readable and easier to extend by specifying rules rather than trying to rewrite an existing algorithm. This approach promises better performance for your private could through better decisions.
+
+For more information, including speaker bio, visit http://kvmforumovirtworkshop2012.sched.org/event/827af93622922bafe8a876b23948f9f0?iframe=no&w=750&sidebar=yes&bg=no#
+
+
+## How Can We Improve The Process of Troubleshooting an oVirt Environment (BoF)
+### Name: Lee Yarwood
+### Time: November 9, 2012 16:45 - 17:30 CEST
+
+This BoF will look into how we can improve the process of troubleshooting an oVirt environment. The session will start with an overview of techniques currently employed downstream and issues faced with these techniques before branching out into possible improvements that can be made upstream within oVirt.
+
+Given the nature of this BoF both users and developers are welcome to attend and share their ideas.
