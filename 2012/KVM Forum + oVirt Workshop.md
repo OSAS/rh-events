@@ -15,7 +15,7 @@ During this workshop you’ll learn about the technical background and direction
 For more information, including speaker bio, visit http://kvmforumovirtworkshop2012.sched.org/event/5e4a333ab0aa0fee99d32c95fe7b8c68?iframe=yes&w=750&sidebar=yes&bg=no
 
 
-## oVirt Node Architecture Design and Roadmpa
+## oVirt Node Architecture Design and Roadmap
 ### Name: Mike Burns
 ### Time: November 7, 2012 11:15 - 12:00 CEST
 
