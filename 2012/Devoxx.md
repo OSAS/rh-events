@@ -74,13 +74,6 @@ In this session, you’ll be presented with several Maven puzzlers. Each Maven p
 For more information, including speaker bio, visit http://www.devoxx.com/display/DV12/Maven+dependency+puzzlers
 
 
-## JBoss Announcement
-### Name: Dr. Mark Little and Ray Ploski
-### Time: November 15, 2012 9:30 - 9:40 
-
-Mark and Ray will unveil the new name for JBoss Application Server chosen by the JBoss community. For more information, including speaker bios, visit http://www.devoxx.com/display/DV12/JBoss+Announcement
-
-
 ## Bean Validation 1.1: it's not Beansland anymore
 ### Name: Emmanuel Bernard
 ### Time: November 15, 2012 10:50 - 11:50 CET
