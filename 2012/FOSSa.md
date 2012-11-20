@@ -2,7 +2,7 @@
 ## Location: Lille, France
 ## Date: December 4 - 8, 2012
 
-FOSSa, Free and Open Source Software in Academia, is an annual conference 
+[FOSSa](http://fossa.inria.fr/en), Free and Open Source Software in Academia, is an annual conference 
 bringing experts in Free and Open Source Software from industry and the 
 community together with prominent members of academia, to learn from each 
 other, and to put Open Source values back at the heart of academic research.
