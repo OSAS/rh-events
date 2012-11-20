@@ -1,6 +1,6 @@
 # PyCon India
 ## Location: Dharmaram Vidya Kshetram, Bangalore, India
-Event Dates: September 28-30, 2012
+## Date: September 28-30, 2012
 
 
 ## Document Your Code
