@@ -12,6 +12,17 @@ We're still waiting to hear back on the results of the conference call for paper
 The Foreman is adding a Metal-as-a-Service feature in the near future. In this lightning talk, we'll show the current status of the work, and discuss where it's heading to eventually.
 
 
+## systemd, Two Years Later
+### Name: Lennart Poettering
+### Room: Janson
+### Time: February 3, 2013 12:00 - 12:50 CET
+
+The systemd project is now two years old (almost three). It found adoption as 
+the core of many big community and commercial Linux distributions. It's time 
+to look back what we achieved, what we didn't achieve, how we dealt with the 
+various controversies, and what's to come next.
+
+
 ## Introducing GNOME Photos
 ### Name: Debarshi Ray
 ### Room: CrossDesktop DevRoom
