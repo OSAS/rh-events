@@ -4,6 +4,11 @@
 
 We're still waiting to hear back on the results of the conference call for papers, but several members of our team are planning to participate in the FOSDEM dev rooms. Stay tuned for further details. For more information on FOSDEM, visit http://fosdem.org
 
+## Trends in Open Source Security
+### Name: Florian Weimer
+### Time: February 2, 2013, 16:00 CET
+
+This talk examines current challenges in Open Source security and sketches ideas to address them.
 
 ## Managing Your Metal Flexibly
 ### Name: Greg Sutcliffe
