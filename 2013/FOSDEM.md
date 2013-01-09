@@ -5,6 +5,25 @@
 We're still waiting to hear back on the results of the conference call for papers, but several members of our team are planning to participate in the FOSDEM dev rooms. Stay tuned for further details. For more information on FOSDEM, visit http://fosdem.org
 
 
+## How to build an Identity Management System on Linux
+### Name: Simo Sorce
+### Room: Janson
+### Time: February 2, 2013 17:00 - 12:50 CET
+
+How do you build a comprehensive and coherent Identity Management System
+on Linux? This is the question I started answering 7 years ago when I
+joined Red Hat, and is still being worked on today. In this talk I will
+present a broad overview of all the aspects of Identity Management that
+need to be considered to have a full end-to-end solution, for the server
+components (Kerberos, LDAP, DNS, Management components, etc..) that are
+managed under the umbrella of the FreeIPA project to the client
+components (SSSD and utilities) and all the other hidden parts (like
+GSS-Proxy, Samba libraries) that are normally not easily visible but
+that become needed once you get down to playing with the bits. The talk
+will go down into the technical details and the whys and hows of the
+whole architecture.
+
+
 ## Managing Your Metal Flexibly
 ### Name: Greg Sutcliffe
 ### Time: February 3, 2013, 11:00 CET
