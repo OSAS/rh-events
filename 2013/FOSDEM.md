@@ -26,6 +26,7 @@ various controversies, and what's to come next.
 ## Introducing GNOME Photos
 ### Name: Debarshi Ray
 ### Room: CrossDesktop DevRoom
+### Time: February 3, 2013 16:40 - 17:00 CET
 
 Photos is an application to access, organize and share your photos with 
 GNOME 3. After Documents it is the latest among the new breed of Finding &
