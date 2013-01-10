@@ -54,3 +54,25 @@ GNOME 3 style: cloud integration, fresh UI elements and touch enablement.
 
 This talk will outline the use cases and principles, how it relates to existing
 third party applications, and the use of Tracker as a meta-data store.
+
+## (R)evolution of Java Packaging in GNU/Linux
+### Name: Mikołaj Izdebski and Stanislav Ochotnický
+### Room: Free Java DevRoom
+### Time: February 2, 2013 12:30 - 13:00 CET
+
+Java packaging in Linux has never been trivial. Partially due to strict
+principles that most Linux distributions adhere to, partially due to Java
+ecosystem encouraging behavior which goes against these principles, but mostly
+due to ineffective tooling on both sides of the fence.
+
+Over past 2 years, tooling and guidelines for packaging Java have changed in
+Fedora Linux considerably. What used to be a 1000 line build script can soon
+become 100 lines of mostly metadata. But all of that relies on sane build system
+with predictable behavior on Java side: Maven.
+
+During the course of the talk we will clean up one such build script and describe
+how each change was made possible. Most importantly we hope to convince the
+audience that for common good, using Maven for Java development even with all
+its quirks is better than the alternatives. A wider discussion on Java
+build systems would also be welcome.
+
