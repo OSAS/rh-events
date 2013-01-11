@@ -9,7 +9,9 @@ The Free and Open source Software Developers’ European Meeting (FOSDEM) is a t
 ### Name: Florian Weimer
 ### Time: February 2, 2013, 16:00 - 16:50 CET
 
-This talk examines current challenges in Open Source security and sketches ideas to address them.
+This presentation examines current challenges in Open Source security and sketches ideas to address them.
+
+Linux distributions deal with a large number of code bases predominantly written by others, some of them huge. This makes it difficult to address vulnerabilities in a consistent fashion. There is increasing demand for difficult-to-use technology, such as cryptography, and more and more upstream projects are forced to deal with vulnerabilities in their code.
 
 
 ## How to build an Identity Management System on Linux
