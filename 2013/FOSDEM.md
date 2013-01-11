@@ -62,6 +62,7 @@ GNOME 3 style: cloud integration, fresh UI elements and touch enablement.
 This talk will outline the use cases and principles, how it relates to existing
 third party applications, and the use of Tracker as a meta-data store.
 
+
 ## (R)evolution of Java Packaging in GNU/Linux
 ### Name: Mikołaj Izdebski and Stanislav Ochotnický
 ### Room: Free Java DevRoom
@@ -83,6 +84,7 @@ audience that for common good, using Maven for Java development even with all
 its quirks is better than the alternatives. A wider discussion on Java
 build systems would also be welcome.
 
+
 ## OpenStack: 21st Century App Architecture and Cloud Operations
 ### Name: Mark McLoughlin
 ### Room: Cloud DevRoom
@@ -99,6 +101,7 @@ manner. Mark will go on to explain how you should aim to build on OpenStack's
 architecture so that operating an OpenStack cloud is as automated as operating a
 modern cloud based application.
 
+
 ## Apache Deltacloud API v1.0
 ### Name: Michal Fojtik
 ### Room: Cloud DevRoom
@@ -108,6 +111,7 @@ Deltacloud API prevents you from cloud vendor-lockin and cloud API changes. With
 deltacloud you can speak up to 18 different cloud providers using one single API.
 Deltacloud now officialy support the CIMI API as a new industry standard for cloud
 computing and also non-officialy Amazon EC2 query API.
+
 
 ## Build and deploy your app on your own cloud with OpenShift Origin
 ### Name: Xavier Coulon
@@ -123,6 +127,7 @@ In this session, you'll see how OpenShift Origin, Red Hat's open source PaaS
 lets you easily deploy your Java, Node.js, PHP, Ruby or Python applications
 on your own infrastructure. You'll also see how it integrates with JBoss Tools
 to seamlessly code and then publish without leaving your Eclipse IDE.
+
 
 ## Image management in a federated cloud environment
 ### Name: Martyn Taylor
@@ -172,6 +177,7 @@ This session will provide an overview of Heat's capabilities and how to use
 them, followed by a live demonstration. At the end you will understand Heat
 well enough to decide whether it is useful in your environment and how to
 get started with it.
+A
 
 ## Measuring OpenStack: the Ceilometer Project
 ### Name: Eoghan Glynn
