@@ -113,6 +113,25 @@ Deltacloud now officialy support the CIMI API as a new industry standard for clo
 computing and also non-officialy Amazon EC2 query API.
 
 
+## Using Personas to Target Users
+### Name: Dave Neary
+### Room: Community Development and Marketing DevRoom
+### Time: February 2, 2013 12:15 - 12:40 CET
+
+Personas were made famous by Alan Moore in "The Inmates are Running the
+Asylum", a seminal book on user interface design for computer programmers.
+They have been used for decades in the marketing industry to help target
+specific market segments with ads and products. Personas help you frame
+feature discussions while developing your software, guide your communication
+and conference strategy, and ultimately help you to have a more popular,
+better project.
+
+This presentation will cover the basics of:
+* What is a persona?
+* How do I come up with one (or several) for my project?
+* What can I do with them?
+
+
 ## Build and deploy your app on your own cloud with OpenShift Origin
 ### Name: Xavier Coulon
 ### Room: Cloud DevRoom
@@ -304,22 +323,4 @@ with VDSM and functionalities. Participants will be able to get insights
 on memory overcommitment in hypervisors and the way memory balloon device
 is being used to achieve overcommitment.
 
-
-## Using Personas to Target Users
-### Name: Dave Neary
-### Room: Community Development and Marketing DevRoom
-### Time: February 2, 2013 12:15 - 12:40 CET
-
-Personas were made famous by Alan Moore in "The Inmates are Running the
-Asylum", a seminal book on user interface design for computer programmers.
-They have been used for decades in the marketing industry to help target
-specific market segments with ads and products. Personas help you frame
-feature discussions while developing your software, guide your communication
-and conference strategy, and ultimately help you to have a more popular,
-better project.
-
-This presentation will cover the basics of:
-* What is a persona?
-* How do I come up with one (or several) for my project?
-* What can I do with them?
 
