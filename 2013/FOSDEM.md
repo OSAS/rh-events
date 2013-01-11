@@ -10,7 +10,9 @@ The Free and Open source Software Developers’ European Meeting (FOSDEM) is a t
 ### Room: Janson
 ### Time: February 2, 2013, 16:00 - 16:50 CET
 
-This talk examines current challenges in Open Source security and sketches ideas to address them.
+This presentation examines current challenges in Open Source security and sketches ideas to address them.
+
+Linux distributions deal with a large number of code bases predominantly written by others, some of them huge. This makes it difficult to address vulnerabilities in a consistent fashion. There is increasing demand for difficult-to-use technology, such as cryptography, and more and more upstream projects are forced to deal with vulnerabilities in their code.
 
 
 ## How to build an Identity Management System on Linux
@@ -218,12 +220,10 @@ Headed to your annual developer conference and there’s a contentious topic on 
 
 In this talk, Lydia Pintscher and Leslie Hawthorn will explore facilitation techniques to use during community wide discussions. Drawing on the principles of open space technology [0], they will explore several methods for achieving consensus while still having fun, including:
 
-<ul>
-<li>Spectragrams</li>
-<li>Dot-o-cracy</li>
-<li>Post-It Mind mapping</li>
-<li>more</li>
-</ul>
+* Spectragrams
+* Dot-o-cracy
+* Post-It Mind mapping
+* more
 
 The talk will be accompanied by live demos of each technique. Audience participation will be requested but not required. Participants who wish to learn more about the topics to be discussed in advance of the presentation may wish to visit the Aspiration Technology wiki for more details. [1]
 
