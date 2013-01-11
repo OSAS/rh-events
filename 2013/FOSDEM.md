@@ -2,7 +2,7 @@
 ## Location: Brussels, Belgium
 ## Date: February 2 - 3, 2013
 
-We're still waiting to hear back on the results of the conference call for papers, but several members of our team are planning to participate in the FOSDEM dev rooms. Stay tuned for further details. For more information on FOSDEM, visit http://fosdem.org
+The Free and Open source Software Developers’ European Meeting (FOSDEM) is a two-day event organized by volunteers to promote the widespread use of Free and Open Source software.For more information on FOSDEM, visit http://fosdem.org
 
 
 ## Trends in Open Source Security
@@ -128,6 +128,17 @@ lets you easily deploy your Java, Node.js, PHP, Ruby or Python applications
 on your own infrastructure. You'll also see how it integrates with JBoss Tools
 to seamlessly code and then publish without leaving your Eclipse IDE.
 
+## Evaluating Open Source Projects for Their Health and Your Well Being
+### Name: Leslie Hawthorn and Langdon White
+### Room: Community Development & Marketing Dev Room
+### Time: February 2, 2013 13:05 - 13:30 CET
+
+As an application developer you are often presented with a myriad of open source project options to integrate to meet your particular needs. In one of his most recent projects, Langdon was using ~40 odd different  modular components, each with more than 2-3 FOSS project options to choose from. How does a sane and rational human choose which project to use?
+
+In this talk, Langdon will explore the trials and tribulations of the humble systems architect when trying to choose which components will best meet one’s needs whilst Leslie will discuss how your project can put its best foot forward in terms of achieving user happiness. Each will provide real-world examples of projects that do this incredibly well and those that do it … well, substantially less well. As a wrap up, we will do a comparative charting of two projects in the same space and their successes as compared to the accessibility and health of their community, code base and documentation.
+
+For more information on this talk, including speaker bios, visit https://fosdem.org/2013/schedule/track/community_development_and_marketing/
+
 
 ## Image management in a federated cloud environment
 ### Name: Martyn Taylor
@@ -177,7 +188,31 @@ This session will provide an overview of Heat's capabilities and how to use
 them, followed by a live demonstration. At the end you will understand Heat
 well enough to decide whether it is useful in your environment and how to
 get started with it.
-A
+
+## Community Management in Meatspace: Techniques for Discussion & Achieving Consensus
+### Name: Leslie Hawthorn (with Lydia Pinstcher, KDE & Wikimedia)
+### Room: Community Development & Marketing Dev Room
+### Time: February 2, 2013 15:55 - 16:20 CET
+
+Headed to your annual developer conference and there’s a contentious topic on everyone’s mind? Wondering how to get past the airing of grievances into a useful discussion?
+
+In this talk, Lydia Pintscher and Leslie Hawthorn will explore facilitation techniques to use during community wide discussions. Drawing on the principles of open space technology [0], they will explore several methods for achieving consensus while still having fun, including:
+
+<ul>
+<li>Spectragrams</li>
+<li>Dot-o-cracy</li>
+<li>Post-It Mind mapping</li>
+<li>more</li>
+</ul>
+
+The talk will be accompanied by live demos of each technique. Audience participation will be requested but not required. Participants who wish to learn more about the topics to be discussed in advance of the presentation may wish to visit the Aspiration Technology wiki for more details. [1]
+
+For more information, including speaker bios, visit https://fosdem.org/2013/schedule/track/community_development_and_marketing/
+
+[0] - http://en.wikipedia.org/wiki/Open-space_technology
+
+[1] - http://facilitation.aspiration.org
+
 
 ## Measuring OpenStack: the Ceilometer Project
 ### Name: Eoghan Glynn
@@ -193,6 +228,15 @@ alerting. This project is a collaboration of a wide variety of actors.
 After a brief introduction of the project past and future, this talk will
 introduce the audience to the project's architecture before digging into how
 and why they can contribute to its future.
+
+## The Keeper of Secrets
+### Name: Leslie Hawthorn
+### Room: Janson
+### Time: February 3, 2013 17:00 - 17:50 CET
+
+Whilst the mantra of free and open source software communities focus on transparency and collaboration, community leaders will often find that the most significant conversations are those they have 1/1 and "behind closed doors." As a community leader, one is called upon to be both trusted confidant and change agent, and being effective in both roles simultaneously can be a quite difficult - and deeply humorous - dance. Join Leslie Hawthorn as she explores the nuances of public and private discourse in FOSS projects, using real world examples from her experience interacting with more than 200 communities over the past six years.
+
+For more information on this presentation, including speaker bio, visit https://fosdem.org/2013/schedule/event/keynote_keeper_of_secrets/
 
 
 ## Supporting and Using EC2/CIMI on top of Cloud Environments
