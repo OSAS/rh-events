@@ -7,6 +7,7 @@ The Free and Open source Software Developers’ European Meeting (FOSDEM) is a t
 
 ## Trends in Open Source Security
 ### Name: Florian Weimer
+### Room: Janson
 ### Time: February 2, 2013, 16:00 - 16:50 CET
 
 This talk examines current challenges in Open Source security and sketches ideas to address them.
