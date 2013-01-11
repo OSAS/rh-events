@@ -213,3 +213,49 @@ In this presentation I'll show how one can use the new oVirt-Engine UI-Plugin
 infrastructure, to add a Foreman-UI-plugin, that allows querying Foreman
 information on oVirt entities, and preform different Foreman-related operations
 on them.
+
+
+## oVirt introduction
+### Name: Doron Fediuck
+### Room: Virtualization Devroom
+
+This session will provide an intro to the oVirt project components and features.
+The oVirt Project is an open virtualization project providing a feature-rich server
+and desktop virtualization management platform with advanced capabilities for hosts
+and guests, including high availability, live migration, storage management, system
+scheduler, and more. oVirt provides an integration point for several open source
+virtualization technologies, including kvm, libvirt, spice and oVirt node. oVirt was launched
+in November 2011 as a fully open source project, based on assets from Red Hat Enterprise
+Virtualization Manager platform. The project has an open governance model, and initial
+board has members from IBM, Cisco, Netapp, Red Hat and SUSE. 
+
+
+## oVirt and GlusterFS integration
+### Name: Doron Fediuck
+### Room: Virtualization Devroom
+
+GlusterFS is a distributed file system that can scale to several PetaBytes.
+oVirt is a management platform for Kernel based Virtual Machine (KVM) and
+can be used to manage GlusterFS as well.
+
+This talk will focus on GlusterFS integration with oVirt. GlusterFS and KVM
+virtualization users and developers will be able to get more information on
+GlusterFS concepts, enabling it in oVirt for virtualization, a short overview
+of oVirt and VDSM architecture including VDSM storage concepts. This will
+be followed by GlusterFS as a VDSM Storage Domain, as well as GlusterFS
+domain support in oVirt engine.
+
+
+## MoM as host level enforcement agent
+### Name: Doron Fediuck
+### Room: Virtualization Devroom
+
+Maintaining QoS in cloud computing requires host-level monitoring and
+policy enforcement. In order to be able to scale up large setups, a
+host-level agent is needed to supervise and dynamically handle the VMs
+resource consumption based on the SLA policy.
+
+In this session we'll look at MoM, and get in-dept view of it's integration
+with VDSM and functionalities. Participants will be able to get insights
+on memory overcommitment in hypervisors and the way memory balloon device
+is being used to achieve overcommitment.
