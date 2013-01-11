@@ -218,12 +218,10 @@ Headed to your annual developer conference and there’s a contentious topic on 
 
 In this talk, Lydia Pintscher and Leslie Hawthorn will explore facilitation techniques to use during community wide discussions. Drawing on the principles of open space technology [0], they will explore several methods for achieving consensus while still having fun, including:
 
-<ul>
-<li>Spectragrams</li>
-<li>Dot-o-cracy</li>
-<li>Post-It Mind mapping</li>
-<li>more</li>
-</ul>
+* Spectragrams
+* Dot-o-cracy
+* Post-It Mind mapping
+* more
 
 The talk will be accompanied by live demos of each technique. Audience participation will be requested but not required. Participants who wish to learn more about the topics to be discussed in advance of the presentation may wish to visit the Aspiration Technology wiki for more details. [1]
 
