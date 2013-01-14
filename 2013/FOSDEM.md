@@ -282,6 +282,7 @@ on them.
 ## oVirt introduction
 ### Name: Doron Fediuck
 ### Room: Virtualization Devroom
+### Time: Feb 2, 2013 15:30 - 16:00 CET
 
 This session will provide an intro to the oVirt project components and features.
 The oVirt Project is an open virtualization project providing a feature-rich server
@@ -297,6 +298,7 @@ board has members from IBM, Cisco, Netapp, Red Hat and SUSE.
 ## oVirt and GlusterFS integration
 ### Name: Doron Fediuck
 ### Room: Virtualization Devroom
+### Time: Feb 2, 2013 16:00 - 16:30 CET
 
 GlusterFS is a distributed file system that can scale to several PetaBytes.
 oVirt is a management platform for Kernel based Virtual Machine (KVM) and
@@ -313,6 +315,7 @@ domain support in oVirt engine.
 ## MoM as host level enforcement agent
 ### Name: Doron Fediuck
 ### Room: Virtualization Devroom
+### Time: Feb 2, 2013 14:30 - 15:00 CET
 
 Maintaining QoS in cloud computing requires host-level monitoring and
 policy enforcement. In order to be able to scale up large setups, a
