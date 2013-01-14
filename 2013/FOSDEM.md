@@ -5,89 +5,6 @@
 The Free and Open source Software Developers’ European Meeting (FOSDEM) is a two-day event organized by volunteers to promote the widespread use of Free and Open Source software. For more information on FOSDEM, visit http://fosdem.org
 
 
-## Trends in Open Source Security
-### Name: Florian Weimer
-### Room: Janson
-### Time: February 2, 2013, 16:00 - 16:50 CET
-
-This presentation examines current challenges in Open Source security and sketches ideas to address them.
-
-Linux distributions deal with a large number of code bases predominantly written by others, some of them huge. This makes it difficult to address vulnerabilities in a consistent fashion. There is increasing demand for difficult-to-use technology, such as cryptography, and more and more upstream projects are forced to deal with vulnerabilities in their code.
-
-
-## How to build an Identity Management System on Linux
-### Name: Simo Sorce
-### Room: Janson
-### Time: February 2, 2013 17:00 - 12:50 CET
-
-How do you build a comprehensive and coherent Identity Management System
-on Linux? This is the question I started answering 7 years ago when I
-joined Red Hat, and is still being worked on today. In this talk I will
-present a broad overview of all the aspects of Identity Management that
-need to be considered to have a full end-to-end solution, for the server
-components (Kerberos, LDAP, DNS, Management components, etc..) that are
-managed under the umbrella of the FreeIPA project to the client
-components (SSSD and utilities) and all the other hidden parts (like
-GSS-Proxy, Samba libraries) that are normally not easily visible but
-that become needed once you get down to playing with the bits. The talk
-will go down into the technical details and the whys and hows of the
-whole architecture.
-
-
-## Managing Your Metal Flexibly
-### Name: Greg Sutcliffe
-### Time: February 3, 2013, 11:00 CET
-
-The Foreman is adding a Metal-as-a-Service feature in the near future. In this lightning talk, we'll show the current status of the work, and discuss where it's heading to eventually.
-
-
-## systemd, Two Years Later
-### Name: Lennart Poettering
-### Room: Janson
-### Time: February 3, 2013 12:00 - 12:50 CET
-
-The systemd project is now two years old (almost three). It found adoption as 
-the core of many big community and commercial Linux distributions. It's time 
-to look back what we achieved, what we didn't achieve, how we dealt with the 
-various controversies, and what's to come next.
-
-
-## Introducing GNOME Photos
-### Name: Debarshi Ray
-### Room: CrossDesktop DevRoom
-### Time: February 3, 2013 16:40 - 17:00 CET
-
-Photos is an application to access, organize and share your photos with 
-GNOME 3. After Documents it is the latest among the new breed of Finding &
-Reminding applications. Like other core GNOME applications, it targets a new
-GNOME 3 style: cloud integration, fresh UI elements and touch enablement.
-
-This talk will outline the use cases and principles, how it relates to existing
-third party applications, and the use of Tracker as a meta-data store.
-
-
-## (R)evolution of Java Packaging in GNU/Linux
-### Name: Mikołaj Izdebski and Stanislav Ochotnický
-### Room: Free Java DevRoom
-### Time: February 2, 2013 12:30 - 13:00 CET
-
-Java packaging in Linux has never been trivial. Partially due to strict
-principles that most Linux distributions adhere to, partially due to Java
-ecosystem encouraging behavior which goes against these principles, but mostly
-due to ineffective tooling on both sides of the fence.
-
-Over past 2 years, tooling and guidelines for packaging Java have changed in
-Fedora Linux considerably. What used to be a 1000 line build script can soon
-become 100 lines of mostly metadata. But all of that relies on sane build system
-with predictable behavior on Java side: Maven.
-
-During the course of the talk we will clean up one such build script and describe
-how each change was made possible. Most importantly we hope to convince the
-audience that for common good, using Maven for Java development even with all
-its quirks is better than the alternatives. A wider discussion on Java
-build systems would also be welcome.
-
-
 ## OpenStack: 21st Century App Architecture and Cloud Operations
 ### Name: Mark McLoughlin
 ### Room: Cloud DevRoom
@@ -135,6 +52,28 @@ This presentation will cover the basics of:
 * What can I do with them?
 
 
+## (R)evolution of Java Packaging in GNU/Linux
+### Name: Mikołaj Izdebski and Stanislav Ochotnický
+### Room: Free Java DevRoom
+### Time: February 2, 2013 12:30 - 13:00 CET
+
+Java packaging in Linux has never been trivial. Partially due to strict
+principles that most Linux distributions adhere to, partially due to Java
+ecosystem encouraging behavior which goes against these principles, but mostly
+due to ineffective tooling on both sides of the fence.
+
+Over past 2 years, tooling and guidelines for packaging Java have changed in
+Fedora Linux considerably. What used to be a 1000 line build script can soon
+become 100 lines of mostly metadata. But all of that relies on sane build system
+with predictable behavior on Java side: Maven.
+
+During the course of the talk we will clean up one such build script and describe
+how each change was made possible. Most importantly we hope to convince the
+audience that for common good, using Maven for Java development even with all
+its quirks is better than the alternatives. A wider discussion on Java
+build systems would also be welcome.
+
+
 ## Build and deploy your app on your own cloud with OpenShift Origin
 ### Name: Xavier Coulon
 ### Room: Cloud DevRoom
@@ -149,6 +88,7 @@ In this session, you'll see how OpenShift Origin, Red Hat's open source PaaS
 lets you easily deploy your Java, Node.js, PHP, Ruby or Python applications
 on your own infrastructure. You'll also see how it integrates with JBoss Tools
 to seamlessly code and then publish without leaving your Eclipse IDE.
+
 
 ## Evaluating Open Source Projects for Their Health and Your Well Being
 ### Name: Leslie Hawthorn and Langdon White
@@ -185,6 +125,38 @@ Aeolus Image Factory allows users to define images at a high level and have
 them built, pushed and registered with all the major cloud vendors.
 
 
+## MoM as host level enforcement agent
+### Name: Doron Fediuck
+### Room: Virtualization Devroom
+### Time: Feb 2, 2013 14:30 - 15:00 CET
+
+Maintaining QoS in cloud computing requires host-level monitoring and
+policy enforcement. In order to be able to scale up large setups, a
+host-level agent is needed to supervise and dynamically handle the VMs
+resource consumption based on the SLA policy.
+
+In this session we'll look at MoM, and get in-dept view of it's integration
+with VDSM and functionalities. Participants will be able to get insights
+on memory overcommitment in hypervisors and the way memory balloon device
+is being used to achieve overcommitment.
+
+
+## oVirt introduction
+### Name: Doron Fediuck
+### Room: Virtualization Devroom
+### Time: Feb 2, 2013 15:30 - 16:00 CET
+
+This session will provide an intro to the oVirt project components and features.
+The oVirt Project is an open virtualization project providing a feature-rich server
+and desktop virtualization management platform with advanced capabilities for hosts
+and guests, including high availability, live migration, storage management, system
+scheduler, and more. oVirt provides an integration point for several open source
+virtualization technologies, including kvm, libvirt, spice and oVirt node. oVirt was launched
+in November 2011 as a fully open source project, based on assets from Red Hat Enterprise
+Virtualization Manager platform. The project has an open governance model, and initial
+board has members from IBM, Cisco, Netapp, Red Hat and SUSE. 
+
+
 ## Orchestrating complex deployments on OpenStack using Heat
 ### Name: Tomas Sedovic
 ### Room: Cloud DevRoom
@@ -211,6 +183,7 @@ them, followed by a live demonstration. At the end you will understand Heat
 well enough to decide whether it is useful in your environment and how to
 get started with it.
 
+
 ## Community Management in Meatspace: Techniques for Discussion & Achieving Consensus
 ### Name: Leslie Hawthorn (with Lydia Pinstcher, KDE & Wikimedia)
 ### Room: Community Development & Marketing Dev Room
@@ -234,6 +207,33 @@ For more information, including speaker bios, visit https://fosdem.org/2013/sche
 [1] - http://facilitation.aspiration.org
 
 
+## Trends in Open Source Security
+### Name: Florian Weimer
+### Room: Janson
+### Time: February 2, 2013, 16:00 - 16:50 CET
+
+This presentation examines current challenges in Open Source security and sketches ideas to address them.
+
+Linux distributions deal with a large number of code bases predominantly written by others, some of them huge. This makes it difficult to address vulnerabilities in a consistent fashion. There is increasing demand for difficult-to-use technology, such as cryptography, and more and more upstream projects are forced to deal with vulnerabilities in their code.
+
+
+## oVirt and GlusterFS integration
+### Name: Doron Fediuck
+### Room: Virtualization Devroom
+### Time: Feb 2, 2013 16:00 - 16:30 CET
+
+GlusterFS is a distributed file system that can scale to several PetaBytes.
+oVirt is a management platform for Kernel based Virtual Machine (KVM) and
+can be used to manage GlusterFS as well.
+
+This talk will focus on GlusterFS integration with oVirt. GlusterFS and KVM
+virtualization users and developers will be able to get more information on
+GlusterFS concepts, enabling it in oVirt for virtualization, a short overview
+of oVirt and VDSM architecture including VDSM storage concepts. This will
+be followed by GlusterFS as a VDSM Storage Domain, as well as GlusterFS
+domain support in oVirt engine.
+
+
 ## Measuring OpenStack: the Ceilometer Project
 ### Name: Eoghan Glynn
 ### Room: Cloud DevRoom
@@ -249,14 +249,24 @@ After a brief introduction of the project past and future, this talk will
 introduce the audience to the project's architecture before digging into how
 and why they can contribute to its future.
 
-## The Keeper of Secrets
-### Name: Leslie Hawthorn
+
+## How to build an Identity Management System on Linux
+### Name: Simo Sorce
 ### Room: Janson
-### Time: February 3, 2013 17:00 - 17:50 CET
+### Time: February 2, 2013 17:00 - 12:50 CET
 
-Whilst the mantra of free and open source software communities focus on transparency and collaboration, community leaders will often find that the most significant conversations are those they have 1/1 and "behind closed doors." As a community leader, one is called upon to be both trusted confidant and change agent, and being effective in both roles simultaneously can be a quite difficult - and deeply humorous - dance. Join Leslie Hawthorn as she explores the nuances of public and private discourse in FOSS projects, using real world examples from her experience interacting with more than 200 communities over the past six years.
-
-For more information on this presentation, including speaker bio, visit https://fosdem.org/2013/schedule/event/keynote_keeper_of_secrets/
+How do you build a comprehensive and coherent Identity Management System
+on Linux? This is the question I started answering 7 years ago when I
+joined Red Hat, and is still being worked on today. In this talk I will
+present a broad overview of all the aspects of Identity Management that
+need to be considered to have a full end-to-end solution, for the server
+components (Kerberos, LDAP, DNS, Management components, etc..) that are
+managed under the umbrella of the FreeIPA project to the client
+components (SSSD and utilities) and all the other hidden parts (like
+GSS-Proxy, Samba libraries) that are normally not easily visible but
+that become needed once you get down to playing with the bits. The talk
+will go down into the technical details and the whys and hows of the
+whole architecture.
 
 
 ## Supporting and Using EC2/CIMI on top of Cloud Environments
@@ -281,52 +291,43 @@ information on oVirt entities, and preform different Foreman-related operations
 on them.
 
 
-## oVirt introduction
-### Name: Doron Fediuck
-### Room: Virtualization Devroom
-### Time: Feb 2, 2013 15:30 - 16:00 CET
+## Managing Your Metal Flexibly
+### Name: Greg Sutcliffe
+### Time: February 3, 2013, 11:00 CET
 
-This session will provide an intro to the oVirt project components and features.
-The oVirt Project is an open virtualization project providing a feature-rich server
-and desktop virtualization management platform with advanced capabilities for hosts
-and guests, including high availability, live migration, storage management, system
-scheduler, and more. oVirt provides an integration point for several open source
-virtualization technologies, including kvm, libvirt, spice and oVirt node. oVirt was launched
-in November 2011 as a fully open source project, based on assets from Red Hat Enterprise
-Virtualization Manager platform. The project has an open governance model, and initial
-board has members from IBM, Cisco, Netapp, Red Hat and SUSE. 
+The Foreman is adding a Metal-as-a-Service feature in the near future. In this lightning talk, we'll show the current status of the work, and discuss where it's heading to eventually.
 
 
-## oVirt and GlusterFS integration
-### Name: Doron Fediuck
-### Room: Virtualization Devroom
-### Time: Feb 2, 2013 16:00 - 16:30 CET
+## systemd, Two Years Later
+### Name: Lennart Poettering
+### Room: Janson
+### Time: February 3, 2013 12:00 - 12:50 CET
 
-GlusterFS is a distributed file system that can scale to several PetaBytes.
-oVirt is a management platform for Kernel based Virtual Machine (KVM) and
-can be used to manage GlusterFS as well.
-
-This talk will focus on GlusterFS integration with oVirt. GlusterFS and KVM
-virtualization users and developers will be able to get more information on
-GlusterFS concepts, enabling it in oVirt for virtualization, a short overview
-of oVirt and VDSM architecture including VDSM storage concepts. This will
-be followed by GlusterFS as a VDSM Storage Domain, as well as GlusterFS
-domain support in oVirt engine.
+The systemd project is now two years old (almost three). It found adoption as 
+the core of many big community and commercial Linux distributions. It's time 
+to look back what we achieved, what we didn't achieve, how we dealt with the 
+various controversies, and what's to come next.
 
 
-## MoM as host level enforcement agent
-### Name: Doron Fediuck
-### Room: Virtualization Devroom
-### Time: Feb 2, 2013 14:30 - 15:00 CET
+## Introducing GNOME Photos
+### Name: Debarshi Ray
+### Room: CrossDesktop DevRoom
+### Time: February 3, 2013 16:40 - 17:00 CET
 
-Maintaining QoS in cloud computing requires host-level monitoring and
-policy enforcement. In order to be able to scale up large setups, a
-host-level agent is needed to supervise and dynamically handle the VMs
-resource consumption based on the SLA policy.
+Photos is an application to access, organize and share your photos with 
+GNOME 3. After Documents it is the latest among the new breed of Finding &
+Reminding applications. Like other core GNOME applications, it targets a new
+GNOME 3 style: cloud integration, fresh UI elements and touch enablement.
 
-In this session we'll look at MoM, and get in-dept view of it's integration
-with VDSM and functionalities. Participants will be able to get insights
-on memory overcommitment in hypervisors and the way memory balloon device
-is being used to achieve overcommitment.
+This talk will outline the use cases and principles, how it relates to existing
+third party applications, and the use of Tracker as a meta-data store.
 
 
+## The Keeper of Secrets
+### Name: Leslie Hawthorn
+### Room: Janson
+### Time: February 3, 2013 17:00 - 17:50 CET
+
+Whilst the mantra of free and open source software communities focus on transparency and collaboration, community leaders will often find that the most significant conversations are those they have 1/1 and "behind closed doors." As a community leader, one is called upon to be both trusted confidant and change agent, and being effective in both roles simultaneously can be a quite difficult - and deeply humorous - dance. Join Leslie Hawthorn as she explores the nuances of public and private discourse in FOSS projects, using real world examples from her experience interacting with more than 200 communities over the past six years.
+
+For more information on this presentation, including speaker bio, visit https://fosdem.org/2013/schedule/event/keynote_keeper_of_secrets/
