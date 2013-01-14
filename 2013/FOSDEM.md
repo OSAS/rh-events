@@ -45,14 +45,16 @@ Hans has been a Linux developer since 1996, working on a wide variety of project
 Since 2008 Hans works for Red Hat, besides continuing all the FOSS work he did before, at Red Hat he has worked on anaconda the Fedora / Red Hat installer, parted (the partition tool) and currently works on Spice and usb-redirection under qemu.
 
 Links:
-<http://wiki.qemu.org/Main_Page>
-<http://git.qemu.org/?p=qemu.git;a=summary>
-<http://fedoraproject.org/wiki/Features/UsbNetworkRedirection>
+
+* <http://wiki.qemu.org/Main_Page>
+* <http://git.qemu.org/?p=qemu.git;a=summary>
+* <http://fedoraproject.org/wiki/Features/UsbNetworkRedirection>
 
 Related projects:
-spice:
-<http://spice-space.org/>
-<http://cgit.freedesktop.org/spice/>
+
+* spice:
+  * <http://spice-space.org/>
+  * <http://cgit.freedesktop.org/spice/>
 
 
 ## Apache Deltacloud API v1.0
@@ -190,7 +192,7 @@ configuration between different environments. We will demonstrate the ideas and
 the concepts we are working with, as well as the features that are a part of
 Linux Network Stack Test.
 
-Project website: https://fedorahosted.org/lnst/
+Project website: <https://fedorahosted.org/lnst/>
 
 
 ## oVirt Live Storage Migration - Under The Hood
