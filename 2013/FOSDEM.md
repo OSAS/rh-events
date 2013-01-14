@@ -25,6 +25,36 @@ architecture so that operating an OpenStack cloud is as automated as operating
 a modern cloud based application.
 
 
+## QEMU USB status report 2012
+### Name: Hans de Goede
+### Time: February 2, 2013 11:00-11:30 CET
+### Location: Virtualization devroom
+
+This talk gives an overview on the state of the qemu usb subsystem.
+What happened last year? What are the plans for the future? Where do
+we stand in terms of USB 3.0 support?
+
+The intended audience are people who are interested in usb in virtual
+machines (vusb) both developers and users. The audience is expected to
+be familiar with generic virtualization concepts, but no deep
+technical knowledge is required.
+
+Speaker self introduction:
+Hans has been a Linux developer since 1996, working on a wide variety of projects, including maintaining 200 packages in Fedora, various hwmon kernel drivers, rewriting and merging many out of tree webcam drivers into the mainline kernel, libv4l a userspace library to transparently handle the decompression of many proprietary webcam video formats in userspace.
+
+Since 2008 Hans works for Red Hat, besides continuing all the FOSS work he did before, at Red Hat he has worked on anaconda the Fedora / Red Hat installer, parted (the partition tool) and currently works on Spice and usb-redirection under qemu.
+
+Links:
+http://wiki.qemu.org/Main_Page
+http://git.qemu.org/?p=qemu.git;a=summary
+http://fedoraproject.org/wiki/Features/UsbNetworkRedirection
+
+Related projects:
+spice:
+http://spice-space.org/
+http://cgit.freedesktop.org/spice/
+
+
 ## Apache Deltacloud API v1.0
 ### Name: Michal Fojtik
 ### Room: Cloud DevRoom
