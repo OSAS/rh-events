@@ -192,6 +192,20 @@ Linux Network Stack Test.
 Project website: https://fedorahosted.org/lnst/
 
 
+## oVirt Live Storage Migration - Under The Hood
+### Name: Federico Simoncelli
+### Room: Virtualization Devroom
+### Time: February 2, 2013, 13:30 - 14:00 CET
+
+Live storage migration, one of the newest features introduced in oVirt, is the
+capability of moving virtual disks from one storage device to another without
+interrupting the guest operations. This presentation will cover in detail the
+entire low level design and implementation and all the technical challenges
+associated with them. In a virtualization world where the guest services cannot
+be stopped for maintenance, live storage migration is the best tool you can
+have.
+
+
 ## MoM as host level enforcement agent
 ### Name: Doron Fediuck
 ### Room: Virtualization Devroom
