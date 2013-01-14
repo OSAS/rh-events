@@ -80,6 +80,7 @@ conference strategy, and ultimately help you to have a more popular, better
 project.
 
 This presentation will cover the basics of:
+
 * What is a persona?
 * How do I come up with one (or several) for my project?
 * What can I do with them?
