@@ -240,7 +240,8 @@ useful discussion?
 
 In this talk, Lydia Pintscher and Leslie Hawthorn will explore facilitation
 techniques to use during community wide discussions. Drawing on the principles
-of open space technology [0], they will explore several methods for achieving
+of [open space technology](http://en.wikipedia.org/wiki/Open-space_technology)
+they will explore several methods for achieving
 consensus while still having fun, including:
 
 * Spectragrams
@@ -252,13 +253,11 @@ consensus while still having fun, including:
 The talk will be accompanied by live demos of each technique. Audience
 participation will be requested but not required. Participants who wish to
 learn more about the topics to be discussed in advance of the presentation may
-wish to visit the Aspiration Technology wiki for more details. [1]
+wish to visit [the Aspiration Technology wiki](http://facilitation.aspiration.org)
+for more details.
+
 
 For more information, including speaker bios, visit https://fosdem.org/2013/schedule/track/community_development_and_marketing/
-
-[0] - http://en.wikipedia.org/wiki/Open-space_technology
-
-[1] - http://facilitation.aspiration.org
 
 
 ## Trends in Open Source Security
