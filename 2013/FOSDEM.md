@@ -39,6 +39,7 @@ third party applications, and the use of Tracker as a meta-data store.
 ## Supporting and Using EC2/CIMI on top of Cloud Environments
 ### Name: Oved Ourfali
 ### Room: Virtualization Devroom
+### Time: February 2, 2013 17:30 - 18:00 CET
 
 In this presentation I'll describe some standard and common cloud
 APIs such as EC2 and CIMI, and show how one can use Deltacloud in
@@ -49,6 +50,7 @@ show how to add this support and use it on top of the oVirt engine.
 ## Using Foreman from the oVirt-engine Administrator UI
 ### Name: Oved Ourfali
 ### Room: Virtualization Devroom
+### Time: February 2, 2013 18:30 - 19:00 CET
 
 In this presentation I'll show how one can use the new oVirt-Engine UI-Plugin infrastructure,
 to add a Foreman-UI-plugin, that allows querying Foreman information on oVirt entities, and preform different
