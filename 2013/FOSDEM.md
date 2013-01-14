@@ -169,6 +169,29 @@ Image Factory allows users to define images at a high level and have them
 built, pushed and registered with all the major cloud vendors.
 
 
+## LNST - Automated and Portable Network Tests
+### Name: Radek Pazdera
+### Time: February 02, 2013 13:30 - 14:10 CET
+
+In this presentation, we would like to introduce a tool we have been working on
+for the last couple of months. Our main goal is to make networking tests and
+reproducers as automated and portable as possible.
+
+Testing network stacks requires a fair amount of configuration to be done on
+multiple machines. The configuration itself is a part of the test. However, it
+is often highly dependant on the environment and unfortunately, when the
+environment changes (due to move to a different hardware/site, changes in the
+addressing, or simply updates of the operating system) the configuration often
+breaks.
+
+With LNST, we try to overcome these problems of transferring network
+configuration between different environments. We will demonstrate the ideas and
+the concepts we are working with, as well as the features that are a part of
+Linux Network Stack Test.
+
+Project website: https://fedorahosted.org/lnst/
+
+
 ## MoM as host level enforcement agent
 ### Name: Doron Fediuck
 ### Room: Virtualization Devroom
