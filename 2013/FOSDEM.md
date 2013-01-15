@@ -10,7 +10,7 @@ Open Source software. For more information on FOSDEM, visit http://fosdem.org/
 ## OpenStack: 21st Century App Architecture and Cloud Operations
 ### Name: Mark McLoughlin
 ### Room: Cloud DevRoom
-### Time: February 2, 2013 10:00 - 10:25 CET
+### Time: February 3, 2013 10:00 - 10:25 CET
 
 The advent of IaaS has brought about a new style of application architecture
 built around the idea that the components of your architecture should be
@@ -60,7 +60,7 @@ Related projects:
 ## Apache Deltacloud API v1.0
 ### Name: Michal Fojtik
 ### Room: Cloud DevRoom
-### Time: February 2, 2013 12:00 - 12:25 CET
+### Time: February 3, 2013 12:00 - 12:25 CET
 
 Deltacloud API prevents you from cloud vendor-lockin and cloud API changes.
 With deltacloud you can speak up to 18 different cloud providers using one
@@ -113,7 +113,7 @@ Java build systems would also be welcome.
 ## Build and deploy your app on your own cloud with OpenShift Origin
 ### Name: Xavier Coulon
 ### Room: Cloud DevRoom
-### Time: February 2, 2013 12:30 - 12:55 CET
+### Time: February 3, 2013 12:30 - 12:55 CET
 
 So, you have a crazy new idea you'd like to try but you need an application
 server to run it ? Of course, you also need to store your data in MySQL,
@@ -152,7 +152,7 @@ For more information on this talk, including speaker bios, visit https://fosdem.
 ## Image management in a federated cloud environment
 ### Name: Martyn Taylor
 ### Room: Cloud DevRoom
-### Time: February 2, 2013 13:30 - 13:55 CET
+### Time: February 3, 2013 13:30 - 13:55 CET
 
 In a world where Cloud IaaS providers are popping up on every street corner, it
 becomes increasingly important to prevent vendor lockin. Several efforts are
@@ -245,7 +245,7 @@ initial board has members from IBM, Cisco, Netapp, Red Hat and SUSE.
 ## Orchestrating complex deployments on OpenStack using Heat
 ### Name: Tomas Sedovic
 ### Room: Cloud DevRoom
-### Time: February 2, 2013 15:30 - 15:55 CET
+### Time: February 3, 2013 15:30 - 15:55 CET
 
 Deploying complex systems on OpenStack can be a challenge.
 
@@ -335,7 +335,7 @@ support in oVirt engine.
 ## Measuring OpenStack: the Ceilometer Project
 ### Name: Eoghan Glynn
 ### Room: Cloud DevRoom
-### Time: February 2, 2013 16:30 - 16:55 CET
+### Time: February 3, 2013 16:30 - 16:55 CET
 
 Ceilometer is an OpenStack incubated project which started in April 2012 with
 the goal to provide a unique interface point to provide measurement in
