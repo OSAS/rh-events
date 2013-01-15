@@ -408,6 +408,20 @@ look back what we achieved, what we didn't achieve, how we dealt with the
 various controversies, and what's to come next.
 
 
+## Well-typed UNO
+### Name: Stephan Bergmann
+### Room: LibreOffice devroom (H.2213)
+### Time: February 3, 2013 13:00 - 13:40 CET
+
+In the LibreOffice component architecture, with UNO service information changed
+from active to passive, XML-based representation a while ago, UNO type
+information is the remaining topic that needs some love, clean-up, and
+improvement. From a curiously verbose UNOIDL syntax, to the awkward binary .rdb
+format, to the fact that type information is duplicated in different formats for
+binary UNO and Java UNO, all the way to the still unsolved great challenge of
+becoming incompatible compatibly, etc. etc. -- you get the idea.
+
+
 ## Introducing GNOME Photos
 ### Name: Debarshi Ray
 ### Room: CrossDesktop DevRoom
@@ -438,17 +452,3 @@ examples from her experience interacting with more than 200 communities over
 the past six years.
 
 For more information on this presentation, including speaker bio, visit https://fosdem.org/2013/schedule/event/keynote_keeper_of_secrets/
-
-
-## Well-typed UNO
-### Name: Stephan Bergmann
-### Room: LibreOffice devroom (H.2213)
-### Time: February 3, 2013 13:00 - 13:40 CET
-
-In the LibreOffice component architecture, with UNO service information changed
-from active to passive, XML-based representation a while ago, UNO type
-information is the remaining topic that needs some love, clean-up, and
-improvement. From a curiously verbose UNOIDL syntax, to the awkward binary .rdb
-format, to the fact that type information is duplicated in different formats for
-binary UNO and Java UNO, all the way to the still unsolved great challenge of
-becoming incompatible compatibly, etc. etc. -- you get the idea.
