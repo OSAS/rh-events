@@ -240,7 +240,7 @@ support in oVirt engine.
 ## How to build an Identity Management System on Linux
 ### Name: Simo Sorce
 ### Room: Janson
-### Time: February 2, 2013 17:00 - 12:50 CET
+### Time: February 2, 2013 17:00 - 17:50 CET
 
 How do you build a comprehensive and coherent Identity Management System on
 Linux? This is the question I started answering 7 years ago when I joined Red
