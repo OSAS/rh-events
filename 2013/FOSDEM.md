@@ -12,11 +12,11 @@ Open Source software. For more information on FOSDEM, visit http://fosdem.org/
 ### Time: February 2, 2013 11:00-11:30 CET
 ### Location: Virtualization devroom
 
-This talk gives an overview on the state of the qemu usb subsystem.
+This talk gives an overview on the state of the QEMU USB subsystem.
 What happened last year? What are the plans for the future? Where do
 we stand in terms of USB 3.0 support?
 
-The intended audience are people who are interested in usb in virtual
+The intended audience are people who are interested in USB in virtual
 machines (vusb) both developers and users. The audience is expected to
 be familiar with generic virtualization concepts, but no deep
 technical knowledge is required.
@@ -24,7 +24,7 @@ technical knowledge is required.
 Speaker self introduction:
 Hans has been a Linux developer since 1996, working on a wide variety of projects, including maintaining 200 packages in Fedora, various hwmon kernel drivers, rewriting and merging many out of tree webcam drivers into the mainline kernel, libv4l a userspace library to transparently handle the decompression of many proprietary webcam video formats in userspace.
 
-Since 2008 Hans works for Red Hat, besides continuing all the FOSS work he did before, at Red Hat he has worked on anaconda the Fedora / Red Hat installer, parted (the partition tool) and currently works on Spice and usb-redirection under qemu.
+Since 2008 Hans works for Red Hat, besides continuing all the FOSS work he did before, at Red Hat he has worked on anaconda the Fedora / Red Hat installer, parted (the partition tool) and currently works on Spice and USB-redirection under QEMU.
 
 Links:
 
@@ -114,7 +114,7 @@ reproducers as automated and portable as possible.
 
 Testing network stacks requires a fair amount of configuration to be done on
 multiple machines. The configuration itself is a part of the test. However, it
-is often highly dependant on the environment and unfortunately, when the
+is often highly dependent on the environment and unfortunately, when the
 environment changes (due to move to a different hardware/site, changes in the
 addressing, or simply updates of the operating system) the configuration often
 breaks.
@@ -168,10 +168,10 @@ feature-rich server and desktop virtualization management platform with
 advanced capabilities for hosts and guests, including high availability, live
 migration, storage management, system scheduler, and more. oVirt provides an
 integration point for several open source virtualization technologies,
-including kvm, libvirt, spice and oVirt node. oVirt was launched in November
+including KVM, libvirt, spice and oVirt node. oVirt was launched in November
 2011 as a fully open source project, based on assets from Red Hat Enterprise
 Virtualization Manager platform. The project has an open governance model, and
-initial board has members from IBM, Cisco, Netapp, Red Hat and SUSE. 
+initial board has members from IBM, Cisco, NetApp, Red Hat and SUSE.
 
 
 ## Community Management in Meatspace: Techniques for Discussion & Achieving Consensus
@@ -225,7 +225,7 @@ projects are forced to deal with vulnerabilities in their code.
 ### Room: Virtualization Devroom
 ### Time: Feb 2, 2013 16:00 - 16:30 CET
 
-GlusterFS is a distributed file system that can scale to several PetaBytes.
+GlusterFS is a distributed file system that can scale to several petabytes.
 oVirt is a management platform for Kernel based Virtual Machine (KVM) and can
 be used to manage GlusterFS as well.
 
@@ -262,7 +262,7 @@ architecture.
 
 In this presentation I'll describe some standard and common cloud APIs such as
 EC2 and CIMI, and show how one can use Deltacloud in order to support them on
-top ofcloud environments. As an example, I'll show how to add this support and
+top of cloud environments. As an example, I'll show how to add this support and
 use it on top of the oVirt engine.
 
 
@@ -320,10 +320,10 @@ various controversies, and what's to come next.
 ### Room: Cloud DevRoom
 ### Time: February 3, 2013 12:00 - 12:25 CET
 
-Deltacloud API prevents you from cloud vendor-lockin and cloud API changes.
-With deltacloud you can speak up to 18 different cloud providers using one
-single API.  Deltacloud now officialy support the CIMI API as a new industry
-standard for cloud computing and also non-officialy Amazon EC2 query API.
+Deltacloud API prevents you from cloud vendor lock-in and cloud API changes.
+With Deltacloud you can speak up to 18 different cloud providers using one
+single API.  Deltacloud now officially support the CIMI API as a new industry
+standard for cloud computing and also non-officially Amazon EC2 query API.
 
 
 ## Build and deploy your app on your own cloud with OpenShift Origin
@@ -362,9 +362,9 @@ becoming incompatible compatibly, etc. etc. -- you get the idea.
 ### Time: February 3, 2013 13:30 - 13:55 CET
 
 In a world where Cloud IaaS providers are popping up on every street corner, it
-becomes increasingly important to prevent vendor lockin. Several efforts are
-already underway in projects like DeltaCloud to help abstract away the
-differences in API's and allow consumers to be cloud agnostic.
+becomes increasingly important to prevent vendor lock-in. Several efforts are
+already underway in projects like Deltacloud to help abstract away the
+differences in APIs and allow consumers to be cloud agnostic.
 
 However, the desire for cloud agnosticism becomes increasingly challenging when
 we start thinking about managing images. Not only do we have API differences,
@@ -388,7 +388,7 @@ Deploying complex systems on OpenStack can be a challenge.
 
 A small website running MediaWiki can happily fit on a single server, but the
 same software running at the Wikipedia scale is much more demanding.  You need
-to deal with multiple database servers, webservers, load balancers, failover,
+to deal with multiple database servers, web servers, load balancers, failover,
 networking configuration, IP address assignment and more.
 
 The Heat project allows you to describe all the resources and their
