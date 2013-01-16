@@ -436,6 +436,24 @@ This talk will outline the use cases and principles, how it relates to existing
 third party applications, and the use of Tracker as a meta-data store.
 
 
+## Wine BoF on msitools
+### Name: Paolo Bonzini & Marc-André Lureau
+### Room: K.3.601
+### Time: February 3, 2013 16:00 - 17:00 CET
+
+Many GNU/Linux distributions include a cross-compilation environment for
+Windows that is easy to install and use.  Some of these also provide the
+Nullsoft installer (NSIS) to package build artifacts into a Windows
+executable.  NSIS has the advantage that the compiler is portable to
+POSIX systems, but does not support corporate deployment and component
+management as well as .msi packages generated for the Windows Installer.
+ libmsi is a port of Wine's MSI database code.  The talk will present
+the rationale for the library, its current state and msitools, a small
+set of programs that we implemented around it.  We will also present
+plans for future development of libmsi and msitools, and its inclusion in
+Fedora-MinGW project.
+
+
 ## The Keeper of Secrets
 ### Name: Leslie Hawthorn
 ### Room: Janson
