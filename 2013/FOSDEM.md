@@ -452,3 +452,124 @@ examples from her experience interacting with more than 200 communities over
 the past six years.
 
 For more information on this presentation, including speaker bio, visit https://fosdem.org/2013/schedule/event/keynote_keeper_of_secrets/
+
+
+## Porting OpenJDK to AArch64
+### Name: Andrew Haley and Andrew Dinn
+### Room: Free Java DevRoom
+### Time: February 2, 2013 14:00 - 14:40 CET
+
+ARM's new, 64 bit ARMv8 architecture, is a break from the past in
+two regards.  The change of scale from 32 to 64 bit implies a
+broadening of ARM's target market from (mostly) embedded devices
+to address the requirements of high end consumer devices and
+servers. The 64 bit mode (AArch64) programming model is
+significantly different from the existing 32 bit model.
+
+If ARM's change of direction does indeed grab a significant share
+of this market then there are two corresponding implications for
+the Free Java community. We need a high quality free Java
+implementation to ensure that the market is not colonised solely
+by commercial Java vendors. We need to provide this
+implementation from scratch rather than try to modify existing 32
+bit Java implementations.
+
+Red Hat has decided to port OpenJDK to AArch64 precisely to meet
+these implications head on.
+
+This talk will describe the significant progress we have made in
+porting OpenJDK to AArch64 since the project began in earnest in
+July 2012, even though real hardware is not yet available and
+will not be for many months to come.
+
+During the talk we will:
+
+* Outline our plan for converting the runtime JIT components of
+OpenJDK to generate AArch64 code -- the (generated AArch64 code)
+template interpreter and the C1/C2 JIT compilers
+
+* Explain how we have already managed to execute and debug
+generated ARM code using our own ARMv8 functional simulator
+integrated into an x86 JVM
+
+* Display execution of a Java program using the template
+interpreter running on our simulator
+
+* Show both ARM instruction-level and Java bytecode-level
+stepping and debugging of generated code within gdb
+
+
+## Return of the Shark
+### Name: Roman Kennke
+### Room: Free Java DevRoom
+### Time: February 2, 2013 15:40 - 16:10 CET
+
+Since mid-2011 (when Gary Benson, the original author of
+Zero/Shark) left Red Hat's Java team), the Zero interpreter and
+Shark compiler have been basically unmaintained. A few months ago
+I picked up the project and fixed the outstanding issues (related
+to changes in Hotspot and LLVM) and started implementing a couple
+of significant improvements.
+
+This talk will give a short summary about what Zero and Shark
+actually are, how they work, why they are relevant (even in the
+face of upcoming full ports for PowerPC and others), how it fits
+in the OpenJDK ecosystem, and then describe some of the more
+interesting details about what I did, in particular improved
+support for atomic operations, JSR 292/invokedynamic, interesting
+optimizations in both the compiler and the interpreter and
+more. Hopefully I will be able to present some interesting ports
+to other platforms like ARM or PowerPC, some benchmarks results
+as well as results from testsuites (TCK?). Finally, I'll give an
+outlook to the future, things that need to be done, open
+improvements, optimizations, etc.
+
+
+## OpenJDK Governing Board Q&A
+### Name: Andrew Haley (with Mark Reinhold, Georges Saab and Doug Lea)
+### Room: Free Java DevRoom
+### Time: February 2, 2013 18:25 - 19:00 CET
+
+An open Q&A session with members of the OpenJDK Governing Board.
+
+
+## Invokedynamic: Tales from the Trenches
+### Name: Charles Nutter
+### Room: Free Java DevRoom
+### Time: February 3, 2013 10:00 - 10:40 CET
+
+A tale of sadness and a tale of joy: the tale of invokedynamic
+use in JRuby and a few other projects since the first prototypes
+dropped in 2008. I started experimenting with invokedynamic in
+JRuby in version 1.1.5, early in the JSR-292 process, and kept up
+with changes as they arrived. Today, JRuby utilizes invokedynamic
+for several aspects of the Ruby language, and we're finding more
+ways to use it every day. I'll talk about where we've been and
+where we're going...what works and what doesn't...and how to
+understand everything happening under the covers.
+
+
+## Thermostat: The road from 0.1 to 1.0, a success story (in progress)
+### Name: Mario Torre and Roman Kennke
+### Room: Free Java DevRoom
+### Time: February 3, 2013 12:30 - 13:00 CET
+
+Last year, we shared with the Free Java Devroom and the global
+OSS community our vision for a new open source monitoring and
+instrumentation tool for anyone running an open Java stack, along
+with our fledgeling implementation. Since then, we've been hard
+at work making this vision a reality. Our project has undergone
+various transformations, including becoming modular not just in
+terms of deployment but also from a source code perspective with
+the help of OSGi, a complete overhaul of the API for extending
+Thermostat, and an amazing visual makeover - attendees from last
+year may have trouble recognizing it on sight. Along the way
+we've also added new, compelling features such as detailed thread
+monitoring, heap dump and analysis, an Eclipse plugin interface,
+and more functionality available from the command line. Of
+course, we also had a lot of fun doing it.
+
+In our talk, we will describe the current state of Thermostat,
+give a demo of what you can do out of the box, and build a toy
+plugin on the spot so that attendees can see how easy it is to
+add custom instrumentation.
