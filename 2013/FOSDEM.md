@@ -1,6 +1,6 @@
 # FOSDEM
 ## Location: Brussels, Belgium
-## Date: February 2 - 3, 2013
+## Date: Sat Feb 2 - 3 2013
 
 The Free and Open source Software Developers’ European Meeting (FOSDEM) is a
 two-day event organized by volunteers to promote the widespread use of Free and
@@ -9,7 +9,7 @@ Open Source software. For more information on FOSDEM, visit http://fosdem.org/
 
 ## QEMU USB status report 2012
 ### Name: Hans de Goede
-### Time: February 2, 2013 11:00-11:30 CET
+### Time: Sat Feb 2 2013, 11:00 - 11:30 CET
 ### Location: Virtualization DevRoom (Chavanne)
 
 This talk gives an overview on the state of the QEMU USB subsystem.
@@ -42,7 +42,7 @@ Related projects:
 ## Using Personas to Target Users
 ### Name: Dave Neary
 ### Room: Community Development and Marketing DevRoom (H.2214)
-### Time: February 2, 2013 12:15 - 12:40 CET
+### Time: Sat Feb 2 2013, 12:15 - 12:40 CET
 
 Personas were made famous by Alan Moore in "The Inmates are Running the
 Asylum", a seminal book on user interface design for computer programmers.
@@ -62,7 +62,7 @@ This presentation will cover the basics of:
 ## (R)evolution of Java Packaging in GNU/Linux
 ### Name: Mikołaj Izdebski and Stanislav Ochotnický
 ### Room: Free Java DevRoom (K.4.401)
-### Time: February 2, 2013 12:30 - 13:00 CET
+### Time: Sat Feb 2 2013, 12:30 - 13:00 CET
 
 Java packaging in Linux has never been trivial. Partially due to strict
 principles that most Linux distributions adhere to, partially due to Java
@@ -106,7 +106,7 @@ For more information on this talk, including speaker bios, visit https://fosdem.
 
 ## LNST - Automated and Portable Network Tests
 ### Name: Radek Pazdera
-### Time: February 02, 2013 13:30 - 14:10 CET
+### Time: Sat Feb 2 2013, 13:30 - 14:10 CET
 
 In this presentation, we would like to introduce a tool we have been working on
 for the last couple of months. Our main goal is to make networking tests and
@@ -130,7 +130,7 @@ Project website: <https://fedorahosted.org/lnst/>
 ## oVirt Live Storage Migration -- Under The Hood
 ### Name: Federico Simoncelli
 ### Room: Virtualization DevRoom (Chavanne)
-### Time: February 2, 2013, 13:30 - 14:00 CET
+### Time: Sat Feb 2 2013, 13:30 - 14:00 CET
 
 Live storage migration, one of the newest features introduced in oVirt, is the
 capability of moving virtual disks from one storage device to another without
@@ -160,7 +160,7 @@ used to achieve overcommitment.
 ## oVirt introduction
 ### Name: Doron Fediuck
 ### Room: Virtualization DevRoom (Chavanne)
-### Time: Feb 2, 2013 15:30 - 16:00 CET
+### Time: Sat Feb 2 2013, 15:30 - 16:00 CET
 
 This session will provide an intro to the oVirt project components and
 features.  The oVirt Project is an open virtualization project providing a
@@ -177,7 +177,7 @@ initial board has members from IBM, Cisco, NetApp, Red Hat and SUSE.
 ## Community Management in Meatspace: Techniques for Discussion & Achieving Consensus
 ### Name: Leslie Hawthorn (with Lydia Pinstcher, KDE & Wikimedia)
 ### Room: Community Development & Marketing DevRoom (H.2214)
-### Time: February 2, 2013 15:55 - 16:20 CET
+### Time: Sat Feb 2 2013, 15:55 - 16:20 CET
 
 Headed to your annual developer conference and there’s a contentious topic on
 everyone’s mind? Wondering how to get past the airing of grievances into a
@@ -208,7 +208,7 @@ For more information, including speaker bios, visit https://fosdem.org/2013/sche
 ## Trends in Open Source Security
 ### Name: Florian Weimer
 ### Room: Janson
-### Time: February 2, 2013, 16:00 - 16:50 CET
+### Time: Sat Feb 2 2013, 16:00 - 16:50 CET
 
 This presentation examines current challenges in Open Source security and
 sketches ideas to address them.
@@ -223,7 +223,7 @@ projects are forced to deal with vulnerabilities in their code.
 ## oVirt and GlusterFS integration
 ### Name: Doron Fediuck
 ### Room: Virtualization DevRoom (Chavanne)
-### Time: Feb 2, 2013 16:00 - 16:30 CET
+### Time: Sat Feb 2 2013, 16:00 - 16:30 CET
 
 GlusterFS is a distributed file system that can scale to several petabytes.
 oVirt is a management platform for Kernel based Virtual Machine (KVM) and can
@@ -240,7 +240,7 @@ support in oVirt engine.
 ## How to build an Identity Management System on Linux
 ### Name: Simo Sorce
 ### Room: Janson
-### Time: February 2, 2013 17:00 - 17:50 CET
+### Time: Sat Feb 2 2013, 17:00 - 17:50 CET
 
 How do you build a comprehensive and coherent Identity Management System on
 Linux? This is the question I started answering 7 years ago when I joined Red
@@ -258,7 +258,7 @@ architecture.
 ## Supporting and Using EC2/CIMI on top of Cloud Environments
 ### Name: Oved Ourfali
 ### Room: Virtualization DevRoom (Chavanne)
-### Time: February 2, 2013 17:30 - 18:00 CET
+### Time: Sat Feb 2 2013, 17:30 - 18:00 CET
 
 In this presentation I'll describe some standard and common cloud APIs such as
 EC2 and CIMI, and show how one can use Deltacloud in order to support them on
@@ -269,7 +269,7 @@ use it on top of the oVirt engine.
 ## Using Foreman from the oVirt-engine Administrator UI
 ### Name: Oved Ourfali
 ### Room: Virtualization DevRoom (Chavanne)
-### Time: February 2, 2013 18:30 - 19:00 CET
+### Time: Sat Feb 2 2013, 18:30 - 19:00 CET
 
 In this presentation I'll show how one can use the new oVirt-Engine UI-Plugin
 infrastructure, to add a Foreman-UI-plugin, that allows querying Foreman
@@ -280,7 +280,7 @@ on them.
 ## OpenStack: 21st Century App Architecture and Cloud Operations
 ### Name: Mark McLoughlin
 ### Room: Cloud DevRoom
-### Time: February 3, 2013 10:00 - 10:25 CET
+### Time: Sun Feb 3 2013, 10:00 - 10:25 CET
 
 The advent of IaaS has brought about a new style of application architecture
 built around the idea that the components of your architecture should be
@@ -297,7 +297,7 @@ a modern cloud based application.
 
 ## Managing Your Metal Flexibly
 ### Name: Greg Sutcliffe
-### Time: February 3, 2013, 11:00 CET
+### Time: Sun Feb 3 2013, 11:00 CET
 
 The Foreman is adding a Metal-as-a-Service feature in the near future. In this
 lightning talk, we'll show the current status of the work, and discuss where
@@ -307,7 +307,7 @@ it's heading to eventually.
 ## systemd, Two Years Later
 ### Name: Lennart Poettering
 ### Room: Janson
-### Time: February 3, 2013 12:00 - 12:50 CET
+### Time: Sun Feb 3 2013, 12:00 - 12:50 CET
 
 The systemd project is now two years old (almost three). It found adoption as
 the core of many big community and commercial Linux distributions. It's time to
@@ -318,7 +318,7 @@ various controversies, and what's to come next.
 ## Apache Deltacloud API v1.0
 ### Name: Michal Fojtik
 ### Room: Cloud DevRoom
-### Time: February 3, 2013 12:00 - 12:25 CET
+### Time: Sun Feb 3 2013, 12:00 - 12:25 CET
 
 Deltacloud API prevents you from cloud vendor lock-in and cloud API changes.
 With Deltacloud you can speak up to 18 different cloud providers using one
@@ -345,7 +345,7 @@ seamlessly code and then publish without leaving your Eclipse IDE.
 ## Well-typed UNO
 ### Name: Stephan Bergmann
 ### Room: LibreOffice DevRoom (H.2213)
-### Time: February 3, 2013 13:00 - 13:40 CET
+### Time: Sun Feb 3 2013, 13:00 - 13:40 CET
 
 In the LibreOffice component architecture, with UNO service information changed
 from active to passive, XML-based representation a while ago, UNO type
@@ -359,7 +359,7 @@ becoming incompatible compatibly, etc. etc. -- you get the idea.
 ## Image management in a federated cloud environment
 ### Name: Martyn Taylor
 ### Room: Cloud DevRoom
-### Time: February 3, 2013 13:30 - 13:55 CET
+### Time: Sun Feb 3 2013, 13:30 - 13:55 CET
 
 In a world where Cloud IaaS providers are popping up on every street corner, it
 becomes increasingly important to prevent vendor lock-in. Several efforts are
@@ -382,7 +382,7 @@ built, pushed and registered with all the major cloud vendors.
 ## Orchestrating complex deployments on OpenStack using Heat
 ### Name: Tomas Sedovic
 ### Room: Cloud DevRoom
-### Time: February 3, 2013 15:30 - 15:55 CET
+### Time: Sun Feb 3 2013, 15:30 - 15:55 CET
 
 Deploying complex systems on OpenStack can be a challenge.
 
@@ -409,7 +409,7 @@ started with it.
 ## Measuring OpenStack: the Ceilometer Project
 ### Name: Eoghan Glynn
 ### Room: Cloud DevRoom
-### Time: February 3, 2013 16:30 - 16:55 CET
+### Time: Sun Feb 3 2013, 16:30 - 16:55 CET
 
 Ceilometer is an OpenStack incubated project which started in April 2012 with
 the goal to provide a unique interface point to provide measurement in
@@ -425,7 +425,7 @@ and why they can contribute to its future.
 ## Introducing GNOME Photos
 ### Name: Debarshi Ray
 ### Room: CrossDesktop DevRoom (H.1308)
-### Time: February 3, 2013 16:40 - 17:00 CET
+### Time: Sun Feb 3 2013, 16:40 - 17:00 CET
 
 Photos is an application to access, organize and share your photos with GNOME
 3. After Documents it is the latest among the new breed of Finding & Reminding
@@ -439,7 +439,7 @@ third party applications, and the use of Tracker as a metadata store.
 ## Wine BoF on msitools
 ### Name: Paolo Bonzini & Marc-André Lureau
 ### Room: K.3.601
-### Time: February 3, 2013 16:00 - 17:00 CET
+### Time: Sun Feb 3 2013, 16:00 - 17:00 CET
 
 Many GNU/Linux distributions include a cross-compilation environment for
 Windows that is easy to install and use.  Some of these also provide the
@@ -457,7 +457,7 @@ Fedora-MinGW project.
 ## The Keeper of Secrets
 ### Name: Leslie Hawthorn
 ### Room: Janson
-### Time: February 3, 2013 17:00 - 17:50 CET
+### Time: Sun Feb 3 2013, 17:00 - 17:50 CET
 
 Whilst the mantra of free and open source software communities focus on
 transparency and collaboration, community leaders will often find that the most
@@ -475,7 +475,7 @@ For more information on this presentation, including speaker bio, visit https://
 ## Porting OpenJDK to AArch64
 ### Name: Andrew Haley and Andrew Dinn
 ### Room: Free Java DevRoom (K.4.401)
-### Time: February 2, 2013 14:00 - 14:40 CET
+### Time: Sat Feb 2 2013, 14:00 - 14:40 CET
 
 ARM's new, 64 bit ARMv8 architecture, is a break from the past in
 two regards.  The change of scale from 32 to 64 bit implies a
@@ -520,7 +520,7 @@ stepping and debugging of generated code within gdb
 ## Return of the Shark
 ### Name: Roman Kennke
 ### Room: Free Java DevRoom (K.4.401)
-### Time: February 2, 2013 15:40 - 16:10 CET
+### Time: Sat Feb 2 2013, 15:40 - 16:10 CET
 
 Since mid-2011 (when Gary Benson, the original author of
 Zero/Shark) left Red Hat's Java team), the Zero interpreter and
@@ -546,7 +546,7 @@ improvements, optimizations, etc.
 ## OpenJDK Governing Board Q&A
 ### Name: Andrew Haley (with Mark Reinhold, Georges Saab and Doug Lea)
 ### Room: Free Java DevRoom (K.4.401)
-### Time: February 2, 2013 18:25 - 19:00 CET
+### Time: Sat Feb 2 2013, 18:25 - 19:00 CET
 
 An open Q&A session with members of the OpenJDK Governing Board.
 
@@ -554,7 +554,7 @@ An open Q&A session with members of the OpenJDK Governing Board.
 ## Invokedynamic: Tales from the Trenches
 ### Name: Charles Nutter
 ### Room: Free Java DevRoom (K.4.401)
-### Time: February 3, 2013 10:00 - 10:40 CET
+### Time: Sun Feb 3 2013, 10:00 - 10:40 CET
 
 A tale of sadness and a tale of joy: the tale of invokedynamic
 use in JRuby and a few other projects since the first prototypes
@@ -570,7 +570,7 @@ understand everything happening under the covers.
 ## Thermostat: The road from 0.1 to 1.0, a success story (in progress)
 ### Name: Mario Torre and Roman Kennke
 ### Room: Free Java DevRoom (K.4.401)
-### Time: February 3, 2013 12:30 - 13:00 CET
+### Time: Sun Feb 3 2013, 12:30 - 13:00 CET
 
 Last year, we shared with the Free Java DevRoom and the global
 OSS community our vision for a new open source monitoring and
