@@ -89,7 +89,7 @@ Java build systems would also be welcome.
 As an application developer you are often presented with a myriad of open
 source project options to integrate to meet your particular needs. In one of
 his most recent projects, Langdon was using ~40 odd different  modular
-components, each with more than 2-3 FOSS project options to choose from. How
+components, each with more than 2 - 3 FOSS project options to choose from. How
 does a sane and rational human choose which project to use?
 
 In this talk, Langdon will explore the trials and tribulations of the humble
@@ -127,7 +127,7 @@ Linux Network Stack Test.
 Project website: <https://fedorahosted.org/lnst/>
 
 
-## oVirt Live Storage Migration - Under The Hood
+## oVirt Live Storage Migration -- Under The Hood
 ### Name: Federico Simoncelli
 ### Room: Virtualization DevRoom (Chavanne)
 ### Time: February 2, 2013, 13:30 - 14:00 CET
@@ -151,7 +151,7 @@ enforcement. In order to be able to scale up large setups, a host-level agent
 is needed to supervise and dynamically handle the VMs resource consumption
 based on the SLA policy.
 
-In this session we'll look at MoM, and get in-dept view of it's integration
+In this session we'll look at MoM, and get in-depth view of its integration
 with VDSM and functionalities. Participants will be able to get insights on
 memory overcommitment in hypervisors and the way memory balloon device is being
 used to achieve overcommitment.
@@ -332,9 +332,9 @@ standard for cloud computing and also non-officially Amazon EC2 query API.
 ### Time: February 3, 2013 12:30 - 12:55 CET
 
 So, you have a crazy new idea you'd like to try but you need an application
-server to run it ? Of course, you also need to store your data in MySQL,
-PostgreSQL... or maybe even in MongoDB ? Are you also looking for Continuous
-Integration ?
+server to run it? Of course, you also need to store your data in MySQL,
+PostgreSQL... or maybe even in MongoDB? Are you also looking for Continuous
+Integration?
 
 In this session, you'll see how OpenShift Origin, Red Hat's open source PaaS
 lets you easily deploy your Java, Node.js, PHP, Ruby or Python applications on
@@ -433,7 +433,7 @@ applications. Like other core GNOME applications, it targets a new GNOME 3
   style: cloud integration, fresh UI elements and touch enablement.
 
 This talk will outline the use cases and principles, how it relates to existing
-third party applications, and the use of Tracker as a meta-data store.
+third party applications, and the use of Tracker as a metadata store.
 
 
 ## Wine BoF on msitools
@@ -464,7 +464,7 @@ transparency and collaboration, community leaders will often find that the most
 significant conversations are those they have 1/1 and "behind closed doors." As
 a community leader, one is called upon to be both trusted confidant and change
 agent, and being effective in both roles simultaneously can be a quite
-difficult - and deeply humorous - dance. Join Leslie Hawthorn as she explores
+difficult -- and deeply humorous -- dance. Join Leslie Hawthorn as she explores
 the nuances of public and private discourse in FOSS projects, using real world
 examples from her experience interacting with more than 200 communities over
 the past six years.
@@ -580,7 +580,7 @@ at work making this vision a reality. Our project has undergone
 various transformations, including becoming modular not just in
 terms of deployment but also from a source code perspective with
 the help of OSGi, a complete overhaul of the API for extending
-Thermostat, and an amazing visual makeover - attendees from last
+Thermostat, and an amazing visual makeover -- attendees from last
 year may have trouble recognizing it on sight. Along the way
 we've also added new, compelling features such as detailed thread
 monitoring, heap dump and analysis, an Eclipse plugin interface,
