@@ -297,7 +297,7 @@ a modern cloud based application.
 
 ## Managing Your Metal Flexibly
 ### Name: Greg Sutcliffe
-### Time: Sun Feb 3 2013, 11:00 CET
+### Time: Sun Feb 3 2013, 11:00 - 11:35 CET
 
 The Foreman is adding a Metal-as-a-Service feature in the near future. In this
 lightning talk, we'll show the current status of the work, and discuss where
