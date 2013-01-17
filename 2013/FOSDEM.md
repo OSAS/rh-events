@@ -81,29 +81,6 @@ even with all its quirks is better than the alternatives. A wider discussion on
 Java build systems would also be welcome.
 
 
-## Evaluating Open Source Projects for Their Health and Your Well Being
-### Name: Leslie Hawthorn and Langdon White
-### Room: Community Development & Marketing DevRoom (H.2214)
-### Time: February 2, 2013 13:05 - 13:30 CET
-
-As an application developer you are often presented with a myriad of open
-source project options to integrate to meet your particular needs. In one of
-his most recent projects, Langdon was using ~40 odd different  modular
-components, each with more than 2 - 3 FOSS project options to choose from. How
-does a sane and rational human choose which project to use?
-
-In this talk, Langdon will explore the trials and tribulations of the humble
-systems architect when trying to choose which components will best meet one’s
-needs whilst Leslie will discuss how your project can put its best foot forward
-in terms of achieving user happiness. Each will provide real-world examples of
-projects that do this incredibly well and those that do it … well,
-substantially less well. As a wrap up, we will do a comparative charting of two
-projects in the same space and their successes as compared to the accessibility
-and health of their community, code base and documentation.
-
-For more information on this talk, including speaker bios, visit https://fosdem.org/2013/schedule/track/community_development_and_marketing/
-
-
 ## LNST - Automated and Portable Network Tests
 ### Name: Radek Pazdera
 ### Room: Testing and Automation DevRoom (H.1309)
