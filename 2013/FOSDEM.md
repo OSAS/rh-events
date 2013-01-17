@@ -106,7 +106,8 @@ For more information on this talk, including speaker bios, visit https://fosdem.
 
 ## LNST - Automated and Portable Network Tests
 ### Name: Radek Pazdera
-### Time: Sat Feb 2 2013, 13:30 - 14:10 CET
+### Room: Testing and Automation DevRoom (H.1309)
+### Time: Feb 2 2013, 14:20 - 15:00 CET
 
 In this presentation, we would like to introduce a tool we have been working on
 for the last couple of months. Our main goal is to make networking tests and
