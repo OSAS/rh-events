@@ -10,7 +10,7 @@ Open Source software. For more information on FOSDEM, visit http://fosdem.org/
 ## QEMU USB status report 2012
 ### Name: Hans de Goede
 ### Time: February 2, 2013 11:00-11:30 CET
-### Location: Virtualization devroom
+### Location: Virtualization DevRoom (Chavanne)
 
 This talk gives an overview on the state of the QEMU USB subsystem.
 What happened last year? What are the plans for the future? Where do
@@ -41,7 +41,7 @@ Related projects:
 
 ## Using Personas to Target Users
 ### Name: Dave Neary
-### Room: Community Development and Marketing DevRoom
+### Room: Community Development and Marketing DevRoom (H.2214)
 ### Time: February 2, 2013 12:15 - 12:40 CET
 
 Personas were made famous by Alan Moore in "The Inmates are Running the
@@ -61,7 +61,7 @@ This presentation will cover the basics of:
 
 ## (R)evolution of Java Packaging in GNU/Linux
 ### Name: Mikołaj Izdebski and Stanislav Ochotnický
-### Room: Free Java DevRoom
+### Room: Free Java DevRoom (K.4.401)
 ### Time: February 2, 2013 12:30 - 13:00 CET
 
 Java packaging in Linux has never been trivial. Partially due to strict
@@ -83,7 +83,7 @@ Java build systems would also be welcome.
 
 ## Evaluating Open Source Projects for Their Health and Your Well Being
 ### Name: Leslie Hawthorn and Langdon White
-### Room: Community Development & Marketing Dev Room
+### Room: Community Development & Marketing DevRoom (H.2214)
 ### Time: February 2, 2013 13:05 - 13:30 CET
 
 As an application developer you are often presented with a myriad of open
@@ -129,7 +129,7 @@ Project website: <https://fedorahosted.org/lnst/>
 
 ## oVirt Live Storage Migration - Under The Hood
 ### Name: Federico Simoncelli
-### Room: Virtualization Devroom
+### Room: Virtualization DevRoom (Chavanne)
 ### Time: February 2, 2013, 13:30 - 14:00 CET
 
 Live storage migration, one of the newest features introduced in oVirt, is the
@@ -143,7 +143,7 @@ have.
 
 ## MoM as host level enforcement agent
 ### Name: Doron Fediuck
-### Room: Virtualization Devroom
+### Room: Virtualization DevRoom (Chavanne)
 ### Time: Feb 2, 2013 14:30 - 15:00 CET
 
 Maintaining QoS in cloud computing requires host-level monitoring and policy
@@ -159,7 +159,7 @@ used to achieve overcommitment.
 
 ## oVirt introduction
 ### Name: Doron Fediuck
-### Room: Virtualization Devroom
+### Room: Virtualization DevRoom (Chavanne)
 ### Time: Feb 2, 2013 15:30 - 16:00 CET
 
 This session will provide an intro to the oVirt project components and
@@ -176,7 +176,7 @@ initial board has members from IBM, Cisco, NetApp, Red Hat and SUSE.
 
 ## Community Management in Meatspace: Techniques for Discussion & Achieving Consensus
 ### Name: Leslie Hawthorn (with Lydia Pinstcher, KDE & Wikimedia)
-### Room: Community Development & Marketing Dev Room
+### Room: Community Development & Marketing DevRoom (H.2214)
 ### Time: February 2, 2013 15:55 - 16:20 CET
 
 Headed to your annual developer conference and there’s a contentious topic on
@@ -222,7 +222,7 @@ projects are forced to deal with vulnerabilities in their code.
 
 ## oVirt and GlusterFS integration
 ### Name: Doron Fediuck
-### Room: Virtualization Devroom
+### Room: Virtualization DevRoom (Chavanne)
 ### Time: Feb 2, 2013 16:00 - 16:30 CET
 
 GlusterFS is a distributed file system that can scale to several petabytes.
@@ -257,7 +257,7 @@ architecture.
 
 ## Supporting and Using EC2/CIMI on top of Cloud Environments
 ### Name: Oved Ourfali
-### Room: Virtualization Devroom
+### Room: Virtualization DevRoom (Chavanne)
 ### Time: February 2, 2013 17:30 - 18:00 CET
 
 In this presentation I'll describe some standard and common cloud APIs such as
@@ -268,7 +268,7 @@ use it on top of the oVirt engine.
 
 ## Using Foreman from the oVirt-engine Administrator UI
 ### Name: Oved Ourfali
-### Room: Virtualization Devroom
+### Room: Virtualization DevRoom (Chavanne)
 ### Time: February 2, 2013 18:30 - 19:00 CET
 
 In this presentation I'll show how one can use the new oVirt-Engine UI-Plugin
@@ -344,7 +344,7 @@ seamlessly code and then publish without leaving your Eclipse IDE.
 
 ## Well-typed UNO
 ### Name: Stephan Bergmann
-### Room: LibreOffice devroom (H.2213)
+### Room: LibreOffice DevRoom (H.2213)
 ### Time: February 3, 2013 13:00 - 13:40 CET
 
 In the LibreOffice component architecture, with UNO service information changed
@@ -424,7 +424,7 @@ and why they can contribute to its future.
 
 ## Introducing GNOME Photos
 ### Name: Debarshi Ray
-### Room: CrossDesktop DevRoom
+### Room: CrossDesktop DevRoom (H.1308)
 ### Time: February 3, 2013 16:40 - 17:00 CET
 
 Photos is an application to access, organize and share your photos with GNOME
@@ -474,7 +474,7 @@ For more information on this presentation, including speaker bio, visit https://
 
 ## Porting OpenJDK to AArch64
 ### Name: Andrew Haley and Andrew Dinn
-### Room: Free Java DevRoom
+### Room: Free Java DevRoom (K.4.401)
 ### Time: February 2, 2013 14:00 - 14:40 CET
 
 ARM's new, 64 bit ARMv8 architecture, is a break from the past in
@@ -519,7 +519,7 @@ stepping and debugging of generated code within gdb
 
 ## Return of the Shark
 ### Name: Roman Kennke
-### Room: Free Java DevRoom
+### Room: Free Java DevRoom (K.4.401)
 ### Time: February 2, 2013 15:40 - 16:10 CET
 
 Since mid-2011 (when Gary Benson, the original author of
@@ -545,7 +545,7 @@ improvements, optimizations, etc.
 
 ## OpenJDK Governing Board Q&A
 ### Name: Andrew Haley (with Mark Reinhold, Georges Saab and Doug Lea)
-### Room: Free Java DevRoom
+### Room: Free Java DevRoom (K.4.401)
 ### Time: February 2, 2013 18:25 - 19:00 CET
 
 An open Q&A session with members of the OpenJDK Governing Board.
@@ -553,7 +553,7 @@ An open Q&A session with members of the OpenJDK Governing Board.
 
 ## Invokedynamic: Tales from the Trenches
 ### Name: Charles Nutter
-### Room: Free Java DevRoom
+### Room: Free Java DevRoom (K.4.401)
 ### Time: February 3, 2013 10:00 - 10:40 CET
 
 A tale of sadness and a tale of joy: the tale of invokedynamic
@@ -569,10 +569,10 @@ understand everything happening under the covers.
 
 ## Thermostat: The road from 0.1 to 1.0, a success story (in progress)
 ### Name: Mario Torre and Roman Kennke
-### Room: Free Java DevRoom
+### Room: Free Java DevRoom (K.4.401)
 ### Time: February 3, 2013 12:30 - 13:00 CET
 
-Last year, we shared with the Free Java Devroom and the global
+Last year, we shared with the Free Java DevRoom and the global
 OSS community our vision for a new open source monitoring and
 instrumentation tool for anyone running an open Java stack, along
 with our fledgeling implementation. Since then, we've been hard
