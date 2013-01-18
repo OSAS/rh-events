@@ -10,7 +10,7 @@ Open Source software. For more information on FOSDEM, visit http://fosdem.org/
 ## QEMU USB status report 2012
 ### Name: Hans de Goede
 ### Time: Sat Feb 2 2013, 11:00 - 11:30 CET
-### Location: Virtualization DevRoom (Chavanne)
+### Room: Virtualization DevRoom (Chavanne)
 
 This talk gives an overview on the state of the QEMU USB subsystem.
 What happened last year? What are the plans for the future? Where do
