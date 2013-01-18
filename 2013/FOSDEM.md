@@ -81,6 +81,65 @@ even with all its quirks is better than the alternatives. A wider discussion on
 Java build systems would also be welcome.
 
 
+## oVirt Live Storage Migration -- Under The Hood
+### Name: Federico Simoncelli
+### Room: Virtualization DevRoom (Chavanne)
+### Time: Sat Feb 2 2013, 13:30 - 14:00 CET
+
+Live storage migration, one of the newest features introduced in oVirt, is the
+capability of moving virtual disks from one storage device to another without
+interrupting the guest operations. This presentation will cover in detail the
+entire low level design and implementation and all the technical challenges
+associated with them. In a virtualization world where the guest services cannot
+be stopped for maintenance, live storage migration is the best tool you can
+have.
+
+
+## Porting OpenJDK to AArch64
+### Name: Andrew Haley and Andrew Dinn
+### Room: Free Java DevRoom (K.4.401)
+### Time: Sat Feb 2 2013, 14:00 - 14:40 CET
+
+ARM's new, 64 bit ARMv8 architecture, is a break from the past in
+two regards.  The change of scale from 32 to 64 bit implies a
+broadening of ARM's target market from (mostly) embedded devices
+to address the requirements of high end consumer devices and
+servers. The 64 bit mode (AArch64) programming model is
+significantly different from the existing 32 bit model.
+
+If ARM's change of direction does indeed grab a significant share
+of this market then there are two corresponding implications for
+the Free Java community. We need a high quality free Java
+implementation to ensure that the market is not colonised solely
+by commercial Java vendors. We need to provide this
+implementation from scratch rather than try to modify existing 32
+bit Java implementations.
+
+Red Hat has decided to port OpenJDK to AArch64 precisely to meet
+these implications head on.
+
+This talk will describe the significant progress we have made in
+porting OpenJDK to AArch64 since the project began in earnest in
+July 2012, even though real hardware is not yet available and
+will not be for many months to come.
+
+During the talk we will:
+
+* Outline our plan for converting the runtime JIT components of
+OpenJDK to generate AArch64 code -- the (generated AArch64 code)
+template interpreter and the C1/C2 JIT compilers
+
+* Explain how we have already managed to execute and debug
+generated ARM code using our own ARMv8 functional simulator
+integrated into an x86 JVM
+
+* Display execution of a Java program using the template
+interpreter running on our simulator
+
+* Show both ARM instruction-level and Java bytecode-level
+stepping and debugging of generated code within gdb
+
+
 ## LNST - Automated and Portable Network Tests
 ### Name: Radek Pazdera
 ### Room: Testing and Automation DevRoom (H.1309)
@@ -103,20 +162,6 @@ the concepts we are working with, as well as the features that are a part of
 Linux Network Stack Test.
 
 Project website: <https://fedorahosted.org/lnst/>
-
-
-## oVirt Live Storage Migration -- Under The Hood
-### Name: Federico Simoncelli
-### Room: Virtualization DevRoom (Chavanne)
-### Time: Sat Feb 2 2013, 13:30 - 14:00 CET
-
-Live storage migration, one of the newest features introduced in oVirt, is the
-capability of moving virtual disks from one storage device to another without
-interrupting the guest operations. This presentation will cover in detail the
-entire low level design and implementation and all the technical challenges
-associated with them. In a virtualization world where the guest services cannot
-be stopped for maintenance, live storage migration is the best tool you can
-have.
 
 
 ## MoM as host level enforcement agent
@@ -152,6 +197,32 @@ Virtualization Manager platform. The project has an open governance model, and
 initial board has members from IBM, Cisco, NetApp, Red Hat and SUSE.
 
 
+## Return of the Shark
+### Name: Roman Kennke
+### Room: Free Java DevRoom (K.4.401)
+### Time: Sat Feb 2 2013, 15:40 - 16:10 CET
+
+Since mid-2011 (when Gary Benson, the original author of
+Zero/Shark) left Red Hat's Java team), the Zero interpreter and
+Shark compiler have been basically unmaintained. A few months ago
+I picked up the project and fixed the outstanding issues (related
+to changes in Hotspot and LLVM) and started implementing a couple
+of significant improvements.
+
+This talk will give a short summary about what Zero and Shark
+actually are, how they work, why they are relevant (even in the
+face of upcoming full ports for PowerPC and others), how it fits
+in the OpenJDK ecosystem, and then describe some of the more
+interesting details about what I did, in particular improved
+support for atomic operations, JSR 292/invokedynamic, interesting
+optimizations in both the compiler and the interpreter and
+more. Hopefully I will be able to present some interesting ports
+to other platforms like ARM or PowerPC, some benchmarks results
+as well as results from testsuites (TCK?). Finally, I'll give an
+outlook to the future, things that need to be done, open
+improvements, optimizations, etc.
+
+
 ## Community Management in Meatspace: Techniques for Discussion & Achieving Consensus
 ### Name: Leslie Hawthorn (with Lydia Pinstcher, KDE & Wikimedia)
 ### Room: Community Development & Marketing DevRoom (H.2214)
@@ -183,21 +254,6 @@ for more details.
 For more information, including speaker bios, visit https://fosdem.org/2013/schedule/track/community_development_and_marketing/
 
 
-## Trends in Open Source Security
-### Name: Florian Weimer
-### Room: Janson
-### Time: Sat Feb 2 2013, 16:00 - 16:50 CET
-
-This presentation examines current challenges in Open Source security and
-sketches ideas to address them.
-
-Linux distributions deal with a large number of code bases predominantly
-written by others, some of them huge. This makes it difficult to address
-vulnerabilities in a consistent fashion. There is increasing demand for
-difficult-to-use technology, such as cryptography, and more and more upstream
-projects are forced to deal with vulnerabilities in their code.
-
-
 ## oVirt and GlusterFS integration
 ### Name: Doron Fediuck
 ### Room: Virtualization DevRoom (Chavanne)
@@ -213,6 +269,21 @@ GlusterFS concepts, enabling it in oVirt for virtualization, a short overview
 of oVirt and VDSM architecture including VDSM storage concepts. This will be
 followed by GlusterFS as a VDSM Storage Domain, as well as GlusterFS domain
 support in oVirt engine.
+
+
+## Trends in Open Source Security
+### Name: Florian Weimer
+### Room: Janson
+### Time: Sat Feb 2 2013, 16:00 - 16:50 CET
+
+This presentation examines current challenges in Open Source security and
+sketches ideas to address them.
+
+Linux distributions deal with a large number of code bases predominantly
+written by others, some of them huge. This makes it difficult to address
+vulnerabilities in a consistent fashion. There is increasing demand for
+difficult-to-use technology, such as cryptography, and more and more upstream
+projects are forced to deal with vulnerabilities in their code.
 
 
 ## How to build an Identity Management System on Linux
@@ -244,6 +315,14 @@ top of cloud environments. As an example, I'll show how to add this support and
 use it on top of the oVirt engine.
 
 
+## OpenJDK Governing Board Q&A
+### Name: Andrew Haley (with Mark Reinhold, Georges Saab and Doug Lea)
+### Room: Free Java DevRoom (K.4.401)
+### Time: Sat Feb 2 2013, 18:25 - 19:00 CET
+
+An open Q&A session with members of the OpenJDK Governing Board.
+
+
 ## Using Foreman from the oVirt-engine Administrator UI
 ### Name: Oved Ourfali
 ### Room: Virtualization DevRoom (Chavanne)
@@ -271,6 +350,22 @@ principles in mind and can be deployed in a highly resilient and fault tolerant
 manner. Mark will go on to explain how you should aim to build on OpenStack's
 architecture so that operating an OpenStack cloud is as automated as operating
 a modern cloud based application.
+
+
+## Invokedynamic: Tales from the Trenches
+### Name: Charles Nutter
+### Room: Free Java DevRoom (K.4.401)
+### Time: Sun Feb 3 2013, 10:00 - 10:40 CET
+
+A tale of sadness and a tale of joy: the tale of invokedynamic
+use in JRuby and a few other projects since the first prototypes
+dropped in 2008. I started experimenting with invokedynamic in
+JRuby in version 1.1.5, early in the JSR-292 process, and kept up
+with changes as they arrived. Today, JRuby utilizes invokedynamic
+for several aspects of the Ruby language, and we're finding more
+ways to use it every day. I'll talk about where we've been and
+where we're going...what works and what doesn't...and how to
+understand everything happening under the covers.
 
 
 ## Managing Your Metal Flexibly
@@ -304,6 +399,30 @@ single API.  Deltacloud now officially support the CIMI API as a new industry
 standard for cloud computing and also non-officially Amazon EC2 query API.
 
 
+## Thermostat: The road from 0.1 to 1.0, a success story (in progress)
+### Name: Mario Torre and Roman Kennke
+### Room: Free Java DevRoom (K.4.401)
+### Time: Sun Feb 3 2013, 12:30 - 13:00 CET
+
+Last year, we shared with the Free Java DevRoom and the global
+OSS community our vision for a new open source monitoring and
+instrumentation tool for anyone running an open Java stack, along
+with our fledgeling implementation. Since then, we've been hard
+at work making this vision a reality. Our project has undergone
+various transformations, including becoming modular not just in
+terms of deployment but also from a source code perspective with
+the help of OSGi, a complete overhaul of the API for extending
+Thermostat, and an amazing visual makeover -- attendees from last
+year may have trouble recognizing it on sight. Along the way
+we've also added new, compelling features such as detailed thread
+monitoring, heap dump and analysis, an Eclipse plugin interface,
+and more functionality available from the command line. Of
+course, we also had a lot of fun doing it.
+
+In our talk, we will describe the current state of Thermostat,
+give a demo of what you can do out of the box, and build a toy
+plugin on the spot so that attendees can see how easy it is to
+add custom instrumentation.
 ## Build and deploy your app on your own cloud with OpenShift Origin
 ### Name: Xavier Coulon
 ### Room: Cloud DevRoom
@@ -384,6 +503,24 @@ well enough to decide whether it is useful in your environment and how to get
 started with it.
 
 
+## Wine BoF on msitools
+### Name: Paolo Bonzini & Marc-André Lureau
+### Room: K.3.601
+### Time: Sun Feb 3 2013, 16:00 - 17:00 CET
+
+Many GNU/Linux distributions include a cross-compilation environment for
+Windows that is easy to install and use.  Some of these also provide the
+Nullsoft installer (NSIS) to package build artifacts into a Windows
+executable.  NSIS has the advantage that the compiler is portable to
+POSIX systems, but does not support corporate deployment and component
+management as well as .msi packages generated for the Windows Installer.
+ libmsi is a port of Wine's MSI database code.  The talk will present
+the rationale for the library, its current state and msitools, a small
+set of programs that we implemented around it.  We will also present
+plans for future development of libmsi and msitools, and its inclusion in
+Fedora-MinGW project.
+
+
 ## Measuring OpenStack: the Ceilometer Project
 ### Name: Eoghan Glynn
 ### Room: Cloud DevRoom
@@ -414,24 +551,6 @@ This talk will outline the use cases and principles, how it relates to existing
 third party applications, and the use of Tracker as a metadata store.
 
 
-## Wine BoF on msitools
-### Name: Paolo Bonzini & Marc-André Lureau
-### Room: K.3.601
-### Time: Sun Feb 3 2013, 16:00 - 17:00 CET
-
-Many GNU/Linux distributions include a cross-compilation environment for
-Windows that is easy to install and use.  Some of these also provide the
-Nullsoft installer (NSIS) to package build artifacts into a Windows
-executable.  NSIS has the advantage that the compiler is portable to
-POSIX systems, but does not support corporate deployment and component
-management as well as .msi packages generated for the Windows Installer.
- libmsi is a port of Wine's MSI database code.  The talk will present
-the rationale for the library, its current state and msitools, a small
-set of programs that we implemented around it.  We will also present
-plans for future development of libmsi and msitools, and its inclusion in
-Fedora-MinGW project.
-
-
 ## The Keeper of Secrets
 ### Name: Leslie Hawthorn
 ### Room: Janson
@@ -450,122 +569,3 @@ the past six years.
 For more information on this presentation, including speaker bio, visit https://fosdem.org/2013/schedule/event/keynote_keeper_of_secrets/
 
 
-## Porting OpenJDK to AArch64
-### Name: Andrew Haley and Andrew Dinn
-### Room: Free Java DevRoom (K.4.401)
-### Time: Sat Feb 2 2013, 14:00 - 14:40 CET
-
-ARM's new, 64 bit ARMv8 architecture, is a break from the past in
-two regards.  The change of scale from 32 to 64 bit implies a
-broadening of ARM's target market from (mostly) embedded devices
-to address the requirements of high end consumer devices and
-servers. The 64 bit mode (AArch64) programming model is
-significantly different from the existing 32 bit model.
-
-If ARM's change of direction does indeed grab a significant share
-of this market then there are two corresponding implications for
-the Free Java community. We need a high quality free Java
-implementation to ensure that the market is not colonised solely
-by commercial Java vendors. We need to provide this
-implementation from scratch rather than try to modify existing 32
-bit Java implementations.
-
-Red Hat has decided to port OpenJDK to AArch64 precisely to meet
-these implications head on.
-
-This talk will describe the significant progress we have made in
-porting OpenJDK to AArch64 since the project began in earnest in
-July 2012, even though real hardware is not yet available and
-will not be for many months to come.
-
-During the talk we will:
-
-* Outline our plan for converting the runtime JIT components of
-OpenJDK to generate AArch64 code -- the (generated AArch64 code)
-template interpreter and the C1/C2 JIT compilers
-
-* Explain how we have already managed to execute and debug
-generated ARM code using our own ARMv8 functional simulator
-integrated into an x86 JVM
-
-* Display execution of a Java program using the template
-interpreter running on our simulator
-
-* Show both ARM instruction-level and Java bytecode-level
-stepping and debugging of generated code within gdb
-
-
-## Return of the Shark
-### Name: Roman Kennke
-### Room: Free Java DevRoom (K.4.401)
-### Time: Sat Feb 2 2013, 15:40 - 16:10 CET
-
-Since mid-2011 (when Gary Benson, the original author of
-Zero/Shark) left Red Hat's Java team), the Zero interpreter and
-Shark compiler have been basically unmaintained. A few months ago
-I picked up the project and fixed the outstanding issues (related
-to changes in Hotspot and LLVM) and started implementing a couple
-of significant improvements.
-
-This talk will give a short summary about what Zero and Shark
-actually are, how they work, why they are relevant (even in the
-face of upcoming full ports for PowerPC and others), how it fits
-in the OpenJDK ecosystem, and then describe some of the more
-interesting details about what I did, in particular improved
-support for atomic operations, JSR 292/invokedynamic, interesting
-optimizations in both the compiler and the interpreter and
-more. Hopefully I will be able to present some interesting ports
-to other platforms like ARM or PowerPC, some benchmarks results
-as well as results from testsuites (TCK?). Finally, I'll give an
-outlook to the future, things that need to be done, open
-improvements, optimizations, etc.
-
-
-## OpenJDK Governing Board Q&A
-### Name: Andrew Haley (with Mark Reinhold, Georges Saab and Doug Lea)
-### Room: Free Java DevRoom (K.4.401)
-### Time: Sat Feb 2 2013, 18:25 - 19:00 CET
-
-An open Q&A session with members of the OpenJDK Governing Board.
-
-
-## Invokedynamic: Tales from the Trenches
-### Name: Charles Nutter
-### Room: Free Java DevRoom (K.4.401)
-### Time: Sun Feb 3 2013, 10:00 - 10:40 CET
-
-A tale of sadness and a tale of joy: the tale of invokedynamic
-use in JRuby and a few other projects since the first prototypes
-dropped in 2008. I started experimenting with invokedynamic in
-JRuby in version 1.1.5, early in the JSR-292 process, and kept up
-with changes as they arrived. Today, JRuby utilizes invokedynamic
-for several aspects of the Ruby language, and we're finding more
-ways to use it every day. I'll talk about where we've been and
-where we're going...what works and what doesn't...and how to
-understand everything happening under the covers.
-
-
-## Thermostat: The road from 0.1 to 1.0, a success story (in progress)
-### Name: Mario Torre and Roman Kennke
-### Room: Free Java DevRoom (K.4.401)
-### Time: Sun Feb 3 2013, 12:30 - 13:00 CET
-
-Last year, we shared with the Free Java DevRoom and the global
-OSS community our vision for a new open source monitoring and
-instrumentation tool for anyone running an open Java stack, along
-with our fledgeling implementation. Since then, we've been hard
-at work making this vision a reality. Our project has undergone
-various transformations, including becoming modular not just in
-terms of deployment but also from a source code perspective with
-the help of OSGi, a complete overhaul of the API for extending
-Thermostat, and an amazing visual makeover -- attendees from last
-year may have trouble recognizing it on sight. Along the way
-we've also added new, compelling features such as detailed thread
-monitoring, heap dump and analysis, an Eclipse plugin interface,
-and more functionality available from the command line. Of
-course, we also had a lot of fun doing it.
-
-In our talk, we will describe the current state of Thermostat,
-give a demo of what you can do out of the box, and build a toy
-plugin on the spot so that attendees can see how easy it is to
-add custom instrumentation.
