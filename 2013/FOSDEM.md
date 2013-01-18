@@ -10,7 +10,7 @@ Open Source software. For more information on FOSDEM, visit http://fosdem.org/
 ## QEMU USB status report 2012
 ### Name: Hans de Goede
 ### Time: Sat Feb 2 2013, 11:00 - 11:30 CET
-### Room: Virtualization DevRoom (Chavanne)
+### Room: Virtualization (Chavanne)
 
 This talk gives an overview on the state of the QEMU USB subsystem.
 What happened last year? What are the plans for the future? Where do
@@ -41,7 +41,7 @@ Related projects:
 
 ## Using Personas to Target Users
 ### Name: Dave Neary
-### Room: Community Development and Marketing DevRoom (H.2214)
+### Room: Community Development and Marketing (H.2214)
 ### Time: Sat Feb 2 2013, 12:15 - 12:40 CET
 
 Personas were made famous by Alan Moore in "The Inmates are Running the
@@ -61,7 +61,7 @@ This presentation will cover the basics of:
 
 ## (R)evolution of Java Packaging in GNU/Linux
 ### Name: Mikołaj Izdebski and Stanislav Ochotnický
-### Room: Free Java DevRoom (K.4.401)
+### Room: Free Java (K.4.401)
 ### Time: Sat Feb 2 2013, 12:30 - 13:00 CET
 
 Java packaging in Linux has never been trivial. Partially due to strict
@@ -83,7 +83,7 @@ Java build systems would also be welcome.
 
 ## oVirt Live Storage Migration -- Under The Hood
 ### Name: Federico Simoncelli
-### Room: Virtualization DevRoom (Chavanne)
+### Room: Virtualization (Chavanne)
 ### Time: Sat Feb 2 2013, 13:30 - 14:00 CET
 
 Live storage migration, one of the newest features introduced in oVirt, is the
@@ -97,7 +97,7 @@ have.
 
 ## Porting OpenJDK to AArch64
 ### Name: Andrew Haley and Andrew Dinn
-### Room: Free Java DevRoom (K.4.401)
+### Room: Free Java (K.4.401)
 ### Time: Sat Feb 2 2013, 14:00 - 14:40 CET
 
 ARM's new, 64 bit ARMv8 architecture, is a break from the past in
@@ -142,7 +142,7 @@ stepping and debugging of generated code within gdb
 
 ## LNST - Automated and Portable Network Tests
 ### Name: Radek Pazdera
-### Room: Testing and Automation DevRoom (H.1309)
+### Room: Testing and Automation (H.1309)
 ### Time: Feb 2 2013, 14:20 - 15:00 CET
 
 In this presentation, we would like to introduce a tool we have been working on
@@ -166,7 +166,7 @@ Project website: <https://fedorahosted.org/lnst/>
 
 ## MoM as host level enforcement agent
 ### Name: Doron Fediuck
-### Room: Virtualization DevRoom (Chavanne)
+### Room: Virtualization (Chavanne)
 ### Time: Feb 2, 2013 14:30 - 15:00 CET
 
 Maintaining QoS in cloud computing requires host-level monitoring and policy
@@ -182,7 +182,7 @@ used to achieve overcommitment.
 
 ## oVirt introduction
 ### Name: Doron Fediuck
-### Room: Virtualization DevRoom (Chavanne)
+### Room: Virtualization (Chavanne)
 ### Time: Sat Feb 2 2013, 15:30 - 16:00 CET
 
 This session will provide an intro to the oVirt project components and
@@ -199,7 +199,7 @@ initial board has members from IBM, Cisco, NetApp, Red Hat and SUSE.
 
 ## Return of the Shark
 ### Name: Roman Kennke
-### Room: Free Java DevRoom (K.4.401)
+### Room: Free Java (K.4.401)
 ### Time: Sat Feb 2 2013, 15:40 - 16:10 CET
 
 Since mid-2011 (when Gary Benson, the original author of
@@ -225,7 +225,7 @@ improvements, optimizations, etc.
 
 ## Community Management in Meatspace: Techniques for Discussion & Achieving Consensus
 ### Name: Leslie Hawthorn (with Lydia Pinstcher, KDE & Wikimedia)
-### Room: Community Development & Marketing DevRoom (H.2214)
+### Room: Community Development & Marketing (H.2214)
 ### Time: Sat Feb 2 2013, 15:55 - 16:20 CET
 
 Headed to your annual developer conference and there’s a contentious topic on
@@ -256,7 +256,7 @@ For more information, including speaker bios, visit https://fosdem.org/2013/sche
 
 ## oVirt and GlusterFS integration
 ### Name: Doron Fediuck
-### Room: Virtualization DevRoom (Chavanne)
+### Room: Virtualization (Chavanne)
 ### Time: Sat Feb 2 2013, 16:00 - 16:30 CET
 
 GlusterFS is a distributed file system that can scale to several petabytes.
@@ -306,7 +306,7 @@ architecture.
 
 ## Supporting and Using EC2/CIMI on top of Cloud Environments
 ### Name: Oved Ourfali
-### Room: Virtualization DevRoom (Chavanne)
+### Room: Virtualization (Chavanne)
 ### Time: Sat Feb 2 2013, 17:30 - 18:00 CET
 
 In this presentation I'll describe some standard and common cloud APIs such as
@@ -317,7 +317,7 @@ use it on top of the oVirt engine.
 
 ## OpenJDK Governing Board Q&A
 ### Name: Andrew Haley (with Mark Reinhold, Georges Saab and Doug Lea)
-### Room: Free Java DevRoom (K.4.401)
+### Room: Free Java (K.4.401)
 ### Time: Sat Feb 2 2013, 18:25 - 19:00 CET
 
 An open Q&A session with members of the OpenJDK Governing Board.
@@ -325,7 +325,7 @@ An open Q&A session with members of the OpenJDK Governing Board.
 
 ## Using Foreman from the oVirt-engine Administrator UI
 ### Name: Oved Ourfali
-### Room: Virtualization DevRoom (Chavanne)
+### Room: Virtualization (Chavanne)
 ### Time: Sat Feb 2 2013, 18:30 - 19:00 CET
 
 In this presentation I'll show how one can use the new oVirt-Engine UI-Plugin
@@ -336,7 +336,7 @@ on them.
 
 ## OpenStack: 21st Century App Architecture and Cloud Operations
 ### Name: Mark McLoughlin
-### Room: Cloud DevRoom
+### Room: Cloud
 ### Time: Sun Feb 3 2013, 10:00 - 10:25 CET
 
 The advent of IaaS has brought about a new style of application architecture
@@ -354,7 +354,7 @@ a modern cloud based application.
 
 ## Invokedynamic: Tales from the Trenches
 ### Name: Charles Nutter
-### Room: Free Java DevRoom (K.4.401)
+### Room: Free Java (K.4.401)
 ### Time: Sun Feb 3 2013, 10:00 - 10:40 CET
 
 A tale of sadness and a tale of joy: the tale of invokedynamic
@@ -390,7 +390,7 @@ various controversies, and what's to come next.
 
 ## Apache Deltacloud API v1.0
 ### Name: Michal Fojtik
-### Room: Cloud DevRoom
+### Room: Cloud
 ### Time: Sun Feb 3 2013, 12:00 - 12:25 CET
 
 Deltacloud API prevents you from cloud vendor lock-in and cloud API changes.
@@ -401,10 +401,10 @@ standard for cloud computing and also non-officially Amazon EC2 query API.
 
 ## Thermostat: The road from 0.1 to 1.0, a success story (in progress)
 ### Name: Mario Torre and Roman Kennke
-### Room: Free Java DevRoom (K.4.401)
+### Room: Free Java (K.4.401)
 ### Time: Sun Feb 3 2013, 12:30 - 13:00 CET
 
-Last year, we shared with the Free Java DevRoom and the global
+Last year, we shared with the Free Java and the global
 OSS community our vision for a new open source monitoring and
 instrumentation tool for anyone running an open Java stack, along
 with our fledgeling implementation. Since then, we've been hard
@@ -425,7 +425,7 @@ plugin on the spot so that attendees can see how easy it is to
 add custom instrumentation.
 ## Build and deploy your app on your own cloud with OpenShift Origin
 ### Name: Xavier Coulon
-### Room: Cloud DevRoom
+### Room: Cloud
 ### Time: February 3, 2013 12:30 - 12:55 CET
 
 So, you have a crazy new idea you'd like to try but you need an application
@@ -441,7 +441,7 @@ seamlessly code and then publish without leaving your Eclipse IDE.
 
 ## Well-typed UNO
 ### Name: Stephan Bergmann
-### Room: LibreOffice DevRoom (H.2213)
+### Room: LibreOffice (H.2213)
 ### Time: Sun Feb 3 2013, 13:00 - 13:40 CET
 
 In the LibreOffice component architecture, with UNO service information changed
@@ -455,7 +455,7 @@ becoming incompatible compatibly, etc. etc. -- you get the idea.
 
 ## Image management in a federated cloud environment
 ### Name: Martyn Taylor
-### Room: Cloud DevRoom
+### Room: Cloud
 ### Time: Sun Feb 3 2013, 13:30 - 13:55 CET
 
 In a world where Cloud IaaS providers are popping up on every street corner, it
@@ -478,7 +478,7 @@ built, pushed and registered with all the major cloud vendors.
 
 ## Orchestrating complex deployments on OpenStack using Heat
 ### Name: Tomas Sedovic
-### Room: Cloud DevRoom
+### Room: Cloud
 ### Time: Sun Feb 3 2013, 15:30 - 15:55 CET
 
 Deploying complex systems on OpenStack can be a challenge.
@@ -523,7 +523,7 @@ Fedora-MinGW project.
 
 ## Measuring OpenStack: the Ceilometer Project
 ### Name: Eoghan Glynn
-### Room: Cloud DevRoom
+### Room: Cloud
 ### Time: Sun Feb 3 2013, 16:30 - 16:55 CET
 
 Ceilometer is an OpenStack incubated project which started in April 2012 with
@@ -539,7 +539,7 @@ and why they can contribute to its future.
 
 ## Introducing GNOME Photos
 ### Name: Debarshi Ray
-### Room: CrossDesktop DevRoom (H.1308)
+### Room: CrossDesktop (H.1308)
 ### Time: Sun Feb 3 2013, 16:40 - 17:00 CET
 
 Photos is an application to access, organize and share your photos with GNOME
