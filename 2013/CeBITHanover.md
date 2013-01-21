@@ -15,3 +15,5 @@ With this in mind, many data grid products arise, in both the Open Source commun
 proprietary world. The purpose of this talk is to illustrate, using a set of common use cases, how
 one can use a data grid such as InfiniSpan, either to enhance existing application - increasing
 their ability to cope with increasing load, or designed directly cloud-ready applications.
+
+Link: http://www.cebit.de/
