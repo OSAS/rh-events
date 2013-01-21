@@ -336,7 +336,7 @@ on them.
 
 ## OpenStack: 21st Century App Architecture and Cloud Operations
 ### Name: Mark McLoughlin
-### Room: Cloud
+### Room: Cloud (Chavanne)
 ### Time: Sun Feb 3 2013, 10:00 - 10:25 CET
 
 The advent of IaaS has brought about a new style of application architecture
@@ -390,7 +390,7 @@ various controversies, and what's to come next.
 
 ## Apache Deltacloud API v1.0
 ### Name: Michal Fojtik
-### Room: Cloud
+### Room: Cloud (Chavanne)
 ### Time: Sun Feb 3 2013, 12:00 - 12:25 CET
 
 Deltacloud API prevents you from cloud vendor lock-in and cloud API changes.
@@ -425,7 +425,7 @@ plugin on the spot so that attendees can see how easy it is to
 add custom instrumentation.
 ## Build and deploy your app on your own cloud with OpenShift Origin
 ### Name: Xavier Coulon
-### Room: Cloud
+### Room: Cloud (Chavanne)
 ### Time: Sun Feb 3 2013, 12:30 - 12:55 CET
 
 So, you have a crazy new idea you'd like to try but you need an application
@@ -455,7 +455,7 @@ becoming incompatible compatibly, etc. etc. -- you get the idea.
 
 ## Image management in a federated cloud environment
 ### Name: Martyn Taylor
-### Room: Cloud
+### Room: Cloud (Chavanne)
 ### Time: Sun Feb 3 2013, 13:30 - 13:55 CET
 
 In a world where Cloud IaaS providers are popping up on every street corner, it
@@ -478,7 +478,7 @@ built, pushed and registered with all the major cloud vendors.
 
 ## Orchestrating complex deployments on OpenStack using Heat
 ### Name: Tomas Sedovic
-### Room: Cloud
+### Room: Cloud (Chavanne)
 ### Time: Sun Feb 3 2013, 15:30 - 15:55 CET
 
 Deploying complex systems on OpenStack can be a challenge.
@@ -505,7 +505,7 @@ started with it.
 
 ## Wine BoF on msitools
 ### Name: Paolo Bonzini & Marc-André Lureau
-### Room: K.3.601
+### Room: Wine (K.3.601)
 ### Time: Sun Feb 3 2013, 16:00 - 17:00 CET
 
 Many GNU/Linux distributions include a cross-compilation environment for
@@ -523,7 +523,7 @@ Fedora-MinGW project.
 
 ## Measuring OpenStack: the Ceilometer Project
 ### Name: Eoghan Glynn
-### Room: Cloud
+### Room: Cloud (Chavanne)
 ### Time: Sun Feb 3 2013, 16:30 - 16:55 CET
 
 Ceilometer is an OpenStack incubated project which started in April 2012 with
