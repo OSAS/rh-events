@@ -41,7 +41,7 @@ Related projects:
 
 ## Using Personas to Target Users
 ### Name: Dave Neary
-### Room: Community Development and Marketing (H.2214)
+### Room: Community Development & Marketing (H.2214)
 ### Time: Sat Feb 2 2013, 12:15 - 12:40 CET
 
 Personas were made famous by Alan Moore in "The Inmates are Running the
