@@ -5,7 +5,7 @@
 EclipseCon is about sharing best practices, insights, case studies,
 and innovations in the Eclipse community and in the wider world of
 software development. We want attendees to be educated and inspired
-after each talk. See more at http://eclipsecon.org
+after each talk. See more at <http://eclipsecon.org/>
 
 ## A tale about a Big SVN to Git Migration
 ### Name: Max Rydahl Andersen
@@ -38,7 +38,7 @@ dangers to look out for and what tools to consider.
 
 If you want to take a sneakpeak you can see the scripts and
 instructions for the migration at
-https://github.com/maxandersen/jbosstools-gitmigration
+<https://github.com/maxandersen/jbosstools-gitmigration>
 
 The tale almost ended up not having a happy ending because of a car
 crash, but due to the power of Git and Github the migration prevailed
@@ -67,5 +67,5 @@ plugins works, the legal challenges and report some of the interesting
 findings we have done over the years.
 
 For an example of what data and monitoring we have done see
-https://community.jboss.org/en/tools/blog/2012/07/30/observations-from-two-year-of-ping-backs-from-jboss-tools-users
-and http://jboss.org/tools/usage for details/source code.
+<https://community.jboss.org/en/tools/blog/2012/07/30/observations-from-two-year-of-ping-backs-from-jboss-tools-users>
+and <http://jboss.org/tools/usage> for details/source code.
