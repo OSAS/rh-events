@@ -143,7 +143,7 @@ stepping and debugging of generated code within gdb
 ## LNST - Automated and Portable Network Tests
 ### Name: Radek Pazdera
 ### Room: Testing and Automation (H.1309)
-### Time: Feb 2 2013, 14:20 - 15:00 CET
+### Time: Sat Feb 2 2013, 14:20 - 15:00 CET
 
 In this presentation, we would like to introduce a tool we have been working on
 for the last couple of months. Our main goal is to make networking tests and
@@ -167,7 +167,7 @@ Project website: <https://fedorahosted.org/lnst/>
 ## MoM as host level enforcement agent
 ### Name: Doron Fediuck
 ### Room: Virtualization (Chavanne)
-### Time: Feb 2, 2013 14:30 - 15:00 CET
+### Time: Sat Feb 2 2013, 14:30 - 15:00 CET
 
 Maintaining QoS in cloud computing requires host-level monitoring and policy
 enforcement. In order to be able to scale up large setups, a host-level agent
@@ -426,7 +426,7 @@ add custom instrumentation.
 ## Build and deploy your app on your own cloud with OpenShift Origin
 ### Name: Xavier Coulon
 ### Room: Cloud
-### Time: February 3, 2013 12:30 - 12:55 CET
+### Time: Sun Feb 3 2013, 12:30 - 12:55 CET
 
 So, you have a crazy new idea you'd like to try but you need an application
 server to run it? Of course, you also need to store your data in MySQL,
