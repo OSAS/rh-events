@@ -555,10 +555,10 @@ and why they can contribute to its future.
 ### Room: CrossDesktop (H.1308)
 ### Time: Sun Feb 3 2013, 16:40 - 17:00 CET
 
-Photos is an application to access, organize and share your photos with GNOME
-3. After Documents it is the latest among the new breed of Finding & Reminding
-applications. Like other core GNOME applications, it targets a new GNOME 3
-  style: cloud integration, fresh UI elements and touch enablement.
+Photos is an application to access, organize and share your photos with
+GNOME 3. After Documents it is the latest among the new breed of Finding &
+Reminding applications. Like other core GNOME applications, it targets a new
+GNOME 3 style: cloud integration, fresh UI elements and touch enablement.
 
 This talk will outline the use cases and principles, how it relates to existing
 third party applications, and the use of Tracker as a metadata store.
