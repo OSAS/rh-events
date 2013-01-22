@@ -476,7 +476,7 @@ Image Factory allows users to define images at a high level and have them
 built, pushed and registered with all the major cloud vendors.
 
 
-## Language tags - or, what is BCP 47 and why would we want it
+## Language tags — or, what is BCP 47 and why would we want it
 ### Name: Eike Rathke
 ### Room: LibreOffice (H.2213)
 ### Time: Sun Feb 3 2013, 14:20 - 15:00 CET
@@ -486,7 +486,7 @@ preparation to understand BCP 47 language tags. Some critical areas weren't
 changed yet for 4.0 and work is ongoing for 4.1. In this talk I'll give some
 overview what I did and why I'm undergoing this effort.
 
-Speaker short bio at https://fosdem.org/2013/schedule/speaker/eike_rathke/
+Speaker short bio at <https://fosdem.org/2013/schedule/speaker/eike_rathke/>
 
 
 ## Orchestrating complex deployments on OpenStack using Heat
