@@ -224,7 +224,7 @@ improvements, optimizations, etc.
 
 
 ## Community Management in Meatspace: Techniques for Discussion & Achieving Consensus
-### Name: Leslie Hawthorn (with Lydia Pinstcher, KDE & Wikimedia)
+### Name: Leslie Hawthorn (with Lydia Pintscher, KDE & Wikimedia)
 ### Room: Community Development & Marketing (H.2214)
 ### Time: Sat Feb 2 2013, 15:55 - 16:20 CET
 
