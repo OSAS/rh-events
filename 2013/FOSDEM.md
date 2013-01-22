@@ -370,6 +370,7 @@ understand everything happening under the covers.
 
 ## Managing Your Metal Flexibly
 ### Name: Greg Sutcliffe
+### Room: Lightning Talk (Ferrer)
 ### Time: Sun Feb 3 2013, 11:00 - 11:35 CET
 
 The Foreman is adding a Metal-as-a-Service feature in the near future. In this
