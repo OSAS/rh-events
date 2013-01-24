@@ -7,6 +7,34 @@ and innovations in the Eclipse community and in the wider world of
 software development. We want attendees to be educated and inspired
 after each talk. See more at <http://eclipsecon.org/>
 
+
+## Google Analytics for Eclipse Plugins
+### Name: Max Rydahl Andersen and Andre Dietsheim
+### Time: March 26 2013, 11:15 - 11:50
+### Room: Room 6
+
+It's always fun to see the download statistics for your plugin, but it
+is even more fun to see live who is actually using your plugin, how
+they installed it and where they are from.
+
+Getting that up and running can require a lot of bandwidth and
+infrastructure but luckily there already exist a well known analytics
+service called Google Analytics that can do this for you with all the
+graphs and earth-plots you want - even animated.
+
+We've implemented a plugin that utilizes Google Analytics to do all
+the heavy lifting of complex reporting and just leave it up to our
+plugins to setup and invoke a basic http request.
+
+We will present the inner workings on how this Google Analytics Usage
+plugins works, the legal challenges and report some of the interesting
+findings we have done over the years.
+
+For an example of what data and monitoring we have done see
+<https://community.jboss.org/en/tools/blog/2012/07/30/observations-from-two-year-of-ping-backs-from-jboss-tools-users>
+and <http://jboss.org/tools/usage> for details/source code.
+
+
 ## A tale about a Big SVN to Git Migration
 ### Name: Max Rydahl Andersen
 ### Time: March 27 2013, 16:15 - 16:50
@@ -43,29 +71,3 @@ instructions for the migration at
 The tale almost ended up not having a happy ending because of a car
 crash, but due to the power of Git and Github the migration prevailed
 and I lived to tell the tale.
-
-## Google Analytics for Eclipse Plugins
-### Name: Max Rydahl Andersen and Andre Dietsheim
-### Time: March 26 2013, 11:15 - 11:50
-### Room: Room 6
-
-It's always fun to see the download statistics for your plugin, but it
-is even more fun to see live who is actually using your plugin, how
-they installed it and where they are from.
-
-Getting that up and running can require a lot of bandwidth and
-infrastructure but luckily there already exist a well known analytics
-service called Google Analytics that can do this for you with all the
-graphs and earth-plots you want - even animated.
-
-We've implemented a plugin that utilizes Google Analytics to do all
-the heavy lifting of complex reporting and just leave it up to our
-plugins to setup and invoke a basic http request.
-
-We will present the inner workings on how this Google Analytics Usage
-plugins works, the legal challenges and report some of the interesting
-findings we have done over the years.
-
-For an example of what data and monitoring we have done see
-<https://community.jboss.org/en/tools/blog/2012/07/30/observations-from-two-year-of-ping-backs-from-jboss-tools-users>
-and <http://jboss.org/tools/usage> for details/source code.
