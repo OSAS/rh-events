@@ -71,3 +71,27 @@ instructions for the migration at
 The tale almost ended up not having a happy ending because of a car
 crash, but due to the power of Git and Github the migration prevailed
 and I lived to tell the tale.
+
+
+## OSGi Cloud Ecosystems
+### Name: David Bosschaert
+### Time: March 27 2013, 15:00 - 15:35
+### Room: Room 8
+
+OSGi and Cloud Computing go very well together. Previously held OSGi
+Cloud Workshops have shown that many people are using or planning to use
+OSGi in the Cloud. This session focuses how OSGi can really help in a
+Cloud environment, taking advantage of OSGi's dynamism and services
+model.
+
+The session will show how you can use OSGi to create a complex cloud
+deployment, which is made up from a number of different entities on
+different Cloud nodes. These entities are working together to form a
+logical application. This is what is being called an 'OSGi Cloud
+Ecosystem'.
+
+The session shows concepts such as dynamic provisioning, dynamic
+discovery, dynamic scaling and dynamic failover all from the OSGi
+programming model. I will also talk about cloud-related specification
+work that is currently an active topic in the OSGi Enterprise Expert
+Group.
