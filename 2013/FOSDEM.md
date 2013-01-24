@@ -424,6 +424,8 @@ In our talk, we will describe the current state of Thermostat,
 give a demo of what you can do out of the box, and build a toy
 plugin on the spot so that attendees can see how easy it is to
 add custom instrumentation.
+
+
 ## Build and deploy your app on your own cloud with OpenShift Origin
 ### Name: Xavier Coulon
 ### Room: Cloud (Chavanne)
