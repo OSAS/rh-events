@@ -5,6 +5,7 @@
 
 ## Document Your Code
 ### Name: Kushal Das
+### Time: September 29 16:30 - 17:30 IST
 
 Writing documentation can lead to better code.
 
@@ -21,6 +22,7 @@ For more information, including speaker bio, visit http://in.pycon.org/2012/funn
 
 ## Django Templates for Web Designers
 ### Name: Shreyank Gupta
+### Time: September 30 12:00 - 13:00 IST
 
 Django is a high-level Python based web framework that encourages rapid development and clean, pragmatic design.
 
