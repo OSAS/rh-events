@@ -4,7 +4,8 @@
 
 Red Hat (and OpenShift) is a Platinum Sponsor for PyCon 2013 North America. Please come visit us in the Red Hat booth on the show floor (#132) to hear more about Fedora, OpenShift and how Red Hat uses Python.
 
-For more information, see: http://us.pycon.org/2013/
+For more information, see: <http://us.pycon.org/2013/>
+
 
 ## Tutorial: Python on Paas - All the development and none of the sysadmin
 ### Name: Steven Citron-Pousty
@@ -14,7 +15,8 @@ In this session, we will give a quick introduction to Platform as a Service (aka
 
 We will also demonstrate how to connect your code to a back-end data store such as MongoDB, MySQL, and Postgresql. The goal of this session is to have you leave with a laptop configured to run your code in the cloud for free!
 
-Signup via the EventBrite system: http://py2013workshops.eventbrite.com/
+Signup via the EventBrite system: <http://py2013workshops.eventbrite.com/>
+
 
 ## Death by a thousand leaks: what statically-analysing 370 Python extensions looks like
 ### Name: David Malcolm
