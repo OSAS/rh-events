@@ -42,7 +42,7 @@ I've run the tool on hundreds of Python extensions, and it has found hundreds of
 
 ## Panel: Directions for Packaging
 ### Name: Nick Coghlan (Moderator)
-### Time: Saturday March 16 2013, 1:40 p.m.–2:25 p.m
+### Time: Saturday March 16 2013, 13:40 - 14:25 PST
 ### Room: Great America
 
 Category: **Packaging**,
