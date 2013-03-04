@@ -9,7 +9,7 @@ For more information, see: <http://us.pycon.org/2013/>
 
 ## Tutorial: Python on Paas - All the development and none of the sysadmin
 ### Name: Steven Citron-Pousty
-### Time: Wednesday March 13, 2013 11 a.m.–12:30 p.m. 
+### Time: Wednesday March 13, 2013 11:00 - 12:30 PST
 
 In this session, we will give a quick introduction to Platform as a Service (aka awesome-sauce for developers) with OpenShift as an example. After a few slides and your questions we will spend the rest of the time working with you to get your Python code up and running in the cloud in less than 5 minutes. We will show you how easy it is to bring in dependencies and deploy your code. We will also have you merge in some of the Github quickstarts we have assembled - including Django.
 
@@ -20,7 +20,7 @@ Signup via the EventBrite system: <http://py2013workshops.eventbrite.com/>
 
 ## Death by a thousand leaks: what statically-analysing 370 Python extensions looks like
 ### Name: David Malcolm
-### Time: Saturday March 16, 2013 12:10 p.m.–12:40 p.m. 
+### Time: Saturday March 16 2013, 12:10 - 12:40 PST
 
 * Room: Great America
 * Audience level: Experienced
@@ -39,9 +39,10 @@ I've run the tool on hundreds of Python extensions, and it has found hundreds of
 * recommendations on dealing with C and C++ from Python
 * Q&A
 
+
 ## Panel: Directions for Packaging
-### Nick Coghlan (Moderator)
-### Time: Saturday March 16, 2013 1:40 p.m.–2:25 p.m
+### Name: Nick Coghlan (Moderator)
+### Time: Saturday March 16 2013, 1:40 p.m.–2:25 p.m
 
 * Room: Great America
 * Audience level: Experienced
@@ -57,9 +58,10 @@ Panelists will each provide a brief description of their involvement in Python p
 
 Your panelists will be: Nick Coghlan (moderator, CPython) Éric Araujo (distutils2) Daniel Holth (wheel, bento) Jim Fulton (zc.buildout) Marcus Smith (pip, virtualenv) Richard Jones (PyPI)
 
+
 ## Talk: Sink or swim: 5 life jackets to throw to New Coders
 ### Name: Lynn Root
-### Time: Saturday March 16th, 2013 4:30 p.m.–5:00 p.m
+### Time: Saturday March 16 2013, 16:30 - 17:00 PST
 
 Room: Mission City
 Audience level: Novice
