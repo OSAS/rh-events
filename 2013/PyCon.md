@@ -54,3 +54,19 @@ Several of the developers involved will be meeting at PyCon US 2013 to discuss t
 Panelists will each provide a brief description of their involvement in Python packaging and related systems, including a short summary from Éric Araujo of some of the lessons learned from the earlier distutils2/packaging effort. The bulk of the session will be devoted to answering questions from audience members and the rest of the Python community.
 
 Your panelists will be: Nick Coghlan (moderator, CPython) Éric Araujo (distutils2) Daniel Holth (wheel, bento) Jim Fulton (zc.buildout) Marcus Smith (pip, virtualenv) Richard Jones (PyPI)
+
+## Talk: Sink or swim: 5 life jackets to throw to New Coders
+### Name: Lynn Root
+### Time: Saturday March 16th, 2013 4:30 p.m.–5:00 p.m
+
+Room: Mission City
+Audience level: Novice
+Category: Education
+
+Many want to learn to code, and many choose Python as a first language. You direct them to Learn Python the Hard Way, or Dive into Python. Great! But now what? I will present 5 digestible projects to gradually progress the Python learner from near drowning to a decent swimmer. The goal is to have new coders feeling accomplished and to continuing learning.
+
+Learning something new is difficult; it takes guts. Folks come in with a lot of energy and eagerness, only to experience discouragement when there aren't a lot of resources to step beyond the 'learn syntax' to programming. Often there are questions of, "Well, I worked through this beginner book. Now what?" How do you answer that?
+
+In this talk, I will present to you 5 projects that have been tried and tested on new folks themselves. These projects progress from just after someone who worked through "Learn Python the Hard Way", "Dive into Python" or a similar workbook, to contributing to open source, understanding the undertaking of a website, and new tools to make one's computing life fun and easier.
+
+Attendees will leave with the knowledge to push their new coder friends' skills from drowning to swimming a lap or two, complete with resources to find sample code & projects.
