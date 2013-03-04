@@ -1,6 +1,6 @@
 # PyCon 2013
 ## Location: Santa Clara, California, US
-## Date: March 13-21, 2013
+## Date: March 13 - 21, 2013
 
 Red Hat (and OpenShift) is a Platinum Sponsor for PyCon 2013 North America. Please come visit us in the Red Hat booth on the show floor (#132) to hear more about Fedora, OpenShift and how Red Hat uses Python.
 
