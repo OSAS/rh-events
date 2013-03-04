@@ -20,9 +20,9 @@ Signup via the EventBrite system: http://py2013workshops.eventbrite.com/
 ### Name: David Malcolm
 ### Time: Saturday March 16, 2013 12:10 p.m.–12:40 p.m. 
 
-Room: Great America
-Audience level: Experienced
-Category: Python Internals 
+* Room: Great America
+* Audience level: Experienced
+* Category: Python Internals 
 
 What happens when you run a custom C static analysis tool ("cpychecker") on hundreds of Python extensions? I'll talk about the kinds of errors that my tool found, how to run it on your own code, and how to prevent memory leaks and crasher bugs in the C code of your Python extension modules.
 Abstract
@@ -38,12 +38,12 @@ I've run the tool on hundreds of Python extensions, and it has found hundreds of
 * Q&A
 
 ## Panel: Directions for Packaging
-### Nick Coughlan (Moderator)
+### Nick Coghlan (Moderator)
 ### Time: Saturday March 16, 2013 1:40 p.m.–2:25 p.m
 
-Room: Great America
-Audience level: Experienced
-Category: Packaging
+* Room: Great America
+* Audience level: Experienced
+* Category: Packaging
 
 What needs to happen to finally offer a first-class packaging experience to Python users? Several of the people working directly on that problem will be here to answer your questions.
 
