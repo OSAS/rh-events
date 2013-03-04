@@ -56,7 +56,14 @@ Several of the developers involved will be meeting at PyCon US 2013 to discuss t
 
 Panelists will each provide a brief description of their involvement in Python packaging and related systems, including a short summary from Éric Araujo of some of the lessons learned from the earlier distutils2/packaging effort. The bulk of the session will be devoted to answering questions from audience members and the rest of the Python community.
 
-Your panelists will be: Nick Coghlan (moderator, CPython) Éric Araujo (distutils2) Daniel Holth (wheel, bento) Jim Fulton (zc.buildout) Marcus Smith (pip, virtualenv) Richard Jones (PyPI)
+Your panelists will be:
+
+* Nick Coghlan (moderator, CPython)
+* Éric Araujo (distutils2)
+* Daniel Holth (wheel, bento)
+* Jim Fulton (zc.buildout)
+* Marcus Smith (pip, virtualenv)
+* Richard Jones (PyPI)
 
 
 ## Talk: Sink or swim: 5 life jackets to throw to New Coders
