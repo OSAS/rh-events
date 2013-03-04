@@ -23,8 +23,8 @@ Signup via the EventBrite system: <http://py2013workshops.eventbrite.com/>
 ### Time: Saturday March 16 2013, 12:10 - 12:40 PST
 ### Room: Great America
 
-**Audience level**: Experienced,
-**Category**: Python Internals
+Audience level: **Experienced**,
+Category: **Python Internals**
 
 What happens when you run a custom C static analysis tool ("cpychecker") on hundreds of Python extensions? I'll talk about the kinds of errors that my tool found, how to run it on your own code, and how to prevent memory leaks and crasher bugs in the C code of your Python extension modules.
 Abstract
@@ -45,8 +45,8 @@ I've run the tool on hundreds of Python extensions, and it has found hundreds of
 ### Time: Saturday March 16 2013, 1:40 p.m.–2:25 p.m
 ### Room: Great America
 
-**Audience level**: Experienced,
-**Category**: Packaging
+Audience level: **Experienced**,
+Category: **Packaging**
 
 What needs to happen to finally offer a first-class packaging experience to Python users? Several of the people working directly on that problem will be here to answer your questions.
 
@@ -64,8 +64,8 @@ Your panelists will be: Nick Coghlan (moderator, CPython) Éric Araujo (distutil
 ### Time: Saturday March 16 2013, 16:30 - 17:00 PST
 ### Room: Mission City
 
-**Audience level**: Novice,
-**Category**: Education
+Audience level: **Novice**,
+Category: **Education**
 
 Many want to learn to code, and many choose Python as a first language. You direct them to Learn Python the Hard Way, or Dive into Python. Great! But now what? I will present 5 digestible projects to gradually progress the Python learner from near drowning to a decent swimmer. The goal is to have new coders feeling accomplished and to continuing learning.
 
