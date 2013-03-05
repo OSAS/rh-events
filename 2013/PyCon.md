@@ -17,6 +17,11 @@ We will also demonstrate how to connect your code to a back-end data store such 
 
 Signup via the EventBrite system: <http://py2013workshops.eventbrite.com/>
 
+## PyCon Education Summit: Engagement Panel
+### Name: Leslie Hawthorn, Panel Moderator
+### Time: Thursday March 14, 2013 11:30 - 12:05 PST
+
+"Engagement" means getting people involved - attracting learners and letting them know why they should be eager to learn Python, recruiting teachers, sponsors and supporters with the skills needed to facilitate that learning, and then keeping everyone involved in the community. You could also call this "outreach" or even "marketing". Whatever you call it, we need to attract people who want to learn Python and the people and the people to help satisfy that need. 
 
 ## Death by a thousand leaks: what statically-analysing 370 Python extensions looks like
 ### Name: David Malcolm
