@@ -18,4 +18,7 @@ using a set of common use cases, how one can use a data grid such as
 InfiniSpan, either to enhance existing application - increasing their ability
 to cope with increasing load, or designed directly cloud-ready applications.
 
-Link: <http://www.cebit.de/>
+Links:
+
+CeBIT - <http://www.cebit.de/>
+Talk  - <http://www.cebit.de/veranstaltung/grid-it-the-use-of-infinispan-data-grid-to-solve-your-application-scaling-issues/VOR/53729/>
