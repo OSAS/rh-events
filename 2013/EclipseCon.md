@@ -34,6 +34,28 @@ For an example of what data and monitoring we have done see
 <https://community.jboss.org/en/tools/blog/2012/07/30/observations-from-two-year-of-ping-backs-from-jboss-tools-users>
 and <http://jboss.org/tools/usage> for details/source code.
 
+## Marketing an Open Source Project
+### Name: Dave Neary
+### Time: March 26 2013, 14:15 - 14:50
+### Room: Harborview Ballroom 2
+
+Marketing is something we all do, whether we realise it or not.
+Marketing in Open Source starts when you're writing the software -
+who am I writing for? What will it do? Where will I announce it? I
+need a website! Marketing a project involves having a vision that
+attracts people to your project, knowing your target audience and
+how to reach them, and tailoring a product to meet their needs.
+Marketing an Open Source project also involves working transparently,
+providing opportunities for contribution, and setting a culture that
+makes people want to hang out and work to help realise your vision.
+
+I'll give you tools to help express your vision; to identify with
+your target audience and deliver something they will love; and to
+grow your project over time. There is no magic pill, and you'll have
+to use the tools to see results. But there is a way of thinking
+about marketing which is natural, and from which good things flow,
+from good website design, better return on time going to conferences,
+and a healthy, pleasant, growing community.
 
 ## A tale about a Big SVN to Git Migration
 ### Name: Max Rydahl Andersen
