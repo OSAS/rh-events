@@ -16,4 +16,7 @@ Dave Neary, also with the Open source and Standards team, will
 also be speaking at the conference, on the topic of "Free
 Software Communities and the Cloud".
 
+Marina Zhurakhinskaya from the Desktop team in Red Hat will present her
+work with the Outreach Program for Women in GNOME.
+
 The conference schedule will be announced shortly.
