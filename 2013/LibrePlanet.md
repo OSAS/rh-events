@@ -1,7 +1,7 @@
 # LibrePlanet 2013
 ## Location: Cambridge, Massachussetts, US
 ## Date: March 23-24, 2013
-## 
+
 LibrePlanet is an annual conference of the Free Software Foundation.
 What started out as our annual membership meeting has grown into a
 two-day conference open to the general public. At LibrePlanet,
