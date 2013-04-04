@@ -1,6 +1,7 @@
 # Openmobility
 ## Location: Bratislava, Slovakia
 ## Date: Sat Apr 6 - 7 2013
+
 Openmobility 2013 <http://www.openmobility.eu/en/>, Central Europe's leading conference 
 for open mobile platforms and open source hardware, is taking place in Bratislava 
 at the Faculty of Electrical Engineering and Information Technology, Bratislava University 
@@ -15,32 +16,50 @@ Presentations will be held in English, Czech or Slovak.
 Several Red Hatters are going to give a talk in these areas, showing our leadership in
 all different open source communities, even outside the main track of the company.
 
+
 ## What are open & mobile platforms and Open Source Hardware? A brief introduction.
 ### Name: Martin Holec and Jaroslav Řezník
 ### Room: Room A
 ### Time: Sat Apr 6 2013, 09:00 - 10:00 CEST
+
+Summary coming soon.
+
 
 ## RepRap & Fedora
 ### Name: Miro Hrončok
 ### Room: Room A
 ### Time: Sat Apr 6 2013, 10:00 - 11:00 CEST
 
+Summary coming soon.
+
+
 ## GNURadio, HAM & Fedora
 ### Name: Jaroslav Škarvada
 ### Room: Room B
 ### Time: Sat Apr 6 2013, 14:00 - 15:00 CEST
+
+Summary coming soon.
+
 
 ## Workshop: Qt/QML & Cascades
 ### Name: Daniel Vrátil
 ### Room: Room B
 ### Time: Sat Apr 6 2013, 15:00 - 17:00 CEST
 
+Summary coming soon.
+
+
 ## ARM & Fedora
 ### Name: Pavel Tišnovský
 ### Room: Room A
 ### Time: Sun Apr 7 2013, 14:30 - 15:30 CEST
 
+Summary coming soon.
+
+
 ## Workshop: Writing standalone Qt & Python applications for Android
 ### Name: Martin Kolman
 ### Room: Room B
 ### Time: Sun Apr 7 2013, 15:30 - 16:30 CEST
+
+Summary coming soon.
