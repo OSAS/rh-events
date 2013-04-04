@@ -18,29 +18,29 @@ all different open source communities, even outside the main track of the compan
 ## What are open & mobile platforms and Open Source Hardware? A brief introduction.
 ### Name: Martin Holec and Jaroslav Řezník
 ### Room: Room A
-### Time: Sat Apr 6 2013, 09:00 - 10:00 CET
+### Time: Sat Apr 6 2013, 09:00 - 10:00 CEST
 
 ## RepRap & Fedora
 ### Name: Miro Hrončok
 ### Room: Room A
-### Time: Sat Apr 6 2013, 10:00 - 11:00 CET
+### Time: Sat Apr 6 2013, 10:00 - 11:00 CEST
 
 ## GNURadio, HAM & Fedora
 ### Name: Jaroslav Škarvada
 ### Room: Room B
-### Time: Sat Apr 6 2013, 14:00 - 15:00 CET
+### Time: Sat Apr 6 2013, 14:00 - 15:00 CEST
 
 ## Workshop: Qt/QML & Cascades
 ### Name: Daniel Vrátil
 ### Room: Room B
-### Time: Sat Apr 6 2013, 15:00 - 17:00 CET
+### Time: Sat Apr 6 2013, 15:00 - 17:00 CEST
 
 ## ARM & Fedora
 ### Name: Pavel Tišnovský
 ### Room: Room A
-### Time: Sun Apr 7 2013, 14:30 - 15:30 CET
+### Time: Sun Apr 7 2013, 14:30 - 15:30 CEST
 
 ## Workshop: Writing standalone Qt & Python applications for Android
 ### Name: Martin Kolman
 ### Room: Room B
-### Time: Sun Apr 7 2013, 15:30 - 16:30 CET
+### Time: Sun Apr 7 2013, 15:30 - 16:30 CEST
