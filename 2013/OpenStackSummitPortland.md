@@ -2,7 +2,7 @@
 ## Location: Portland, OR
 ## Date: April 15-18 2013
 
-For more information, check out the website at http://www.openstack.org/summit/portland-2013/
+For more information, check out the website at <http://www.openstack.org/summit/portland-2013/>.
 
 ##  What Everyone Ought to Know about OpenStack Internships
 ### Name: Anne Gentle, Iccha Sethi, Julie Pichon, Anita Kuno, Laura Alves, Victoria Martínez de la Cruz, Emilien Macchi
@@ -15,4 +15,4 @@ For the Outreach Program for Women, three mentors worked with interns; one from 
 
 If you are an organization looking to hire OpenStack interns, or a potential intern seeking an internship, this session is for you.
 
-For more information, see <http://openstacksummitapril2013.sched.org/event/3c0c92d5ad2c1bd6a432ca77c29a9970#.UUhV0uPDQ24>
+For more information, please visit <http://openstacksummitapril2013.sched.org/event/3c0c92d5ad2c1bd6a432ca77c29a9970#.UUhV0uPDQ24>
