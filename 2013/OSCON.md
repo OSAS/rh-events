@@ -29,7 +29,7 @@ Come and hear lessons learned, get ideas for toys and approaches you
 might not be aware of, and please share what has worked for you!
 
 
-##The Linux Way: Rebuilding The Unix Way for a New Era
+## The Linux Way: Rebuilding The Unix Way for a New Era
 ### Name: Andy Grover
 ### Time: Friday July 26, 2013 11:00am - 11:40am PDT
 ### Room: D136
