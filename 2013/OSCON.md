@@ -8,6 +8,27 @@ the publisher O'Reilly Media, and is held each summer in the United States.
 
 For more information, see: <http://www.oscon.com/oscon2013>
 
+## Hardware Hacking With Your Kids 
+### Name: Dave Neary
+### Time:  Thursday July 25, 5:00pm - 5:40pm PDT
+### Room: Portland Ballroom
+
+How do you grow the next generation of hackers? New little humans are
+clean slates. As parents, we get to fill them full of seditious
+thoughts about the value of sharing and taking control of your
+environment.
+
+As a parent of three kids, now 10, 7 and 5 years old, I’ve worked my
+way through the challenges of getting my kids enthusiastic about
+technology while avoiding the temptation of doing too much, too soon.
+This is one parent’s story of bringing his kids from pre-school
+construction toys through to building a solar powered Arduino-driven
+car built in part with components scavenged from old electronic toys.
+
+Come and hear lessons learned, get ideas for toys and approaches you
+might not be aware of, and please share what has worked for you!
+
+
 ##The Linux Way: Rebuilding The Unix Way for a New Era
 ### Name: Andy Grover
 ### Time: Friday July 26, 2013 11:00am - 11:40am PDT
