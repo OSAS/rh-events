@@ -88,7 +88,6 @@ More information on https://distro-recipes.org/en/lightning/fedmsg/
 
 ## HyperKitty, or how to get the best from mailing lists and forums
 ### Name: Aurelien Bompard
-### Time: TBD 
 ### Time: Friday April 5 2013, 17:15 - 17:35 CEST
 
 Mailing lists and forums are part of the most used tools to animate the communities distributions.

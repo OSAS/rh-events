@@ -12,7 +12,7 @@ For more information on LSM, visit http://2013.rmll.info/en/
 ## Negotiation Theory for geeks
 ### Name: Dave Neary
 ### Room: TBA
-### Time: Mon Jul 8 2013, 14:40 - 15:20 CET
+### Time: Mon Jul 8 2013, 14:40 - 15:20 CEST
 
 The best free software hackers are great at the "soft skills" related to 
 hacking - resolving conflict, gathering support around a direction for 
