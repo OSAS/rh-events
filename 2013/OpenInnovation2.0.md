@@ -1,7 +1,8 @@
 # Open Innovation 2.0 : 
 ## Date: Monday, 20 May 2013 at 09:00 - Tuesday, 21 May 2013 at 16:00 (IST)
 ## Location: Dublin, Ireland
-## URL: http://oi2dublin2013.eventbrite.ie/
+## URL: <http://oi2dublin2013.eventbrite.ie/>
+
 Sustainable Economy & Society
 OI 2.0 Collaboration Partners
 

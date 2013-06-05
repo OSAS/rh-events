@@ -1,7 +1,7 @@
 # POSSCON 2013
 ## Date: March 27, 28 2013
 ## Location: Columbia, South Carolina
-## URL: http://posscon.org/
+## URL: <http://posscon.org/>
 
 Some of the best speakers in open source will again attend and participate – in a boutique, personal environment.
 
