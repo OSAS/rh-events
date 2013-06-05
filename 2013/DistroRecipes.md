@@ -33,7 +33,7 @@ https://distro-recipes.org/en/conferences/whats-new-in-gcc-4-8/
 
 ## Buildsystem, best practices and tools
 ### Name: Michael Scherer
-### Time: Tuesday April 4 2013, 16:15 - 17:15 CEST
+### Time: Thursday April 4 2013, 16:15 - 17:15 CEST
 
 Through a subjective history of the evolution of systems builds distributions 
 (mainly Fedora, Mandriva and Mageia), the presentation will address the issues 
@@ -76,7 +76,7 @@ More information on https://distro-recipes.org/en/conferences/round-table/
 
 ## Fedmsg, integration and benefits of a system message in buildsystem
 ### Name: Michael Scherer
-### Time: Tuesday April 4 2013, 17:15 - 17:35 CEST
+### Time: Thursday April 4 2013, 17:15 - 17:35 CEST
 
 Fedmsg is a message bus developed by the Fedora Project to build the system to open its 
 integration for a large number of users. The presentation will explain how it allows 
