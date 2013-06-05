@@ -1,10 +1,10 @@
 # Code Motion
 ## Location: Berlin, Germany,
-## Date: May 10 - 11th 2013
+## Date: May 10 - 11 2013
 
 ## Make your webapp "Big Data" ready with InfinSpan !
 ### Name: Romain Pelisse
-### Time: Fri May 10 2013, 15:40 - 16:20 CET
+### Time: Friday May 10 2013, 15:40 - 16:20 CET
 
 Big data and scalability is more than ever before the focus of webapps - on top
 of the always increasing need for fast response time for complex and rich
