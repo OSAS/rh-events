@@ -4,7 +4,7 @@
 
 ## Make your webapp "Big Data" ready with InfinSpan !
 ### Name: Romain Pelisse
-### Time: Friday May 10 2013, 15:40 - 16:20 CET
+### Time: Friday May 10 2013, 15:40 - 16:20 CEST
 
 Big data and scalability is more than ever before the focus of webapps - on top
 of the always increasing need for fast response time for complex and rich
