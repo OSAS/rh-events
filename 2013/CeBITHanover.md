@@ -1,11 +1,11 @@
 # CeBIT
 ## Location: Hannover, Germany,
-## Date: Mar 5 - 8th 2013
+## Date: March 5 - 8 2013
 
 
 ## Grid it ! How to make your application scale using JBoss Data Grid
 ### Name: Romain Pelisse
-### Time: Fri Mar 8 2013, 14:45 - 15:45 CET
+### Time: Friday March 8 2013, 14:45 - 15:45 CET
 
 Big data and scalability is more than ever before the focus of webapps - on top
 of the always increasing need for fast response time for complex and rich
