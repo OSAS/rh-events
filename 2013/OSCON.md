@@ -6,7 +6,7 @@ The O'Reilly Open Source Convention (OSCON) is an annual convention for
 the discussion of free and open source software. It is organized by
 the publisher O'Reilly Media, and is held each summer in the United States.
 
-For more information, see: <http://www.oscon.com/oscon2013>
+For more information, see: <http://oscon.com/oscon2013>
 
 ## Hardware Hacking With Your Kids 
 ### Name: Dave Neary
