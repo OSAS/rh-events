@@ -4,4 +4,4 @@
 
 GUADEC is the annual conference of the GNOME community, held in Europe since 2000.
 
-More information is available at <https://www.guadec.org/>
+More information is available at <https://guadec.org/>

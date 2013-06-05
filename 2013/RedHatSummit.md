@@ -2,7 +2,7 @@
 ## Location: Boston, MA
 ## Date: June 11-14 2013
 
-For more information, check out the website at <http://www.redhat.com/summit/>.
+For more information, check out the website at <http://redhat.com/summit/>.
 
 ## Community Catalysts: The Value of Open Source Community Development
 ### Name: Dave Neary
