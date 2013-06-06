@@ -1,15 +1,15 @@
 # BreizhCamp
 ## Location: Rennes, France
 ## Date: Thu Jun 13 - 14 2013
+## Url: <http://www.breizhcamp.org/home/>
 
 Two days of talks and conference about Ruby Java, Python, Groovy and
 lots of others platforms
 
-More information on http://www.breizhcamp.org/home/ 
 
 ## The Magnificent Java EE 7 
 ### Name: Antoine Sabot-Durand
-### Time: March 26 2013, 11:15 - 11:50
+### Time: March 26 2013, 11:15 - 11:50 CEST
 ### Room: Moléne
 
 This workshop will show how to create a Java EE 7 application step by step,
