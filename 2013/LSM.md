@@ -1,13 +1,11 @@
 # Libre Software Meeting
 ## Location: Brussels, Belgium
 ## Date: July 6 - 11 2013
+## Url: <http://2013.rmll.info/en/>
 
 LSM is a non-commercial cycle of conferences, round tables and practical workshops 
 based on Libre Software and its uses. Its aim is to provide a platform for Libre 
 Software users, developers and stakeholders.
-
-For more information on LSM, visit http://2013.rmll.info/en/
-
 
 ## Negotiation Theory for geeks
 ### Name: Dave Neary
@@ -23,8 +21,8 @@ report and mailing list thread is a negotiation.
 There is a well established, common sense, very effective way to think 
 of negotiations which will help you improve as a developer, and make 
 your project better at the same time, from the Harvard Negotiation 
-Project. In this talk, Leslie Hawthorn will provide an overview of 
-negotiation theory and pointers to further resources. She will also 
+Project. In this talk, Dave Neary will provide an overview of 
+negotiation theory and pointers to further resources. He will also 
 explore the importance of *both* empathy and transparency in our 
 communications as we look to make our free software project communities 
 most successful.
