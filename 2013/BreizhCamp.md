@@ -1,10 +1,11 @@
 # BreizhCamp
 ## Location: Rennes, France
 ## Date: Thu Jun 13 - 14 2013
-## Url: <http://www.breizhcamp.org/home/>
 
 Two days of talks and conference about Ruby Java, Python, Groovy and
 lots of others platforms
+
+For more information, check out the website at <http://www.breizhcamp.org/home/>.
 
 
 ## The Magnificent Java EE 7 
