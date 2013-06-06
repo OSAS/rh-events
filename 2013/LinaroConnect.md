@@ -2,7 +2,7 @@
 ## Location: Dublin, Ireland
 ## Date: July 8 - 12, 2013
 
-Linaro Connect is a semi-quarterly conference that pulls together over 300 participants, ranging from kernel hackers to integration engineers to ARM SoC industry executives to present, discuss and develop features,  infrastructure and optimizations for the Linux kernel, Android, Ubuntu and beyond.  This five-day event is made up of keynote plenary sessions, engineering, track sessions and social events. Linaro Connect is held annually in Asisa, Europe and the United States. More information on Linaro Connect can be found at http://www.linaro.org/connect
+Linaro Connect is a semi-quarterly conference that pulls together over 300 participants, ranging from kernel hackers to integration engineers to ARM SoC industry executives to present, discuss and develop features,  infrastructure and optimizations for the Linux kernel, Android, Ubuntu and beyond.  This five-day event is made up of keynote plenary sessions, engineering, track sessions and social events. Linaro Connect is held annually in Asisa, Europe and the United States. More information on Linaro Connect can be found at <http://www.linaro.org/connect>
 
 ## Keynote Address: Cultivating Community: Best Practices for Overcoming Challenges to Collaboration
 ### Name: Leslie Hawthorn
