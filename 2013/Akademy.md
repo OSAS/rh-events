@@ -28,4 +28,4 @@ Fear not! In this talk, Leslie and Lydia will explore a variety of techniques fo
 
 KScreen is new software for multiple screen management in KDE. It automates switching between multiple monitor configurations. No more manual configuration is needed when a new monitor is plugged in — and no more windows are left on disconnected screens.
 
-In this lightning talk Daniel will shortly introduce KScreen and its features and will peek into future of the project.
+In this lightning talk Daniel will quickly introduce KScreen and its features and will peek into future of the project.
