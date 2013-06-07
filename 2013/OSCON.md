@@ -8,6 +8,30 @@ the publisher O'Reilly Media, and is held each summer in the United States.
 
 For more information, see: <http://oscon.com/oscon2013>
 
+## Choose Your Own Adventure - Growing Your Own Career in Open Source
+### Name: Leslie Hawthorn with Amye Scavarda, Acquia
+### Time:  Thursday July 25, 4:10 pm - 5:40pm PDT
+### Room: D137/138
+
+You’re a fantastic developer/coder of all trades/project manager/designer/sysadmin – but you want to be able to do a little more. Your focus up until this point has been fantastic at learning in your own discipline. Great!
+
+But what if you want to branch out? How do you get from point a to point b of adding additional useful skills? What’s your strategy for being able to choose your next level up? How do you set yourself up to practice the skills you want to learn?
+
+We’ll go through the strategic and tactical steps from choosing your next adventure, gathering your materials and acting on it from both a business perspective of a ‘career track’ as well as ways to be able to participate through open source.
+
+We’ll walk you through both a ‘traditional career track’ and an ‘open source way’ for the following:
+
+* Establishing your current baseline
+* Discovering your options
+* Thinking about what works for you
+* Perspective: short and long term goals
+* Perspective applied: short and long term gains
+* Unexpected adventures/opportunities
+* Re-evaluation levels – your own metrics of success
+
+Plus, it’ll be fun. Everyone will come away with something to work on, and audience participation will be encouraged.
+
+
 ## Hardware Hacking With Your Kids 
 ### Name: Dave Neary
 ### Time:  Thursday July 25, 5:00pm - 5:40pm PDT
