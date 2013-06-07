@@ -6,7 +6,7 @@ Akademy is the annual world summit of KDE, one of the largest Free Software comm
 
 ## Shining Bright, Flaming Out: The Ambitious FOSS Contributor’s Guide to Burnout
 ### Name: Leslie Hawthorn with Lydia Pintscher, KDE & The Wikimedia Foundation
-### Time: July 13, 2013, 15:15 - 15:45 CET
+### Time: July 13 2013, 15:15 - 15:45 CEST
 
 Contributors to free and open source software projects are no strangers to burnout. Whether its feeling burned out ourselves or watching others who have once contributed prolifically to a project fall by the way, its clear that many come to free software for our passions, but can be overwhelmed by its pressures. Failing to address causes of - and cases of - burnout is a great way to increase your project’s bus factor.
 
@@ -15,7 +15,7 @@ In this talk, Leslie and Lydia will explore common causes of contributor burnout
 
 # Negotiation Theory for Geeks: Getting What You Want with a Minimum of Misery
 ### Name: Leslie Hawthorn with Lydia Pintscher, KDE & The Wikimedia Foundation
-### Time: July 14, 2013, 11:55 - 12:25 CET
+### Time: July 14 2013, 11:55 - 12:25 CEST
 
 While it would be great if we could always just all “get along,” we’re all human and we disagree frequently - even with our closest friends and collaborators. While the free software world is full of useful processes and rules to share code, we have no “manual” to teach us how to effectively share our feelings, thoughts and personal preferences. Top that all off with the fact that these less rational areas of our psyches are the wellsprings for our productivity and creativity, and the chances for having an unfun day look a lot higher.
 
@@ -24,7 +24,7 @@ Fear not! In this talk, Leslie and Lydia will explore a variety of techniques fo
 
 # KScreen Lightning Talk
 ### Name: Daniel Vrátil
-### Time: July 14, 2013, 11:55 - 12:25 CET
+### Time: July 14 2013, 11:55 - 12:25 CEST
 
 KScreen is a new software for screen management in KDE. I tries to make lives of those who use multiple monitors and are often switching configuration easier. No more manual configuration whenever a monitor is plugged in, no more windows left on a disconnected screen.
 
