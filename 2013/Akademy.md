@@ -13,7 +13,7 @@ Contributors to free and open source software projects are no strangers to burno
 In this talk, Leslie and Lydia will explore common causes of contributor burnout and how both projects and individuals can avoid these pitfalls. They will also explore how to best handle cases of in-progress burnout - a.k.a. the long slow burn - and tips for mitigating it. Last but not least, they’ll talk about how to reclaim your mojo after suffering burnout, helping attendees reignite their passions whilst not flaming out.
 
 
-# Negotiation Theory for Geeks: Getting What You Want with a Minimum of Misery
+## Negotiation Theory for Geeks: Getting What You Want with a Minimum of Misery
 ### Name: Leslie Hawthorn with Lydia Pintscher, KDE & The Wikimedia Foundation
 ### Time: July 14 2013, 11:55 - 12:25 CEST
 
@@ -22,7 +22,7 @@ While it would be great if we could always just all “get along,” we’re all
 Fear not! In this talk, Leslie and Lydia will explore a variety of techniques for conflict resolution in your free software project. Drawing on a variety of resources including the Harvard Negotiation Project, they will explore strategies for effectively communicating yoru needs, reaching agreement and how to strengthen relationships during contentious discussions. While these lessons will not immediately create a field of sunshine and unicorns in your FOSS project, they will provide a useful framework for agreeing to disagree.
 
 
-# KScreen Lightning Talk
+## KScreen Lightning Talk
 ### Name: Daniel Vrátil
 ### Time: July 14 2013, 11:55 - 12:25 CEST
 
