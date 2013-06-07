@@ -26,6 +26,6 @@ Fear not! In this talk, Leslie and Lydia will explore a variety of techniques fo
 ### Name: Daniel Vrátil
 ### Time: July 14 2013, 11:55 - 12:25 CEST
 
-KScreen is a new software for screen management in KDE. I tries to make lives of those who use multiple monitors and are often switching configuration easier. No more manual configuration whenever a monitor is plugged in, no more windows left on a disconnected screen.
+KScreen is new software for screen management in KDE. KScreen's goal is to ease switching between multiple monitor configurations. No more manual configuration is needed when a new monitor is plugged in — and no more windows are left on disconnected screens.
 
-In this lightning talk Daniel will shortly introduce KScreen and it's features and will peek into future of the project.
+In this lightning talk Daniel will shortly introduce KScreen and its features and will peek into future of the project.
