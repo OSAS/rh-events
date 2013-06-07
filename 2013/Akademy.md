@@ -20,3 +20,12 @@ In this talk, Leslie and Lydia will explore common causes of contributor burnout
 While it would be great if we could always just all “get along,” we’re all human and we disagree frequently - even with our closest friends and collaborators. While the free software world is full of useful processes and rules to share code, we have no “manual” to teach us how to effectively share our feelings, thoughts and personal preferences. Top that all off with the fact that these less rational areas of our psyches are the wellsprings for our productivity and creativity, and the chances for having an unfun day look a lot higher.
 
 Fear not! In this talk, Leslie and Lydia will explore a variety of techniques for conflict resolution in your free software project. Drawing on a variety of resources including the Harvard Negotiation Project, they will explore strategies for effectively communicating yoru needs, reaching agreement and how to strengthen relationships during contentious discussions. While these lessons will not immediately create a field of sunshine and unicorns in your FOSS project, they will provide a useful framework for agreeing to disagree.
+
+
+# KScreen Lightning Talk
+### Name: Daniel Vrátil
+### Time: July 14, 2013, 11:55 - 12:25 CET
+
+KScreen is a new software for screen management in KDE. I tries to make lives of those who use multiple monitors and are often switching configuration easier. No more manual configuration whenever a monitor is plugged in, no more windows left on a disconnected screen.
+
+In this lightning talk Daniel will shortly introduce KScreen and it's features and will peek into future of the project.
