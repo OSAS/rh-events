@@ -16,13 +16,8 @@ An in-depth workshop demonstrating the added value of using Tycho
 when developing Eclipse based products. The following topics will 
 be covered
 
-    * Build your first Tycho based product
-
-    * Use Tycho to validate against various Eclipse versions
-
-    * Unit testing with JUnit and SWTBot
-
-    * Continuous integration with Jenkins
-
-    * Team collaboration
-
+  * Build your first Tycho based product
+  * Use Tycho to validate against various Eclipse versions
+  * Unit testing with JUnit and SWTBot
+  * Continuous integration with Jenkins
+  * Team collaboration
