@@ -1,4 +1,4 @@
-# linux.conf.au 2013
+# linux.conf.au
 ## Location: Canberra, Australia
 ## Date: January 28 - February 1, 2013
 
