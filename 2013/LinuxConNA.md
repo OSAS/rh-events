@@ -121,3 +121,64 @@ authentication and identity management solution comparable to Active
 Directory in its capabilities but focusing primarily on the identity
 management needs of the Linux and UNIX client systems.
 
+## Private Could SLA
+### Name: Greg Padgett
+### Time: September 17, 2013 11:45 EST
+
+Maintaining QoS in cloud computing requires host-level monitoring and
+policy enforcement. In order to be able to scale up large setups, a
+host-level agent is needed to supervise and dynamically handle the VMs
+resource consumption based on the SLA policy.  In this session we'll
+take oVirt as an example of private cloud with a need for SLA. We'll
+look into SLA challenges of the cloud, and then at MoM as a host-level
+enforcement agent. As an agent we'll review MoM's integration with VDSM
+and policies. Participants will be able to get insights cloud SLA
+challenges, ans some resolutions such as memory overcommitment in
+hypervisors.
+
+## Build Your Own PaaS, Just Like Red Hat's OpenShift
+### Name: Diane Mueller
+#### Time: September 17, 2013 15:10 EST
+
+It's finally here! OpenShift is built on open source and here's your
+chance to learn how to take the code and projects that power OpenShift
+to build your own PaaS. Come check out this session with Grant Shipley
+from the OpenShift team to learn where to download, how to install, and
+how to configure and deploy onto your local machine(s). We'll cover the
+fundamentals of how to deploy apps onto your PaaS to make it do
+something useful for you. We'll cover ways to extend your PaaS by adding
+support for customized middleware, databases, frameworks and languages. 
+
+## Raspberry Pi: Getting Started and Creative Applications
+### Name: Ruth Suehle
+### Time: September 17, 2013 16:10 EST
+
+The Raspberry Pi was designed as an inexpensive device to teach kids
+Python. It's become a device of choice for hardware tinkerers and
+hackers of all sorts of experience levels to integrate a fully
+functional Linux computer into their projects. I'll give you some
+inspiration with a few project ideas. Then I'll start with the basic,
+most important Pi tricks, like making sure you have the right SD card
+and that you've chosen the best distro for the job you intend to do up
+through some more challenging problems, like what happens when you need
+to build a cross-compiler or a custom kernel. Not that those things are
+crucial to having fun with a Pi, and whether you're new to the board or
+already used it to power your home automation system, you'll learn a few
+new ideas in this session. 
+
+## Storage Management: Pulling Together Management Across the Cloud and Bare Metal
+### Name: Ric Wheeler
+### Time: September 17, 2013 17:10 EST
+
+Managing storage resources in Linux has traditionally been the realm of
+storage teams with deep expertise in the magic of external and internal
+RAID arrays and external filers. Technologies like hyper-scale,
+openstack and virtualization make it harder than ever to provision,
+manage during run time and repair storage. This talk will give a
+detailed overview of several upstream projects that are working on
+providing all of these environments, as well as traditional bare metal
+servers, an easy to use way to set up, run and debug storage and file
+systems. Status updates on the component projects and their roadmaps
+will also be shared.
+
+
