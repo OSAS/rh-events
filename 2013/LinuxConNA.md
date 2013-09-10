@@ -11,7 +11,7 @@ http://events.linuxfoundation.org/events/linuxcon-north-america.
 
 ## Everything I Know About the Cloud, I Learned From Game of Thrones
 ### Name: Joe Brockmeier
-### Time: September 18, 2013 14:00pm EST
+### Time: September 18, 2013 14:00 EST
 
 George R. R. Martin's "A Song of Ice and Fire" series, and the HBO
 television series, make for great entertainment - if a little bloody and
