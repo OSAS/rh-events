@@ -181,4 +181,41 @@ servers, an easy to use way to set up, run and debug storage and file
 systems. Status updates on the component projects and their roadmaps
 will also be shared.
 
+## Linux Kernel Developer Panel
+### Name: Ric Wheeler, Greg Kroah-Hartman
+### Time: September 18, 2013 9:35 EST
+
+A roundtable discussion on the Linux Kernel.
+
+## Clouds, Virtualization and SDN Panel
+### Name: Chris Wright
+### Time: September 18, 2013 10:50 EST
+
+We take this opportunity at the CloudOpen Event to bring together
+networking experts from OpenStack and CloudStack to discuss their most
+pressing problems in virtual networking with some of the leaders of the
+OpenDaylight SDN Controlller project. OpenDaylight should become a key
+foundational component of modern Cloud deploymemnts bringing much needed
+flexibility, features, and performance to both virtual networks, and the
+physical networks on which they reside. Bring your questions and
+suggestions on how OpenDaylight should evolve to best serve cloud
+environments in service providers and enterprises alike.
+
+## How Platform-as-a-Serivice Benefits More Than Developers
+### Name: Gordon Haff
+### Time: September 18, 2013 14:00 EST
+
+PaaS has rightly been celebrated as a way to increase developer
+productivity and thereby help companies get the new applications and
+services they need online (and making money) faster. But PaaS goes
+beyond developers and beyond dev/test. Efficient application
+multi-tenancy and auto-scaling are also key features for production
+environments. Furthermore, PaaS also means that platform changes can
+happen without affecting developers, a big win for architects and
+procurement officers. In short, PaaS is for everyone. This session will
+help attendees understand how the PaaS landscape is evolving to provide
+solutions with appeal across many facets of the IT organization and
+beyond. It will touch on key technical enablers that are making this
+possible but will focus predominantly on how organizations are using
+PaaS today and the benefits that they are seeing by doing so.
 
