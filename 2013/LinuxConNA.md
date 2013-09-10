@@ -7,7 +7,7 @@ LinuxCon is the Linux Foundation's North American Linux conference, covering all
 Rich Bowen will be at LinuxCon NA, at the OpenStack booth, representing the OpenStack and the RDO team.
 
 For more details on LinuxCon NA, visit the conference website at
-http://events.linuxfoundation.org/events/linuxcon-north-america.
+<http://events.linuxfoundation.org/events/linuxcon-north-america>.
 
 ## Everything I Know About the Cloud, I Learned From Game of Thrones
 ### Name: Joe Brockmeier
