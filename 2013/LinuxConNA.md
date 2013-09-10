@@ -16,7 +16,7 @@ For more details on LinuxCon NA, visit the conference website at
 ### Time: September 18, 2013 14:00 EST
 
 George R. R. Martin’s “A Song of Ice and Fire” series, and the HBO
-television series, make for great entertainment — if a little bloody and
+television series, makes for great entertainment — if a little bloody and
 short on happy endings. Though the “Game of Thrones” characters inhabit
 a universe that hasn’t even seen gunpowder yet, a lot of the lessons
 learned in GoT also apply to building, deploying, and maintaining an
