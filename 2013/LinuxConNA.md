@@ -113,7 +113,7 @@ industry, including:
 
 ## Enterprise Identity Management with Open Source Tools
 ### Name Dmitri Pal
-### Time: Semtember 16, 2013 17:10 EST
+### Time: September 16, 2013 17:10 EST
 
 The talk will cover the FreeIPA and partially SSSD projects introducing
 FreeIPA as the first fully functional open source centralized
