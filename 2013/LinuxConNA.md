@@ -138,7 +138,7 @@ hypervisors.
 
 ## Build Your Own PaaS, Just Like Red Hat's OpenShift
 ### Name: Diane Mueller
-#### Time: September 17, 2013 15:10 EST
+### Time: September 17, 2013 15:10 EST
 
 It's finally here! OpenShift is built on open source and here's your
 chance to learn how to take the code and projects that power OpenShift
