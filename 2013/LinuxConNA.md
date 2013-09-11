@@ -5,8 +5,7 @@
 LinuxCon is the Linux Foundation's North American Linux conference,
 covering all topics Linux-related.
 
-Rich Bowen will be at LinuxCon NA, at the OpenStack booth, representing
-the OpenStack and the RDO team.
+Numerous Red Hat employees will be speaking and attending.
 
 For more details on LinuxCon NA, visit the conference website at
 <http://events.linuxfoundation.org/events/linuxcon-north-america>.
