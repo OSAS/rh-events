@@ -8,7 +8,7 @@ Google Hangout Series for RDO.
 ### Name: Dave Neary
 ### Time: Tuesday September 24, 12:00pm EST
 
-<https://plus.google.com/events/cph9aq3a6ag1lb17g3gsvaiiljg>
+Hangout: <https://plus.google.com/events/cph9aq3a6ag1lb17g3gsvaiiljg>
 
 A short overview of networking in OpenStack, the relative roles of
 Neutron, OVS, a little bit on where OpenDaylight and OpenFlow fit into
