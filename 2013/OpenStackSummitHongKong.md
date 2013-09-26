@@ -2,6 +2,12 @@
 ## Location: Hong Kong
 ## Date: November 6 - 8 2013
 
+The OpenStack Summit, November 5-8, 2013, brings together the brightest
+technical minds to discuss the future of cloud computing. With OpenStack
+software quickly gaining adoption around the world, the Summit will
+feature case studies, visionary keynotes, hands-on workshops and
+technical sessions for cloud operators and developers. 
+
 For more information, check out the website at <http://www.openstack.org/summit/openstack-summit-hong-kong-2013/>
 
 ## Ceilometer+Heat=Alarming
