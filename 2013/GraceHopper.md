@@ -1,6 +1,6 @@
 # Grace Hopper Celebration
 ## Location: Minneapolis, Minnesota USA
-## Date: Wednesday, October 2 - Saturday, October 5
+## Date: October 2 - October 5 2013
 
 The Grace Hopper Celebration is the world's largest conference of technical women in computing. Several women from Red Hat will be in attendance at the conference, and Red Hat will also have a booth at the career fair. Please stop by booth 922 to say hi, learn about the open source communities and projects Red Hat is involved in, and - most importantly - learn about great technical opportunities for you at Red Hat!
 
