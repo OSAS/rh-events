@@ -13,3 +13,5 @@ community, governance, licensing and the like down to its basic components.
 ### Name: Jim Jagielski
 ### Room: Business
 ### Time: Wed Oct 23 2013, 11:15 - 12:00 EDT
+
+Free Software and Open Source can be a complex topic, what with all the various types of licenses and governance models and whatnot. In this session, Jim will simplify what Free Software and Open Source is all about down to their main essentials giving you a better understanding behind this powerful and influential topic.
