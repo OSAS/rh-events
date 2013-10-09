@@ -8,3 +8,8 @@ Join the world's top developers, technologists and decision makers as we explore
 Jim Jagielski of the Open Source and Standards team will once again be presenting at All Things Open.
 His session will focus on boiling down the various complex varieties of
 community, governance, licensing and the like down to its basic components.
+
+## Three is a Magic Number
+### Name: Jim Jagielski
+### Room: Business
+### Time: Wed Oct 23 2013, 11:15 - 12:00 EDT
