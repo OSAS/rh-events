@@ -9,4 +9,4 @@ that 3 more rooms with workshops and hackfests.
 
 With around 700 participants DevConf.cz is one of the biggest events about free
 software in the Czech Republic. You might check out photos, videos and
-blogposts about past conferences on http://devconf.cz/
+blogposts about past conferences on <http://devconf.cz/>
