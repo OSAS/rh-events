@@ -1,7 +1,8 @@
 # Cloud & IT Expo
 ## Location: Paris, France
 ## Date: October 16-17, 2013
-## Site: http://www.cloud-and-it-expo.fr
+
+For more details, please see <http://www.cloud-and-it-expo.fr>
 
 
 ## Round table: Cloud computing : vers davantage de transparence et de maturité pour rassurer les clients 
