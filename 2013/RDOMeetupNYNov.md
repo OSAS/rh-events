@@ -6,7 +6,7 @@ OpenStack New York Meetup. More details at <http://www.meetup.com/OpenStack-New-
 
 ## OpenStack Hands On Lab
 ### Name: Dan Radez
-### Time: Tue Nov 21 2013, 18:00 - 20:00 
+### Time: Tue Nov 21 2013, 18:00 - 20:00
 
 Bring your laptops and Join us as Dan Radez, from Red Hat shows us how
 to install and configure OpenStack. This presentation includes a demo of
@@ -16,5 +16,5 @@ on their laptops.
 In preparation for the meetup, please read and follow the instructions
 at <http://openstack.redhat.com/GettingStartedHavana_w_GRE> prior to the
 meetup.  Please note that web page is a work in progress and may be
-updated prior to the meetup. 
+updated prior to the meetup.
 
