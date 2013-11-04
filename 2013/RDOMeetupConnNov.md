@@ -14,7 +14,7 @@ RDO and the opportunity for our meetup participants to install OpenStack
 on their laptops.
 
 In preparation for the meetup, please read and follow the instructions
-at http://openstack.redhat.com/GettingStartedHavana_w_GRE prior to the
+at <http://openstack.redhat.com/GettingStartedHavana_w_GRE> prior to the
 meetup.  Please note that web page is a work in progress and may be
 updated prior to the meetup. 
 
