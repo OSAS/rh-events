@@ -1,5 +1,5 @@
 # POSSCON 2013
-## Date: March 27, 28 2013
+## Date: March 27 - 28 2013
 ## Location: Columbia, South Carolina
 ## URL: <http://posscon.org/>
 

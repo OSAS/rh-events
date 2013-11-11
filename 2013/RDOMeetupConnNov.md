@@ -1,12 +1,12 @@
 # OpenStack Hands On Lab
 ## Location: Rocky Hill, CT
-## Date: Wed Nov 20, 2013
+## Date: Nov 20 2013
 
 OpenStack Connecticut Meetup. More details at <http://www.meetup.com/Openstack-Connecticut/events/143713952/>
 
 ## OpenStack Hands On Lab
 ### Name: Dan Radez
-### Time: Tue Nov 20 2013, 18:00 - 20:00
+### Time: Nov 20 2013 18:00 - 20:00
 
 Bring your laptops and Join us as Dan Radez, from Red Hat shows us how
 to install and configure OpenStack. This presentation includes a demo of
