@@ -6,7 +6,7 @@ OpenStack Philly Meetup. More details at <http://www.meetup.com/Philly-OpenStack
 
 ## OpenStack Hands On Lab
 ### Name: Dan Radez
-### Time: Tue Nov 19 2013, 18:00 - 20:00
+### Time: Tue Nov 19 2013, 18:00 - 20:00 EST
 
 Bring your laptops and Join us as Dan Radez, from Red Hat shows us how
 to install and configure OpenStack. This presentation includes a demo of
