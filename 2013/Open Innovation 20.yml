@@ -2,22 +2,17 @@ name: Open Innovation 2.0
 location: Dublin, Ireland
 start: 2013-05-20
 end: 2013-05-21
+description: |
+  Jim Jagielski of the Open Source and Standards team will be speaking
+  about how Open Source drives Open Innovation and the Lessons Learned
+  from decades on the FOSS world.
+
+  Additional information at <http://oi2dublin2013.eventbrite.ie/>
 
 talks:
 
-- title: 'URL:'
-  speaker: 
-  start: 
-  end: 
-  description: |
-    Jim Jagielski of the Open Source and Standards team will be speaking
-    about how Open Source drives Open Innovation and the Lessons Learned
-    from decades on the FOSS world.
-
 - title: Sustainable Economy & Society
   speaker: OI 2.0 Collaboration Partners
-  start: 
-  end: 
   description: |
     Open Innovation 2.0: Sustainable Economy & Society is a collaboration
     between the European Commission Open Innovation and Strategy Policy
