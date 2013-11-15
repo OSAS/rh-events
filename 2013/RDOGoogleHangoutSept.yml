@@ -1,0 +1,25 @@
+name: RDO Neutron Networking Google Hangout
+location: Google Hangout
+start: 2013-09-24
+description: Google Hangout Series for RDO.
+
+talks:
+
+- title: OpenStack Networking with Neutron and RDO
+  speaker: Dave Neary
+  start: 2013-09-23 22:00 EDT
+  end: 2013-09-23 22:00 EDT
+  description: |
+    Hangout:
+    <https://plus.google.com/events/cph9aq3a6ag1lb17g3gsvaiiljg>
+
+    A short overview of networking in OpenStack, the relative roles of
+    Neutron, OVS, a little bit on where OpenDaylight and OpenFlow fit into
+    the equation, and then a walk-through of the basic L2 & L3 workflows
+    that people usually want to do in Neutron, and work through a couple of
+    common situations where people have trouble ("Can't ping my VM, can't
+    associate floating IP") and the tools you might use to debug and fix
+    these problems.
+
+    We'll have a lot of time for Q&A, and we will have OpenStack networking
+    experts from Red Hat on-hand to help with those.

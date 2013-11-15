@@ -1,0 +1,566 @@
+name: FOSDEM
+location: Brussels, Belgium
+start: 2013-02-02
+end: 2013-02-03
+description: |
+  The Free and Open source Software Developers’ European Meeting (FOSDEM)
+  is a two-day event organized by volunteers to promote the widespread use
+  of Free and Open Source software. For more information on FOSDEM, [visit
+  the conference website](http://fosdem.org/).
+
+talks:
+
+- title: QEMU USB status report 2012
+  speaker: Hans de Goede
+  start: 2013-02-02 11:00 CET
+  end: 2013-02-02 11:30 CET
+  description: |
+    This talk gives an overview on the state of the QEMU USB subsystem. What
+    happened last year? What are the plans for the future? Where do we stand
+    in terms of USB 3.0 support?
+
+    The intended audience are people who are interested in USB in virtual
+    machines (vusb) both developers and users. The audience is expected to
+    be familiar with generic virtualization concepts, but no deep technical
+    knowledge is required.
+
+    Speaker self introduction: Hans has been a Linux developer since 1996,
+    working on a wide variety of projects, including maintaining 200
+    packages in Fedora, various hwmon kernel drivers, rewriting and merging
+    many out of tree webcam drivers into the mainline kernel, libv4l a
+    userspace library to transparently handle the decompression of many
+    proprietary webcam video formats in userspace.
+
+    Since 2008 Hans works for Red Hat, besides continuing all the FOSS work
+    he did before, at Red Hat he has worked on anaconda the Fedora / Red Hat
+    installer, parted (the partition tool) and currently works on Spice and
+    USB-redirection under QEMU.
+
+    Links:
+
+    * <http://wiki.qemu.org/Main_Page>
+    *
+    <http://git.qemu.org/?p=qemu.git;a=summary>
+    *
+    <http://fedoraproject.org/wiki/Features/UsbNetworkRedirection>
+
+    Related projects:
+
+    * spice:
+      * <http://spice-space.org/>
+    *
+    <http://cgit.freedesktop.org/spice/>
+
+- title: Using Personas to Target Users
+  speaker: Dave Neary
+  start: 2013-02-02 12:15 CET
+  end: 2013-02-02 12:40 CET
+  description: |
+    Personas were made famous by Alan Moore in "The Inmates are Running the
+    Asylum", a seminal book on user interface design for computer
+    programmers. They have been used for decades in the marketing industry
+    to help target specific market segments with ads and products. Personas
+    help you frame feature discussions while developing your software, guide
+    your communication and conference strategy, and ultimately help you to
+    have a more popular, better project.
+
+    This presentation will cover the basics of:
+
+    * What is a persona?
+    * How do I come up with one (or several) for my project?
+    * What can I do with them?
+
+- title: (R)evolution of Java Packaging in GNU/Linux
+  speaker: Mikołaj Izdebski and Stanislav Ochotnický
+  start: 2013-02-02 12:30 CET
+  end: 2013-02-02 13:00 CET
+  description: |
+    Java packaging in Linux has never been trivial. Partially due to strict
+    principles that most Linux distributions adhere to, partially due to
+    Java ecosystem encouraging behavior which goes against these principles,
+    but mostly due to ineffective tooling on both sides of the fence.
+
+    Over past 2 years, tooling and guidelines for packaging Java have
+    changed in Fedora Linux considerably. What used to be a 1000 line build
+    script can soon become 100 lines of mostly metadata. But all of that
+    relies on sane build system with predictable behavior on Java side:
+    Maven.
+
+    During the course of the talk we will clean up one such build script and
+    describe how each change was made possible. Most importantly we hope to
+    convince the audience that for common good, using Maven for Java
+    development even with all its quirks is better than the alternatives. A
+    wider discussion on Java build systems would also be welcome.
+
+- title: oVirt Live Storage Migration -- Under The Hood
+  speaker: Federico Simoncelli
+  start: 2013-02-02 13:30 CET
+  end: 2013-02-02 14:00 CET
+  description: |
+    Live storage migration, one of the newest features introduced in oVirt,
+    is the capability of moving virtual disks from one storage device to
+    another without interrupting the guest operations. This presentation
+    will cover in detail the entire low level design and implementation and
+    all the technical challenges associated with them. In a virtualization
+    world where the guest services cannot be stopped for maintenance, live
+    storage migration is the best tool you can have.
+
+- title: Porting OpenJDK to AArch64
+  speaker: Andrew Haley and Andrew Dinn
+  start: 2013-02-02 14:00 CET
+  end: 2013-02-02 14:40 CET
+  description: "ARM's new, 64 bit ARMv8 architecture, is a break from the past in
+    two\nregards. The change of scale from 32 to 64 bit implies a broadening of\nARM's
+    target market from (mostly) embedded devices to address the\nrequirements of high
+    end consumer devices and servers. The 64 bit mode\n(AArch64) programming model
+    is significantly different from the existing\n32 bit model.\n\nIf ARM's change
+    of direction does indeed grab a significant share of\nthis market then there are
+    two corresponding implications for the Free\nJava community. We need a high quality
+    free Java implementation to\nensure that the market is not colonised solely by
+    commercial Java\nvendors. We need to provide this implementation from scratch
+    rather than\ntry to modify existing 32 bit Java implementations.\n\nRed Hat has
+    decided to port OpenJDK to AArch64 precisely to meet these\nimplications head
+    on.\n\nThis talk will describe the significant progress we have made in porting\nOpenJDK
+    to AArch64 since the project began in earnest in July 2012, even\nthough real
+    hardware is not yet available and will not be for many\nmonths to come.\n\nDuring
+    the talk we will:\n\n-  \n\nOutline our plan for converting the runtime JIT components
+    of OpenJDK to\ngenerate AArch64 code -- the (generated AArch64 code) template\ninterpreter
+    and the C1/C2 JIT compilers\n\n-  \n\nExplain how we have already managed to execute
+    and debug generated ARM\ncode using our own ARMv8 functional simulator integrated
+    into an x86 JVM\n\n-  \n\nDisplay execution of a Java program using the template
+    interpreter\nrunning on our simulator\n\n-  \n\nShow both ARM instruction-level
+    and Java bytecode-level stepping and\ndebugging of generated code within gdb"
+
+- title: LNST - Automated and Portable Network Tests
+  speaker: Radek Pazdera
+  start: 2013-02-02 14:20 CET
+  end: 2013-02-02 15:00 CET
+  description: |
+    In this presentation, we would like to introduce a tool we have been
+    working on for the last couple of months. Our main goal is to make
+    networking tests and reproducers as automated and portable as possible.
+
+    Testing network stacks requires a fair amount of configuration to be
+    done on multiple machines. The configuration itself is a part of the
+    test. However, it is often highly dependent on the environment and
+    unfortunately, when the environment changes (due to move to a different
+    hardware/site, changes in the addressing, or simply updates of the
+    operating system) the configuration often breaks.
+
+    With LNST, we try to overcome these problems of transferring network
+    configuration between different environments. We will demonstrate the
+    ideas and the concepts we are working with, as well as the features that
+    are a part of Linux Network Stack Test.
+
+    Project website:
+    <https://fedorahosted.org/lnst/>
+
+- title: MoM as host level enforcement agent
+  speaker: Doron Fediuck
+  start: 2013-02-02 14:30 CET
+  end: 2013-02-02 15:00 CET
+  description: |
+    Maintaining QoS in cloud computing requires host-level monitoring and
+    policy enforcement. In order to be able to scale up large setups, a
+    host-level agent is needed to supervise and dynamically handle the VMs
+    resource consumption based on the SLA policy.
+
+    In this session we'll look at MoM, and get in-depth view of its
+    integration with VDSM and functionalities. Participants will be able to
+    get insights on memory overcommitment in hypervisors and the way memory
+    balloon device is being used to achieve overcommitment.
+
+- title: oVirt introduction
+  speaker: Doron Fediuck
+  start: 2013-02-02 15:30 CET
+  end: 2013-02-02 16:00 CET
+  description: |
+    This session will provide an intro to the oVirt project components and
+    features. The oVirt Project is an open virtualization project providing
+    a feature-rich server and desktop virtualization management platform
+    with advanced capabilities for hosts and guests, including high
+    availability, live migration, storage management, system scheduler, and
+    more. oVirt provides an integration point for several open source
+    virtualization technologies, including KVM, libvirt, spice and oVirt
+    node. oVirt was launched in November 2011 as a fully open source
+    project, based on assets from Red Hat Enterprise Virtualization Manager
+    platform. The project has an open governance model, and initial board
+    has members from IBM, Cisco, NetApp, Red Hat and SUSE.
+
+- title: Return of the Shark
+  speaker: Roman Kennke
+  start: 2013-02-02 15:40 CET
+  end: 2013-02-02 16:10 CET
+  description: |
+    Since mid-2011 (when Gary Benson, the original author of Zero/Shark)
+    left Red Hat's Java team), the Zero interpreter and Shark compiler have
+    been basically unmaintained. A few months ago I picked up the project
+    and fixed the outstanding issues (related to changes in Hotspot and
+    LLVM) and started implementing a couple of significant improvements.
+
+    This talk will give a short summary about what Zero and Shark actually
+    are, how they work, why they are relevant (even in the face of upcoming
+    full ports for PowerPC and others), how it fits in the OpenJDK
+    ecosystem, and then describe some of the more interesting details about
+    what I did, in particular improved support for atomic operations, JSR
+    292/invokedynamic, interesting optimizations in both the compiler and
+    the interpreter and more. Hopefully I will be able to present some
+    interesting ports to other platforms like ARM or PowerPC, some
+    benchmarks results as well as results from testsuites (TCK?). Finally,
+    I'll give an outlook to the future, things that need to be done, open
+    improvements, optimizations, etc.
+
+- title: 'Community Management in Meatspace: Techniques for Discussion & Achieving
+    Consensus'
+  speaker: Leslie Hawthorn (with Lydia Pintscher, KDE & Wikimedia)
+  start: 2013-02-02 15:55 CET
+  end: 2013-02-02 16:20 CET
+  description: |
+    Headed to your annual developer conference and there’s a contentious
+    topic on everyone’s mind? Wondering how to get past the airing of
+    grievances into a useful discussion?
+
+    In this talk, Lydia Pintscher and Leslie Hawthorn will explore
+    facilitation techniques to use during community wide discussions.
+    Drawing on the principles of [open space
+    technology](http://en.wikipedia.org/wiki/Open-space_technology) they
+    will explore several methods for achieving consensus while still having
+    fun, including:
+
+    * Spectragrams
+    * Dot-o-cracy
+    * Post-It
+    * Mind mapping
+    * more
+
+    The talk will be accompanied by live demos of each technique. Audience
+    participation will be requested but not required. Participants who wish
+    to learn more about the topics to be discussed in advance of the
+    presentation may wish to visit [the Aspiration Technology
+    wiki](http://facilitation.aspiration.org) for more details.
+
+    For more information, including speaker bios, [visit the conference
+    website](https://fosdem.org/2013/schedule/track/community%3Cem%3Edevelopment%3C/em%3Eand_marketing/).
+
+- title: oVirt and GlusterFS integration
+  speaker: Doron Fediuck
+  start: 2013-02-02 16:00 CET
+  end: 2013-02-02 16:30 CET
+  description: |
+    GlusterFS is a distributed file system that can scale to several
+    petabytes. oVirt is a management platform for Kernel based Virtual
+    Machine (KVM) and can be used to manage GlusterFS as well.
+
+    This talk will focus on GlusterFS integration with oVirt. GlusterFS and
+    KVM virtualization users and developers will be able to get more
+    information on GlusterFS concepts, enabling it in oVirt for
+    virtualization, a short overview of oVirt and VDSM architecture
+    including VDSM storage concepts. This will be followed by GlusterFS as a
+    VDSM Storage Domain, as well as GlusterFS domain support in oVirt
+    engine.
+
+- title: Trends in Open Source Security
+  speaker: Florian Weimer
+  start: 2013-02-02 16:00 CET
+  end: 2013-02-02 16:50 CET
+  description: |
+    This presentation examines current challenges in Open Source security
+    and sketches ideas to address them.
+
+    Linux distributions deal with a large number of code bases predominantly
+    written by others, some of them huge. This makes it difficult to address
+    vulnerabilities in a consistent fashion. There is increasing demand for
+    difficult-to-use technology, such as cryptography, and more and more
+    upstream projects are forced to deal with vulnerabilities in their code.
+
+- title: How to build an Identity Management System on Linux
+  speaker: Simo Sorce
+  start: 2013-02-02 17:00 CET
+  end: 2013-02-02 17:50 CET
+  description: |
+    How do you build a comprehensive and coherent Identity Management System
+    on Linux? This is the question I started answering 7 years ago when I
+    joined Red Hat, and is still being worked on today. In this talk I will
+    present a broad overview of all the aspects of Identity Management that
+    need to be considered to have a full end-to-end solution, for the server
+    components (Kerberos, LDAP, DNS, Management components, etc..) that are
+    managed under the umbrella of the FreeIPA project to the client
+    components (SSSD and utilities) and all the other hidden parts (like
+    GSS-Proxy, Samba libraries) that are normally not easily visible but
+    that become needed once you get down to playing with the bits. The talk
+    will go down into the technical details and the whys and hows of the
+    whole architecture.
+
+- title: Supporting and Using EC2/CIMI on top of Cloud Environments
+  speaker: Oved Ourfali
+  start: 2013-02-02 17:30 CET
+  end: 2013-02-02 18:00 CET
+  description: |
+    In this presentation I'll describe some standard and common cloud APIs
+    such as EC2 and CIMI, and show how one can use Deltacloud in order to
+    support them on top of cloud environments. As an example, I'll show how
+    to add this support and use it on top of the oVirt engine.
+
+- title: OpenJDK Governing Board Q&A
+  speaker: Andrew Haley (with Mark Reinhold, Georges Saab and Doug Lea)
+  start: 2013-02-02 18:25 CET
+  end: 2013-02-02 19:00 CET
+  description: An open Q&A session with members of the OpenJDK Governing Board.
+
+- title: Using Foreman from the oVirt-engine Administrator UI
+  speaker: Oved Ourfali
+  start: 2013-02-02 18:30 CET
+  end: 2013-02-02 19:00 CET
+  description: |
+    In this presentation I'll show how one can use the new oVirt-Engine
+    UI-Plugin infrastructure, to add a Foreman-UI-plugin, that allows
+    querying Foreman information on oVirt entities, and preform different
+    Foreman-related operations on them.
+
+- title: 'OpenStack: 21st Century App Architecture and Cloud Operations'
+  speaker: Mark McLoughlin
+  start: 2013-02-03 10:00 CET
+  end: 2013-02-03 10:25 CET
+  description: |
+    The advent of IaaS has brought about a new style of application
+    architecture built around the idea that the components of your
+    architecture should be fine-grained programmable resources. This allows
+    applications to be resilient and scalable, but also allows the operation
+    of the application to be fully automated.
+
+    Mark will discuss how OpenStack was designed from the ground up with
+    these same principles in mind and can be deployed in a highly resilient
+    and fault tolerant manner. Mark will go on to explain how you should aim
+    to build on OpenStack's architecture so that operating an OpenStack
+    cloud is as automated as operating a modern cloud based application.
+
+- title: 'Invokedynamic: Tales from the Trenches'
+  speaker: Charles Nutter
+  start: 2013-02-03 10:00 CET
+  end: 2013-02-03 10:40 CET
+  description: |
+    A tale of sadness and a tale of joy: the tale of invokedynamic use in
+    JRuby and a few other projects since the first prototypes dropped in
+    2008. I started experimenting with invokedynamic in JRuby in version
+    1.1.5, early in the JSR-292 process, and kept up with changes as they
+    arrived. Today, JRuby utilizes invokedynamic for several aspects of the
+    Ruby language, and we're finding more ways to use it every day. I'll
+    talk about where we've been and where we're going...what works and what
+    doesn't...and how to understand everything happening under the covers.
+
+- title: Managing Your Metal Flexibly
+  speaker: Greg Sutcliffe
+  start: 2013-02-03 11:00 CET
+  end: 2013-02-03 11:35 CET
+  description: |
+    The Foreman is adding a Metal-as-a-Service feature in the near future.
+    In this lightning talk, we'll show the current status of the work, and
+    discuss where it's heading to eventually.
+
+- title: systemd, Two Years Later
+  speaker: Lennart Poettering
+  start: 2013-02-03 12:00 CET
+  end: 2013-02-03 12:50 CET
+  description: |
+    The systemd project is now two years old (almost three). It found
+    adoption as the core of many big community and commercial Linux
+    distributions. It's time to look back what we achieved, what we didn't
+    achieve, how we dealt with the various controversies, and what's to come
+    next.
+
+- title: Apache Deltacloud API v1.0
+  speaker: Michal Fojtik
+  start: 2013-02-03 12:00 CET
+  end: 2013-02-03 12:25 CET
+  description: |
+    Deltacloud API prevents you from cloud vendor lock-in and cloud API
+    changes. With Deltacloud you can speak up to 18 different cloud
+    providers using one single API. Deltacloud now officially support the
+    CIMI API as a new industry standard for cloud computing and also
+    non-officially Amazon EC2 query API.
+
+- title: 'Thermostat: The road from 0.1 to 1.0, a success story (in progress)'
+  speaker: Mario Torre and Roman Kennke
+  start: 2013-02-03 12:30 CET
+  end: 2013-02-03 13:00 CET
+  description: |
+    Last year, we shared with the Free Java and the global OSS community our
+    vision for a new open source monitoring and instrumentation tool for
+    anyone running an open Java stack, along with our fledgeling
+    implementation. Since then, we've been hard at work making this vision a
+    reality. Our project has undergone various transformations, including
+    becoming modular not just in terms of deployment but also from a source
+    code perspective with the help of OSGi, a complete overhaul of the API
+    for extending Thermostat, and an amazing visual makeover -- attendees
+    from last year may have trouble recognizing it on sight. Along the way
+    we've also added new, compelling features such as detailed thread
+    monitoring, heap dump and analysis, an Eclipse plugin interface, and
+    more functionality available from the command line. Of course, we also
+    had a lot of fun doing it.
+
+    In our talk, we will describe the current state of Thermostat, give a
+    demo of what you can do out of the box, and build a toy plugin on the
+    spot so that attendees can see how easy it is to add custom
+    instrumentation.
+
+- title: Build and deploy your app on your own cloud with OpenShift Origin
+  speaker: Xavier Coulon
+  start: 2013-02-03 12:30 CET
+  end: 2013-02-03 12:55 CET
+  description: |
+    So, you have a crazy new idea you'd like to try but you need an
+    application server to run it? Of course, you also need to store your
+    data in MySQL, PostgreSQL... or maybe even in MongoDB? Are you also
+    looking for Continuous Integration?
+
+    In this session, you'll see how OpenShift Origin, Red Hat's open source
+    PaaS lets you easily deploy your Java, Node.js, PHP, Ruby or Python
+    applications on your own infrastructure. You'll also see how it
+    integrates with JBoss Tools to seamlessly code and then publish without
+    leaving your Eclipse IDE.
+
+- title: Well-typed UNO
+  speaker: Stephan Bergmann
+  start: 2013-02-03 13:00 CET
+  end: 2013-02-03 13:40 CET
+  description: |
+    In the LibreOffice component architecture, with UNO service information
+    changed from active to passive, XML-based representation a while ago,
+    UNO type information is the remaining topic that needs some love,
+    clean-up, and improvement. From a curiously verbose UNOIDL syntax, to
+    the awkward binary .rdb format, to the fact that type information is
+    duplicated in different formats for binary UNO and Java UNO, all the way
+    to the still unsolved great challenge of becoming incompatible
+    compatibly, etc. etc. -- you get the idea.
+
+- title: Image management in a federated cloud environment
+  speaker: Martyn Taylor
+  start: 2013-02-03 13:30 CET
+  end: 2013-02-03 13:55 CET
+  description: |
+    In a world where Cloud IaaS providers are popping up on every street
+    corner, it becomes increasingly important to prevent vendor lock-in.
+    Several efforts are already underway in projects like Deltacloud to help
+    abstract away the differences in APIs and allow consumers to be cloud
+    agnostic.
+
+    However, the desire for cloud agnosticism becomes increasingly
+    challenging when we start thinking about managing images. Not only do we
+    have API differences, but also many cloud vendors require differing
+    formats and importation methods, some requiring uploading of pre-built
+    images, others snapshots of running instances.
+
+    This talk addresses some of the issues surrounding image management in a
+    federated cloud environment and introduces Aeolus Image Factory; a
+    project that offers image management abstraction for multitude of Cloud
+    vendors. Aeolus Image Factory allows users to define images at a high
+    level and have them built, pushed and registered with all the major
+    cloud vendors.
+
+- title: Language tags — or, what is BCP 47 and why would we want it
+  speaker: Eike Rathke
+  start: 2013-02-03 14:20 CET
+  end: 2013-02-03 15:00 CET
+  description: |
+    During the development cycle of LibreOffice 4.0 I changed much code in
+    preparation to understand BCP 47 language tags. Some critical areas
+    weren't changed yet for 4.0 and work is ongoing for 4.1. In this talk
+    I'll give some overview what I did and why I'm undergoing this effort.
+
+    Speaker short bio at
+    <https://fosdem.org/2013/schedule/speaker/eike_rathke/>
+
+- title: Orchestrating complex deployments on OpenStack using Heat
+  speaker: Tomas Sedovic
+  start: 2013-02-03 15:30 CET
+  end: 2013-02-03 15:55 CET
+  description: |
+    Deploying complex systems on OpenStack can be a challenge.
+
+    A small website running MediaWiki can happily fit on a single server,
+    but the same software running at the Wikipedia scale is much more
+    demanding. You need to deal with multiple database servers, web servers,
+    load balancers, failover, networking configuration, IP address
+    assignment and more.
+
+    The Heat project allows you to describe all the resources and their
+    relationships in a single template, launch everything with one command
+    and keep it up. You can easily combine the workflow with existing
+    configuration management tools such as Puppet or Chef.
+
+    Initially modeled after Amazon CloudFormation, Heat is a free and open
+    source component for OpenStack and has recently been accepted into
+    OpenStack incubation.
+
+    This session will provide an overview of Heat's capabilities and how to
+    use them, followed by a live demonstration. At the end you will
+    understand Heat well enough to decide whether it is useful in your
+    environment and how to get started with it.
+
+- title: Wine BoF on msitools
+  speaker: Paolo Bonzini & Marc-André Lureau
+  start: 2013-02-03 16:00 CET
+  end: 2013-02-03 17:00 CET
+  description: |
+    Many GNU/Linux distributions include a cross-compilation environment for
+    Windows that is easy to install and use. Some of these also provide the
+    Nullsoft installer (NSIS) to package build artifacts into a Windows
+    executable. NSIS has the advantage that the compiler is portable to
+    POSIX systems, but does not support corporate deployment and component
+    management as well as .msi packages generated for the Windows Installer.
+    libmsi is a port of Wine's MSI database code. The talk will present the
+    rationale for the library, its current state and msitools, a small set
+    of programs that we implemented around it. We will also present plans
+    for future development of libmsi and msitools, and its inclusion in
+    Fedora-MinGW project.
+
+- title: 'Measuring OpenStack: the Ceilometer Project'
+  speaker: Eoghan Glynn
+  start: 2013-02-03 16:30 CET
+  end: 2013-02-03 16:55 CET
+  description: |
+    Ceilometer is an OpenStack incubated project which started in April 2012
+    with the goal to provide a unique interface point to provide measurement
+    in OpenStack. Our purpose for measurement started with a focus on
+    metering (for billing) and has since been extended to other targets such
+    as monitoring and alerting. This project is a collaboration of a wide
+    variety of actors.
+
+    After a brief introduction of the project past and future, this talk
+    will introduce the audience to the project's architecture before digging
+    into how and why they can contribute to its future.
+
+- title: Introducing GNOME Photos
+  speaker: Debarshi Ray
+  start: 2013-02-03 16:40 CET
+  end: 2013-02-03 17:00 CET
+  description: |
+    Photos is an application to access, organize and share your photos with
+    GNOME 3. After Documents it is the latest among the new breed of Finding
+    & Reminding applications. Like other core GNOME applications, it targets
+    a new GNOME 3 style: cloud integration, fresh UI elements and touch
+    enablement.
+
+    This talk will outline the use cases and principles, how it relates to
+    existing third party applications, and the use of Tracker as a metadata
+    store.
+
+- title: The Keeper of Secrets
+  speaker: Leslie Hawthorn
+  start: 2013-02-03 17:00 CET
+  end: 2013-02-03 17:50 CET
+  description: |
+    Whilst the mantra of free and open source software communities focus on
+    transparency and collaboration, community leaders will often find that
+    the most significant conversations are those they have 1/1 and "behind
+    closed doors." As a community leader, one is called upon to be both
+    trusted confidant and change agent, and being effective in both roles
+    simultaneously can be a quite difficult -- and deeply humorous -- dance.
+    Join Leslie Hawthorn as she explores the nuances of public and private
+    discourse in FOSS projects, using real world examples from her
+    experience interacting with more than 200 communities over the past six
+    years.
+
+    For more information on this presentation, including speaker bio, [visit
+    the conference
+    website](https://fosdem.org/2013/schedule/event/keynote%3Cem%3Ekeeper%3C/em%3Eof_secrets/).

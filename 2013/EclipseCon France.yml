@@ -1,0 +1,25 @@
+name: EclipseCon France
+location: Toulouse, France
+start: 2013-06-05
+description: |
+  EclipseCon is about sharing best practices, insights, case studies, and
+  innovations in the Eclipse community and in the wider world of software
+  development. We want attendees to be educated and inspired after each
+  talk. See more at
+  <http://eclipsecon.org/france2013/>
+
+talks:
+
+- title: 'Tycho: the mandatory tool to build your Eclipse based product'
+  speaker: Mickael Istria and Jeff Maury (Syspertec)
+  start: 2013-06-05 11:15 CEST
+  end: 2013-06-05 13:00 CEST
+  description: |
+    An in-depth workshop demonstrating the added value of using Tycho when
+    developing Eclipse based products. The following topics will be covered
+
+    * Build your first Tycho based product
+    * Use Tycho to validate against various Eclipse versions
+    * Unit testing with JUnit and SWTBot
+    * Continuous integration with Jenkins
+    * Team collaboration

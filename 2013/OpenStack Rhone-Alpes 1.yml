@@ -1,0 +1,18 @@
+name: 'OpenStack Rhône-Alpes meet-up #1'
+location: Grenoble, France
+start: 2013-04-15
+description: |
+  For more information, check out the website at
+  <http://www.meetup.com/OpenStack-Rhone-Alpes/events/123634732/>.
+
+talks:
+
+- title: Faire cohabiter la virtualization traditionnel et IaaS avec oVirt et OpenStack
+  speaker: Dave Neary
+  start: 2013-04-15 09:50 PDT
+  end: 2013-04-15 09:50 PDT
+  description: |
+    How can you mix traditional virtualization infrastructure and a private
+    hosted IaaS solution? oVirt and OpenStack can work very well together to
+    address your traditional virtualization needs, and to facilitate your
+    migration of workloads to the cloud.

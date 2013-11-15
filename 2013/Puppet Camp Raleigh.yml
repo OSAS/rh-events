@@ -1,0 +1,18 @@
+name: Puppet Camp Raleigh
+location: Raleigh, NC USA
+start: 2013-05-16
+description: |
+  For more information on Puppet Camp Raleigh, visit
+  <https://puppetcampraleigh2013.eventbrite.com/>
+
+talks:
+
+- title: Hosting a Custom Forge with Pulp
+  speaker: Michael Hrivnak
+  start: 2013-05-16 13:45 EDT
+  end: 2013-05-16 14:30 EDT
+  description: |
+    Slides on
+    <http://www.slideshare.net/PuppetLabs/pulp-21272258>
+    Video on
+    <https://www.youtube.com/watch?v=ryxXFFYQqLI>

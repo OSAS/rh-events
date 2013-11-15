@@ -1,0 +1,489 @@
+name: JavaOne
+location: San Francisco, California, US
+start: 2012-10-01
+end: 2012-10-04
+description: |
+  In addition to all the great talks in the main conference program, make
+  sure to visit the JBoss team in Booth #5201 to hear even more technical
+  talks in the JBoss mini-theater. For a full schedule of talks and
+  speaker biographies, [visit the conference
+  website](http://www.jboss.org/events/javaone/sessions.html).
+
+talks:
+
+- title: Best Practices for Cloud Identity in a Java EE–Enabled PaaS
+  speaker: Anil Saldhana
+  start: 2012-10-01 09:30 PDT
+  end: 2012-10-01 10:30 PDT
+  description: |
+    This session discusses best practices for choosing identity services for
+    applications deployed in a Java EE–enabled PaaS such as Red Hat’s
+    OpenShift platform. It evaluates the various available identity
+    standards, such as OpenID, OAuth, and SAML. You will hear a discussion
+    of how to choose the best identity standards in a community and
+    enterprise setup. The presentation ends with a look at JSR 351, the new
+    Java Identity JSR currently active in the JCP.
+
+    For more information, including speaker bio, [visit the conference
+    website](https://oracleus.activeevents.com/connect/sessionDetail.ww?SESSION_ID=6213&tclass=popup).
+
+- title: 'Today’s Rapid Java EE Development: Live Coding from Scratch to Deployment'
+  speaker: Aslak Kntusen and Andrew Rubinger
+  start: 2012-10-01 09:30 PDT
+  end: 2012-10-01 10:30 PDT
+  description: |
+    The myth of Java EE as a cumbersome platform is easily dispelled in this
+    session, which aims to create a working application, from a blank
+    repository to a live cloud deployment, in real time. It \* Covers tools
+    that bootstrap project creation, freeing you from mucking around with
+    Maven POM boilerplate \* Generates a domain model and reverse-engineers
+    JPA entities from it \* Automatically creates the scaffolding for tests
+    that run in a real Java EE container, launched from the IDE \* Pushes it
+    all to production on a public site
+
+    Using a variety of projects from the JBoss Community adhering to and
+    building upon open standards, this presentation can create real
+    enterprise apps in the time it takes other sessions to click through
+    some slides. Let’s get building!
+
+    For more information, including speaker bios, [visit the conference
+    website](https://oracleus.activeevents.com/connect/sessionDetail.ww?SESSION_ID=5458&tclass=popup).
+
+- title: 'The Arquillian Universe: A Tour Around the Astrophysics Lab'
+  speaker: Aslak Kntusen and Andrew Rubinger
+  start: 2012-10-01 14:00 PDT
+  end: 2012-10-01 15:00 PDT
+  description: |
+    Arquillian is a revolutionary testing platform for Java and the JVM that
+    enables developers to easily create and execute integration and
+    functional tests for Java middleware, from Java EE and beyond. One of
+    Arquillian’s strong points is its extensibility. Arquillian was built
+    with the ability to change its default behavior via its powerful
+    extension model as well as to grow past its original programming to take
+    on the challenges of tomorrow. This presentation guides you through the
+    Arquillian extensions by demonstrating how specific extensions solve
+    common problematic testing scenarios faced by enterprise developers. You
+    will get a overview of what is available and possible today as well as
+    what is brewing in the community.
+
+    For more information, including speaker bios, [visit the conference
+    website](https://oracleus.activeevents.com/connect/sessionDetail.ww?SESSION_ID=6918&tclass=popup).
+
+- title: Dependability Challenges for Java Middleware
+  speaker: Mark Little
+  start: 2012-10-01 16:00 PDT
+  end: 2012-10-02 12:00 PDT
+  description: |
+    Key concepts of reliable distributed computing developed during the ’80s
+    and ’90s, such as transactions and replication, have influenced Java EE.
+    However, the way enterprises are using networked computing for
+    businesses is undergoing rapid changes as new ways of constructing
+    distributed execution environments from various resources—ranging from
+    computational, storage, and network to application-level services
+    provided by globally distributed service providers—are emerging. In
+    light of these developments, this session examines what core concepts,
+    components, and techniques will be required in the Java middleware of
+    the future.
+
+    For more information, including speaker bio, [visit the conference
+    website](https://oracleus.activeevents.com/connect/sessionDetail.ww?SESSION_ID=4385&tclass=popup).
+
+- title: OpenJDK Penrose Project BOF
+  speaker: David Bosschaert
+  start: 2012-10-01 17:30 PDT
+  end: 2012-10-01 18:15 PDT
+  description: |
+    Project Penrose was established at OpenJDK in February 2012 to ensure
+    seamless integration between Java 8 modularity and OSGi. Come to this
+    session to hear how OSGi differs from Java modularity and how Penrose
+    has brought developers together to ensure that these module systems
+    evolve to protect your existing code and enable future interoperability.
+    The presentation takes a peek under the covers to see how OSGi can be
+    optimized for running on a modular JRE and describes how you can design
+    your application to get the best of both worlds.
+
+    For more information, including speaker bio, [visit the conference
+    website](https://oracleus.activeevents.com/connect/sessionDetail.ww?SESSION_ID=10608).
+
+- title: Cleaner APIs, Cleaner UIs with Visage
+  speaker: William Siqueira (with Stephen Chin, Oracle)
+  start: 2012-10-01 18:30 PDT
+  end: 2012-10-01 19:15 PDT
+  description: |
+    Visage is a JVM language designed specifically for UI development, with
+    a special syntax for hierarchically describing UIs, binding data, and
+    behavior and representing UI-specific concepts such as animation,
+    layout, and styles. It also is a fully featured language with a full
+    compiler tool chain, static compilation to JVM bytecodes, and IDE
+    plug-ins. This session demonstrates how to use the Visage language to
+    build UIs for JavaFX 2, Vaadin, and other Java-based UI platforms. Find
+    out how you can take control of your UI development by writing cleaner,
+    more maintainable UI code with the Visage language in your existing Java
+    projects.
+
+    For more information, including speaker bios, [visit the conference
+    website](https://oracleus.activeevents.com/connect/sessionDetail.ww?SESSION_ID=5455&tclass=popup).
+
+- title: JSR 347, Data Grids, and NoSQL
+  speaker: Manik Surtani
+  start: 2012-10-01 19:30 PDT
+  end: 2012-10-01 20:15 PDT
+  description: |
+    This BOF is a brainstorming session on JSR 347 to determine where data
+    grids and NoSQL begin; define overlaps; and discuss specific features
+    such as querying, map/reduce, and eventual consistency in JSR 347.
+
+    For more information, including speaker bio, [visit the conference
+    website](https://oracleus.activeevents.com/connect/sessionDetail.ww?SESSION_ID=5866&tclass=popup).
+
+- title: 'Thermostat: An Open Source Instrumentation Tool for the HotSpot JVM'
+  speaker: Roman Kennke and Mario Torre
+  start: 2012-10-01 20:30 PDT
+  end: 2012-10-01 21:15 PDT
+  description: |
+    Thermostat is a new instrumentation tool for Oracle’s HotSpot JVM that
+    is both scalable and extensible and provides an out-of-the-box solution
+    for monitoring, diagnosing, profiling, and controlling the JVM.
+    Thermostat’s main goal is to be a distributed instrumentation tool, and
+    Thermostat aims to make it easy to monitor the Java VM over a range of
+    possible scenarios and use cases, from simple local applications to
+    complex cloud-oriented PaaS stacks. This presentation describes Red
+    Hat’s extensible model for collecting JVM and system monitoring data
+    side by side, and attendees will learn about the features that make
+    Thermostat unique. It also describes Red Hat’s Eclipse plug-in and
+    standalone Swing and command-line clients.
+
+    For more information, including speaker bios, [visit the conference
+    website](https://oracleus.activeevents.com/connect/sessionDetail.ww?SESSION_ID=5112&tclass=popup).
+
+- title: OpenJDK + Open Source Enhancements
+  speaker: Deepak Bhole
+  start: 2012-10-01 21:30 PDT
+  end: 2012-10-01 22:15 PDT
+  description: |
+    OpenJDK has enjoyed growing popularity over the last four years. A large
+    amount of focus has gone into developing OpenJDK itself, but relatively
+    little effort has gone into enhancing the surrounding ecosystem. This
+    session first covers the open source efforts to increase OpenJDK
+    adoption over the past four years. It also includes an open discussion
+    to engage the community to increase involvement and further improve upon
+    what has been done so far. Topics covered include the efforts that have
+    gone into and the benefits of IcedTea, IcedTea-Web, and Thermostat (a
+    new project). If attendees are working on an open source project with
+    similar goals, they are welcome to give a brief synopsis of it.
+
+    For more information, including speaker bio, [visit the conference
+    website](https://oracleus.activeevents.com/connect/sessionDetail.ww?SESSION_ID=3578&tclass=popup).
+
+- title: Forge New Ground in Rapid Enterprise Software Development
+  speaker: Lincoln Baxter III (with Paul Bakker, Luminius Technologies)
+  start: 2012-10-02 14:00 PDT
+  end: 2012-10-02 15:00 PDT
+  description: |
+    How many times have you wanted to start a new project in Java EE but
+    struggled to put all the pieces together? Has the Maven archetype syntax
+    left you scratching your head? Everyone else is talking about Rails,
+    Grails, and Roo, and you’re left thinking, “I wish it were that easy for
+    me.” Well, there’s good news, as this session illustrates: you don’t
+    have to leave Java EE just to find a developer tool that makes starting
+    out simple. JBoss Forge is heating up Java EE and is ready to work it
+    into a full-fledged project. It’s also an incremental enhancement tool
+    that enables you to take existing Java EE projects and safely work new
+    functionality in. Forge comprehends your entire project and can make
+    intelligent decisions on how and what to change.
+
+    For more information, including speaker bios, [visit the conference
+    website](https://oracleus.activeevents.com/connect/sessionDetail.ww?SESSION_ID=3254&tclass=popup).
+
+- title: 'The Contexts and Dependency Injection API: Next Steps for the Platform and
+    Future Directions'
+  speaker: Pete Muir
+  start: 2012-10-02 16:00 PDT
+  end: 2012-10-03 12:00 PDT
+  description: |
+    In this session, Oracle and Red Hat discuss the future direction of one
+    of Java EE’s hottest new APIs: Contexts and Dependency Injection. This
+    once proprietary feature, now standardized, is completely extensible and
+    is evolving fast in the Java EE community. Learn what’s planned for Java
+    EE 7 and beyond: improvements in unit testing support, package scanning,
+    decorators/interceptors, eventing improvements, and much more.
+
+    For more information, including speaker bio, [visit the conference
+    website](https://oracleus.activeevents.com/connect/sessionDetail.ww?SESSION_ID=10658&tclass=popup).
+
+- title: I’ve Got 99 Languages, but Java Ain’t One
+  speaker: Thomas Enebo and Charles Nutter
+  start: 2012-10-02 19:30 PDT
+  end: 2012-10-02 20:15 PDT
+  description: |
+    If you’re having Java problems, this session’s speakers feel bad for
+    you. You know the popular JVM languages, and maybe you’ve even tried
+    them. But are you a black belt in Judo? Tried a hot cup of Ceylon?
+    Looked in the Mirah? Welcomed back Kotlin? There are more than 250
+    languages on the JVM, and the handful you know is just the beginning.
+    This session takes a rapid, entertaining look at all the lesser-known
+    JVM languages. All of them? Yes, all of them. The presentation spends
+    more time on languages in active use and then quicken the pace in a
+    survey of as many JVM languages as possible. If you’ve programmed in it,
+    there’s a JVM version of it, and you’ll see it in this session.
+
+    For more information, including speaker bios, [visit the conference
+    website](https://oracleus.activeevents.com/connect/sessionDetail.ww?SESSION_ID=6682&tclass=popup).
+
+- title: OpenJDK and the Common VM Interface Project
+  speaker: Andrew Hughes (with Neil Richards, IBM & Mikael Vidstedt, Oracle)
+  start: 2012-10-02 20:30 PDT
+  end: 2012-10-02 21:15 PDT
+  description: |
+    This session covers the changes happening in the OpenJDK Common VM
+    Interface (CVMI) project as the community members build on the original
+    work of Andrew Hughes. With the major VM teams working together to
+    document, clarify, and update the interface between the VM and the class
+    libraries, this BOF is an opportunity for everyone interested to meet
+    some of the main participants and learn more about the history, plus
+    current and future changes. Extending the reach of this project to
+    encompass more virtual machine implementations is not a short-term
+    exercise.
+
+    For more information, including speaker bios, [visit the conference
+    website](https://oracleus.activeevents.com/connect/sessionDetail.ww?SESSION_ID=4034&tclass=popup).
+
+- title: 'Bean Validation 1.1: What’s New Under the Hood'
+  speaker: Emmanuel Bernard
+  start: 2012-10-03 09:30 PDT
+  end: 2012-10-03 10:30 PDT
+  description: |
+    Bean Validation standardizes constraint declarations and validation for
+    the Java platform. Bean Validation 1.0 has been widely adopted and
+    seamlessly integrated with some other JSRs (such as JSF and JPA) and the
+    rich Java framework environment at large. This session explores what
+    Release 1.1 brings to the table and what new features you can expect for
+    your Java EE 7 applications. It discusses in an example-driven fashion
+    method-level validation, Contexts and Dependency Injection (CDI)
+    integration, and many more new features and improvements. You will leave
+    the presentation knowing about all the new validation features at your
+    disposal for future applications.
+
+    For more information, including speaker bio, [visit the conference
+    website](https://oracleus.activeevents.com/connect/sessionDetail.ww?SESSION_ID=4006&tclass=popup).
+
+- title: 'Java Everywhere: Ready for Mobile and Cloud'
+  speaker: Mark Little
+  start: 2012-10-03 12:30 PDT
+  end: 2012-10-03 13:30 PDT
+  description: |
+    The traditional role of middleware in the data center has been
+    challenged to expand and meet the ubiquitous computing demands that are
+    becoming more prevalent. The way applications are built, deployed,
+    integrated, and managed must accommodate the rapidly evolving mobile and
+    cloud paradigms without sacrificing security or performance. Open
+    standards and more agile stewardship of the Java Community Process will
+    enable developers, architects, and IT executives increase the return on
+    their existing IT investment and spur innovation in next-generation
+    application environments. Learn more in this session.
+
+    For more information, including speaker bio, [visit the conference
+    website](https://oracleus.activeevents.com/connect/sessionDetail.ww?SESSION_ID=4367&tclass=popup).
+
+- title: Polyglot for Dummies
+  speaker: Charles Nutter and Thomas Enebo
+  start: 2012-10-03 12:30 PDT
+  end: 2012-10-03 13:30 PDT
+  description: |
+    Why are people writing applications in languages other than Java? Can I
+    really be productive with another language? Which language should I
+    choose? Why would I use more than one? This session survey several
+    popular JVM languages and explores how they can help you build better
+    applications. It shows how to integrate multiple languages in a single
+    app and walks through the speakers’ favorite features and libraries.
+    Java, Ruby, Scala, Clojure, and Groovy ... all work harmoniously on the
+    polyglot JVM.
+
+    For more information, including speaker bios, [visit the conference
+    website](https://oracleus.activeevents.com/connect/sessionDetail.ww?SESSION_ID=6575&tclass=popup).
+
+- title: Making Apps Scale with CDI and Data Grids
+  speaker: Manik Surtani
+  start: 2012-10-03 11:00 PDT
+  end: 2012-10-03 12:00 PDT
+  description: |
+    This session walks through a live demo of building a Website with CDI,
+    clustering it with Java EE clustering capabilities, and then introducing
+    a data grid into the mix to dramatically boost performance and
+    load-handling capacity.
+
+    For more information, including speaker bio, [visit the conference
+    website](https://oracleus.activeevents.com/connect/sessionDetail.ww?SESSION_ID=5875&tclass=popup).
+
+- title: 'Continuous Enterprise Development: Case Studies in Java EE Integration Testing'
+  speaker: Aslak Kntusen and Andrew Rubinger
+  start: 2012-10-03 12:30 PDT
+  end: 2012-10-03 13:30 PDT
+  description: |
+    This highly technical session examines solutions for easing the testing
+    of some of the more complex use cases within Java EE. Each example is
+    backed by a runnable test (publicly available to participants), and the
+    presentation covers automated continuous development of
+
+    * The Web user interface (via Selenium)
+    * Persistent data and JPA
+    * Transactional boundaries
+    * Cloud-based deployments
+    * RESTful endpoints
+    * More
+
+    It showcases various techniques outlined in the book Continuous
+    Enterprise Development in Java, forthcoming from O’Reilly Media, and is
+    delivered by the authors. Expect a lot of proof through open source
+    demos. You'll see the presenters exercise the features of any compliant
+    Java EE 6 runtime, using the Arquillian platform.
+
+    For more information, including speaker bios, [visit the conference
+    website](https://oracleus.activeevents.com/connect/sessionDetail.ww?SESSION_ID=5312&tclass=popup).
+
+- title: 'Taming the Spaghetti: Rich Web Applications with Errai'
+  speaker: Jonathan Fuerth and Christian Sadilek
+  start: 2012-10-04 13:30 PDT
+  end: 2012-10-04 14:30 PDT
+  description: |
+    In today’s Web applications, the complexity of the code written for the
+    browser rivals the complexity of the server-side code. Handwritten
+    JavaScript isn’t cutting it anymore. Errai brings a proven server-side
+    programming model to the browser. In this session, members of the Errai
+    team demonstrate how to build rich Web applications the toolable,
+    typesafe way and without boilerplate. Errai offers a concise programming
+    model for building next-generation Web applications by combining the
+    best of two worlds: JavaScript and Java. It enables powerful
+    client-server communication and brings Java enterprise standards to the
+    browser by leveraging the Google Web Toolkit compiler.
+
+    For more information, including speaker bios, [visit the conference
+    website](https://oracleus.activeevents.com/connect/sessionDetail.ww?SESSION_ID=2607&tclass=popup).
+
+- title: The Polyglot Java VM and Java Middleware
+  speaker: Robert McWhirter (with John Rose, Oracle)
+  start: 2012-10-04 13:30 PDT
+  end: 2012-10-04 14:30 PDT
+  description: |
+    In this session, Red Hat and Oracle discuss the impact of polyglot
+    programming from their own unique perspectives, examining non-Java
+    languages that utilize Oracle’s Java HotSpot VM. You’ll hear a
+    discussion of topics relating to Ruby, Lisp, and Clojure and the
+    intersection of other languages where they may touch upon individual
+    frameworks and projects, and you’ll get perspectives on JavaScript via
+    the Nashorn Project, an upcoming JavaScript engine, developed fully in
+    Java.
+
+    For more information, including speaker bios, [visit the conference
+    website](https://oracleus.activeevents.com/connect/sessionDetail.ww?SESSION_ID=10657&tclass=popup).
+
+- title: 'JavaEE.Next(): Java EE 7, 8, and Beyond'
+  speaker: Mark Little (with Ian Robinson, IBM, Scott Ferguson, Caucho Technology
+    and Cameron Purdy, Oracle)
+  start: 2012-10-03 17:30 PDT
+  end: 2012-10-03 18:30 PDT
+  description: |
+    In this session, hear from a distinguished panel of industry and open
+    source luminaries regarding where they believe the Java EE community is
+    headed, starting with Java EE 7. The focus of Java EE 7 and 8 is mostly
+    on the cloud, specifically aiming to bring platform as a service (PaaS)
+    providers and application developers together so that portable
+    applications can be deployed on any cloud infrastructure and reap all
+    its benefits in terms of scalability, elasticity, multitenancy, and so
+    on. Most importantly, Java EE will leverage the modularization work in
+    the underlying Java SE platform. Java EE will, of course, also update
+    itself for trends such as HTML5, caching, NoSQL, ployglot programming,
+    map/reduce, JSON, REST, and improvements to existing core APIs.
+
+    For more information, including speaker bios, [visit the conference
+    website](https://oracleus.activeevents.com/connect/sessionDetail.ww?SESSION_ID=10656&tclass=popup).
+
+- title: Cover Your Web and Mobile Applications with Integration Tests from Scratch
+  speaker: Karel Piwko
+  start: 2012-10-04 15:00 PDT
+  end: 2012-10-05 12:00 PDT
+  description: |
+    Using a Web application is easy. Testing it should be easy as well.
+    Arquillian, a revolutionary Java enterprise testing platform—together
+    with its extensions Arquillian Drone and Arquillian Android—enables
+    that. In this tutorial, you will learn how to integrate existing testing
+    frameworks such as JUnit with the Web testing tool Selenium. It also
+    leverages the Maven infrastructure of a project. Whatever technology you
+    are using to create Web pages, wherever the application is deployed, and
+    whatever browser—including mobile ones—you are using, configuring a test
+    environment is a matter of minutes. Do not spend time with
+    configuration; skip right to writing Web tests.
+
+    For more information, including speaker bio, [visit the conference
+    website](https://oracleus.activeevents.com/connect/sessionDetail.ww?SESSION_ID=5039&tclass=popup).
+
+- title: Testing JSF Applications with Arquillian and Selenium
+  speaker: Lincoln Baxter III and Brian Leathem
+  start: 2012-10-04 15:00 PDT
+  end: 2012-10-04 16:00 PDT
+  description: |
+    In modern development environments, it’s a must to include testing of
+    Web applications as a standard part of the development lifecycle. Such
+    tests can also be used as acceptance criteria in enterprise projects.
+    Although full automation is possible, it is considered to be very
+    expensive. As a result, in projects where testing is included as part of
+    the project plan, it is also often the first requirement cut when the
+    project schedule begins to slip. Learn more in this session.
+
+    For more information, including speaker bios, [visit the conference
+    website](https://oracleus.activeevents.com/connect/sessionDetail.ww?SESSION_ID=7622&tc).
+
+- title: Front-to-Back Security for Mobile, HTML5, and Java EE Applications
+  speaker: Marius Bogoevici and Jay Balunas
+  start: 2012-10-04 15:00 PDT
+  end: 2012-10-04 16:00 PDT
+  description: |
+    Enterprise security has never been more important or complex than it is
+    today. Mobile devices, new client technologies, and cloud-based services
+    are just some of the recent additions. Handling JAX-RS endpoints, spotty
+    connectivity, local storage support, constrained devices, and other land
+    mines can be more than just a challenge. These also seem to be among the
+    first areas glossed over by most projects. Why? Because dealing with
+    them is hard! In this session, developers will get an understanding of
+    these issues through examples and real-world use cases. It includes
+    specific guidance for handling them and discusses how to work around
+    current technical challenges and handle some special cases exclusive to
+    mobile applications.
+
+    For more information, including speaker bios, [visit the conference
+    website](https://oracleus.activeevents.com/connect/sessionDetail.ww?SESSION_ID=7231&tclass=popup).
+
+- title: Introduction to Ceylon
+  speaker: Emmanuel Bernard and Stephane Epardaud
+  start: 2012-10-04 16:30 PDT
+  end: 2012-10-04 17:30 PDT
+  description: |
+    Ceylon is a new programming language designed to execute on the JVM.
+    This session’s speakers are fans of Java and its ecosystem, but they
+    think the language and class libraries, designed more than 15 years ago,
+    are no longer the best foundation for a range of today’s business
+    computing problems, so they have proposed a new language that includes
+    many improvements to Java while sticking to the Java philosophy that
+    people love, which made it so popular. This session provides an
+    introduction to Ceylon and shows you its main features and the ongoing
+    progress of the compiler, IDE, and tools as well as the community behind
+    it.
+
+    For more information, including speaker bios, [visit the conference
+    website](https://oracleus.activeevents.com/connect/sessionDetail.ww?SESSION_ID=4025&tclass=popup).
+
+- title: 'Migrate from Spring to Java EE 6: Approaches and Techniques for Spring Developers'
+  speaker: Marius Bogoevici
+  start: 2012-10-04 16:30 PDT
+  end: 2012-10-04 17:30 PDT
+  description: |
+    Are you curious about Java EE 6? If you left the Java EE world in the
+    Release 1.4 and 1.5 era, you might be missing out on where it’s evolved
+    to today in Release 1.6. If you are a Spring expert already, you will
+    need the proper tools and frameworks to help you adapt what you learned
+    from Spring to become a successful Java EE 6 developer. This demo-driven
+    presentation shows you some of the critical tools that can make your
+    migration experience easy and intuitive.
+
+    For more information, including speaker bio, [visit the conference
+    website](https://oracleus.activeevents.com/connect/sessionDetail.ww?SESSION_ID=10659&tclass=popup).

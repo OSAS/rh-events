@@ -1,0 +1,30 @@
+name: Code Motion
+location: Berlin, Germany,
+start: 2013-05-10
+end: 2013-05-11
+
+talks:
+
+- title: Make your webapp "Big Data" ready with InfinSpan !
+  speaker: Romain Pelisse
+  start: 2013-05-10 15:40 CEST
+  end: 2013-05-10 16:20 CEST
+  description: |
+    Big data and scalability is more than ever before the focus of webapps -
+    on top of the always increasing need for fast response time for complex
+    and rich website, such as Facebook, native mobile client have largely
+    increased the existing load, the underlying complexity of such systems.
+
+    With this in mind, many data grid products arise, in both the Open
+    Source community and the proprietary world. The purpose of this talk is
+    to illustrate, using a set of common use cases, how one can use a data
+    grid such as InfiniSpan, either to enhance existing application -
+    increasing their ability to cope with increasing load, or designed
+    directly cloud-ready applications.
+
+    Links:
+
+    Code Motion -
+    <http://berlin.codemotionworld.com/>
+    Talk -
+    <http://berlin.codemotionworld.com/talk-page/?talk_name=make-your-webapp-bigdata-ready-with-infinispan>

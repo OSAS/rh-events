@@ -1,0 +1,30 @@
+name: Open World Forum
+location: Paris, France
+start: 2012-10-11
+end: 2012-10-12
+
+talks:
+
+- title: 'Community Summit: Open Source software communities in the age of cloud computing'
+  speaker: Leslie Hawthorn
+  start: 2012-10-11 13:30 CEST
+  end: 2012-10-11 17:30 CEST
+  description: |
+    For the fifth year running, the Community Summit addresses the key
+    issues impacting the growth and management of open source communities.
+    This year, free and open source software communities leaders at the
+    Summit will look at the challenges posed by the emergence of cloud
+    computing to their communities and will ponder on new vendor lock-in
+    strategies, the repositioning of software, the necessary linkage with
+    open data, etc.
+
+    For more information, including speaker bios, [visit the conference
+    website](http://openworldforum2012.sched.org/event/28c06f2b113eba923d5a1dce52a2de84?iframe=no&w=0&sidebar=yes&bg=no).
+
+- title: FOSS for Helping People
+  speaker: Leslie Hawthorn and Dave Neary
+  start: 2012-10-12 13:00 CEST
+  end: 2012-10-12 16:00 CEST
+  description: |
+    For more information, including speaker bios, [visit the conference
+    website](http://openworldforum2012.sched.org/event/40399c281fb25d8f97854b27cf26edba?iframe=no&w=0&sidebar=yes&bg=no).

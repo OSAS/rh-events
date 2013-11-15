@@ -1,0 +1,20 @@
+name: China Linux Kernel Developer Conference
+location: Beijing, China
+start: 2012-10-13
+
+talks:
+
+- title: Open Source, Linux and Standards
+  speaker: Daniel Veillard
+  start: 2012-10-13 12:00 UTC
+  end: 2012-10-13 12:00 UTC
+  description: |
+    This talk will focus on the complex but important relationships that
+    exist between various standards and related open source projects, the
+    Linux kernel being a good example. It will show how both sides can
+    contribute efficiently toward a common goal of interoperability and
+    large deployments. It will also expose some of the common problems that
+    can bring such cooperation to a halt.
+
+    For more information, [visit the conference
+    website](http://www.ckernel.org/news/).
