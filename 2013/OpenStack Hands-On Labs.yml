@@ -11,9 +11,7 @@ description: |
   prior to the meetup. Please note that web page is a work in progress and
   may be updated prior to the meetup.
 
-
 talks:
-
 
 - title: OpenStack Philly Lab
   speaker: Dan Radez
@@ -25,7 +23,6 @@ talks:
     OpenStack Philly Meetup. More details at
     <http://www.meetup.com/Philly-OpenStack-Meetup-Group/events/144907072/>
 
-
 - title: OpenStack Connecticut Lab
   speaker: Dan Radez
   location: Rocky Hill, CT
@@ -35,7 +32,6 @@ talks:
   description: |
     OpenStack Connecticut Meetup. More details at
     <http://www.meetup.com/Openstack-Connecticut/events/143713952/>
-
 
 - title: OpenStack New York Lab
   speaker: Dan Radez
