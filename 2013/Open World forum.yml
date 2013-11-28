@@ -1,0 +1,72 @@
+name: Open World forum
+location: Paris
+start: 2013-10-03
+end: 2013-10-05
+description: |
+  The first free and open source european forum.
+
+  For more information check out the website at
+  <http://www.openworldforum.org/en/>
+
+talks:
+
+- title: Building an open hybrid cloud with open source
+  speaker: Hervé Lemaitre
+  start: 2013-10-03 16:15 UTC
+  end: 2013-10-03 16:15 UTC
+  description: |
+    Hervé Lemaitre explains how Red Hat builds on the power of open source
+    communities like OpenStack, oVirt and Gluster to deliver an open hybrid
+    cloud to its customers.
+
+- title: Orchestration on OpenStack
+  speaker: Steven Hardy
+  start: 2013-10-04 09:45 UTC
+  end: 2013-10-04 09:45 UTC
+  description: Orchestration on OpenStack.
+
+- title: Introduction aux Software Collections
+  speaker: Remi Collet
+  start: 2013-10-04 09:45 UTC
+  end: 2013-10-04 09:45 UTC
+  description: |
+    Les Softwares Collections sont une nouvelle méthode de fournir des
+    paquets RPM de différentes versions sans altérer le système de base,
+    pouvant s'installer en parallèle. Cette nouvelle offre devrait favoriser
+    l'adoption des versions récentes des langages.
+
+    * présentation des SCL
+    * contenu d'une collection
+    * exemple avec LAMP (Apache 2.4, php 5.5, MySQL 5.5 sur RHEL-6)
+    * RHSCL : support officiel par Red Hat pour sa distribution entreprise.
+
+- title: Open Hybrid Cloud - Virt, IaaS, PaaS - oh, my!
+  speaker: Dave Neary
+  start: 2013-10-04 10:50 UTC
+  end: 2013-10-04 10:50 UTC
+  description: |
+    Dave Neary has been active in free and open source communities for over
+    15 years as a developer, event organiser, community manager, trainer and
+    consultant.
+
+    He is part of Red Hat's Open Source and Standards team, driving adoption
+    and community growth for projects including oVirt, RDO, a distribution
+    of OpenStack for Red Hat based operating systems, Gluster and Fedora.
+
+- title: Restitution partielle des Etats Généraux de l'Open Source
+  speaker: Michel Isnard
+  start: 2013-10-04 16:40 UTC
+  end: 2013-10-04 16:40 UTC
+  description: Restitution partielle des Etats Généraux de l'Open Source.
+
+- title: Open Source Parenting
+  speaker: Dave Neary
+  start: 2013-10-05 15:30 UTC
+  end: 2013-10-05 15:30 UTC
+  description: |
+    Dave Neary will present during this workshop how and why passing on the
+    hacker/maker culture to our kids - leaving tools around and teaching
+    them how to use them responsibly, home improvement projects, giving them
+    responsibility and power over their living space (within limits!), arts
+    & crafts we do , and a significant piece on getting started with
+    electronics and coding literacy.

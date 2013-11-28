@@ -1,0 +1,31 @@
+name: All Things Open
+location: Raleigh, North Carolina
+start: 2013-10-23
+
+talks:
+
+- title: 'URL:'
+  speaker: 
+  start: 
+  end: 
+  description: |
+    Join the world's top developers, technologists and decision makers as we
+    explore open source and the open web in the enterprise. Two days of
+    keynotes, talks, tutorials and networking opportunities in Raleigh and
+    the Research Triangle area.
+
+    Jim Jagielski of the Open Source and Standards team will once again be
+    presenting at All Things Open. His session will focus on boiling down
+    the various complex varieties of community, governance, licensing and
+    the like down to its basic components.
+
+- title: Three is a Magic Number
+  speaker: Jim Jagielski
+  start: 2013-10-23 11:15 EDT
+  end: 2013-10-23 12:00 EDT
+  description: |
+    Free Software and Open Source can be a complex topic, what with all the
+    various types of licenses and governance models and whatnot. In this
+    session, Jim will simplify what Free Software and Open Source is all
+    about down to their main essentials giving you a better understanding
+    behind this powerful and influential topic.

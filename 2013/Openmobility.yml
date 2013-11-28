@@ -1,0 +1,107 @@
+name: Openmobility
+location: Bratislava, Slovakia
+start: 2013-04-06
+end: 2013-04-07
+description: |
+  Openmobility <http://www.openmobility.eu/en/>,
+  Central Europe's leading conference for open mobile platforms and open
+  source hardware, is taking place in Bratislava at the Faculty of
+  Electrical Engineering and Information Technology, Bratislava University
+  of Technology
+  <http://www.openmobility.eu/conference/om2013/venue/>.
+  This year's conference will see some of the leading experts and
+  developers in the Czech, Slovak and international Open Source community
+  focusing on open mobile technology and open hardware. For the first
+  time, Openmobility is going to take a closer look at the quickly growing
+  DIY and Maker movement.
+
+  Presentations will be held in English, Czech or Slovak.
+
+  Several Red Hatters are going to give a talk in these areas, showing our
+  leadership in all different open source communities, even outside the
+  main track of the company.
+
+talks:
+
+- title: What are open & mobile platforms and Open Source Hardware? A brief introduction.
+  speaker: Martin Holec and Jaroslav Řezník
+  start: 2013-04-06 09:00 CEST
+  end: 2013-04-06 10:00 CEST
+  description: |
+    What does the "open & mobile" and the "open source hardware" terms stand
+    for and why it's important to have trully open & mobile and open source
+    hardware platforms? This talk will give you a brief overview of past and
+    current offerings in these areas and hopefully a hope for the near
+    future.
+
+- title: RepRap & Fedora
+  speaker: Miro Hrončok
+  start: 2013-04-06 10:00 CEST
+  end: 2013-04-06 11:00 CEST
+  description: |
+    Imagine a machine or tool. Imagine you can send a CAD model to that
+    machine from your computer or cellphone, wait a while and get a real
+    object, that you can hold in your hands.
+
+    Imagine this machine fits on your desk, imagine you can build it for
+    about 400 €. Imagine it is fully open source, starting from firmware,
+    trough control software to hardware. Imagine this machine can partially
+    replicate itself.
+
+    Sci-Fi? Nope. A real thing - RepRap 3D printer. Best with Fedora!
+
+- title: GNURadio, HAM
+  speaker: Jaroslav Škarvada
+  start: 2013-04-06 14:00 CEST
+  end: 2013-04-06 15:00 CEST
+  description: |
+    GNU Radio is a free & open-source software development toolkit that
+    provides signal processing blocks to implement software defined radios
+    (SDR). It can be used together with various external RF hardware or
+    without hardware in a simulation-like environment. This talk will be
+    short introduction to GNU Radio and available RF hardware including
+    practical examples with USRP, Funcube dongle and RTL-2832 based TV
+    dongle.
+
+- title: 'Workshop: Qt/QML & Cascades'
+  speaker: Daniel Vrátil
+  start: 2013-04-06 15:00 CEST
+  end: 2013-04-06 17:00 CEST
+  description: |
+    BlackBerry 10 is a new mobile platform which is primarily using Qt and
+    QML and a custom set of QML components called Cascades. In this workshop
+    we will shortly introduce Qt and QML and will cover basic concepts of
+    Cascades. At the end we will create and deploy a simple Cascades
+    application.
+
+- title: ARM & Fedora
+  speaker: Pavel Tišnovský
+  start: 2013-04-07 14:30 CEST
+  end: 2013-04-07 15:30 CEST
+  description: |
+    In this talk basic information about the ARM microprocessor and ARM
+    architecture will be presented: history of ARM processors, introduction
+    to various ARM instruction sets (including Thumb mode). The most
+    important change in the ARM world - evolution from the "classic" 32bit
+    ARM architecture to ARM64 - will be discussed too.
+
+- title: 'Workshop: Writing standalone Qt & Python applications for Android'
+  speaker: Martin Kolman
+  start: 2013-04-07 15:30 CEST
+  end: 2013-04-07 16:30 CEST
+  description: |
+    While Python and Qt (by the Necessitas project) are both already
+    available for Android for some time, an easy method enabling development
+    of combined Python & Qt applications that can be distributed as
+    standalone APKs was not readily available until now.
+
+    In the first part of the workshop I'll shortly introduce how Qt, Python,
+    PySide (Qt bindings for Python), Python for Android together produce an
+    Android APK that can be easily installed on most current Android
+    devices.
+
+    In the second part I'll introduce the powerful pydroid framework
+    developed by Aaron Richiger, that enables very easy development,
+    deployment, debugging and packaging of many types of Python & Qt
+    applications (QWidget, QML, Qt Components) both using the Necessitas
+    QtCreator IDE and just from the command line.

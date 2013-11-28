@@ -1,0 +1,20 @@
+name: JAX London
+location: London, United Kingdon
+start: 2012-10-17
+
+talks:
+
+- title: 'HTML5 alchemy: the secrets of mixing JavaScript and Java EE'
+  speaker: Matthias Wessendorf
+  start: 2012-10-17 11:30 BST
+  end: 2012-10-17 12:20 BST
+  description: |
+    A deep dive on creating mobile-ready, cloud-enabled, HTML5 applications
+    based on Java EE and modern JavaScript. You will learn how to balance
+    and combine the enterprise Java programming model, based on APIs such as
+    CDI, JAX-RS and EJB 3.1, with JavaScript libraries like jQuery Mobile,
+    Backbone, Require and Underscore, while taking advantage of the ease of
+    deployment and elasticity of the cloud.
+
+    For more information, including speaker bio, [visit the conference
+    website](http://entwickler.com/konferenzen/ext_scripts/v2/php/sessions-popup.php?module=jaxlondon2012&id=22708).

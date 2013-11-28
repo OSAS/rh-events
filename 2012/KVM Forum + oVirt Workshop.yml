@@ -1,0 +1,777 @@
+name: KVM Forum + oVirt Workshop
+location: Barcelona, Spain
+start: 2012-11-07
+end: 2012-11-09
+description: |
+  KVM is an industry leading open source hypervisor that provides an ideal
+  platform for datacenter virtualization, virtual desktop infrastructure,
+  and cloud computing. Once again, it's time to bring together the
+  community of developers and users that define the KVM ecosystem for our
+  annual technical conference. We will discuss the current state of
+  affairs and plan for the future of KVM, its surrounding infrastructure,
+  and management tools. So mark your calendar and join us in advancing
+  KVM.
+
+  We are excited to announce that the oVirt Workshop will be held in
+  conjunction with KVM Forum this year. The oVirt Project is an open
+  virtualization project for anyone who cares about Linux-based KVM
+  virtualization. Providing a feature-rich server virtualization
+  management system with advanced capabilities for hosts and guests,
+  including high availability, live migration, storage management, system
+  scheduler, and more. By open we mean open source & open governance, done
+  right.
+
+  During this workshop you’ll learn about the technical background and
+  direction of the oVirt project. You’ll meet the developers, and have an
+  opportunity to see and dive into the code right away. The workshop is
+  open to all who want to use, get involved with, or learn about the
+  comprehensive open virtualization management platform, oVirt. The
+  sessions cover the technical projects details, governance, getting
+  involved, usage, and much more. If you have any interest in an Open
+  Virtualization Management platform, this workshop is for you!
+
+talks:
+
+- title: Keynote Address
+  speaker: Avi Kivity
+  start: 2012-11-07 09:00 CET
+  end: 2012-11-07 09:15 CET
+  description: |
+    For more information, including speaker bio, [visit the conference
+    website](http://kvmforumovirtworkshop2012.sched.org/event/5e4a333ab0aa0fee99d32c95fe7b8c68?iframe=yes&w=750&sidebar=yes&bg=no).
+
+- title: oVirt Node Architecture Design and Roadmap
+  speaker: Mike Burns
+  start: 2012-11-07 11:15 CET
+  end: 2012-11-07 12:00 CET
+  description: |
+    This talk will dive into the architecture and design of oVirt Node with
+    discussions of it’s major features. We’ll look at the different aspects
+    of the image including deployment methods, extensibility, and advantages
+    and disadvantages of this packaging model. We’ll also explore some of
+    the major recent additions, like plugin support and Stateless operation,
+    as well as some of the features that are on our current roadmap.
+
+    This talk is primarily an overview. It's geared toward people looking to
+    deploy, use, or extend ovirt-node.
+
+    For more information, including speaker bio, [visit the conference
+    website](http://kvmforumovirtworkshop2012.sched.org/event/12f385ae28f7977b4613517d4ce646f3?iframe=no&w=750&sidebar=yes&bg=no#.UIlwj1uXd_s).
+
+- title: KVM and Microsoft Hyper-V Enlightenments
+  speaker: Vadim Rozenfeld
+  start: 2012-11-07 13:00 CET
+  end: 2012-11-07 13:40 CET
+  description: |
+    Enlightenments are enhancements made to the operating system to help
+    reduce the cost of certain operating system functions. Presently, all
+    recent Microsoft OSes support Hyper-V enlightened I/O and hypervisor
+    aware kernels. Number of Hyper-V Enlightenments, like virtual APIC,
+    spinlocks and invariant TSC can be implemented in KVM.
+
+    This presentation should be interesting to a wide audience, but mostly
+    targeted to developers.
+
+    For more information, including speaker bio, [visit the conference
+    website](http://kvmforumovirtworkshop2012.sched.org/event/ec50c29e26a79e815b3655888a55d529?iframe=no&w=750&sidebar=yes&bg=no#.UIlwxluXd_s).
+
+- title: QOM Vadis? Taking Objects to CPU and Beyond
+  speaker: Andreas Färber
+  start: 2012-11-07 13:00 CET
+  end: 2012-11-07 13:40 CET
+  description: |
+    Anthony Liguori has contributed the QEMU Object Model (QOM) as new
+    infrastructure for device modeling and inspection at the beginning of
+    this year. Highlight some of the changes for device authors this
+    requires and provide an outlook of what new possibilities this offers
+    over former qdev. Focus of this talk will be my ongoing CPU remodeling -
+    vision, achievements for v1.1 and v1.2, next goals.
+
+    I assume that Anthony will say some words about QOM in his key note.
+    This presentation will not cover the why/how but rather the how-to and
+    where-to for device authors in the status quo as well as some DOs and
+    DON'Ts concerning CPU\*State for all contributors. Depending on upstream
+    progress this talk might also cover a brief overview of differences
+    between softmmu and linux-user wrt CPU. I don't plan to go into x86 CPU
+    hotplug details, that could well be covered by Igor/Eduardo in a
+    separate talk.
+
+    For more information, including speaker bio, [visit the conference
+    website](http://kvmforumovirtworkshop2012.sched.org/event/ecd1bdf873b0049fe992d23d0d1221cf?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+- title: oVirt High-Level Architecture & Roadmap
+  speaker: '- Itamar Heim'
+  start: 2012-11-07 13:00 CET
+  end: 2012-11-07 13:40 CET
+  description: |
+    The session will review high level architecture and interactions of
+    oVirt components, and planned future roadmap.
+
+    For more information, including speaker bio, [visit the conference
+    website](http://kvmforumovirtworkshop2012.sched.org/event/d09f4c7247d8266296ee849df888dd22?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+- title: 'Deep Dive Features: Network'
+  speaker: Livnat Peer
+  start: 2012-11-07 13:40 CET
+  end: 2012-11-07 14:20 CET
+  description: |
+    Deep dive to recently added network features in oVirt (setup networks,
+    jumbo frames, bridgless networks, port mirroring, sync network, optional
+    networks, hot plug nic, etc.).
+
+    For more information, including speaker bio, [visit the conference
+    website](http://kvmforumovirtworkshop2012.sched.org/event/9da9fcf0843644efabcde85543b5cc4d?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+- title: 'Deep Dive Features: Storage'
+  speaker: Andrew Cathrow
+  start: 2012-11-07 14:20 CET
+  end: 2012-11-07 15:00 CET
+  description: |
+    Deep dive to recently added storage features in ovirt (hot plug disk,
+    live snapshot, storage live migration, shared disk, posix domains, nfs
+    v4 and domain options, floating disks, direct lun, multiple storage
+    domains, etc.).
+
+    For more information, including speaker bio, [visit the conference
+    website](http://kvmforumovirtworkshop2012.sched.org/event/884f6d6f751907cf3b6f0a1fe9d72785?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+- title: 'Live Migration: Even faster, Now With a Dedicated Thread!'
+  speaker: Orit Wasserman
+  start: 2012-11-07 14:30 CET
+  end: 2012-11-07 15:00 CET
+  description: |
+    In this session we cover two aspects of live migration:
+
+    * We discuss the work of moving the execution of outgoing live migration
+    to a separate dedicated thread in QEMU.
+    * Using a separate thread for live migration reduces contention with the
+    IO thread and vcpus which results in higher throughput and more reliable
+    downtime.
+
+    We analyze Live Migration performance state:
+
+    * Performance on very large guests and the issues we encounter with such
+    a guest. This discussion will include convergence and actual downtime
+    (compared to user configured downtime).
+    * Live migration effects on the running guest (downtime and performance
+    impact on the guest workload)
+    * Resource consumption (network bandwidth and CPU usage)
+
+    For more information, including speaker bio, [visit the conference
+    website](http://kvmforumovirtworkshop2012.sched.org/event/bd85e13226f05d127cdd256e0626008c?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+- title: Qemu USB Status Report 2012
+  speaker: Gerd Hoffman
+  start: 2012-11-07 15:30 CET
+  end: 2012-11-07 16:00 CET
+  description: |
+    This talk gives an overview on the state of the qemu usb subsystem. What
+    happened last year? What are the plans for the future? Where do we stand
+    in terms of USB 3.0 support?
+
+    For more information, including speaker bio, [visit the conference
+    website](http://kvmforumovirtworkshop2012.sched.org/event/ff493b72d2b64336d0a3d84705da91a7?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+- title: Spice Status Update
+  speaker: Hans de Goede
+  start: 2012-11-07 16:00 CET
+  end: 2012-11-07 16:30 CET
+  description: |
+    Spice, the opensource remote virtual desktop protocol, aims to provide a
+    complete open source solution for interaction with virtualized desktop
+    devices. As such Spice is undergoing rapid development atm. This talk
+    will look back at what has been achieved the last year, and look forward
+    to what the Spice team plans to work on for the coming year.
+
+    The talk is for developers and users who are using Spice, plan to deploy
+    Spice in the future, or are interested in Spice in general. The audience
+    is expected to be familiar with generic virtualization concepts, but no
+    deep technical knowledge is required.
+
+    For more information, including speaker bio, [visit the conference
+    website](http://kvmforumovirtworkshop2012.sched.org/event/3ab961d729c92f83245c86cfca78efd5?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+- title: A New Chipset for Qemu - Intel's Q35
+  speaker: Jason Baron
+  start: 2012-11-07 16:30 CET
+  end: 2012-11-07 17:00 CET
+  description: |
+    Qemu is currently based upon a Pentium Pro chipset, which was first
+    released in 1996. It still continues to serve us quite well, but there
+    are a number of limitations, especially in the PCI space. I am currently
+    updating a patchset first brought forward by Isaku Ymahata to add a new
+    machine model based on Intel's Q35 chipset. I will discuss the new
+    features that Q35 introduces, including the topology, the chipset
+    devices, and the pci express features (aer, ari, hotplug, power
+    management). I will provide an update on its status - testing,
+    performance, and any remaining merge hurdles.
+
+    The intended audience is qemu/kvm developers. I'd like to get them
+    interested in the new chipset, and and to suggest potential new
+    development areas that Q35 opens.
+
+    For more information, including speaker bio, [visit the conference
+    website](http://kvmforumovirtworkshop2012.sched.org/event/9707ce44d79e146c1e896857895e8b3e?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+- title: New Features in libguestfs and the Virt Tools
+  speaker: Richard Jones
+  start: 2012-11-07 16:30 CET
+  end: 2012-11-07 17:00 CET
+  description: |
+    Libguestfs is a C library that provides a way to access and modify
+    virtual machine disk images. It uses qemu and the Linux kernel, so we
+    can manipulate just about any disk image, filesystem, partitioning
+    scheme, LVM, Windows disks, and more. Above this layer are many
+    specialized "virt-\*" tools for carrying out specific tasks. In this
+    talk, Richard Jones will give a live demonstration of libguestfs and the
+    virt tools, and talk about the new features available in libguestfs
+    1.20.
+
+    For more information, including speaker bio, [visit the conference
+    website](http://kvmforumovirtworkshop2012.sched.org/event/e46d9d84637c8917d47ee20ea3d0e0e2?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+- title: Building Application Sandboxes on Top of KVM or LXC Using libvirt
+  speaker: Daniel Berrange
+  start: 2012-11-07 17:00 CET
+  end: 2012-11-07 17:30 CET
+  description: |
+    Historically most usage of virtualization has focused on running entire
+    operating systems in virtual machines or containers. The libvirt-sandbox
+    toolkit builds on libvirt, KVM & LXC, to provide a high level API and
+    command line tools to facilitate the use of virtualization as a
+    technology for creating secure application sandboxes, without the burden
+    of maintaining additional OS installations. The talk will cover the
+    architecture of the sandbox technology, the challenges faced in its
+    design & implementation, use cases it can address and the scope for
+    future development.
+
+    The talk is suitable for a broad audience, covering system
+    administrators, application developers & virtualization platform
+    developers. A basic understanding of virtualization and security
+    concepts is assumed. The audience will learn what capabilities the API &
+    tools provide & how they can be applied to their environment.
+
+    For more information, including speaker bio, [visit the conference
+    website](http://kvmforumovirtworkshop2012.sched.org/event/a62f1370d3c3e4cd81cb388474f438bc?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+- title: KVM autotest - It's not Just a QA Tool Anymore
+  speaker: Lucas Meneghel Rodrigues
+  start: 2012-11-07 17:00 CET
+  end: 2012-11-07 17:30 CET
+  description: |
+    KVM autotest is a large set of functional and performance tests for KVM
+    (both kernel and userspace). The design goals of the project were to
+    provide infrastructure to perform extensive and systematic tests, and
+    it's largely considered a QA only affair.
+
+    However, during the last couple of years, we've been working on bringing
+    the benefits of this flexible test framework for developers, a
+    fundamentally different use case. This required re-thinking the
+    structure of the project.
+
+    This presentation aims to show the work that has been done in making the
+    tests more approachable and useable for KVM developers:
+
+    * Separation of tests from autotest core
+    * Exposing APIs for convenient use on external test scripts
+    * Abstract concepts that are not entirely necessary for a casual
+    developer to make use of autotest (such as configuration files)
+
+    We'll talk about what was done and what's on the pipeline, with a demo.
+
+    For more information, including speaker bio, [visit the conference
+    website](http://kvmforumovirtworkshop2012.sched.org/event/afda3d75d9b7ec618042eb38a91eea64?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+- title: Virtio & Networking Status and Challenges
+  speaker: Michael S. Tsirkin
+  start: 2012-11-08 09:15 CET
+  end: 2012-11-08 10:00 CET
+  description: |
+    This talk will present a high level description of current work on
+    virtio, vhost - in general with focus on paravirtualized networking in
+    particular.
+
+    The talk will start with a quick overview of a paravirtualized
+    networking in KVM. It will next describe new enhancements in this field
+    developed in the last year, most of them performance-related.
+
+    The talk will include a description of upcoming challenges in enhancing
+    paravirtualized networking in KVM.
+
+    For a selected subset of the enhancements the talk will include some
+    background and motivation, an architecture-level view of the
+    implementation and a short description of the benefits to the user.
+
+    The talk is targeted at developers with high level understanding of KVM
+    and networking, and interest in their internals.
+
+    For more information, including speaker bio, [visit the conference
+    website](http://kvmforumovirtworkshop2012.sched.org/event/0de1f5ad81a707953b48c3d12a488da9?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+- title: 'Scripting and Integration : oVirt CLI and SDK'
+  speaker: Simon Grinberg
+  start: 2012-11-08 09:15 CET
+  end: 2012-11-08 10:00 CET
+  description: |
+    How to leverage ovirt api, sdk and cli for scripting and automation.
+
+    For more information, including speaker bio, [visit the conference
+    website](http://kvmforumovirtworkshop2012.sched.org/event/5d37c086b4f8afd653af75abffae74d4?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+- title: KVM Memory Management Update & Plans
+  speaker: Rik van Riel
+  start: 2012-11-08 10:30 CET
+  end: 2012-11-08 11:15 CET
+  description: |
+    Rik van Riel and Andrea Arcangeli will go over the KVM memory management
+    changes from the last year, as well as possible changes for the next
+    year. Topics include THP, ballooning, NUMA and more. The goal is a
+    shorter presentation, with plenty of time for open discussion.
+
+    For more information, including speaker bio, [visit the conference
+    website](http://kvmforumovirtworkshop2012.sched.org/event/c3de4c709ca0a3ee9101825bd82bab47?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+- title: Using oVirt Via ec2/cimi With Deltacloud
+  speaker: Oved Ourfali
+  start: 2012-11-08 10:30 CET
+  end: 2012-11-08 11:00 CET
+  description: |
+    How to script via ec2 and cimi api's on top of ovirt by using
+    deltacloud.
+
+    For more information, including speaker bio, [visit the conference
+    website](http://kvmforumovirtworkshop2012.sched.org/event/323af0309acd91f334ab692d85463f93?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+- title: Extending oVirt Web Interface with UI Plugins
+  speaker: Vojtech Szocs
+  start: 2012-11-08 11:00 CET
+  end: 2012-11-08 11:30 CET
+  description: |
+    oVirt web administration application (WebAdmin) is a powerful tool to
+    manage various assets of the virtualization infrastructure. In addition
+    to existing functionality, there can be times when administrators want
+    to expose additional features of their infrastructure through WebAdmin
+    user interface.
+
+    In this session, Vojtech will present the concept and implementation of
+    UI plugins, upcoming oVirt feature that allows third-party developers to
+    extend WebAdmin user interface and related functionality. UI plugins
+    integrate with WebAdmin directly on the client through JavaScript
+    programming language, which makes the plugin infrastructure simple and
+    flexible.
+
+    Attend this session to learn more about UI plugins, update on current
+    implementation, and live demo showing how to write and deploy custom
+    plugin. This session is intended for anyone interested in extending
+    oVirt WebAdmin functionality.
+
+    For more information, including speaker bio, [visit the conference
+    website](http://kvmforumovirtworkshop2012.sched.org/event/fcf60f14ff3208fc9874fa08071a1a4b?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+- title: Revamping the QEMU Memory API
+  speaker: Avi Kivity
+  start: 2012-11-08 11:15 CET
+  end: 2012-11-08 12:00 CET
+  description: |
+    QEMU's original memory API, was complicated, hard to use, incorrect,
+    insecure, did not scale, and consumed a lot of memory. None of these was
+    particularly problematic with the original use cases of emulating
+    embedded boards, or perhaps running a virtualized desktop system to use
+    "the other OS". However, for enterprise and cloud users running hundreds
+    of untrusted guests on a single host, the API and its implementation
+    presents a problem.
+
+    This talk will cover the new QEMU memory API, its design considerations,
+    and how it addresses the limitations of the old implementation.
+
+    For more information, including speaker bio, [visit the conference
+    website](http://kvmforumovirtworkshop2012.sched.org/event/468b55a5cebc18bb80d10350eb380580?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+- title: Integrating oVirt into GNOME Boxes
+  speaker: Christophe Fergeau
+  start: 2012-11-08 11:30 CET
+  end: 2012-11-08 12:00 CET
+  description: |
+    This talk will describe how oVirt support was added to GNOME Boxes, a
+    Vala/C application. It will present the libgovirt library, a GObject
+    library wrapping oVirt REST API, and then expand on the work that needed
+    to be done in Boxes. Finally, we will talk about the future improvements
+    that can be done for this support.
+
+    The audience should have basic development experience as it will
+    describe my experience with wrapping the oVirt REST API in C, and then
+    using it in a Vala application.
+
+    For more information, including speaker bio, [visit the conference
+    website](http://kvmforumovirtworkshop2012.sched.org/event/0196a0d9d10a0fb454f678a377cd7d7c?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+- title: A Block Layer Overview
+  speaker: Kevin Wolf
+  start: 2012-11-08 13:00 CET
+  end: 2012-11-08 13:45 CET
+  description: |
+    The block layer is one of qemu's most complex subsystems, and it has
+    seen a very high and even increasing development activity recently. This
+    talk will give an overview of the features of the block layer and its
+    basic objects, highlighting the changes since last year and outlining
+    some plans for the future.
+
+    It will span the whole area from guest devices (IDE, AHCI,
+    virtio-blk/scsi) to block drivers implementing different image formats
+    and protocols (especially qcow2) and background jobs operating on block
+    devices, referring to the more detailed talks that may be given on some
+    of the topics.
+
+    For more information, including speaker bio, [visit the conference
+    website](http://kvmforumovirtworkshop2012.sched.org/event/5def1cf58a44432a6f7c674796a586c6?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+- title: Extending oVirt via Custom Hooks
+  speaker: Andrew Cathrow
+  start: 2012-11-08 13:00 CET
+  end: 2012-11-08 13:40 CET
+  description: |
+    Introduction and samples to ovirt custom hooks for extending and
+    changing the behavior of ovirt/vdsm.
+
+    For more information, including speaker bio, [visit the conference
+    website](http://kvmforumovirtworkshop2012.sched.org/event/6a992ed5d3f0806561c91903594a030d?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+- title: SLA@oVirt
+  speaker: Doron Fediuck
+  start: 2012-11-08 13:40 CET
+  end: 2012-11-08 14:20 CET
+  description: |
+    SLA@oVirt is quite challenging. Allowing users to have policies to
+    prioritize virtual machines, limit CPU and RAM consumption, and allow
+    overcommitment are not easy tasks. Now throw in VM affinity, VM
+    High-Availability and see what we're up against.
+
+    In this talk, oVirt users, developers and others will get a review of
+    existing SLA and scheduling elements in today's oVirt, as well as new
+    features added and being added into current and future versions of
+    oVirt. Relevant architecture and API changes across oVirt project will
+    be discussed, and feedback is more than welcome.
+
+    For more information, including speaker bio, [visit the conference
+    website](http://kvmforumovirtworkshop2012.sched.org/event/72d9009486f1c1f38ebdbc2b002f3609?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+- title: The Road to Effective Thin Provisioning in QEMU
+  speaker: Paolo Bonzini
+  start: 2012-11-08 13:45 CET
+  end: 2012-11-08 14:30 CET
+  description: |
+    QEMU (and hence KVM) has long supported thin provisioning, through both
+    sparse raw files and image formats such as qcow2. However, there are
+    several limitations in the implementation of this feature, which make it
+    much less effective as the lifetime of a virtual machine image grows.
+    This talk will cover how thin provisioning can help both virtual machine
+    and host administrators, as well as when/how it can be used now. It will
+    also present a plan for making this feature more generally, effectively
+    and easily usable.
+
+    This talk is aimed at system administrators and developers. While
+    relevant concepts will be introduced during the talk, some familiarity
+    with storage technology is expected.
+
+    For more information, including speaker bio, [visit the conference
+    website](http://kvmforumovirtworkshop2012.sched.org/event/91c04b4447e8c3467bfee63a79003d59?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+- title: 'VFIO: A Users Perspective'
+  speaker: Alex Williamson, Red Hat
+  start: 2012-11-08 13:45 CET
+  end: 2012-11-08 14:30 CET
+  description: |
+    The VFIO userspace driver interface is now available in Linux v3.6
+    release candidates and the matching Qemu driver will be merged into the
+    Qemu 1.3 release. By the time of this talk, VFIO will be available in
+    the latest stable kernels and the Qemu development tree. VFIO breaks
+    physical device assignment free from KVM, making it available to more
+    architectures, more platforms and more device types. In this talk we'll
+    take a high level look at VFIO and IOMMU grouping with a focus on how to
+    make use of it, the restrictions and benefits it adds, and how it
+    compares to KVM PCI device assignment in setup, functionality, and
+    performance.
+
+    For more information, including speaker bio, [visit the conference
+    website](http://kvmforumovirtworkshop2012.sched.org/event/90666f8ae871f6f0d2445634b07c2ced?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+- title: Extending oVirt Network With Quantum
+  speaker: Oved Ourfali
+  start: 2012-11-08 14:20 CET
+  end: 2012-11-08 15:00 CET
+  description: |
+    Deep dive to future network roadmap and planned quantum integration.
+
+    For more information, including speaker bio, [visit the conference
+    website](http://kvmforumovirtworkshop2012.sched.org/event/593d03104f136a5ef7ad0ed7a7bc8259?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+- title: GlusterFS for KVM Users and Developers
+  speaker: Stefan Hajnoczi
+  start: 2012-11-08 14:30 CET
+  end: 2012-11-08 15:00 CET
+  description: |
+    This talk gives an overview of GlusterFS for scale-out storage
+    management of KVM disk images. GlusterFS creates network attached
+    storage on commodity hardware, including features for elastically
+    adding/removing nodes and georeplication. Recent improvements in
+    GlusterFS and KVM make it easy to run VM disk images on GlusterFS
+    volumes. We also focus on GlusterFS architecture and how it could be
+    extended for virtualization-specific needs.
+
+    Previous experience with KVM or GlusterFS is not necessary, but a
+    general understanding of virtualization and disk images is required.
+    Users of NFS and iSCSI may be particularly interested in this talk to
+    see how GlusterFS approaches networked storage differently and is
+    uniquely flexible.
+
+    For more information, including speaker bio, [visit the conference
+    website](http://kvmforumovirtworkshop2012.sched.org/event/01d580a7d1eabbf0d1875bd00ab58cef?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+- title: 'QEMU Live Block Operations: Snapshots, Merging, and Mirroring'
+  speaker: Jeff Cody
+  start: 2012-11-08 15:30 CET
+  end: 2012-11-08 16:00 CET
+  description: |
+    Over the last year, QEMU's support for live block operations has grown
+    to encompass atomic snapshots of multiple disks, merging of snapshots
+    via block streaming and block commit, and block mirroring support.
+
+    While this talk is suitable for technical end-users, it deals with
+    features that are primarily accessible by means of QAPI and QMP
+    commands. It will focus on the snapshot and merging commands, how these
+    operations are performed, and their limitations. Block mirroring will
+    also be covered in similar detail. In addition, this talk will feature a
+    demonstration of live atomic snapshots of multiple devices, and
+    subsequent live merging of the resulting images by means of block commit
+    and block streaming.
+
+    For more information, including speaker bio, [visit the conference
+    website](http://kvmforumovirtworkshop2012.sched.org/event/fe1c8e70c385c00ecb6ad070e2f99fa7?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+- title: Virtio-blk Performance Improvement
+  speaker: Asias He
+  start: 2012-11-08 16:00 CET
+  end: 2012-11-08 16:30 CET
+  description: |
+    A very short overview of storage choices in KVM: \* IDE, AHCI, SCSI,
+    virito-scsi, virtio-blk, device assignment, network based (glusterfs,
+    sheepdog, etc.) \* performance comparison (esp. virtio-scsi v.s
+    virtio-blk) \* why improve virtio-blk
+
+    Host side improvement for virtio-blk: \* userspace based virito-blk
+    solution \* QEMU current v.s QEMU data-plane v.s kvm tool's virio-blk \*
+    vhost based virito-blk solution \* using existing kernel aio interface
+    \* using new in kernel aio interface \* using in kernel bio interface \*
+    userspace solution v.s. vhost solution
+
+    Guest side improvement for virtio-blk: \* bio based virtio-blk \* bio
+    based v.s. request based virtio-blk
+
+    Future work: \* multiqueue virtio-blk
+
+    For more information, including speaker bio, [visit the conference
+    website](http://kvmforumovirtworkshop2012.sched.org/event/62bd2de9ba84ef3e0c3d23862159712e?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+- title: oVirt/Gluster Integration
+  speaker: Vijay Bellur
+  start: 2012-11-08 16:15 CET
+  end: 2012-11-08 17:00 CET
+  description: |
+    Gluster management is integrated in oVirt. This session will cover how
+    gluster basics and introduce using gluster as storage backend from
+    ovirt.
+
+    For more information, including speaker bio, [visit the conference
+    website](http://kvmforumovirtworkshop2012.sched.org/event/0c41350a6cb4dd5c4db19c6c149ec399?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+- title: Multiqueue Networking for KVM
+  speaker: Jason Wang
+  start: 2012-11-08 16:30 CET
+  end: 2012-11-08 17:00 CET
+  description: |
+    Multiqueue networking of kvm guest were introduced to eliminate the
+    bottleneck of current single queue model and scale the performance for
+    smp guest running on hosts with multiqueue cards. Multiqueue capable kvm
+    guest will have a higher network performance compared to single queue.
+    This presentation discusses the design and implementation of extending
+    the kernel/qemu components of both host and guest to be multiqueue
+    capable. Performance numbers and pending issues will also coverd in the
+    talk.
+
+    The developers, customers and hardware vendors who are interested in the
+    solution of high performance virtualized networking were targerted at
+    this talk. They would expect a kind of high performance solution with
+    multiqueue and virtio-net. Some basic knowledge of kvm, virtio and high
+    performance networking were required for this talk.
+
+    For more information, including speaker bio, [visit the conference
+    website](http://kvmforumovirtworkshop2012.sched.org/event/7b0cff16d944556148e082c527e61617?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+- title: oVirt Infrastructure Overview
+  speaker: Mike Burns
+  start: 2012-11-09 09:15 CET
+  end: 2012-11-09 09:35 CET
+  description: |
+    An overview of the various infrastructure tools and services available
+    in the ovirt.org domain. We’ll discuss various aspects from how
+    different tools are leveraged with a heavy focus on the use of Jenkins
+    for build and test automation, Gerrit for source code management, and
+    Puppet for configuring the various servers for different uses. We’ll
+    also discuss how we grew the infrastructure from a just a couple of EC2
+    hosts to where we are today, to where we’re planning to go in the
+    future.
+
+    This is primarily geared toward people interested in how we go about
+    managing and coordinating the various pieces of infrastructure in the
+    oVirt site. It will range from high level discussion of what we're
+    trying to accomplish to diving into some of the technical details. I'd
+    like this talk to be very interactive, but will be prepared to present
+    in the event there aren't a lot of questions.
+
+    For more information, including speaker bio, [visit the conference
+    website](http://kvmforumovirtworkshop2012.sched.org/event/80914f36d80c66c2e9ab56e073686d05?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+- title: Automated Testing of oVirt Node
+  speaker: Fabian Deutsch
+  start: 2012-11-09 09:35 CET
+  end: 2012-11-09 10:00 CET
+  description: |
+    This talk will dive into the method and implementation of automated
+    testing with oVirt Node. We’ll discuss the challenges and problems with
+    testing in an automated fashion. We’ll then explore how the challenges
+    have been met and overcome. We’ll dive into the framework and design of
+    the the various test cases and how they can be run on both physical
+    hardware and virtual machines.
+
+    For more information, including spoeaker bio, [visit the conference
+    website](http://kvmforumovirtworkshop2012.sched.org/event/2f018366511e3590c3f622b0fb07fc98?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+- title: 'OpenStack: KVM for the Masses'
+  speaker: Mark McLoughlin
+  start: 2012-11-09 10:30 CET
+  end: 2012-11-09 11:00 CET
+  description: |
+    Having recently passes its second birthday, OpenStack is a relatively
+    new entrant into the world of open-source virtualization. Since its
+    announcement, it has gained incredible traction and momentum with
+    hundreds of developers contributing to each release. OpenStack's success
+    * and the potential for it to be deployed pervasively at massive scale,
+    particularly in public clouds - presents an opportunity for KVM's
+    continued growth and adoption.
+
+    Mark, a former KVM developer, will introduce the OpenStack project, its
+    architecture and current status. Mark will then talk in some detail
+    about how OpenStack currently uses KVM and libvirt before setting the
+    scene for a a discussion about how OpenStack could adopt more of KVM's
+    unique features to the benefit of both projects.
+
+    For more information, including speaker bio, [visit the conference
+    website](http://kvmforumovirtworkshop2012.sched.org/event/bd91ab75c57b6460cc418392c105669a?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+- title: 'Boxes: A Box for Everyone!'
+  speaker: Zeeshan Ali
+  start: 2012-11-09 11:15 CET
+  end: 2012-11-09 12:00 CET
+  description: |
+    Boxes is a new GNOME application for easily handling other systems:
+    local virtual machines and remote desktop. A local machine is powered by
+    KVM and SPICE, and you can access remote desktop via libvirt, SPICE and
+    VNC. During this talk I will demonstrate latest version and describe the
+    design of Boxes. I will discuss the importance of Boxes as part of the
+    GNOME project. Finally, a list of missing features and the roadmap for
+    the next cycle will be presented.
+
+    The talk is indented for Linux users, system administrators and
+    developers a like. Audience will be expected to have very basic
+    understanding of, and experience with virtual machines, Linux and GNOME.
+    Experience with virtual machine managers, like virt-manager will be an
+    advantage but not required.
+
+    For more information, including speaker bio, [visit the conference
+    website](http://kvmforumovirtworkshop2012.sched.org/event/1a25a9c09b40e31c4af5214f19dccc44?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+- title: VDSM For Developers
+  speaker: Federico Simoncelli
+  start: 2012-11-09 11:15 CET
+  end: 2012-11-09 12:00 CET
+  description: |
+    Learn about VDSM internals.
+
+    For more information, including speaker bio, [visit the conference
+    website](http://kvmforumovirtworkshop2012.sched.org/event/629ed5ae84be0b22bc5f8a2f9ed0aa75?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+- title: Engine for Developers
+  speaker: Juan Hernandez
+  start: 2012-11-09 13:00 CET
+  end: 2012-11-09 13:40 CET
+  description: |
+    oVirt engine internals.
+
+    For more information, including speaker bio, [visit the conference
+    website](http://kvmforumovirtworkshop2012.sched.org/event/7c0a9ec1b79a48e1f4d57680da00c47e?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+- title: 'Storage Live Migration: Below The Hood'
+  speaker: Federico Simoncelli
+  start: 2012-11-09 13:40 CET
+  end: 2012-11-09 14:20 CET
+  description: |
+    This session will review end-to-end the implementation of storage live
+    migration.
+
+    For more information, including speaker bio, [visit the conference
+    website](http://kvmforumovirtworkshop2012.sched.org/event/50129181f4d56d00c370c1768cdcba77?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+- title: UI For Developers
+  speaker: Vojtech Szocs
+  start: 2012-11-09 14:20 CET
+  end: 2012-11-09 15:00 CET
+  description: |
+    Introduction to ovirt GWT UI internals.
+
+    For more information, including speaker bio, [visit the conference
+    website](http://kvmforumovirtworkshop2012.sched.org/event/3b4d0115f9a5f39186f7579d6608648f?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+- title: oVirt Node and OpenStack
+  speaker: Fabian Deutsch
+  start: 2012-11-09 15:30 CET
+  end: 2012-11-09 16:00 CET
+  description: |
+    A talk diving into the details of using the oVirt Node framework with
+    projects different to oVirt. We’ll dive into details of how oVirt Node
+    is different depending in which environment it is being used. There will
+    be a heavy focus on how it is or can be used with OpenStack as the IaaS
+    platform.
+
+    For more information, including speaker bio, [visit the conference
+    website](http://kvmforumovirtworkshop2012.sched.org/event/a31ccd8702d7cc1a6bcd8c66d8f8443c?iframe=no&w=750&sidebar=yes&bg=no#).
+
+- title: Drools Integration in oVirt Engine
+  speaker: Laszlo Hornyak
+  start: 2012-11-09 16:00 CET
+  end: 2012-11-09 16:45 CET
+  description: |
+    The VM scheduler is the heart of a private cloud, it selects host for
+    your virtual machine, decides about VM migrations and aligns the load on
+    the hosts. While this is not a simple task, performance and the costs of
+    the virtualization system is largely dependent on the decisions this
+    component makes. JBoss Drools can help us to make the decision logic
+    more readable and easier to extend by specifying rules rather than
+    trying to rewrite an existing algorithm. This approach promises better
+    performance for your private could through better decisions.
+
+    For more information, including speaker bio, [visit the conference
+    website](http://kvmforumovirtworkshop2012.sched.org/event/827af93622922bafe8a876b23948f9f0?iframe=no&w=750&sidebar=yes&bg=no#).
+
+- title: How Can We Improve The Process of Troubleshooting an oVirt Environment (BoF)
+  speaker: Lee Yarwood
+  start: 2012-11-09 16:45 CET
+  end: 2012-11-09 17:30 CET
+  description: |
+    This BoF will look into how we can improve the process of
+    troubleshooting an oVirt environment. The session will start with an
+    overview of techniques currently employed downstream and issues faced
+    with these techniques before branching out into possible improvements
+    that can be made upstream within oVirt.
+
+    Given the nature of this BoF both users and developers are welcome to
+    attend and share their ideas.

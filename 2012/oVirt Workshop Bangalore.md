@@ -1,7 +1,0 @@
-# oVirt Workshop Bangalore 
-## Location: Bangalore, India
-## Date: October 16, 2012
-
-The oVirt Project is an open virtualization project for anyone who cares about Linux-based KVM virtualization. Providing a feature-rich server virtualization management system with advanced capabilities for hosts and guests, including high availability, live migration, storage management, system scheduler, and more. By open we mean open source & open governance, done right. During this workshop you’ll learn about the technical background and direction of the oVirt project. You’ll meet the developers, and have an opportunity to see and dive into the code right away. The workshop is open to all who want to use, get involved with, or  learn about the comprehensive open virtualization management platform, oVirt. The sessions cover the technical projects details, governance, getting involved, usage, and much more. If you have any interest in an Open Virtualization Management platform, this workshop is for you!
-
-For more details, visit http://wiki.ovirt.org/wiki/OVirt_Global_Workshops#Red_Hat_Bangalore_Campus_Workshop

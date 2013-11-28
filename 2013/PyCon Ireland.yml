@@ -1,0 +1,21 @@
+name: PyCon Ireland
+location: Dublin, Ireland
+start: 2013-10-12
+end: 2013-10-15
+description: |
+  For more information about the conference, see:
+  <http://python.ie/pycon/2013/>. The Call
+  for Papers announcement is
+  <http://python.ie/pycon/2013/callfor/#speakers>
+  and Call for Sponsors is
+  <http://python.ie/pycon/2013/callfor/#sponsors>.
+
+talks:
+
+- title: Keynote
+  speaker: Lynn Root
+  start: 
+  end: 
+  description: |
+    While exact talk is to be discussed, I will be talking generally about
+    diversity and PyLadies within the Python community.

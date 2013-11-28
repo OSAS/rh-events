@@ -1,0 +1,13 @@
+name: PHP Columbus Meeting
+location: Columbus, Ohio, USA
+start: 2013-09-11
+
+talks:
+
+- title: What's new in Apache httpd 2.4
+  speaker: Rich Bowen
+  start: 2013-09-11 05:00 EDT
+  end: 2013-09-11 05:00 EDT
+  description: |
+    Rich will be talking about what's new in the 2.4 release of the Apache
+    http server. Come at 6 for food, drinks, and networking.

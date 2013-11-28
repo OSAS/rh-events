@@ -1,0 +1,19 @@
+name: RDO Neutron Networking Google Hangout
+location: Google Hangout and YouTube Stream
+start: 2013-10-31
+description: Google Hangout Series for RDO
+
+talks:
+
+- title: Advanced OpenStack Networking
+  speaker: Brent Eagles
+  start: 2013-10-30 22:00 EDT
+  end: 2013-10-30 22:00 EDT
+  description: |
+    See details at
+    <https://plus.google.com/u/1/events/cfgnq5t8it7uvksrtpd00s2fcmg>
+
+    Brent Eagles will pick up where Dave Neary left off last month, and will
+    cover advanced networking concepts, including GRE tunnels and VLANs. The
+    URL of the streaming video channel will be posted at the above URL
+    closer to the event.

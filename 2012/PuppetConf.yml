@@ -1,0 +1,30 @@
+name: PuppetConf
+location: San Francisco, California, US
+start: 2012-09-28
+
+talks:
+
+- title: Package management and Puppet
+  speaker: Sam Kottler
+  start: 2012-09-28 11:45 PDT
+  end: 2012-09-28 12:30 PDT
+  description: |
+    This talk will cover the topic of managing packages across several
+    environments and staging. We'll cover topics including the package
+    resources included in Puppet core, how to hack on the Yum and Deb
+    providers, and how to extend Puppet via custom resources and basic
+    principals of idempotent operations. Some knowledge of the package
+    management and Puppet resources is ideal for users attending the talk.
+    We'll build on that knowledge and move into more advanced topics like
+    custom providers and resources.
+
+    For more information, including speaker bio, [visit the conference
+    website](http://puppetconf.com/speakers/).
+
+- title: Foreman and friends
+  speaker: Ohad Levy
+  start: 2012-09-28 15:45 PDT
+  end: 2012-09-28 16:20 PDT
+  description: |
+    For more information, including speaker bio, [visit the conference
+    website](http://puppetconf.com/speakers/).
