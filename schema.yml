@@ -1,0 +1,53 @@
+type: map
+mapping:
+  "name":
+    type: str
+    required: yes
+  "type":
+    type: str
+    pattern: /series/i
+    required: no
+  "location":
+    type: str
+    required: no
+  "timezone":
+    type: str
+    required: no
+  "start":
+    type: date
+    required: no
+  "end":
+    type: date
+    required: no
+  "description":
+    type: any
+    required: no
+  "talks":
+    type: seq
+    required: no
+    sequence:
+      - type: map
+        mapping:
+          "title":
+            type: str
+            required: yes
+          "location":
+            type: str
+            required: no
+          "timezone":
+            type: str
+            required: no
+          "speaker":
+            type: str
+            required: no
+          "start":
+            type: str
+            pattern: /^[0-9]{2,4}-[0-9]{1,2}-[0-9]{1,2} [0-9]{1,2}:[0-9]{2}[ apmAPM.]{0,5} [a-zA-Z]{3,4}$/
+            required: no
+          "end":
+            type: str
+            pattern: /^[0-9]{2,4}-[0-9]{1,2}-[0-9]{1,2} [0-9]{1,2}:[0-9]{2}[ apmAPM.]{0,5} [a-zA-Z]{3,4}$/
+            required: no
+          "description":
+            type: str
+            required: no
