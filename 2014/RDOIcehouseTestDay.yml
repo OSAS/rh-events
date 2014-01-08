@@ -1,0 +1,10 @@
+name: RDO Icehouse Test Day
+location: IRC
+start: 2014-01-07
+end: 2014-01-08
+description: |
+  We will be having a test day for the first Icehouse milestone of RDO 
+  on January 7th and 8th. For full details, see the wiki page at 
+  <http://openstack.redhat.com/RDO_test_day_January_2014>. During the
+  event, participants will be on the #rdo channel on the
+  freenode.net IRC network for questions and conversation.
