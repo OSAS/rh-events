@@ -1,9 +1,154 @@
 name: FOSDEM
+description: The Free and Open source Software Developers’ European Meeting (FOSDEM)
+  is a two-day event organized by volunteers to promote the widespread use of Free
+  and Open Source software. For more information on FOSDEM, [visit the conference
+  website](http://fosdem.org/).
 location: Brussels, Belgium
 start: 2014-02-01
 end: 2014-02-02
-description: |
-  The Free and Open source Software Developers’ European Meeting (FOSDEM)
-  is a two-day event organized by volunteers to promote the widespread use
-  of Free and Open Source software. For more information on FOSDEM, visit
-  the web site at <http://fosdem.org/2014/>
+talks:
+
+- title: 'Entangle: Tethered Camera Control & Capture'
+  speaker: Daniel Berrange
+  start: 2014-02-01 14:20 CET
+  end: 2014-02-01 14:35 CET
+  description: |-
+    Entangle is an open source project that provides a Linux desktop
+    application for “tethered shooting”. It uses the ligphoto2 library to
+    trigger the camera shutter, preview shots via the camera's "live view"
+    capability, download captured images and access all the live camera
+    settings. It is useful for a variety of use cases including studio model
+    shoots, macro still life, stop motion animation shoots,
+    astro-photography and more.
+
+    The talk will be targeted at Linux users & developers who are
+    photographers interested in any of the aforementioned use cases.
+
+- title: oVirt and OpenStack Storage (present and future)
+  speaker: Federico Simoncelli
+  start: 2014-02-01 13:40 CET
+  end: 2014-02-01 14:20 CET
+  description: |-
+    This session will cover the current status of integration between oVirt
+    and the OpenStack image repository (Glance), analyzing the motivations,
+    the low level implementation (including Keystone authentication) and the
+    ideas for the future. The presentation will include also an ample part
+    dedicated to the future work and ideas to introduce the integration with
+    Cinder (the OpenStack volume manager).
+
+- title: New Developments and Advanced Features in the Libvirt Management API
+  speaker: Daniel Berrange
+  start: 2014-02-01 14:20 CET
+  end: 2014-02-01 15:00 CET
+  description: |-
+    In the 8+ years since it was founded, the libvirt project grown to
+    become the leading open source API for the management of virtualization
+    hosts, with a strong focus on supporting the open source virtualization
+    & container technologies, KVM, QEMU, Xen and LXC. Many people working in
+    the open source virtualization management space already have an
+    understanding of the core features and architecture of libvirt. This
+    talk will thus focus on a selection of recently developed features and
+    of some of the other important, but less well known, features of
+    libvirt.
+
+    The talk will be targeted at virtualization application developers using
+    libvirt, with a bias towards those using KVM or LXC. At the end of the
+    talk the audience will better understand how to take advantage of
+    libvirt for their development needs.
+
+- title: Foreman Project
+  speaker: Ohad Levy
+  start: 2014-02-01 15:40 CET
+  end: 2014-02-01 16:20 CET
+  description: |-
+    Foreman is a complete lifecycle management tool for virtual, cloud and
+    physical servers. Through deep integration with configuration
+    management, infrastructure services and PXE and Image-based unattended
+    installations, Foreman manages every stage of the lifecycle of your
+    servers. Foreman provides comprehensive, auditable interaction
+    facilities including a web frontend and robust, RESTful API.
+
+- title: oVirt applying Nova scheduler concepts for data center virtualization
+  speaker: Gilad Chaplik
+  start: 2014-02-01 17:40 CET
+  end: 2014-02-01 18:20 CET
+  description: |-
+    For several years now, the oVirt project is leveraging KVM and relevant
+    technologies (ksm, etc) in data center virtualizations. Being a mature
+    and feature reach, oVirt takes another step forward with introducing a
+    Pluggable Scheduling API. This presentation will review recent oVirt
+    improvements in the areas of VM scheduling. The first part will discuss
+    about the architecture of the new scheduler. On the second part we will
+    show samples of VM scheduling plug-ins, and integrate it to a live
+    setup.
+
+- title: Patents, Free Software & Standards (Oh My!)
+  speaker: Tom Callaway
+  start: 2014-02-01 15:30 CET
+  end: 2014-02-01 15:55 CET
+  description: h264, MPEG LA and patents
+
+- title: OpenJDK on AArch64 Update
+  speaker: Andrew Haley, Andrew Dinn
+  start: 2014-02-01 11:30 CET
+  end: 2014-02-01 11:55 CET
+  description: |-
+    Red Hat's project of porting OpenJDK to run on ARM's new 64-bit
+    architecture began about 18 months ago. This talk will describe the work
+    we have performed over the last year, explaining how we went about
+    implementing the client and server JIT compilers. In particular, we will
+    give details and examples of how we have tuned the server compiler to
+    generate code that has been optimized to make use of the AArch64
+    instruction set.
+
+- title: Shenandoah - an ultra-low pause-time GC for OpenJDK
+  speaker: Roman Kennke
+  start: 2014-02-01 00:00 CET
+  end: 2014-02-01 12:25 CET
+  description: |-
+    Current garbage collectors for OpenJDK all need to stop the application
+    periodically to perform garbage collection tasks. This is a scalability
+    bottleneck because those pause times are dependend on heap size.
+    Shenandoah is a new garbage collector for OpenJDK, currently developed
+    by Red Hat, that aims to reduce GC pause times to a minimum by
+    implementing marking and object evacuation to run concurrently with
+    application threads, and utilizing parallel garbage collection threads.
+
+- title: OpenJDK Governing Board Q&A Panel Session
+  speaker: Mark Reinhold, Andrew Haley, Georges Saab, Doug Lea
+  start: 2014-02-01 18:00 CET
+  end: 2014-02-01 19:00 CET
+  description: An open Q&A session with members of the OpenJDK Governing Board.
+
+- title: 'Your Complete Open Source Cloud: Mixing oVirt, OpenStack, OpenShift and
+    Gluster for a full private cloud'
+  speaker: Dave Neary
+  start: 2014-02-02 17:20 CET
+  end: 2014-02-02 17:35 CET
+  description: |-
+    This talk will be a whirlwind tour around why you might want to use both
+    oVirt and OpenStack in your infrastructure, how you can use Gluster as a
+    common shared storage back-end for the whole thing, and what value
+    OpenShift adds into the mix. A full open source cloud on commodity
+    hardware, in a couple of hours, covering virt, storage, IaaS and PaaS.
+
+- title: Standalone applications testing and automation
+  speaker: Vadim Rutkovsky
+  start: 2014-02-02 00:30 CET
+  end: 2014-02-02 13:20 CET
+  description: |-
+    We are a group of engineers from Red Hat's Desktop QE team and we would
+    like to discuss standalone application testing on Linux. During this
+    workshop we'd like to show existing workflow of application testing,
+    discuss testing tools and overall influence of quality engineers on open
+    source software development process.
+
+- title: Testing of valgrind RPMs in RHEL
+  speaker: Miroslav Franc
+  start: 2014-02-02 10:30 CET
+  end: 2014-02-02 10:55 CET
+  description: |-
+    Valgrind is a tool that can be used for testing but also needs to be
+    tested itself as any other piece of software. This talk will focus on
+    testing done before releasing new Valgrind RPM in Red Hat Enterprise
+    Linux.
