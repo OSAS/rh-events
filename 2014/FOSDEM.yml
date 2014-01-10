@@ -94,11 +94,44 @@ talks:
     show samples of VM scheduling plug-ins, and integrate it to a live
     setup.
 
+- title: A Method for Distributing Applications Independent from the Distro
+  speaker: Langdon White
+  start: 2014-02-01 14:00 CET
+  end: 2014-02-01 15:00 CET
+  description: |-
+    For many years the Linux distro concept has been about "inclusion of
+    applications" sometimes at the detriment to co-habitating applications
+    and the stability of the core OS. Much discussion has been made over the
+    years about JEOS, embedded Linux, custom distros, applicance building,
+    etc, but not a lot of discussion about how applications could be
+    delivered such that they were more readily able to co-habitate. On a
+    related note, open source applications (because distros are so
+    "inclusive") are put through significant scrutiny around their design
+    and deployment related to their integration with the core OS that may or
+    may not make sense. The scrutiny is certainly more intense than
+    proprietary software is required to undergo. This talk proposes a
+    new'ish technology, Software Collections, as a method for resolution.
+
 - title: Patents, Free Software & Standards (Oh My!)
   speaker: Tom Callaway
   start: 2014-02-01 15:30 CET
   end: 2014-02-01 15:55 CET
   description: h264, MPEG LA and patents
+
+- title: 'Open Source Governance best practices roundtable: Query panelists for their
+    best ideas on Open Source Governance'
+  speaker: Stefano Zacchiroli, Karen Sandler, Christopher Webber, Eileen Evans, Tom
+    Callaway, Chris Aniszczyk
+  start: 2014-02-01 18:00 CET
+  end: 2014-02-01 18:50 CET
+  description: |-
+    Five of our speakers from the Legal and Policy Issues devroom have
+    agreed to participate in a governance best practices roundtable. These
+    practices may touch on contribution policy, review boards, policy
+    manuals, licensing tools, trademark guidelines, etc. Questions will be
+    asked of the panelists to start the roundtable and the audience will
+    also be encouraged to participate in order to have more interaction with
+    the panelists. Karen Sandler will be the moderator.
 
 - title: OpenJDK on AArch64 Update
   speaker: Andrew Haley, Andrew Dinn
@@ -143,6 +176,134 @@ talks:
     common shared storage back-end for the whole thing, and what value
     OpenShift adds into the mix. A full open source cloud on commodity
     hardware, in a couple of hours, covering virt, storage, IaaS and PaaS.
+
+- title: 'Getting cross-platform: bringing virtualization management to the PPC world'
+  speaker: Omer Frenkel
+  start: 2014-02-02 10:20 CET
+  end: 2014-02-02 11:00 CET
+  description: |-
+    Getting cross-platform: bringing virtualization management to the PPC
+    world oVirt, the open source data center virtualization management
+    solution is expanding the x86\_64 architecture support to PowerPC
+    hardware, among them IBM Power processor based hosts.
+
+    Entering PPC world raises challenges of managing mixed arch data-centers
+    with the need to distinguish PPC from x86\_64 VMs. In this session we'll
+    cover the main differences in virtualization needs, how we enabled the
+    support for that in our management engine(a.k.a ovirt-engine)
+
+    PPC virtualization main differences is in virtualized devices supports.
+    Built around x86_64, ovirt-engine needed to expand its cluster and VMs
+    provisioning to fit multi architecture, and to keep migration support
+    and proper VM configuration solid for the supported operating systems.
+    Since some parts are work in progress (e.g live migration) for the PPC
+    VDSM, the engine has to also manage features which are not supported for
+    PPC while is supported for x86_64
+
+    To cope with a change that span various parts and components a
+    repository for Operating Systems and they're hipervisor's demands was
+    created along with strategy functions around the code to ensure correct
+    provisions and life cycle related VM functions.
+
+    The session will cover what is now supported (hypervisor and VM OSs),
+    how we provision PPC clusters and VMs and a little deeper dive to
+    explore the mechanisms which enabled this multi-platform support along
+    with some code examples (yes, we're going to see some code!)
+
+    Target audience Whoever is interested in data-center virtualization in
+    general and ovirt-engine specifically, and this latest PPC support
+    effort it brings.
+
+- title: 'Expanding oVirt''s horizons: How to extends and modify oVirt even further'
+  speaker: Mike Kolesnik
+  start: 2014-02-02 11:40 CET
+  end: 2014-02-02 12:20 CET
+  description: |-
+    As the prominent open-source data center virtualization solution, oVirt
+    has many features that help you virtualize data center and cloud
+    offerings. Sometimes a feature might be needed to extends oVirt's
+    capabilities, but even though oVirt is open source, you might want to
+    provide a quick and dirty solution..
+
+    Mike Kolesnik from Red Hat will show you how you can extends oVirt's
+    capabilities with ease throughout the oVirt stack - UI, engine and host.
+
+    Developers are welcome to join us in this session to learn how you can
+    leverage oVirt to suit your virtualization needs.
+
+- title: 'oVirt Hosted Engine: The Egg That Hosts its Parent Chicken'
+  speaker: Doron Fediuck
+  start: 2014-02-02 00:20 CET
+  end: 2014-02-02 13:00 CET
+  description: |-
+    For several years now, oVirt manages Virtual Machines. Then came the
+    question- can you run oVirt inside a VM, which in turn will be managed
+    by the hosted oVirt? In this session we'll understand the intricacies of
+    an egg hosting it's parent chicken. We'll cover the various aspects
+    starting with installation, going through standard operations and ending
+    with high-availability for the hosted engine. Participants will be able
+    to get insights of this unique setup, which will save them a physical
+    server (or even two), while allowing standard flows to run the same way
+    they did in the past years.
+
+- title: Tunnels as a Connectivity and Segregation Solution for Virtualized Networks
+  speaker: Assaf Muller
+  start: 2014-02-02 13:40 CET
+  end: 2014-02-02 14:20 CET
+  description: |-
+    Join me for an architectural, developer oriented overview of (GRE and
+    VXLAN) tunnels in OpenStack Networking.
+
+    In the virtualization environment virtual machines are hosted on
+    hypervisors. These VMs then obtain network connectivity via software
+    switches run in the same hypervisors. Data centers that provide
+    infrastructure as a service have (hopefully) multiple customers (Or
+    'tenants'). As you can imagine we don't want tenants' VMs interacting
+    with one another.
+
+    VLANs are a natural approach to achieve tenant segregation. However, how
+    do we maintain scalability with a growing number of hypervisors and VMs,
+    when the administrator has to constantly configure the hardware switches
+    manually? Is there another way?
+
+    We all use VPNs to connect to our office resources remotely, or to
+    connect two office sites into one seamless network. VPNs are essentially
+    encrypted tunnels, but what are tunnels?
+
+    Tunnels allow us to wrap packets inside more packets. In our context -
+    VM traffic in exterior IP packets. That way, to the intermediate
+    networking hardware, it looks like traffic between the hypervisors.
+    Since the hypervisors should already be able to talk to each other, this
+    makes VM connectivity a breeze!
+
+    Let's explore how tunnels are used in the cloud as a means to achieve an
+    overlay network. What is an overlay network? How does traffic flow
+    between virtual machines on the same hypervisor, and on different
+    hypervisors? What are the similarities between a layer 2 learning switch
+    and tunnel logic in OpenStack? How does Open vSwitch fit in? Is there a
+    cost to using tunnels?
+
+    This talk will be useful to developers interested in learning about new
+    networking concepts - Minimal background knowledge will be assumed.
+
+- title: 'Bring your virtualized networking stack to the next level: oVirt & OpenStack
+    Neutron integration'
+  speaker: Mike Kolesnik
+  start: 2014-02-02 16:20 CET
+  end: 2014-02-02 17:00 CET
+  description: |-
+    As the prominent open-source data center virtualization solution, oVirt
+    relies on a powerful and easy approach to configuring a data center's
+    network. By leveraging the advanced network capabilities offered by
+    OpenStack Networking, oVirt's maintainers aim to bring this field even
+    further, allowing data center administrators to use advanced networking
+    capabilities while maintaining the simplicity of oVirt's network
+    management approach.
+
+    Developers & Users are welcome to join us in this session, and to
+    discover how oVirt currently leverages OpenStack Networking, and see the
+    road-map to future network virtualization in the Data Center, all using
+    open source enterprise-grade software.
 
 - title: Standalone applications testing and automation
   speaker: Vadim Rutkovsky
