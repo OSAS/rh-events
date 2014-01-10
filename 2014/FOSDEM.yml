@@ -8,6 +8,18 @@ start: 2014-02-01
 end: 2014-02-02
 talks:
 
+- title: Your Application versus GDB
+  speaker: Tom Tromey
+  start: 2014-02-01 15:00 CET
+  end: 2014-02-01 15:50 CET
+  description: |-
+    In recent years GDB has undergone a renaissance, adding Python scripting
+    and other cool new features. This talk will show you how to customize
+    GDB for your application and your debugging needs. We'll go into depth
+    about pretty printing, stack trace filtering, and writing new commands;
+    and will also discuss writing GUIs and other tools inside GDB. Finally,
+    we'll cover other interesting and useful GDB projects.
+
 - title: 'Entangle: Tethered Camera Control & Capture'
   speaker: Daniel Berrange
   start: 2014-02-01 14:20 CET
@@ -143,6 +155,21 @@ talks:
     discuss testing tools and overall influence of quality engineers on open
     source software development process.
 
+- title: 'Valgrind Support in the Eclipse IDE: An Overview of the Eclipse Valgrind
+    plugin provided by the Linux Tools Project'
+  speaker: Roland Grunberg
+  start: 2014-02-02 10:00 CET
+  end: 2014-02-02 10:25 CET
+  description: |-
+    For developers it can often be a bit of a learning curve to learn the
+    proper use of a new tool. For certain development tools the entry
+    barrier can be quite high and can often discourage users. The Linux
+    Tools Project aims to improve the state of C/C++ development on the
+    Eclipse IDE by integrating popular tools, such as Valgrind.
+
+    This talk is aimed at people of varying experience with the Valgrind
+    tool who have never used it within the Eclipse IDE.
+
 - title: Testing of valgrind RPMs in RHEL
   speaker: Miroslav Franc
   start: 2014-02-02 10:30 CET
@@ -152,3 +179,39 @@ talks:
     tested itself as any other piece of software. This talk will focus on
     testing done before releasing new Valgrind RPM in Red Hat Enterprise
     Linux.
+
+- title: GDB, so where are we now? (Status of GDB's ongoing target and run control
+    projects)
+  speaker: Pedro Alves
+  start: 2014-02-02 15:00 CET
+  end: 2014-02-02 15:25 CET
+  description: |-
+    In this talk I'll present an overview of the current state of several
+    GDB projects of interest to Valgrind developers looking at GDB/Valgrind
+    integration, including the current state of GDBserver in GDB, where we
+    are on local vs remote feature parity, all-stop vs non-stop modes,
+    multi-process and multi-target projects, reverse debugging and possibly
+    others.
+
+- title: 'BoF: Valgrind and GDB integration (Crazy and fun ways to make the Valgrind/GDB
+    combo more powerful)'
+  speaker: Tom Tromey
+  start: 2014-02-02 16:00 CET
+  end: 2014-02-02 16:25 CET
+  description: |-
+    Given the current state of Valgrind and GDB how can we make things even
+    better and smoother. Put some Valgrind and GDB hackers in the same room
+    and let them discuss the technical details needed on each side. Come and
+    help us brainstorm some crazy and fun ways to make the Valgrind/GDB
+    combo even cooler and more powerful.
+
+- title: 'BoF: Ideas, new features and directions for Valgrind (Open discussion about
+    small (or big) ideas to improve or change Valgrind.)'
+  speaker: Mark Wielaard
+  start: 2014-02-02 16:30 CET
+  end: 2014-02-02 17:45 CET
+  description: |-
+    Valgrind developers and users are encouraged to participate either by
+    submitting ideas/suggestions or by joining the discussion. And of course
+    by kindly (or bitterly:) complain about bugs you find important that are
+    _still_ _Not_ _YET_ solved since _that_ many years !?@^!!!
