@@ -183,7 +183,15 @@ talks:
   end: 2014-02-01 15:55 CET
   room: H.2213
   track: Legal and policy issues
-  description: h264, MPEG LA and patents
+  description: |-
+    Recently, Cisco released a software component for H264 video support
+    under the BSD license. This would normally be considered Free Software,
+    except for the fact that this standard is considered to be patented
+    (where software patents apply). They are covering the MPEG LA licensing
+    fees, but only for pre-built binaries, not for the corresponding source.
+    I will discuss this issue, and why the resulting software is not only
+    non-free, but does not solve any issues for distributors with a focus on
+    Freedom (such as Fedora).
 
 - title: 'Open Source Governance best practices roundtable: Query panelists for their
     best ideas on Open Source Governance'
