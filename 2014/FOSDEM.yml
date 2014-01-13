@@ -12,6 +12,8 @@ talks:
   speaker: Tom Tromey
   start: 2014-02-01 15:00 CET
   end: 2014-02-01 15:50 CET
+  room: Janson
+  track: Tracing and debugging
   description: |-
     In recent years GDB has undergone a renaissance, adding Python scripting
     and other cool new features. This talk will show you how to customize
@@ -24,6 +26,8 @@ talks:
   speaker: Daniel Berrange
   start: 2014-02-01 14:20 CET
   end: 2014-02-01 14:35 CET
+  room: Ferrer
+  track: Lightning talks
   description: |-
     Entangle is an open source project that provides a Linux desktop
     application for “tethered shooting”. It uses the ligphoto2 library to
@@ -40,6 +44,8 @@ talks:
   speaker: Federico Simoncelli
   start: 2014-02-01 13:40 CET
   end: 2014-02-01 14:20 CET
+  room: Chavanne
+  track: Virtualisation and IaaS
   description: |-
     This session will cover the current status of integration between oVirt
     and the OpenStack image repository (Glance), analyzing the motivations,
@@ -52,6 +58,8 @@ talks:
   speaker: Daniel Berrange
   start: 2014-02-01 14:20 CET
   end: 2014-02-01 15:00 CET
+  room: Chavanne
+  track: Virtualisation and IaaS
   description: |-
     In the 8+ years since it was founded, the libvirt project grown to
     become the leading open source API for the management of virtualization
@@ -72,6 +80,8 @@ talks:
   speaker: Ohad Levy
   start: 2014-02-01 15:40 CET
   end: 2014-02-01 16:20 CET
+  room: Chavanne
+  track: Virtualisation and IaaS
   description: |-
     Foreman is a complete lifecycle management tool for virtual, cloud and
     physical servers. Through deep integration with configuration
@@ -84,6 +94,8 @@ talks:
   speaker: Gilad Chaplik
   start: 2014-02-01 17:40 CET
   end: 2014-02-01 18:20 CET
+  room: Chavanne
+  track: Virtualisation and IaaS
   description: |-
     For several years now, the oVirt project is leveraging KVM and relevant
     technologies (ksm, etc) in data center virtualizations. Being a mature
@@ -98,6 +110,8 @@ talks:
   speaker: Langdon White
   start: 2014-02-01 14:00 CET
   end: 2014-02-01 14:50 CET
+  room: H.1302
+  track: Distributions
   description: |-
     For many years the Linux distro concept has been about "inclusion of
     applications" sometimes at the detriment to co-habitating applications
@@ -117,6 +131,8 @@ talks:
   speaker: Karanbir Singh
   start: 2014-02-01 15:00 CET
   end: 2014-02-01 15:50 CET
+  room: H.1302
+  track: Distributions
   description: |-
     CentOS has cemented a reputation as the "community enterprise operating
     system" - one that provides a reliable rebuild, but is not known for
@@ -128,6 +144,8 @@ talks:
   speaker: Stephen Gallagher
   start: 2014-02-01 16:00 CET
   end: 2014-02-01 16:50 CET
+  room: H.1302
+  track: Distributions
   description: |-
     As you may or may not be aware, Fedora is transitioning from its classic
     "one-size-fits-all" approach to one where we intend to target three
@@ -140,6 +158,8 @@ talks:
   speaker: Lennart Poettering
   start: 2014-02-01 00:45 CET
   end: 2014-02-01 13:30 CET
+  room: H.1308
+  track: Desktops
   description: |-
     Linux/Unix never had a standardized high-level local IPC system. It did
     have a various IPC primitives such as AF\_UNIX sockets, FIFOs, shared
@@ -161,6 +181,8 @@ talks:
   speaker: Tom Callaway
   start: 2014-02-01 15:30 CET
   end: 2014-02-01 15:55 CET
+  room: H.2213
+  track: Legal and policy issues
   description: h264, MPEG LA and patents
 
 - title: 'Open Source Governance best practices roundtable: Query panelists for their
@@ -169,6 +191,8 @@ talks:
     Callaway, Chris Aniszczyk
   start: 2014-02-01 18:00 CET
   end: 2014-02-01 18:50 CET
+  room: H.2213
+  track: Legal and policy issues
   description: |-
     Five of our speakers from the Legal and Policy Issues devroom have
     agreed to participate in a governance best practices roundtable. These
@@ -183,6 +207,8 @@ talks:
   speaker: Eike Rathke
   start: 2014-02-01 15:15 CET
   end: 2014-02-01 15:30 CET
+  room: H.2214
+  track: Open document editors
   description: |-
     ODF 1.2, additionally to the fo:language and fo:country attributes,
     introduced fo:script and \*:rfc-language-tag attributes to allow for the
@@ -194,6 +220,8 @@ talks:
   speaker: Stephan Bergmann
   start: 2014-02-01 17:50 CET
   end: 2014-02-01 18:05 CET
+  room: H.2214
+  track: Open document editors
   description: |-
     Advances in C++ have gathered momentum with C++11 and forthcoming C++14,
     and compiler writers busy to keep up. However, for reasons of
@@ -207,6 +235,8 @@ talks:
   speaker: Geoffrey De Smet
   start: 2014-02-01 17:00 CET
   end: 2014-02-01 17:20 CET
+  room: AW1.126
+  track: HPC and computational science
   description: |-
     Some scientific research problems inherently suffer from an NP-complete
     problem. This session will explain several metaheuristic algorithms,
@@ -219,12 +249,16 @@ talks:
   speaker: Soumya Deb
   start: 2014-02-01 14:30 CET
   end: 2014-02-01 15:00 CET
+  room: U.218A
+  track: Mozilla
   description: ''
 
 - title: OpenJDK on AArch64 Update
   speaker: Andrew Haley, Andrew Dinn
   start: 2014-02-01 11:30 CET
   end: 2014-02-01 11:55 CET
+  room: K.4.201
+  track: Java
   description: |-
     Red Hat's project of porting OpenJDK to run on ARM's new 64-bit
     architecture began about 18 months ago. This talk will describe the work
@@ -238,6 +272,8 @@ talks:
   speaker: Roman Kennke
   start: 2014-02-01 00:00 CET
   end: 2014-02-01 12:25 CET
+  room: K.4.201
+  track: Java
   description: |-
     Current garbage collectors for OpenJDK all need to stop the application
     periodically to perform garbage collection tasks. This is a scalability
@@ -251,6 +287,8 @@ talks:
   speaker: Charles Nutter
   start: 2014-02-01 16:00 CET
   end: 2014-02-01 16:25 CET
+  room: K.4.201
+  track: Java
   description: |-
     Write once run anywhere is both a blessing and a curse. For years, the
     WORA promise has ensured a consistent, compile-free experience for JVM
@@ -265,6 +303,8 @@ talks:
   speaker: Mario Torre
   start: 2014-02-01 17:30 CET
   end: 2014-02-01 17:55 CET
+  room: K.4.201
+  track: Java
   description: |-
     Thermostat is an awesome platform with the focus on Java Virtual
     Machines monitoring. This short presentation will discuss what has been
@@ -276,12 +316,16 @@ talks:
   speaker: Mark Reinhold, Andrew Haley, Georges Saab, Doug Lea
   start: 2014-02-01 18:00 CET
   end: 2014-02-01 19:00 CET
+  room: K.4.201
+  track: Java
   description: An open Q&A session with members of the OpenJDK Governing Board.
 
 - title: 'Persistent Memory: Changing the Way We Store Data'
   speaker: Ric Wheeler
   start: 2014-02-02 15:00 CET
   end: 2014-02-02 15:50 CET
+  room: Janson
+  track: Memory and storage
   description: |-
     Persistent memory parts have roughly the same capacity, speed and cost
     as current DRAM, but do not lose state when the power goes out. Some of
@@ -299,6 +343,8 @@ talks:
   speaker: Nuno Diegues, Torvald Riegel
   start: 2014-02-02 16:00 CET
   end: 2014-02-02 16:50 CET
+  room: Janson
+  track: Memory and storage
   description: |-
     This talk will present Transactional Memory, a programming abstraction
     for managing concurrency, both in multi-threaded programs running on
@@ -309,6 +355,8 @@ talks:
   speaker: Richard Jones
   start: 2014-02-02 16:00 CET
   end: 2014-02-02 16:15 CET
+  room: Ferrer
+  track: Lightning talks
   description: |-
     Libguestfs (http://libguestfs.org) is a library and set of tools for
     securely and automatically performing many operations on disk images,
@@ -324,6 +372,8 @@ talks:
   speaker: Dave Neary
   start: 2014-02-02 17:20 CET
   end: 2014-02-02 17:35 CET
+  room: Ferrer
+  track: Lightning talks
   description: |-
     This talk will be a whirlwind tour around why you might want to use both
     oVirt and OpenStack in your infrastructure, how you can use Gluster as a
@@ -335,6 +385,8 @@ talks:
   speaker: Omer Frenkel
   start: 2014-02-02 10:20 CET
   end: 2014-02-02 11:00 CET
+  room: Chavanne
+  track: Virtualisation and IaaS
   description: |-
     Getting cross-platform: bringing virtualization management to the PPC
     world oVirt, the open source data center virtualization management
@@ -372,6 +424,8 @@ talks:
   speaker: Mike Kolesnik
   start: 2014-02-02 11:40 CET
   end: 2014-02-02 12:20 CET
+  room: Chavanne
+  track: Virtualisation and IaaS
   description: |-
     As the prominent open-source data center virtualization solution, oVirt
     has many features that help you virtualize data center and cloud
@@ -389,6 +443,8 @@ talks:
   speaker: Doron Fediuck
   start: 2014-02-02 00:20 CET
   end: 2014-02-02 13:00 CET
+  room: Chavanne
+  track: Virtualisation and IaaS
   description: |-
     For several years now, oVirt manages Virtual Machines. Then came the
     question- can you run oVirt inside a VM, which in turn will be managed
@@ -404,6 +460,8 @@ talks:
   speaker: Assaf Muller
   start: 2014-02-02 13:40 CET
   end: 2014-02-02 14:20 CET
+  room: Chavanne
+  track: Virtualisation and IaaS
   description: |-
     Join me for an architectural, developer oriented overview of (GRE and
     VXLAN) tunnels in OpenStack Networking.
@@ -445,6 +503,8 @@ talks:
   speaker: Mike Kolesnik
   start: 2014-02-02 16:20 CET
   end: 2014-02-02 17:00 CET
+  room: Chavanne
+  track: Virtualisation and IaaS
   description: |-
     As the prominent open-source data center virtualization solution, oVirt
     relies on a powerful and easy approach to configuring a data center's
@@ -463,6 +523,8 @@ talks:
   speaker: Andreas Schneider
   start: 2014-02-02 11:30 CET
   end: 2014-02-02 12:20 CET
+  room: U.218A
+  track: Testing and automation
   description: |-
     Testing network applications correctly is hard. The talk will show how
     to create a fully isolated network environment for client and server
@@ -473,6 +535,8 @@ talks:
   speaker: Vadim Rutkovsky
   start: 2014-02-02 00:30 CET
   end: 2014-02-02 13:20 CET
+  room: U.218A
+  track: Testing and automation
   description: |-
     We are a group of engineers from Red Hat's Desktop QE team and we would
     like to discuss standalone application testing on Linux. During this
@@ -485,6 +549,8 @@ talks:
   speaker: Roland Grunberg
   start: 2014-02-02 10:00 CET
   end: 2014-02-02 10:25 CET
+  room: K.4.201
+  track: Valgrind
   description: |-
     For developers it can often be a bit of a learning curve to learn the
     proper use of a new tool. For certain development tools the entry
@@ -499,6 +565,8 @@ talks:
   speaker: Miroslav Franc
   start: 2014-02-02 10:30 CET
   end: 2014-02-02 10:55 CET
+  room: K.4.201
+  track: Valgrind
   description: |-
     Valgrind is a tool that can be used for testing but also needs to be
     tested itself as any other piece of software. This talk will focus on
@@ -510,6 +578,8 @@ talks:
   speaker: Pedro Alves
   start: 2014-02-02 15:00 CET
   end: 2014-02-02 15:25 CET
+  room: K.4.201
+  track: Valgrind
   description: |-
     In this talk I'll present an overview of the current state of several
     GDB projects of interest to Valgrind developers looking at GDB/Valgrind
@@ -523,6 +593,8 @@ talks:
   speaker: Tom Tromey
   start: 2014-02-02 16:00 CET
   end: 2014-02-02 16:25 CET
+  room: K.4.201
+  track: Valgrind
   description: |-
     Given the current state of Valgrind and GDB how can we make things even
     better and smoother. Put some Valgrind and GDB hackers in the same room
@@ -535,6 +607,8 @@ talks:
   speaker: Mark Wielaard
   start: 2014-02-02 16:30 CET
   end: 2014-02-02 17:45 CET
+  room: K.4.201
+  track: Valgrind
   description: |-
     Valgrind developers and users are encouraged to participate either by
     submitting ideas/suggestions or by joining the discussion. And of course
