@@ -136,6 +136,37 @@ talks:
     on the logistics around this change in direction would be a valuable
     opportunity.
 
+- title: Anatomy of kdbus
+  speaker: Lennart Poettering
+  start: 2014-02-01 00:45 CET
+  end: 2014-02-01 13:30 CET
+  description: |-
+    Linux/Unix never had a standardized high-level local IPC system. It did
+    have a various IPC primitives such as AF\_UNIX sockets, FIFOs, shared
+    memory or synchronization facilities. D-Bus has been an attempt (one of
+    many) to implement a high-level, introspectable, secure IPC system on
+    top of that, however, being designed for exchanging control data only
+    shows serious performance issue when used for exchange of payload.
+
+    In this talk we will introduce you to "kdbus", our attempt to implement
+    a high-level, introspectable, multicast-capable IPC system in the Linux
+    kernel, as well a matching userspace part within the system project.
+    "kdbus" is designed to provide you with secure, single-copy or zero-copy
+    IPC, built from the ground up with sandboxing and namespacing in mind.
+    Taking inspiration from other OS-level IPC systems such as Android
+    Binder, Solaris Doors, QNX IPC or Mach Ports it is our intention to make
+    kdbus truly universal.
+
+- title: 'Welcome to the Legal and Policy Issues DevRoom: Third Year of This DevRoom
+    Includes an Excellent Panel of Speakers'
+  speaker: Tom Marble, Bradley M. Kuhn, Karen Sandler, Richard Fontana
+  start: 2014-02-01 11:00 CET
+  end: 2014-02-01 11:05 CET
+  description: |-
+    Now in its third year, the FOSDEM Legal and Policy Issues DevRoom covers
+    topics of licensing, legal, governance issues and more as it relates to
+    Open Source and Free Software projects.
+
 - title: Patents, Free Software & Standards (Oh My!)
   speaker: Tom Callaway
   start: 2014-02-01 15:30 CET
@@ -156,6 +187,49 @@ talks:
     asked of the panelists to start the roundtable and the audience will
     also be encouraged to participate in order to have more interaction with
     the panelists. Karen Sandler will be the moderator.
+
+- title: 'How to squeeze a language tag into a Locale: What you need to know about
+    BCP 47 language tags in your ODF editor.'
+  speaker: Eike Rathke
+  start: 2014-02-01 15:15 CET
+  end: 2014-02-01 15:30 CET
+  description: |-
+    ODF 1.2, additionally to the fo:language and fo:country attributes,
+    introduced fo:script and \*:rfc-language-tag attributes to allow for the
+    full range of BCP 47 language tags. This talk will give a brief overview
+    what it means to applications and how LibreOffice implemented it, and
+    the consequences it may have for extension developers.
+
+- title: 'LO++14: How to make use of 21st century C++ in LibreOffice development'
+  speaker: Stephan Bergmann
+  start: 2014-02-01 17:50 CET
+  end: 2014-02-01 18:05 CET
+  description: |-
+    Advances in C++ have gathered momentum with C++11 and forthcoming C++14,
+    and compiler writers busy to keep up. However, for reasons of
+    cross-platform, cross-compiler, aging baselines, etc., the LibreOffice
+    code base is still mostly stuck with C++98. We will discuss how to
+    overcome blockers in adoption of modern C++ features and in what ways
+    LibreOffice would benefit from them.
+
+- title: 'Solving NP-complete Problems with Metaheuristics: An Introduction to Tabu
+    Search, Simulated Annealing and Late Acceptance'
+  speaker: Geoffrey De Smet
+  start: 2014-02-01 17:00 CET
+  end: 2014-02-01 17:20 CET
+  description: |-
+    Some scientific research problems inherently suffer from an NP-complete
+    problem. This session will explain several metaheuristic algorithms,
+    which can handle such problems in reasonable time.
+
+    This session will also do lightning introduction of OptaPlanner, an open
+    source apache licensed Java library, which implements those algorithms.
+
+- title: JavaScript for skeptics
+  speaker: Soumya Deb
+  start: 2014-02-01 14:30 CET
+  end: 2014-02-01 15:00 CET
+  description: ''
 
 - title: OpenJDK on AArch64 Update
   speaker: Andrew Haley, Andrew Dinn
@@ -183,11 +257,77 @@ talks:
     implementing marking and object evacuation to run concurrently with
     application threads, and utilizing parallel garbage collection threads.
 
+- title: The Java Native Runtime
+  speaker: Charles Nutter
+  start: 2014-02-01 16:00 CET
+  end: 2014-02-01 16:25 CET
+  description: |-
+    Write once run anywhere is both a blessing and a curse. For years, the
+    WORA promise has ensured a consistent, compile-free experience for JVM
+    users. Unfortunately, sometimes pure-Java libraries just can't do what
+    developers need done. Sometimes, you just have to go full native. The
+    Java Native Runtime is a core library and suite of support libraries for
+    binding and calling out to native code. I'll show how JNR is designed,
+    compare code and performance with alternative approaches, and talk about
+    why the JDK needs a standard FFI (foreign function interface) in Java 9.
+
+- title: Thermostat 1.0, two years of awesomness and beyond
+  speaker: Mario Torre
+  start: 2014-02-01 17:30 CET
+  end: 2014-02-01 17:55 CET
+  description: |-
+    Thermostat is an awesome platform with the focus on Java Virtual
+    Machines monitoring. This short presentation will discuss what has been
+    done in the past two years until the release of Thermostat 1.0 and its
+    current features and will disclose some spoilers on the future of
+    Thermostat.
+
 - title: OpenJDK Governing Board Q&A Panel Session
   speaker: Mark Reinhold, Andrew Haley, Georges Saab, Doug Lea
   start: 2014-02-01 18:00 CET
   end: 2014-02-01 19:00 CET
   description: An open Q&A session with members of the OpenJDK Governing Board.
+
+- title: 'Persistent Memory: Changing the Way We Store Data'
+  speaker: Ric Wheeler
+  start: 2014-02-02 15:00 CET
+  end: 2014-02-02 15:50 CET
+  description: |-
+    Persistent memory parts have roughly the same capacity, speed and cost
+    as current DRAM, but do not lose state when the power goes out. Some of
+    these parts are on the market today, more will be coming out over the
+    next few years. The Linux IO and File System stack is already challenged
+    in handling existing SSD devices at hundreds of thousands of IO's per
+    second and these devices will be able to sustain an order of magnitude
+    more IOP's.
+
+    This talk will give an overview of what is being proposed in standards
+    bodies and the Linux based solutions being proposed that will help us
+    take full advantage of these new parts.
+
+- title: 'Concurrent Programming Made Simple: The (r)evolution of Transactional Memory'
+  speaker: Nuno Diegues, Torvald Riegel
+  start: 2014-02-02 16:00 CET
+  end: 2014-02-02 16:50 CET
+  description: |-
+    This talk will present Transactional Memory, a programming abstraction
+    for managing concurrency, both in multi-threaded programs running on
+    multi-core processors as well as in distributed cloud infra-structures.
+
+- title: 'Advanced disk image management with libguestfs: libguestfs, virt-builder,
+    virt-sparsify and more'
+  speaker: Richard Jones
+  start: 2014-02-02 16:00 CET
+  end: 2014-02-02 16:15 CET
+  description: |-
+    Libguestfs (http://libguestfs.org) is a library and set of tools for
+    securely and automatically performing many operations on disk images,
+    from creating them to finding out what is in them.
+
+    In this 15 minute lightning talk, Richard Jones will talk about a few of
+    the latest features, including the ability to churn out a new guest
+    every 60 seconds using virt-builder, how to really compress disk images
+    using virt-sparsify and xz. and "sysprepping" using virt-sysprep.
 
 - title: 'Your Complete Open Source Cloud: Mixing oVirt, OpenStack, OpenShift and
     Gluster for a full private cloud'
@@ -328,6 +468,27 @@ talks:
     discover how oVirt currently leverages OpenStack Networking, and see the
     road-map to future network virtualization in the Data Center, all using
     open source enterprise-grade software.
+
+- title: Taking license compatibility semi-seriously
+  speaker: Richard Fontana
+  start: 2014-02-02 14:00 CET
+  end: 2014-02-02 15:00 CET
+  description: |-
+    This talk critiques what passes for orthodox license compatibility
+    doctrine and suggests ways of adjusting how we interpret licenses (and
+    therefore how we think about compatibility) to reconcile formalist
+    notions of incompatibility with actual behavior by FLOSS community
+    developers.
+
+- title: cwrap - The libc wrapper project
+  speaker: Andreas Schneider
+  start: 2014-02-02 11:30 CET
+  end: 2014-02-02 12:20 CET
+  description: |-
+    Testing network applications correctly is hard. The talk will show how
+    to create a fully isolated network environment for client and server
+    testing on a single host, complete with synthetic account information,
+    hostname resolution and privilege separation.
 
 - title: Standalone applications testing and automation
   speaker: Vadim Rutkovsky
