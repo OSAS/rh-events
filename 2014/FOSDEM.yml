@@ -157,16 +157,6 @@ talks:
     Binder, Solaris Doors, QNX IPC or Mach Ports it is our intention to make
     kdbus truly universal.
 
-- title: 'Welcome to the Legal and Policy Issues DevRoom: Third Year of This DevRoom
-    Includes an Excellent Panel of Speakers'
-  speaker: Tom Marble, Bradley M. Kuhn, Karen Sandler, Richard Fontana
-  start: 2014-02-01 11:00 CET
-  end: 2014-02-01 11:05 CET
-  description: |-
-    Now in its third year, the FOSDEM Legal and Policy Issues DevRoom covers
-    topics of licensing, legal, governance issues and more as it relates to
-    Open Source and Free Software projects.
-
 - title: Patents, Free Software & Standards (Oh My!)
   speaker: Tom Callaway
   start: 2014-02-01 15:30 CET
@@ -468,17 +458,6 @@ talks:
     discover how oVirt currently leverages OpenStack Networking, and see the
     road-map to future network virtualization in the Data Center, all using
     open source enterprise-grade software.
-
-- title: Taking license compatibility semi-seriously
-  speaker: Richard Fontana
-  start: 2014-02-02 14:00 CET
-  end: 2014-02-02 15:00 CET
-  description: |-
-    This talk critiques what passes for orthodox license compatibility
-    doctrine and suggests ways of adjusting how we interpret licenses (and
-    therefore how we think about compatibility) to reconcile formalist
-    notions of incompatibility with actual behavior by FLOSS community
-    developers.
 
 - title: cwrap - The libc wrapper project
   speaker: Andreas Schneider
