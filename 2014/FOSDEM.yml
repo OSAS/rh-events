@@ -97,7 +97,7 @@ talks:
 - title: A Method for Distributing Applications Independent from the Distro
   speaker: Langdon White
   start: 2014-02-01 14:00 CET
-  end: 2014-02-01 15:00 CET
+  end: 2014-02-01 14:50 CET
   description: |-
     For many years the Linux distro concept has been about "inclusion of
     applications" sometimes at the detriment to co-habitating applications
@@ -111,6 +111,30 @@ talks:
     may not make sense. The scrutiny is certainly more intense than
     proprietary software is required to undergo. This talk proposes a
     new'ish technology, Software Collections, as a method for resolution.
+
+- title: 'CentOS: Planning for Variants and the Next Chapter (A Broader, Faster, Easier
+    Route to Contributions in CentOS)'
+  speaker: Karanbir Singh
+  start: 2014-02-01 15:00 CET
+  end: 2014-02-01 15:50 CET
+  description: |-
+    CentOS has cemented a reputation as the "community enterprise operating
+    system" - one that provides a reliable rebuild, but is not known for
+    innovation in its own right. With the news that Red Hat and CentOS are
+    joining forces, this is going to change. Here's how CentOS is planning
+    to change, and how other distros can learn from our next phase.
+
+- title: 'Fedora.NEXT: Developing the Fedora Server, Workstation and Cloud'
+  speaker: Stephen Gallagher
+  start: 2014-02-01 16:00 CET
+  end: 2014-02-01 16:50 CET
+  description: |-
+    As you may or may not be aware, Fedora is transitioning from its classic
+    "one-size-fits-all" approach to one where we intend to target three
+    specific user types with individual products: Fedora Workstation, Fedora
+    Server and Fedora Cloud. Gathering Fedora contributors at FOSDEM to work
+    on the logistics around this change in direction would be a valuable
+    opportunity.
 
 - title: Patents, Free Software & Standards (Oh My!)
   speaker: Tom Callaway
