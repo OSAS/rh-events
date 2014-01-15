@@ -9,7 +9,9 @@ end: 2014-02-02
 talks:
 
 - title: Your Application versus GDB
+  title_short: Your Application versus GDB
   speaker: Tom Tromey
+  speaker_rh: Tom Tromey
   start: 2014-02-01 15:00 CET
   end: 2014-02-01 15:50 CET
   room: Janson
@@ -23,7 +25,9 @@ talks:
     we'll cover other interesting and useful GDB projects.
 
 - title: 'Entangle: Tethered Camera Control & Capture'
+  title_short: ' Entangle: Tethered Camera Control & Capture'
   speaker: Daniel Berrange
+  speaker_rh: Daniel Berrange
   start: 2014-02-01 14:20 CET
   end: 2014-02-01 14:35 CET
   room: Ferrer
@@ -41,7 +45,9 @@ talks:
     photographers interested in any of the aforementioned use cases.
 
 - title: oVirt and OpenStack Storage (present and future)
+  title_short: oVirt and OpenStack Storage (present and future)
   speaker: Federico Simoncelli
+  speaker_rh: Federico Simoncelli
   start: 2014-02-01 13:40 CET
   end: 2014-02-01 14:20 CET
   room: Chavanne
@@ -55,7 +61,9 @@ talks:
     Cinder (the OpenStack volume manager).
 
 - title: New Developments and Advanced Features in the Libvirt Management API
+  title_short: New Developments and Advanced Features in the Libvirt Management API
   speaker: Daniel Berrange
+  speaker_rh: Daniel Berrange
   start: 2014-02-01 14:20 CET
   end: 2014-02-01 15:00 CET
   room: Chavanne
@@ -77,7 +85,9 @@ talks:
     libvirt for their development needs.
 
 - title: Foreman Project
+  title_short: Foreman Project
   speaker: Ohad Levy
+  speaker_rh: Ohad Levy
   start: 2014-02-01 15:40 CET
   end: 2014-02-01 16:20 CET
   room: Chavanne
@@ -91,7 +101,9 @@ talks:
     facilities including a web frontend and robust, RESTful API.
 
 - title: oVirt applying Nova scheduler concepts for data center virtualization
+  title_short: oVirt applying Nova scheduler concepts for data center virtualization
   speaker: Gilad Chaplik
+  speaker_rh: Gilad Chaplik
   start: 2014-02-01 17:40 CET
   end: 2014-02-01 18:20 CET
   room: Chavanne
@@ -107,7 +119,9 @@ talks:
     setup.
 
 - title: A Method for Distributing Applications Independent from the Distro
+  title_short: 'A Method for Distributing Applications Independent from the Distro '
   speaker: Langdon White
+  speaker_rh: Langdon White
   start: 2014-02-01 14:00 CET
   end: 2014-02-01 14:50 CET
   room: H.1302
@@ -128,7 +142,9 @@ talks:
 
 - title: 'CentOS: Planning for Variants and the Next Chapter (A Broader, Faster, Easier
     Route to Contributions in CentOS)'
+  title_short: 'CentOS: Planning for Variants and the Next Chapter'
   speaker: Karanbir Singh
+  speaker_rh: Karanbir Singh
   start: 2014-02-01 15:00 CET
   end: 2014-02-01 15:50 CET
   room: H.1302
@@ -141,7 +157,9 @@ talks:
     to change, and how other distros can learn from our next phase.
 
 - title: 'Fedora.NEXT: Developing the Fedora Server, Workstation and Cloud'
+  title_short: Fedora.NEXT
   speaker: Stephen Gallagher
+  speaker_rh: Stephen Gallagher
   start: 2014-02-01 16:00 CET
   end: 2014-02-01 16:50 CET
   room: H.1302
@@ -155,7 +173,9 @@ talks:
     opportunity.
 
 - title: Anatomy of kdbus
+  title_short: Anatomy of kdbus
   speaker: Lennart Poettering
+  speaker_rh: Lennart Poettering
   start: 2014-02-01 12:45 CET
   end: 2014-02-01 13:30 CET
   room: H.1308
@@ -178,7 +198,9 @@ talks:
     kdbus truly universal.
 
 - title: Patents, Free Software & Standards (Oh My!)
+  title_short: Patents, Free Software & Standards (Oh My!)
   speaker: Tom Callaway
+  speaker_rh: Tom Callaway
   start: 2014-02-01 15:30 CET
   end: 2014-02-01 15:55 CET
   room: H.2213
@@ -195,8 +217,10 @@ talks:
 
 - title: 'Open Source Governance best practices roundtable: Query panelists for their
     best ideas on Open Source Governance'
+  title_short: Open Source Governance best practices roundtable
   speaker: Stefano Zacchiroli, Karen Sandler, Christopher Webber, Eileen Evans, Tom
     Callaway, Chris Aniszczyk
+  speaker_rh: Tom Callaway et al
   start: 2014-02-01 18:00 CET
   end: 2014-02-01 18:50 CET
   room: H.2213
@@ -212,7 +236,9 @@ talks:
 
 - title: 'How to squeeze a language tag into a Locale: What you need to know about
     BCP 47 language tags in your ODF editor.'
+  title_short: How to squeeze a language tag into a Locale
   speaker: Eike Rathke
+  speaker_rh: Eike Rathke
   start: 2014-02-01 15:15 CET
   end: 2014-02-01 15:30 CET
   room: H.2214
@@ -225,7 +251,9 @@ talks:
     the consequences it may have for extension developers.
 
 - title: 'LO++14: How to make use of 21st century C++ in LibreOffice development'
+  title_short: LO++14
   speaker: Stephan Bergmann
+  speaker_rh: Stephan Bergmann
   start: 2014-02-01 17:50 CET
   end: 2014-02-01 18:05 CET
   room: H.2214
@@ -240,7 +268,9 @@ talks:
 
 - title: 'Solving NP-complete Problems with Metaheuristics: An Introduction to Tabu
     Search, Simulated Annealing and Late Acceptance'
+  title_short: Solving NP-complete Problems with Metaheuristics
   speaker: Geoffrey De Smet
+  speaker_rh: Geoffrey De Smet
   start: 2014-02-01 17:00 CET
   end: 2014-02-01 17:20 CET
   room: AW1.126
@@ -254,7 +284,9 @@ talks:
     source apache licensed Java library, which implements those algorithms.
 
 - title: JavaScript for skeptics
+  title_short: JavaScript for skeptics
   speaker: Soumya Deb
+  speaker_rh: Soumya Deb
   start: 2014-02-01 14:30 CET
   end: 2014-02-01 15:00 CET
   room: U.218A
@@ -262,7 +294,9 @@ talks:
   description: ''
 
 - title: OpenJDK on AArch64 Update
+  title_short: OpenJDK on AArch64 Update
   speaker: Andrew Haley, Andrew Dinn
+  speaker_rh: Andrew Haley, Andrew Dinn
   start: 2014-02-01 11:30 CET
   end: 2014-02-01 11:55 CET
   room: K.4.201
@@ -277,7 +311,9 @@ talks:
     instruction set.
 
 - title: Shenandoah - an ultra-low pause-time GC for OpenJDK
+  title_short: Shenandoah - an ultra-low pause-time GC for OpenJDK
   speaker: Roman Kennke
+  speaker_rh: Roman Kennke
   start: 2014-02-01 12:00 CET
   end: 2014-02-01 12:25 CET
   room: K.4.201
@@ -292,7 +328,9 @@ talks:
     application threads, and utilizing parallel garbage collection threads.
 
 - title: The Java Native Runtime
+  title_short: The Java Native Runtime
   speaker: Charles Nutter
+  speaker_rh: Charles Nutter
   start: 2014-02-01 16:00 CET
   end: 2014-02-01 16:25 CET
   room: K.4.201
@@ -308,7 +346,9 @@ talks:
     why the JDK needs a standard FFI (foreign function interface) in Java 9.
 
 - title: Thermostat 1.0, two years of awesomness and beyond
+  title_short: Thermostat 1.0, two years of awesomness and beyond
   speaker: Mario Torre
+  speaker_rh: Mario Torre
   start: 2014-02-01 17:30 CET
   end: 2014-02-01 17:55 CET
   room: K.4.201
@@ -321,7 +361,9 @@ talks:
     Thermostat.
 
 - title: OpenJDK Governing Board Q&A Panel Session
+  title_short: OpenJDK Governing Board Q&A Panel Session
   speaker: Mark Reinhold, Andrew Haley, Georges Saab, Doug Lea
+  speaker_rh: Andrew Haley et al
   start: 2014-02-01 18:00 CET
   end: 2014-02-01 19:00 CET
   room: K.4.201
@@ -329,7 +371,9 @@ talks:
   description: An open Q&A session with members of the OpenJDK Governing Board.
 
 - title: 'Persistent Memory: Changing the Way We Store Data'
+  title_short: Persistent Memory
   speaker: Ric Wheeler
+  speaker_rh: Ric Wheeler
   start: 2014-02-02 15:00 CET
   end: 2014-02-02 15:50 CET
   room: Janson
@@ -348,7 +392,9 @@ talks:
     take full advantage of these new parts.
 
 - title: 'Concurrent Programming Made Simple: The (r)evolution of Transactional Memory'
+  title_short: Concurrent Programming Made Simple
   speaker: Nuno Diegues, Torvald Riegel
+  speaker_rh: Torvald Riegel
   start: 2014-02-02 16:00 CET
   end: 2014-02-02 16:50 CET
   room: Janson
@@ -360,7 +406,9 @@ talks:
 
 - title: 'Advanced disk image management with libguestfs: libguestfs, virt-builder,
     virt-sparsify and more'
+  title_short: Advanced disk image management with libguestfs
   speaker: Richard Jones
+  speaker_rh: Richard Jones
   start: 2014-02-02 16:00 CET
   end: 2014-02-02 16:15 CET
   room: Ferrer
@@ -377,7 +425,9 @@ talks:
 
 - title: 'Your Complete Open Source Cloud: Mixing oVirt, OpenStack, OpenShift and
     Gluster for a full private cloud'
+  title_short: Your Complete Open Source Cloud
   speaker: Dave Neary
+  speaker_rh: Dave Neary
   start: 2014-02-02 17:20 CET
   end: 2014-02-02 17:35 CET
   room: Ferrer
@@ -390,7 +440,10 @@ talks:
     hardware, in a couple of hours, covering virt, storage, IaaS and PaaS.
 
 - title: 'Getting cross-platform: bringing virtualization management to the PPC world'
+  title_short: 'Getting cross-platform: bringing virtualization management to the
+    PPC world'
   speaker: Omer Frenkel
+  speaker_rh: Omer Frenkel
   start: 2014-02-02 10:20 CET
   end: 2014-02-02 11:00 CET
   room: Chavanne
@@ -429,7 +482,9 @@ talks:
     effort it brings.
 
 - title: 'Expanding oVirt''s horizons: How to extends and modify oVirt even further'
+  title_short: Expanding oVirt's horizons
   speaker: Mike Kolesnik
+  speaker_rh: Mike Kolesnik
   start: 2014-02-02 11:40 CET
   end: 2014-02-02 12:20 CET
   room: Chavanne
@@ -448,7 +503,9 @@ talks:
     leverage oVirt to suit your virtualization needs.
 
 - title: 'oVirt Hosted Engine: The Egg That Hosts its Parent Chicken'
+  title_short: 'oVirt Hosted Engine: The Egg That Hosts its Parent Chicken'
   speaker: Doron Fediuck
+  speaker_rh: Doron Fediuck
   start: 2014-02-02 12:20 CET
   end: 2014-02-02 13:00 CET
   room: Chavanne
@@ -465,7 +522,10 @@ talks:
     they did in the past years.
 
 - title: Tunnels as a Connectivity and Segregation Solution for Virtualized Networks
+  title_short: Tunnels as a Connectivity and Segregation Solution for Virtualized
+    Networks
   speaker: Assaf Muller
+  speaker_rh: Assaf Muller
   start: 2014-02-02 13:40 CET
   end: 2014-02-02 14:20 CET
   room: Chavanne
@@ -508,7 +568,9 @@ talks:
 
 - title: 'Bring your virtualized networking stack to the next level: oVirt & OpenStack
     Neutron integration'
+  title_short: Bring your virtualized networking stack to the next level
   speaker: Mike Kolesnik
+  speaker_rh: Mike Kolesnik
   start: 2014-02-02 16:20 CET
   end: 2014-02-02 17:00 CET
   room: Chavanne
@@ -528,7 +590,9 @@ talks:
     open source enterprise-grade software.
 
 - title: cwrap - The libc wrapper project
+  title_short: cwrap - The libc wrapper project
   speaker: Andreas Schneider
+  speaker_rh: Andreas Schneider
   start: 2014-02-02 11:30 CET
   end: 2014-02-02 12:20 CET
   room: U.218A
@@ -540,7 +604,9 @@ talks:
     hostname resolution and privilege separation.
 
 - title: Standalone applications testing and automation
+  title_short: Standalone applications testing and automation
   speaker: Vadim Rutkovsky
+  speaker_rh: Vadim Rutkovsky
   start: 2014-02-02 12:30 CET
   end: 2014-02-02 13:20 CET
   room: U.218A
@@ -554,7 +620,9 @@ talks:
 
 - title: 'Valgrind Support in the Eclipse IDE: An Overview of the Eclipse Valgrind
     plugin provided by the Linux Tools Project'
+  title_short: Valgrind Support in the Eclipse IDE
   speaker: Roland Grunberg
+  speaker_rh: Roland Grunberg
   start: 2014-02-02 10:00 CET
   end: 2014-02-02 10:25 CET
   room: K.4.201
@@ -570,7 +638,9 @@ talks:
     tool who have never used it within the Eclipse IDE.
 
 - title: Testing of valgrind RPMs in RHEL
+  title_short: Testing of valgrind RPMs in RHEL
   speaker: Miroslav Franc
+  speaker_rh: Miroslav Franc
   start: 2014-02-02 10:30 CET
   end: 2014-02-02 10:55 CET
   room: K.4.201
@@ -583,7 +653,9 @@ talks:
 
 - title: GDB, so where are we now? (Status of GDB's ongoing target and run control
     projects)
+  title_short: GDB, so where are we now?
   speaker: Pedro Alves
+  speaker_rh: Pedro Alves
   start: 2014-02-02 15:00 CET
   end: 2014-02-02 15:25 CET
   room: K.4.201
@@ -598,7 +670,9 @@ talks:
 
 - title: 'BoF: Valgrind and GDB integration (Crazy and fun ways to make the Valgrind/GDB
     combo more powerful)'
+  title_short: 'BoF: Valgrind and GDB integration'
   speaker: Tom Tromey
+  speaker_rh: Tom Tromey
   start: 2014-02-02 16:00 CET
   end: 2014-02-02 16:25 CET
   room: K.4.201
@@ -612,7 +686,9 @@ talks:
 
 - title: 'BoF: Ideas, new features and directions for Valgrind (Open discussion about
     small (or big) ideas to improve or change Valgrind.)'
+  title_short: 'BoF: Ideas, new features and directions for Valgrind'
   speaker: Mark Wielaard
+  speaker_rh: Mark Wielaard
   start: 2014-02-02 16:30 CET
   end: 2014-02-02 17:45 CET
   room: K.4.201
