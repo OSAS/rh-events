@@ -156,7 +156,7 @@ talks:
 
 - title: Anatomy of kdbus
   speaker: Lennart Poettering
-  start: 2014-02-01 00:45 CET
+  start: 2014-02-01 12:45 CET
   end: 2014-02-01 13:30 CET
   room: H.1308
   track: Desktops
@@ -278,7 +278,7 @@ talks:
 
 - title: Shenandoah - an ultra-low pause-time GC for OpenJDK
   speaker: Roman Kennke
-  start: 2014-02-01 00:00 CET
+  start: 2014-02-01 12:00 CET
   end: 2014-02-01 12:25 CET
   room: K.4.201
   track: Java
@@ -449,7 +449,7 @@ talks:
 
 - title: 'oVirt Hosted Engine: The Egg That Hosts its Parent Chicken'
   speaker: Doron Fediuck
-  start: 2014-02-02 00:20 CET
+  start: 2014-02-02 12:20 CET
   end: 2014-02-02 13:00 CET
   room: Chavanne
   track: Virtualisation and IaaS
@@ -541,7 +541,7 @@ talks:
 
 - title: Standalone applications testing and automation
   speaker: Vadim Rutkovsky
-  start: 2014-02-02 00:30 CET
+  start: 2014-02-02 12:30 CET
   end: 2014-02-02 13:20 CET
   room: U.218A
   track: Testing and automation
