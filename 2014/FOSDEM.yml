@@ -106,7 +106,7 @@ talks:
   speaker_rh: Greg Sutcliffe
   start: 2014-02-02 14:00 CET
   end: 2014-02-02 14:50 CET
-  room: Chavanne
+  room: U.218A
   track: Testing and Automation
   description: |-
     A look at how Foreman uses automation internally to handle testing and
