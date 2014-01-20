@@ -28,9 +28,9 @@ talks:
   title_short: ' Entangle: Tethered Camera Control & Capture'
   speaker: Daniel Berrange
   speaker_rh: Daniel Berrange
-  start: 2014-02-01 14:20 CET
-  end: 2014-02-01 14:35 CET
-  room: Ferrer
+  start: 2014-02-01 13:20 CET
+  end: 2014-02-01 13:35 CET
+  room: H.2215 (Ferrer)
   track: Lightning talks
   description: |-
     Entangle is an open source project that provides a Linux desktop
@@ -50,7 +50,7 @@ talks:
   speaker_rh: Federico Simoncelli
   start: 2014-02-01 13:40 CET
   end: 2014-02-01 14:20 CET
-  room: Chavanne
+  room: UD2.120 (Chavanne)
   track: Virtualisation and IaaS
   description: |-
     This session will cover the current status of integration between oVirt
@@ -66,7 +66,7 @@ talks:
   speaker_rh: Daniel Berrange
   start: 2014-02-01 14:20 CET
   end: 2014-02-01 15:00 CET
-  room: Chavanne
+  room: UD2.120 (Chavanne)
   track: Virtualisation and IaaS
   description: |-
     In the 8+ years since it was founded, the libvirt project grown to
@@ -90,7 +90,7 @@ talks:
   speaker_rh: Ohad Levy
   start: 2014-02-01 15:40 CET
   end: 2014-02-01 16:20 CET
-  room: Chavanne
+  room: UD2.120 (Chavanne)
   track: Virtualisation and IaaS
   description: |-
     Foreman is a complete lifecycle management tool for virtual, cloud and
@@ -106,7 +106,7 @@ talks:
   speaker_rh: Gilad Chaplik
   start: 2014-02-01 17:40 CET
   end: 2014-02-01 18:20 CET
-  room: Chavanne
+  room: UD2.120 (Chavanne)
   track: Virtualisation and IaaS
   description: |-
     For several years now, the oVirt project is leveraging KVM and relevant
@@ -124,7 +124,7 @@ talks:
   speaker_rh: Langdon White
   start: 2014-02-01 14:00 CET
   end: 2014-02-01 14:50 CET
-  room: H.1302
+  room: H.1302 (Depage)
   track: Distributions
   description: |-
     For many years the Linux distro concept has been about "inclusion of
@@ -147,7 +147,7 @@ talks:
   speaker_rh: Karanbir Singh
   start: 2014-02-01 15:00 CET
   end: 2014-02-01 15:50 CET
-  room: H.1302
+  room: H.1302 (Depage)
   track: Distributions
   description: |-
     CentOS has cemented a reputation as the "community enterprise operating
@@ -162,7 +162,7 @@ talks:
   speaker_rh: Stephen Gallagher
   start: 2014-02-01 16:00 CET
   end: 2014-02-01 16:50 CET
-  room: H.1302
+  room: H.1302 (Depage)
   track: Distributions
   description: |-
     As you may or may not be aware, Fedora is transitioning from its classic
@@ -172,30 +172,32 @@ talks:
     on the logistics around this change in direction would be a valuable
     opportunity.
 
+- title: Desktops DevRoom Opening
+  title_short: Desktops DevRoom Opening
+  speaker: Christophe Fergeau, Pau Garcia i Quiles, Philippe Caseiro, Jerome Leclanche,
+    Didier Roche
+  speaker_rh: Christophe Fergeau et al
+  start: 2014-02-01 10:55 CET
+  end: 2014-02-01 11:00 CET
+  room: H.1308 (Rolin)
+  track: Desktops
+  description: |-
+    Presentation of the Desktops DevRoom by its Organization Team &
+    Technical Committee: Christophe Fergeau (Gnome), Pau Garcia i Quiles
+    (KDE), Didier Roche (Unity), Philippe Caseiro (Englightenment) and
+    Jérome Leclanche (LXDE)
+
 - title: Anatomy of kdbus
   title_short: Anatomy of kdbus
   speaker: Lennart Poettering
   speaker_rh: Lennart Poettering
   start: 2014-02-01 12:45 CET
   end: 2014-02-01 13:30 CET
-  room: H.1308
+  room: H.1308 (Rolin)
   track: Desktops
   description: |-
-    Linux/Unix never had a standardized high-level local IPC system. It did
-    have a various IPC primitives such as AF\_UNIX sockets, FIFOs, shared
-    memory or synchronization facilities. D-Bus has been an attempt (one of
-    many) to implement a high-level, introspectable, secure IPC system on
-    top of that, however, being designed for exchanging control data only
-    shows serious performance issue when used for exchange of payload.
-
-    In this talk we will introduce you to "kdbus", our attempt to implement
-    a high-level, introspectable, multicast-capable IPC system in the Linux
-    kernel, as well a matching userspace part within the system project.
-    "kdbus" is designed to provide you with secure, single-copy or zero-copy
-    IPC, built from the ground up with sandboxing and namespacing in mind.
-    Taking inspiration from other OS-level IPC systems such as Android
-    Binder, Solaris Doors, QNX IPC or Mach Ports it is our intention to make
-    kdbus truly universal.
+    With kdbus we move the D-Bus IPC system into the Linux kernel, to
+    improve performance and functionality, while keeping compatibility.
 
 - title: Patents, Free Software & Standards (Oh My!)
   title_short: Patents, Free Software & Standards (Oh My!)
@@ -289,7 +291,7 @@ talks:
   speaker_rh: Soumya Deb
   start: 2014-02-01 14:30 CET
   end: 2014-02-01 15:00 CET
-  room: U.218A
+  room: UD2.218A
   track: Mozilla
   description: ''
 
@@ -370,6 +372,19 @@ talks:
   track: Java
   description: An open Q&A session with members of the OpenJDK Governing Board.
 
+- title: Ada in Fedora Linux
+  title_short: Ada in Fedora Linux
+  speaker: Pavel Zhukov
+  speaker_rh: Pavel Zhukov
+  start: 2014-02-01 18:00 CET
+  end: 2014-02-01 18:15 CET
+  room: K.4.601
+  track: Ada
+  description: |-
+    This presentation explains and demonstrates how the Fedora Linux
+    distribution can be used for developing in the Ada language, tells about
+    available tools and frameworks.
+
 - title: 'Persistent Memory: Changing the Way We Store Data'
   title_short: Persistent Memory
   speaker: Ric Wheeler
@@ -411,7 +426,7 @@ talks:
   speaker_rh: Richard Jones
   start: 2014-02-02 16:00 CET
   end: 2014-02-02 16:15 CET
-  room: Ferrer
+  room: H.2215 (Ferrer)
   track: Lightning talks
   description: |-
     Libguestfs (http://libguestfs.org) is a library and set of tools for
@@ -430,7 +445,7 @@ talks:
   speaker_rh: Dave Neary
   start: 2014-02-02 17:20 CET
   end: 2014-02-02 17:35 CET
-  room: Ferrer
+  room: H.2215 (Ferrer)
   track: Lightning talks
   description: |-
     This talk will be a whirlwind tour around why you might want to use both
@@ -446,7 +461,7 @@ talks:
   speaker_rh: Omer Frenkel
   start: 2014-02-02 10:20 CET
   end: 2014-02-02 11:00 CET
-  room: Chavanne
+  room: UD2.120 (Chavanne)
   track: Virtualisation and IaaS
   description: |-
     Getting cross-platform: bringing virtualization management to the PPC
@@ -487,7 +502,7 @@ talks:
   speaker_rh: Mike Kolesnik
   start: 2014-02-02 11:40 CET
   end: 2014-02-02 12:20 CET
-  room: Chavanne
+  room: UD2.120 (Chavanne)
   track: Virtualisation and IaaS
   description: |-
     As the prominent open-source data center virtualization solution, oVirt
@@ -508,7 +523,7 @@ talks:
   speaker_rh: Doron Fediuck
   start: 2014-02-02 12:20 CET
   end: 2014-02-02 13:00 CET
-  room: Chavanne
+  room: UD2.120 (Chavanne)
   track: Virtualisation and IaaS
   description: |-
     For several years now, oVirt manages Virtual Machines. Then came the
@@ -528,7 +543,7 @@ talks:
   speaker_rh: Assaf Muller
   start: 2014-02-02 13:40 CET
   end: 2014-02-02 14:20 CET
-  room: Chavanne
+  room: UD2.120 (Chavanne)
   track: Virtualisation and IaaS
   description: |-
     Join me for an architectural, developer oriented overview of (GRE and
@@ -573,7 +588,7 @@ talks:
   speaker_rh: Mike Kolesnik
   start: 2014-02-02 16:20 CET
   end: 2014-02-02 17:00 CET
-  room: Chavanne
+  room: UD2.120 (Chavanne)
   track: Virtualisation and IaaS
   description: |-
     As the prominent open-source data center virtualization solution, oVirt
@@ -589,13 +604,41 @@ talks:
     road-map to future network virtualization in the Data Center, all using
     open source enterprise-grade software.
 
+- title: See Your Project Pulse in Real-Time with Fedmsg
+  title_short: See Your Project Pulse in Real-Time with Fedmsg
+  speaker: Nicolas Dandrimont, Pierre-Yves Chibon
+  speaker_rh: Pierre-Yves Chibon
+  start: 2014-02-02 14:00 CET
+  end: 2014-02-02 14:50 CET
+  room: H.1302 (Depage)
+  track: Distributions
+  description: |-
+    Fedmsg, the federated message bus, is a distributed system allowing bits
+    of a project's infrastructure to publish events. This lightweight
+    framework provides a central place to watch the life of a project, and
+    allows anyone to listen in and trigger actions when an event is
+    received.
+
+    Initially built by the Fedora Infrastructure team to uniformise
+    communication between its services, the Fedmsg framework has now been
+    adopted by Debian and even outside the realm of Linux distributions to
+    broadcast events. All those deployments are using the same framework,
+    and the same tools, fostering the ever-needed interoperability and
+    collaboration between free software and open data projects.
+
+    In this talk, we will present how fedmsg works, how it was deployed in
+    the Fedora and Debian infrastructures, and some of the technical choices
+    that were made during those deployments. We will also present the
+    applications being developed around the bus, as well as some ideas for
+    future ones.
+
 - title: cwrap - The libc wrapper project
   title_short: cwrap - The libc wrapper project
   speaker: Andreas Schneider
   speaker_rh: Andreas Schneider
   start: 2014-02-02 11:30 CET
   end: 2014-02-02 12:20 CET
-  room: U.218A
+  room: UD2.218A
   track: Testing and automation
   description: |-
     Testing network applications correctly is hard. The talk will show how
@@ -609,7 +652,7 @@ talks:
   speaker_rh: Vadim Rutkovsky
   start: 2014-02-02 12:30 CET
   end: 2014-02-02 13:20 CET
-  room: U.218A
+  room: UD2.218A
   track: Testing and automation
   description: |-
     We are a group of engineers from Red Hat's Desktop QE team and we would
