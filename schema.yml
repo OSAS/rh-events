@@ -31,13 +31,25 @@ mapping:
           "title":
             type: str
             required: yes
+          "title_short":
+            type: str
+            required: no
           "location":
+            type: str
+            required: no
+          "room":
+            type: str
+            required: no
+          "track":
             type: str
             required: no
           "timezone":
             type: str
             required: no
           "speaker":
+            type: str
+            required: no
+          "speaker_rh":
             type: str
             required: no
           "start":
