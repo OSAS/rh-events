@@ -285,15 +285,22 @@ talks:
     This session will also do lightning introduction of OptaPlanner, an open
     source apache licensed Java library, which implements those algorithms.
 
-- title: JavaScript for skeptics
-  title_short: JavaScript for skeptics
+- title: JavaScript for the skeptics
+  title_short: JavaScript for the skeptics
   speaker: Soumya Deb
   speaker_rh: Soumya Deb
   start: 2014-02-01 14:30 CET
   end: 2014-02-01 15:00 CET
   room: UD2.218A
   track: Mozilla
-  description: ''
+  description: |-
+    Starting with pdf.js, spiraling around shumway & zipfile.js, we'll
+    explore what JS is already capable of, that never seemed practical. Then
+    we'll go on to explain the WebAPIs to bring the "native" right in the
+    browser (with a tinge of FxOS - so that it's not up in the air, it's
+    already there - in fact it's _so-last-fosdem_ actually). Then we'll talk
+    about the (near)future, and how broadway.js, asm.js (Emscripten, LLVM)
+    et al. are going the change the web - for good!
 
 - title: OpenJDK on AArch64 Update
   title_short: OpenJDK on AArch64 Update
