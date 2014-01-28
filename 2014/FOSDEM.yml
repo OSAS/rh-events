@@ -633,6 +633,17 @@ talks:
     discuss testing tools and overall influence of quality engineers on open
     source software development process.
 
+- title: 'Automation in the Foreman Infrastructure: A user success story'
+  title_short: Automation in the Foreman Infrastructure
+  speaker: Greg Sutcliffe
+  start: 2014-02-02 14:00 CET
+  end: 2014-02-02 14:50 CET
+  room: UD2.218A
+  track: Testing and automation
+  description: |-
+    A look at how Foreman uses automation internally to handle testing and
+    release management.
+
 - title: 'Valgrind Support in the Eclipse IDE: An Overview of the Eclipse Valgrind
     plugin provided by the Linux Tools Project'
   title_short: Valgrind Support in the Eclipse IDE
