@@ -112,6 +112,23 @@ talks:
     show samples of VM scheduling plug-ins, and integrate it to a live
     setup.
 
+- title: Making the X-server run without root rights
+  title_short: Making the X-server run without root rights
+  speaker: Hans de Goede
+  start: 2014-02-01 15:00 CET
+  end: 2014-02-01 15:50 CET
+  room: H.1301 (Cornil)
+  track: Graphics
+  description: |-
+    Xorg (the X-server) is a big and complex beast. Currently it runs as
+    root as it needs root rights for various reasons. But with the latest
+    systemd-logind all necessary infrastructure is in place to allow the
+    server to run as a normal user and use systemd-logind to do input and
+    graphics device management.
+
+    This talk looks at the work being done to leverage this new
+    infrastructure to run Xorg without root rights.
+
 - title: A Method for Distributing Applications Independent from the Distro
   title_short: 'A Method for Distributing Applications Independent from the Distro '
   speaker: Langdon White
