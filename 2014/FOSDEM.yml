@@ -57,6 +57,13 @@ talks:
     dedicated to the future work and ideas to introduce the integration with
     Cinder (the OpenStack volume manager).
 
+    - Introduction to oVirt Storage Architecture
+    - Glance Integration Motivations
+    - Glance Integration Deep Dive
+    - Ideas and Future Work on Glance Integration
+    - Future Integration with Cinder
+    - Roadmap
+
 - title: New Developments and Advanced Features in the Libvirt Management API
   title_short: New Developments and Advanced Features in the Libvirt Management API
   speaker: Daniel Berrange
@@ -298,6 +305,15 @@ talks:
 
     This session will also do lightning introduction of OptaPlanner, an open
     source apache licensed Java library, which implements those algorithms.
+
+    Specifically, these algorithms will be explained:
+
+    - First Fit
+    - First Fit Decreasing
+    - Hill Climbing
+    - Tabu Search
+    - Simulated Annealing
+    - Late Acceptance
 
 - title: JavaScript for the skeptics
   title_short: JavaScript for the skeptics
@@ -705,6 +721,10 @@ talks:
     testing done before releasing new Valgrind RPM in Red Hat Enterprise
     Linux.
 
+    Overview: - types of tests I do - what they are trying to achieve - what
+    bugs I often hit - ideas I have for improvement - Q/A + Discussion
+    (perhaps how to work closely with upstream)
+
 - title: GDB, so where are we now? (Status of GDB's ongoing target and run control
     projects)
   title_short: GDB, so where are we now?
@@ -720,6 +740,13 @@ talks:
     are on local vs remote feature parity, all-stop vs non-stop modes,
     multi-process and multi-target projects, reverse debugging and possibly
     others.
+
+    - current state of GDBserver in GDB
+    - where we are on local vs remote feature parity
+    - all-stop vs non-stop modes
+    - multi-process debugging
+    - multi-target projects
+    - reverse debugging
 
 - title: 'BoF: Valgrind and GDB integration (Crazy and fun ways to make the Valgrind/GDB
     combo more powerful)'
