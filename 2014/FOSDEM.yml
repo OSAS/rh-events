@@ -205,6 +205,19 @@ talks:
     With kdbus we move the D-Bus IPC system into the Linux kernel, to
     improve performance and functionality, while keeping compatibility.
 
+- title: Foreman integration with Chef (and others)
+  title_short: Foreman integration with Chef (and others)
+  speaker: Marek Hulán
+  start: 2014-02-01 16:30 CET
+  end: 2014-02-01 16:55 CET
+  room: H.1309 (Van Rijn)
+  track: Configuration management
+  description: |-
+    In this talk I'd like to show a live demo covering status of Foreman and
+    Chef integration and try to answer the question "where do we want to
+    get"? Also I could sum up what's needed to add similar support for
+    config management tools of your will.
+
 - title: Patents, Free Software & Standards (Oh My!)
   title_short: Patents, Free Software & Standards (Oh My!)
   speaker: Tom Callaway
