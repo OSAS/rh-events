@@ -8,8 +8,7 @@ start: 2014-02-01
 end: 2014-02-02
 talks:
 
-- title: Your Application versus GDB
-  title_short: Your Application versus GDB
+- title: Your application versus GDB
   speaker: Tom Tromey
   start: 2014-02-01 15:00 CET
   end: 2014-02-01 15:50 CET
@@ -23,8 +22,7 @@ talks:
     and will also discuss writing GUIs and other tools inside GDB. Finally,
     we'll cover other interesting and useful GDB projects.
 
-- title: 'Entangle: Tethered Camera Control & Capture'
-  title_short: ' Entangle: Tethered Camera Control & Capture'
+- title: 'Entangle: tethered camera control & capture'
   speaker: Daniel Berrange
   start: 2014-02-01 13:20 CET
   end: 2014-02-01 13:35 CET
@@ -42,8 +40,7 @@ talks:
     The talk will be targeted at Linux users & developers who are
     photographers interested in any of the aforementioned use cases.
 
-- title: oVirt and OpenStack Storage (present and future)
-  title_short: oVirt and OpenStack Storage (present and future)
+- title: oVirt and OpenStack storage (present and future)
   speaker: Federico Simoncelli
   start: 2014-02-01 13:40 CET
   end: 2014-02-01 14:20 CET
@@ -64,8 +61,7 @@ talks:
     - Future Integration with Cinder
     - Roadmap
 
-- title: New Developments and Advanced Features in the Libvirt Management API
-  title_short: New Developments and Advanced Features in the Libvirt Management API
+- title: New developments and advanced features in the libvirt management API
   speaker: Daniel Berrange
   start: 2014-02-01 14:20 CET
   end: 2014-02-01 15:00 CET
@@ -87,8 +83,7 @@ talks:
     talk the audience will better understand how to take advantage of
     libvirt for their development needs.
 
-- title: Foreman Project
-  title_short: Foreman Project
+- title: Foreman project
   speaker: Ohad Levy
   start: 2014-02-01 15:40 CET
   end: 2014-02-01 16:20 CET
@@ -103,7 +98,6 @@ talks:
     facilities including a web frontend and robust, RESTful API.
 
 - title: oVirt applying Nova scheduler concepts for data center virtualization
-  title_short: oVirt applying Nova scheduler concepts for data center virtualization
   speaker: Gilad Chaplik
   start: 2014-02-01 17:40 CET
   end: 2014-02-01 18:20 CET
@@ -120,7 +114,6 @@ talks:
     setup.
 
 - title: Making the X-server run without root rights
-  title_short: Making the X-server run without root rights
   speaker: Hans de Goede
   start: 2014-02-01 15:00 CET
   end: 2014-02-01 15:50 CET
@@ -136,8 +129,7 @@ talks:
     This talk looks at the work being done to leverage this new
     infrastructure to run Xorg without root rights.
 
-- title: A Method for Distributing Applications Independent from the Distro
-  title_short: 'A Method for Distributing Applications Independent from the Distro '
+- title: A method for distributing applications independent from the distro
   speaker: Langdon White
   start: 2014-02-01 14:00 CET
   end: 2014-02-01 14:50 CET
@@ -157,9 +149,8 @@ talks:
     proprietary software is required to undergo. This talk proposes a
     new'ish technology, Software Collections, as a method for resolution.
 
-- title: 'CentOS: Planning for Variants and the Next Chapter (A Broader, Faster, Easier
-    Route to Contributions in CentOS)'
-  title_short: 'CentOS: Planning for Variants and the Next Chapter'
+- title: 'CentOS: planning for variants and the next chapter (a broader, faster, easier
+    route to contributions in CentOS)'
   speaker: Karanbir Singh
   start: 2014-02-01 15:00 CET
   end: 2014-02-01 15:50 CET
@@ -172,8 +163,7 @@ talks:
     joining forces, this is going to change. Here's how CentOS is planning
     to change, and how other distros can learn from our next phase.
 
-- title: 'Fedora.NEXT: Developing the Fedora Server, Workstation and Cloud'
-  title_short: Fedora.NEXT
+- title: 'Fedora.next: developing the Fedora server, workstation and cloud'
   speaker: Stephen Gallagher
   start: 2014-02-01 16:00 CET
   end: 2014-02-01 16:50 CET
@@ -187,8 +177,7 @@ talks:
     on the logistics around this change in direction would be a valuable
     opportunity.
 
-- title: Desktops DevRoom Opening
-  title_short: Desktops DevRoom Opening
+- title: Desktops DevRoom opening
   speaker: Christophe Fergeau, Pau Garcia i Quiles, Philippe Caseiro, Jerome Leclanche,
     Didier Roche
   start: 2014-02-01 10:55 CET
@@ -202,7 +191,6 @@ talks:
     Jérome Leclanche (LXDE)
 
 - title: Anatomy of kdbus
-  title_short: Anatomy of kdbus
   speaker: Lennart Poettering
   start: 2014-02-01 12:45 CET
   end: 2014-02-01 13:30 CET
@@ -213,7 +201,6 @@ talks:
     improve performance and functionality, while keeping compatibility.
 
 - title: Foreman integration with Chef (and others)
-  title_short: Foreman integration with Chef (and others)
   speaker: Marek Hulán
   start: 2014-02-01 16:30 CET
   end: 2014-02-01 16:55 CET
@@ -225,8 +212,7 @@ talks:
     get"? Also I could sum up what's needed to add similar support for
     config management tools of your will.
 
-- title: Patents, Free Software & Standards (Oh My!)
-  title_short: Patents, Free Software & Standards (Oh My!)
+- title: Patents, Free Software & standards (oh my!)
   speaker: Tom Callaway
   start: 2014-02-01 15:30 CET
   end: 2014-02-01 15:55 CET
@@ -242,9 +228,8 @@ talks:
     non-free, but does not solve any issues for distributors with a focus on
     Freedom (such as Fedora).
 
-- title: 'Open Source Governance best practices roundtable: Query panelists for their
-    best ideas on Open Source Governance'
-  title_short: Open Source Governance best practices roundtable
+- title: 'Open source governance best practices roundtable: query panelists for their
+    best ideas on Open Source governance'
   speaker: Stefano Zacchiroli, Karen Sandler, Christopher Webber, Eileen Evans, Tom
     Callaway, Chris Aniszczyk
   start: 2014-02-01 18:00 CET
@@ -260,9 +245,8 @@ talks:
     also be encouraged to participate in order to have more interaction with
     the panelists. Karen Sandler will be the moderator.
 
-- title: 'How to squeeze a language tag into a Locale: What you need to know about
+- title: 'How to squeeze a language tag into a locale: what you need to know about
     BCP 47 language tags in your ODF editor.'
-  title_short: How to squeeze a language tag into a Locale
   speaker: Eike Rathke
   start: 2014-02-01 15:15 CET
   end: 2014-02-01 15:30 CET
@@ -275,8 +259,7 @@ talks:
     what it means to applications and how LibreOffice implemented it, and
     the consequences it may have for extension developers.
 
-- title: 'LO++14: How to make use of 21st century C++ in LibreOffice development'
-  title_short: LO++14
+- title: 'LO++14: how to make use of 21st century C++ in LibreOffice development'
   speaker: Stephan Bergmann
   start: 2014-02-01 17:50 CET
   end: 2014-02-01 18:05 CET
@@ -290,9 +273,8 @@ talks:
     overcome blockers in adoption of modern C++ features and in what ways
     LibreOffice would benefit from them.
 
-- title: 'Solving NP-complete Problems with Metaheuristics: An Introduction to Tabu
-    Search, Simulated Annealing and Late Acceptance'
-  title_short: Solving NP-complete Problems with Metaheuristics
+- title: 'Solving NP-complete problems with metaheuristics: an introduction to Tabu
+    search, simulated annealing and late acceptance'
   speaker: Geoffrey De Smet
   start: 2014-02-01 17:00 CET
   end: 2014-02-01 17:20 CET
@@ -316,7 +298,6 @@ talks:
     - Late Acceptance
 
 - title: JavaScript for the skeptics
-  title_short: JavaScript for the skeptics
   speaker: Soumya Deb
   start: 2014-02-01 14:30 CET
   end: 2014-02-01 15:00 CET
@@ -331,8 +312,7 @@ talks:
     about the (near)future, and how broadway.js, asm.js (Emscripten, LLVM)
     et al. are going the change the web - for good!
 
-- title: OpenJDK on AArch64 Update
-  title_short: OpenJDK on AArch64 Update
+- title: OpenJDK on AArch64 update
   speaker: Andrew Haley, Andrew Dinn
   start: 2014-02-01 11:30 CET
   end: 2014-02-01 11:55 CET
@@ -348,7 +328,6 @@ talks:
     instruction set.
 
 - title: Shenandoah - an ultra-low pause-time GC for OpenJDK
-  title_short: Shenandoah - an ultra-low pause-time GC for OpenJDK
   speaker: Roman Kennke
   start: 2014-02-01 12:00 CET
   end: 2014-02-01 12:25 CET
@@ -363,8 +342,7 @@ talks:
     implementing marking and object evacuation to run concurrently with
     application threads, and utilizing parallel garbage collection threads.
 
-- title: The Java Native Runtime
-  title_short: The Java Native Runtime
+- title: The Java native runtime
   speaker: Charles Nutter
   start: 2014-02-01 16:00 CET
   end: 2014-02-01 16:25 CET
@@ -381,7 +359,6 @@ talks:
     why the JDK needs a standard FFI (foreign function interface) in Java 9.
 
 - title: Thermostat 1.0, two years of awesomness and beyond
-  title_short: Thermostat 1.0, two years of awesomness and beyond
   speaker: Mario Torre
   start: 2014-02-01 17:30 CET
   end: 2014-02-01 17:55 CET
@@ -394,8 +371,7 @@ talks:
     current features and will disclose some spoilers on the future of
     Thermostat.
 
-- title: OpenJDK Governing Board Q&A Panel Session
-  title_short: OpenJDK Governing Board Q&A Panel Session
+- title: OpenJDK governing board Q&A panel session
   speaker: Mark Reinhold, Andrew Haley, Georges Saab, Doug Lea
   start: 2014-02-01 18:00 CET
   end: 2014-02-01 19:00 CET
@@ -404,7 +380,6 @@ talks:
   description: An open Q&A session with members of the OpenJDK Governing Board.
 
 - title: Ada in Fedora Linux
-  title_short: Ada in Fedora Linux
   speaker: Pavel Zhukov
   start: 2014-02-01 18:00 CET
   end: 2014-02-01 18:15 CET
@@ -415,8 +390,7 @@ talks:
     distribution can be used for developing in the Ada language, tells about
     available tools and frameworks.
 
-- title: 'Persistent Memory: Changing the Way We Store Data'
-  title_short: Persistent Memory
+- title: 'Persistent memory: changing the way we store data'
   speaker: Ric Wheeler
   start: 2014-02-02 15:00 CET
   end: 2014-02-02 15:50 CET
@@ -435,8 +409,7 @@ talks:
     bodies and the Linux based solutions being proposed that will help us
     take full advantage of these new parts.
 
-- title: 'Concurrent Programming Made Simple: The (r)evolution of Transactional Memory'
-  title_short: Concurrent Programming Made Simple
+- title: 'Concurrent programming made simple: the (r)evolution of transactional memory'
   speaker: Nuno Diegues, Torvald Riegel
   start: 2014-02-02 16:00 CET
   end: 2014-02-02 16:50 CET
@@ -449,7 +422,6 @@ talks:
 
 - title: 'Advanced disk image management with libguestfs: libguestfs, virt-builder,
     virt-sparsify and more'
-  title_short: Advanced disk image management with libguestfs
   speaker: Richard Jones
   start: 2014-02-02 16:00 CET
   end: 2014-02-02 16:15 CET
@@ -465,9 +437,8 @@ talks:
     every 60 seconds using virt-builder, how to really compress disk images
     using virt-sparsify and xz. and "sysprepping" using virt-sysprep.
 
-- title: 'Your Complete Open Source Cloud: Mixing oVirt, OpenStack, OpenShift and
+- title: 'Your complete Open Source cloud: mixing oVirt, OpenStack, OpenShift and
     Gluster for a full private cloud'
-  title_short: Your Complete Open Source Cloud
   speaker: Dave Neary
   start: 2014-02-02 17:20 CET
   end: 2014-02-02 17:35 CET
@@ -481,8 +452,6 @@ talks:
     hardware, in a couple of hours, covering virt, storage, IaaS and PaaS.
 
 - title: 'Getting cross-platform: bringing virtualization management to the PPC world'
-  title_short: 'Getting cross-platform: bringing virtualization management to the
-    PPC world'
   speaker: Omer Frenkel
   start: 2014-02-02 10:20 CET
   end: 2014-02-02 11:00 CET
@@ -521,8 +490,7 @@ talks:
     general and ovirt-engine specifically, and this latest PPC support
     effort it brings.
 
-- title: 'Expanding oVirt''s horizons: How to extends and modify oVirt even further'
-  title_short: Expanding oVirt's horizons
+- title: 'Expanding oVirt''s horizons: how to extends and modify oVirt even further'
   speaker: Mike Kolesnik
   start: 2014-02-02 11:40 CET
   end: 2014-02-02 12:20 CET
@@ -541,8 +509,7 @@ talks:
     Developers are welcome to join us in this session to learn how you can
     leverage oVirt to suit your virtualization needs.
 
-- title: 'oVirt Hosted Engine: The Egg That Hosts its Parent Chicken'
-  title_short: 'oVirt Hosted Engine: The Egg That Hosts its Parent Chicken'
+- title: 'oVirt Hosted Engine: the egg that hosts its parent chicken'
   speaker: Doron Fediuck
   start: 2014-02-02 12:20 CET
   end: 2014-02-02 13:00 CET
@@ -559,9 +526,7 @@ talks:
     server (or even two), while allowing standard flows to run the same way
     they did in the past years.
 
-- title: Tunnels as a Connectivity and Segregation Solution for Virtualized Networks
-  title_short: Tunnels as a Connectivity and Segregation Solution for Virtualized
-    Networks
+- title: Tunnels as a connectivity and segregation solution for virtualized networks
   speaker: Assaf Muller
   start: 2014-02-02 13:40 CET
   end: 2014-02-02 14:20 CET
@@ -605,7 +570,6 @@ talks:
 
 - title: 'Bring your virtualized networking stack to the next level: oVirt & OpenStack
     Neutron integration'
-  title_short: Bring your virtualized networking stack to the next level
   speaker: Mike Kolesnik
   start: 2014-02-02 16:20 CET
   end: 2014-02-02 17:00 CET
@@ -625,8 +589,7 @@ talks:
     road-map to future network virtualization in the Data Center, all using
     open source enterprise-grade software.
 
-- title: See Your Project Pulse in Real-Time with Fedmsg
-  title_short: See Your Project Pulse in Real-Time with Fedmsg
+- title: See your project pulse in real-time with Fedmsg
   speaker: Nicolas Dandrimont, Pierre-Yves Chibon
   start: 2014-02-02 14:00 CET
   end: 2014-02-02 14:50 CET
@@ -652,8 +615,7 @@ talks:
     applications being developed around the bus, as well as some ideas for
     future ones.
 
-- title: cwrap - The libc wrapper project
-  title_short: cwrap - The libc wrapper project
+- title: cwrap - the libc wrapper project
   speaker: Andreas Schneider
   start: 2014-02-02 11:30 CET
   end: 2014-02-02 12:20 CET
@@ -666,7 +628,6 @@ talks:
     hostname resolution and privilege separation.
 
 - title: Standalone applications testing and automation
-  title_short: Standalone applications testing and automation
   speaker: Vadim Rutkovsky
   start: 2014-02-02 12:30 CET
   end: 2014-02-02 13:20 CET
@@ -679,8 +640,7 @@ talks:
     discuss testing tools and overall influence of quality engineers on open
     source software development process.
 
-- title: 'Automation in the Foreman Infrastructure: A user success story'
-  title_short: Automation in the Foreman Infrastructure
+- title: 'Automation in the Foreman infrastructure: a user success story'
   speaker: Greg Sutcliffe
   start: 2014-02-02 14:00 CET
   end: 2014-02-02 14:50 CET
@@ -690,9 +650,8 @@ talks:
     A look at how Foreman uses automation internally to handle testing and
     release management.
 
-- title: 'Valgrind Support in the Eclipse IDE: An Overview of the Eclipse Valgrind
-    plugin provided by the Linux Tools Project'
-  title_short: Valgrind Support in the Eclipse IDE
+- title: 'Valgrind support in the Eclipse IDE: an overview of the Eclipse Valgrind
+    plugin provided by the Linux tools project'
   speaker: Roland Grunberg
   start: 2014-02-02 10:00 CET
   end: 2014-02-02 10:25 CET
@@ -708,8 +667,7 @@ talks:
     This talk is aimed at people of varying experience with the Valgrind
     tool who have never used it within the Eclipse IDE.
 
-- title: Testing of valgrind RPMs in RHEL
-  title_short: Testing of valgrind RPMs in RHEL
+- title: Testing of Valgrind RPMs in RHEL
   speaker: Miroslav Franc
   start: 2014-02-02 10:30 CET
   end: 2014-02-02 10:55 CET
@@ -725,9 +683,8 @@ talks:
     bugs I often hit - ideas I have for improvement - Q/A + Discussion
     (perhaps how to work closely with upstream)
 
-- title: GDB, so where are we now? (Status of GDB's ongoing target and run control
+- title: GDB, so where are we now? (status of GDB's ongoing target and run control
     projects)
-  title_short: GDB, so where are we now?
   speaker: Pedro Alves
   start: 2014-02-02 15:00 CET
   end: 2014-02-02 15:25 CET
@@ -748,9 +705,8 @@ talks:
     - multi-target projects
     - reverse debugging
 
-- title: 'BoF: Valgrind and GDB integration (Crazy and fun ways to make the Valgrind/GDB
+- title: 'BoF: Valgrind and GDB integration (crazy and fun ways to make the Valgrind/GDB
     combo more powerful)'
-  title_short: 'BoF: Valgrind and GDB integration'
   speaker: Tom Tromey
   start: 2014-02-02 16:00 CET
   end: 2014-02-02 16:25 CET
@@ -763,9 +719,8 @@ talks:
     help us brainstorm some crazy and fun ways to make the Valgrind/GDB
     combo even cooler and more powerful.
 
-- title: 'BoF: Ideas, new features and directions for Valgrind (Open discussion about
+- title: 'BoF: ideas, new features and directions for Valgrind (open discussion about
     small (or big) ideas to improve or change Valgrind.)'
-  title_short: 'BoF: Ideas, new features and directions for Valgrind'
   speaker: Mark Wielaard
   start: 2014-02-02 16:30 CET
   end: 2014-02-02 17:45 CET
