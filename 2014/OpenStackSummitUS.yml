@@ -242,7 +242,7 @@ talks:
 - title: "OpenStack: Where Continuous Delivery and Distros Collide"
   speaker: Mark McLoughlin and Monty Taylor
   start: 2014-05-14 16:30 EDT
-  end: 2014-05-14 17:10
+  end: 2014-05-14 17:10 EDT
   description: |
     Like many open-source projects, OpenStack uses a time-based release
     model. Feature development happens in a flurry of activity in the
@@ -295,7 +295,7 @@ talks:
 
 - title: "Designate: Interactive Workshop - Install and Operate"
   speaker: Rich Megginson et al
-  start: 2014-05-15 13:30
+  start: 2014-05-15 13:30 EDT
   end: 2014-05-15 15:00 EDT
   description: |
     Designate provides DNSaaS services for OpenStack.
