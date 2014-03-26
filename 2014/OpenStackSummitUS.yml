@@ -9,3 +9,396 @@ description: |
     For more details on the OpenStack Summit and to register, see
     <https://www.openstack.org/summit/openstack-summit-atlanta-2014/>.
 
+talks:
+
+- title: Extending TripleO for OpenStack Infrastructure Management
+  speaker: Keith Basil
+  start: 2014-05-14 11:00 EDT
+  end: 2014-05-14 11:40 EDT
+  description: |
+    Operational awareness and value for cloud operators has largely been
+    ignored by the OpenStack community. Today with the maturity of
+    TripleO and inclusion of Tuskar, we can now begin to think about
+    TripleO's use as a vehicle for OpenStack infrastructure management.
+
+    The question now is How do we extend TripleO with additional
+    value?".
+
+    Within this context, there are several areas of integration which
+    can be explored. These include an operator dashboard, infrastructure
+    instrumentation agents, bare metal drivers and other supporting
+    services. Hardware and software vendors can gain insight into what
+    integration looks like from a product point of view.
+
+    In this session, we will explore:
+    - Why TripleO works for infrastructure management
+    - TripleO management integration points
+    - What TripleO means for hardware/software vendors
+    - Early work in this area
+
+- title: Introduction to OpenStack Orchestration
+  speaker: Zane Bitter and Steven Hardy
+  start: 2014-05-12 11:15 EDT
+  end: 2014-05-12 11:55 EDT
+  description: |
+    In this session you will learn how the Orchestration capabilities of
+    OpenStack, provided by the Heat project, can help make the
+    deployment and management of your cloud workloads simpler and more
+    robust by allowing you to represent infrastructure as code.
+    If you have requirements related to orchestrating applications on
+    OpenStack clouds, this session will help you understand what Heat
+    is, an overview of how to use it, key terminology, template language
+    concepts, and details of the current and planned features.
+    Included in this session will be information about the new HOT DSL,
+    providers/environments abstractions, and latest
+    software-configuration capabilities for Icehouse. Finally you will
+    see a demo of Heat in action!
+    (Speaker Info - Steven Hardy and Zane Bitter are both core
+    developers on the Heat project, and have been active contributors
+    since the project was started)
+
+- title: The state of OpenStack Data Processing: Savanna, now and in Juno
+  speaker: Matthew Farrellee, Sergey Lukjanov, and John Speidel
+  start: 2014-05-12 14:00 EDT
+  end: 2014-05-12 14:40 EDT
+  description: |
+    The Savanna project, currently in incubation under the OpenStack
+    Data Processing program, provides users an ability to provision and
+    manage Hadoop clusters on OpenStack, and has seen a great deal of
+    progress, development, and changes during the Icehouse development
+    cycle. The focus of the project is on two primary use cases:
+    on-demand cluster provisioning and on-demand Hadoop task execution
+    (Elastic Data Processing).
+    In this talk, we will provide an overview of project Savanna, its
+    main goals and focus, and a tour of new features introduced in the
+    Icehouse cycle. These features include: integration with Heat, basic
+    API tests in Tempest, enabled asynchronous gate, and bunch of new
+    Elastic Data Processing (EDP) features. We’ll also discuss new
+    Hortonworks Data Platform plugin features, data-locality support,
+    and the ability to use Savanna through the command line. Finally, we
+    will discuss the roadmap for the Juno release.
+    After attending this session, you will have a good understanding for
+    where Savanna is now and where it’s going, particularly with regard
+    to the Unified Agent approach, on which we’re currently working on
+    leveraging in Savanna.
+
+- title: Divide and Conquer: Resource Segregation in the OpenStack Cloud
+  speaker: Stephen Gordon
+  start: 2014-05-12 14:50 EDT
+  end: 2014-05-12 15:30 EDT
+  description: |
+    As a cloud deployment grows both in size and in variety of workloads
+    it is useful to be able to segregate compute resources based on
+    factors such as physical location, networking connections, or the
+    availability of specialized hardware. OpenStack provides a number of
+    options for segregating compute resources in the cloud including:
+    - Cells,
+    - Host Aggregates,
+    - Regions, and
+    - Availability Zones.
+    The differences between each of these approaches are nuanced and
+    often misunderstood. Additionally the capabilities available when
+    using some of these techniques, particularly Host Aggregates and
+    Cells, have been expanded in recent OpenStack releases.
+    This session will provide an indepth look into these each of these
+    options for segregating resources in the OpenStack cloud including
+    their pros and cons, example use cases, and performance
+    considerations.
+
+- title: Implementation and Lessons learned from building a large scale cloud (Massachusetts Open Cloud/MOC)
+  speaker: Brent Holden
+  start: 2014-05-13 14:50 EDT
+  end: 2014-05-13 15:30 EDT
+  description: |
+    The Massachusetts Open Cloud (MOC) will be a public cloud based on a
+    new model that allows many companies and institutions to participate
+    in its implementation and operation. MOC is bringing multiple
+    vendors together within a single infrastructure, hence fostering
+    collaboration and interoperability amongst them. Several industry
+    partners have joined the effort and been instrumental in the initial
+    implementation of MOC. 
+    The goal for MOC is to foster interoperability and innovation
+    amongst insterested parties and the opportunity to explore new
+    computing models.
+    This session will provide an overview of the architecture and it's
+    evolution
+    - Blueprint to build a multi-vendor cloud infrastrucutre
+        - Architecture decisions and guidance
+        - Considerations for scale, operations and upgrades
+    - Lessons learned from the initial deployment to operations will be covered 
+        - Automation of deployments and extending the infrastructure
+        - Orchestration of workloads based on SLAs and QoS requirements
+        - Operational aspects and tools
+        - Best practices and architecture decisions are shared and key technology areas highlighted (Neutron, Cinder, Deployment, Operations, Upgrades etc)
+
+    We will also cover use cases for applications deployed on the MOC
+    cloud, ranging from Big Data analytics, PaaS and others
+    With the participation of several key Boston universities such as
+    Harvard, Boston University, MIT and North Eastern, UMass and other
+    parthers MOC will evolve into a large scale open cloud
+    infrastructure
+
+- title: Enterprise-Grade Scheduling: Enterprise-Grade Openstack from a Scheduler perspective
+  speaker: Gary Kotton and Gilad Zlotkin
+  start: 2014-05-12 16:40 EDT
+  end: 2014-05-12 17:20 EDT
+  description: |
+    Enterprise-Grade Openstack is all about the delivery of cloud
+    services to meet the service-level requirements of enterprise
+    mission critical and performance critical application in large
+    scale.
+    In our presentation we will focus on the different Openstack
+    schedulers' implications of the enterprise-grade requirements. We
+    will talk about hierarchical-scheduling", "cross-scheduling" and
+    "re-scheduling," in the context of providing highly-available and
+    high-performance compute, networking and storage services in large
+    scale. We will also cover recent developments in Openstack
+    schedulers in the context of the general Enterprise-Grade Openstack
+    roadmap.
+
+- title: Deploying Red Hat Enterprise Linux OpenStack Platform with Packstack and Foreman
+  speaker: Rob Locke and Forrest Taylor
+  start: 2014-05-13 11:15 EDT
+  end: 2014-05-13 12:45 EDT
+  description: |
+    Join us for this hands-on taste of training from Red Hat's premiere
+    OpenStack course: Red Hat Enterprise Linux OpenStack Platform
+    Administration (CL210). 
+
+    You'll
+    - Deploy Red Hat Enterprise Linux OpenStack Platform using 2 automated tools: Packstack and Foreman. 
+    - Discover the command-line tool Packstack as you deploy Red Hat Enterprise Linux OpenStack Platform in an all-in-one scenario.
+    - Explore the web interface Foreman as you deploy a controller node and a compute node.
+
+- title: Deploying High Availability with Red Hat Enterprise Linux OpenStack Platform
+  speaker: Rob Locke and Forrest Taylor
+  start: 2014-05-13 14:00 EDT
+  end: 2014-05-13 15:00 EDT
+  description: |
+    Join us for this hands-on taste of training for one of Red Hat's
+    newest OpenStack courses: High availability with Red Hat Enterprise
+    Linux OpenStack Platform (CL332). 
+
+    In this session, you’ll
+    - Deploy the cluster tools and HAProxy tools in Red Hat Enterprise Linux 6.5.
+    - Deploy Red Hat Enterprise Linux OpenStack Platform in a cluster with HAProxy providing load balancing. 
+    - Configure the Nova service on both nodes of the cluster.
+    - Perform fail-over scenarios to test high availability.
+
+- title: Deploying Apache Qpid on Red Hat Enterprise Linux OpenStack Platform
+  speaker: Rob Locke and Forrest Taylor
+  start: 2014-05-13 15:15 EDT
+  end: 2014-05-13 16:15 EDT
+  description: |
+    Join us for this hands-on taste of training for one of Red Hat's
+    newest OpenStack courses: Apache Qpid Messaging with Red Hat
+    Enterprise Linux OpenStack Platform (CL314). 
+
+    Back-end services are a key component to get highly available and
+    scalable OpenStack clouds. In this session, you’ll:
+    - Deploy Apache Qpid as part of Red Hat Enterprise Linux OpenStack Platform.
+    - Configure high availability Apache Qpid.
+    - View the monitoring feature of Apache Qpid.
+    - Configure the Red Hat Enterprise MRG web management console for Apache Qpid.
+
+- title: Deploying the Neutron L2 and L3 Services on Red Hat Enterprise Linux OpenStack Platform
+  speaker: Rob Locke and Forrest Taylor
+  start: 2014-05-13 16:30 EDT
+  end: 2014-05-13 17:45 EDT
+  description: |
+    Join us for this hands-on taste of training for one of Red Hat's
+    newest OpenStack courses: Neutron Networking with Red Hat Enterprise
+    Linux OpenStack Platform (CL306).
+
+    In this session, you’ll:
+    - Deploy the Neutron Networking L2 service and create networks with VLAN and GRE.  
+    - Deploy the Neutron Networking L3 service and create a subnet, router, and floating IP address for an instance.
+    - Deploy the Neutron L3 agent and create L3 services.
+
+- title: Technical Deep Dive: Big Data computations using Elastic Data Processing in OpenStack Cloud
+  speaker: Trevor McKay, Alexander Ignatov and Sergey Lukjanov
+  start: 2014-05-13 14:00 EDT
+  end: 2014-05-13 14:40 EDT
+  description: |
+    The Savanna project, currently in incubation under the OpenStack
+    Data Processing program, provides users an ability to provision and
+    manage Hadoop clusters on OpenStack, and has seen a great deal of
+    progress, development, and changes during the Icehouse development
+    cycle. The focus of the project is on two primary use cases:
+    on-demand cluster provisioning and on-demand Hadoop tasks execution
+    (Elastic Data Processing).
+    This presentation takes an in-depth look at Savanna’s EDP
+    facilities. Since Savanna’s initial release, this key feature has
+    been hardened and expanded to support streaming MapReduce and Java
+    workflows, operation over private Neutron networks and execution on
+    transient clusters. We’ll start with a description of EDP’s general
+    concepts and a definition of terms, then its current status in
+    Savanna, supported Data Sources, Job Types, data locality and the
+    roadmap for the Juno release cycle.
+    Lastly, we’ll show a live demo of EDP to bring all of these concepts
+    together. The demo will cover job and data source definition, job
+    execution and collection of job results.
+
+- title: OpenStack :: Where Continuous Delivery and Distros Collide
+  speaker: Mark McLoughlin and Monty Taylor
+  start: 2014-05-14 16:30 EDT
+  end: 2014-05-14 17:10
+  description: |
+    Like many open-source projects, OpenStack uses a time-based release
+    model. Feature development happens in a flurry of activity in the
+    first part of each release cycle and then we taper, allowing enough
+    time for many eyes to make shallow bugs" and for us to gain enough
+    confidence in the quality of our release candidates. Even after a
+    release, we continue to maintain a stable branch for issues found
+    and fixed post-release.
+
+    Linux distros apply a similar model when they bring together the
+    releases of many open-source projects into a coherent, usable and
+    stable product. OpenStack's predictable release schedule, the
+    tapering, the stabilization and the post-release maintenance are all
+    essential to the needs of distros and, in turn, the users of those
+    distros.
+
+    Unusually, OpenStack also explicitly caters to another type of users -
+    what we call "trunk chasers". Public cloud providers like HP and
+    Rackspace invest significantly in a continuous delivery pipeline
+    so that they can keep pace with OpenStack development, deploy
+    regularly, give timely feedback upstream and minimize the risk
+    associated with each incremental update. In these days of agile
+    development, DevOps and continuous delivery, the benefits of such
+    a model are now clear.
+
+    As such, OpenStack is an important case study for how recent
+    thinking around continuous delivery is influencing open-source
+    projects. Many questions remain unanswered, however. Are we going
+    to continue to see projects like OpenStack see themselves as
+    catering to two radically different audiences, or is this the
+    beginning of fundamental shift in open-source?
+
+    Mark and Monty - Openstack Technical Committee and Foundation
+    Board members, prominent OpenStack contributors and senior
+    engineering leaders at Red Hat and HP - have had the opportunity
+    to look at this dilemma from several different angles. In the
+    talk, they will delve into some of the details behind how
+    OpenStack caters to both models. They will examine the mindset and
+    needs of each audience. They will talk about topics such as CI,
+    upgrades, deployment tools, reference architectures, community
+    management, feature development, user feedback and more.
+
+    Attendees can hope to learn some more about OpenStack and some of
+    the challenges in running an open-source project, building a
+    distro or maintaining a public cloud. Beyond OpenStack, however,
+    the talk should provide some more general food for thought around
+    the agile development methodologies used by many application
+    developers today versus the methodologies used by open-source
+    projects today.
+
+- title: Designate: Interactive Workshop - Install and Operate
+  speaker: Rich Megginson et al
+  start: 2014-05-15 13:30
+  end: 2014-05-15 15:00 EDT
+  description: |
+    Designate provides DNSaaS services for OpenStack.
+    This interactive workshop will guide attendees on how Designate can
+    be installed with PowerDNS. For the purposes of the workshop the
+    various designate components will be installed on a single node.
+    Once installed it shows some of the V1 and V2 APIs for domain and
+    record management. The workshop will conclude by using a tool like
+    dig to retrieve the added records from the PowerDNS backend, showing
+    a fully functional by-hand deployment.
+    The workshop will also cover the steps for contributing to the
+    development of Designate.
+    Several of the Designate contributors will be on hand during the
+    workshop to help attendees work through the deployment.
+
+- title: Getting Started with OpenStack
+  speaker: Dan Radez, Niki Acosta and Kenneth Hui
+  start: 2014-05-15 9:00 EDT
+  end: 2014-05-15 10:30 EDT
+  description: |
+    OpenStack continues to grow exponentially as the de facto standard
+    for open source Cloud platforms. But how can someone quickly get
+    started with learning this exciting new technology? This
+    workshop will walk participants through an overview of the
+    OpenStack components and offer practical suggestions and
+    resources for learning OpenStack. To demonstrate one way to get
+    started, we will assist workshop attendees to set up a
+    multi-node OpenStack cloud, on their laptops, using Red Hat's
+    RDO and the
+    Packstack utility.
+
+    Participants will be introduced to a range of cloud
+    functionality including those that were added to the Icehouse
+    release. During the workshop, participants will have the
+    opportunity to the following:
+    - Installing OpenStack on their laptops
+    - Walking through the Horizon dashboard
+    - Adding new users
+    - Adding an image to Glance
+    - Defining networks in Neutron
+    - Starting a new virtual server
+    - Creating and attaching Cinder storage volumes to virtual servers
+    - Storing objects in Swift Using the Horizon Dashboard user interface
+    - Exploring Ceilometer metrics
+    - Instructions to prepare for the workshop can be found at http://openstack.redhat.com/GettingStartedIcehouse_w_GRE
+
+- title: Customizing Horizon without breaking on upgrades
+  speaker: Matthias Runge
+  start: 2014-05-12 16:40 EDT
+  end: 2014-05-12 15:20 EDT
+  description: |
+    In probably most cases, when Horizon, the OpenStack Dashboard is
+    installed, it's desired to change it's look and feel to meet the
+    corporate look and feel.
+    In many installations, software is deployed via software packages.
+    When updating or upgrading software via distribution packages, in
+    almost all cases changes applied to files installed will become
+    overwritten. In this session, we'll show, how to achieve both,
+    changes and not to break due package updates or even upgrades.
+
+    During Icecouse development cycle, a the plugin architecture
+    blueprint was implemented; this session will show, how to create or
+    modify a look and feel along distribution provided packages that
+    will not break on minor package updates or version upgrades.
+
+- title: Using OpenDaylight Within An OpenStack Environment
+  speaker: Brent Salisbury, Madhu Venguopal, Dave Meyer and Kyle Mestery
+  start: 2014-05-12 14:50 EDT
+  end: 2014-05-12 15:30 EDT
+  description: |
+    OpenDaylight is an open platform for network programmability to
+    enable SDN and create a solid foundation for NFV for networks at any
+    size and scale. OpenDaylight is licensed under the Eclipse Public
+    License, and recently had its first release, code-named Hydrogen.
+    The OpenDaylight and OpenStack Neutron teams have collaborated to
+    integrate the two projects such that OpenDaylight can provide
+    virtual tenant networking for OpenStack tenants. This talk will show
+    you how to use OpenDaylight with OpenStack, including setup and
+    debug of the environment. We will walk through technical details of
+    the implementation and show examples of the benefits of using
+    OpenDaylight to scale virtual tenant networks with OpenStack
+    Neutron. Additionallly, we will cover future directions of
+    OpenDaylight integration with OpenStack Neutron. Attendees will
+    leave this session with a clear understanding of how OpenDaylight
+    integrates with OpenStack Neutron to provide virtual networks for
+    OpenStack tenants.
+   
+- title: Nova's March Towards Live Upgrade Capability
+  speaker: Dan Smith
+  start: 2014-05-13 14:00 EDT
+  end: 2014-05-13 14:40 EDT
+  description: |
+    In large deployments, some piece of Nova is deployed almost
+    everywhere.
+    Until recently, the story for how you upgrade to using a newer
+    version of this fast-paced project has been turn off the cloud" --
+    an unacceptable answer for something that aims to be deployed at a
+    scale large enough to make such a plan unfeasible. Over the last
+    several releases, "upgrade-ability" has been a major theme of
+    development for the Nova team, shooting for both reduced downtime of
+    core components and elimination of the need to "turn off the cloud"
+    while thousands of nodes are upgraded atomically.
+    This talk will cover the incremental steps we have made in
+    recent cycles, as well as reveal the major new capability that
+    the Icehouse release brings to the table.
+
