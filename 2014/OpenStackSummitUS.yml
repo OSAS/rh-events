@@ -82,7 +82,7 @@ talks:
     to the Unified Agent approach, on which we’re currently working on
     leveraging in Savanna.
 
-- title: Divide and Conquer: Resource Segregation in the OpenStack Cloud
+- title: "Divide and Conquer: Resource Segregation in the OpenStack Cloud"
   speaker: Stephen Gordon
   start: 2014-05-12 14:50 EDT
   end: 2014-05-12 15:30 EDT
@@ -138,7 +138,7 @@ talks:
     parthers MOC will evolve into a large scale open cloud
     infrastructure
 
-- title: Enterprise-Grade Scheduling: Enterprise-Grade Openstack from a Scheduler perspective
+- title: "Enterprise-Grade Scheduling: Enterprise-Grade Openstack from a Scheduler perspective"
   speaker: Gary Kotton and Gilad Zlotkin
   start: 2014-05-12 16:40 EDT
   end: 2014-05-12 17:20 EDT
@@ -215,7 +215,7 @@ talks:
     - Deploy the Neutron Networking L3 service and create a subnet, router, and floating IP address for an instance.
     - Deploy the Neutron L3 agent and create L3 services.
 
-- title: Technical Deep Dive: Big Data computations using Elastic Data Processing in OpenStack Cloud
+- title: "Technical Deep Dive: Big Data computations using Elastic Data Processing in OpenStack Cloud"
   speaker: Trevor McKay, Alexander Ignatov and Sergey Lukjanov
   start: 2014-05-13 14:00 EDT
   end: 2014-05-13 14:40 EDT
@@ -239,7 +239,7 @@ talks:
     together. The demo will cover job and data source definition, job
     execution and collection of job results.
 
-- title: OpenStack :: Where Continuous Delivery and Distros Collide
+- title: "OpenStack: Where Continuous Delivery and Distros Collide"
   speaker: Mark McLoughlin and Monty Taylor
   start: 2014-05-14 16:30 EDT
   end: 2014-05-14 17:10
@@ -293,7 +293,7 @@ talks:
     developers today versus the methodologies used by open-source
     projects today.
 
-- title: Designate: Interactive Workshop - Install and Operate
+- title: "Designate: Interactive Workshop - Install and Operate"
   speaker: Rich Megginson et al
   start: 2014-05-15 13:30
   end: 2014-05-15 15:00 EDT
