@@ -11,7 +11,7 @@ description: |
 
 talks:
 
-- title: OpenStack Security Group (OSSG): An Update on Our Progress and Plans
+- title: "OpenStack Security Group (OSSG): An Update on Our Progress and Plans"
   speaker: Nathan Kinder, Robert Clark and Bryan Payne
   start: 2014-05-12 11:15 EDT
   end: 2014-05-12 11:55 EDT
@@ -135,7 +135,7 @@ talks:
     integrates with OpenStack Neutron to provide virtual networks for
     OpenStack tenants.
 
- - title: "Divide and Conquer: Resource Segregation in the OpenStack Cloud"
+- title: "Divide and Conquer: Resource Segregation in the OpenStack Cloud"
   speaker: Stephen Gordon
   start: 2014-05-12 14:50 EDT
   end: 2014-05-12 15:30 EDT
