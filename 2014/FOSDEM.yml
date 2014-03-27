@@ -97,6 +97,24 @@ talks:
     servers. Foreman provides comprehensive, auditable interaction
     facilities including a web frontend and robust, RESTful API.
 
+- title: Automation in the Foreman Infrastructure
+  title_short: Automation in the Foreman Infrastructure
+  speaker: Greg Sutcliffe
+  speaker_rh: Greg Sutcliffe
+  start: 2014-02-02 14:00 CET
+  end: 2014-02-02 14:50 CET
+  room: U.218A
+  track: Testing and Automation
+  description: |-
+    A look at how Foreman uses automation internally to handle testing and
+    release management.
+    In this talk I'll walk through how the Foreman developers use automation
+    to run end-to-end tests, automatically test Pull Requests (including
+    building packages with submitted changes in) and manage the release
+    process for a new release of Foreman. I'll also cover how we use Foreman
+    to manage the Jenkins slaves, and briefly talk about what we'd still
+    like to accomplish with our automation.
+
 - title: oVirt applying Nova scheduler concepts for data center virtualization
   speaker: Gilad Chaplik
   start: 2014-02-01 17:40 CET
