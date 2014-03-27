@@ -443,6 +443,21 @@ talks:
     developers today versus the methodologies used by open-source
     projects today.
 
+- title: User Experience in the OpenStack Community
+  speaker: Liz Blanchard
+  start: 2014-05-14 15:30 EDT
+  end: 2014-05-14 16:10 EDT
+  description: |
+    How has the OpenStack User Experience (UX) group contributed to the OpenStack Community over the past year? In this session, you'll get to hear how the UX group is helping to shape features and improve the overall user experience in OpenStack and verifying that designs are meeting target end users needs. We will give highlights of our progress in the following areas
+
+    - Understanding the OpenStack users
+    - Requirements gathering
+    - Interaction design
+    - Design support during development
+    - Usability testing and feeding results back into new requirements
+
+    We will also discuss the recent efforts, which builds on Dave Neary's previous work, to develop a set of personas to help the development community align with their users' needs and tasks.  We'll review the methodology used to develop the personas, insights from the user interviews, and the personas created from the effort.  Finally, we will provide recommendations and examples for how the community can effectively use the personas during their own planning, design, development, and testing efforts to improve the overall user experience.
+
 - title: Automation, orchestration, confusion? Taking the discussion up the stack.
   speaker: Steve Baker, Florian Haas, Georgy Okrokvertskhov and John Yi
   start: 2014-05-14 17:20 EDT
