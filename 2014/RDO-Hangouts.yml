@@ -10,6 +10,18 @@ talks:
   description: |
     Flavio Percoco will be hosting a presentation on OpenStack
     Marconi - what it is, what the goals are, and what remains to be
-    done. The presentation will be streamed live on YouTube at
-    https://plus.google.com/events/ckjhm8rggnqvrnspftna845kubk and will
-    also be available at that location afterwards.
+    done. The presentation will be 
+    [streamed live on YouTube](https://plus.google.com/events/ckjhm8rggnqvrnspftna845kubk)
+    and will also be available at that location afterwards.
+
+- title: OpenStack Heat
+  speaker: Steve Baker
+  start: 2014-04-24 10:00 EST
+  end: 2014-04-24 11:00 EST
+  description: |
+    Steve Baker will be presenting an introduction to OpenStack Heat,
+    and showing how to use it to orchestrate your OpenStack services.
+    The presentation will be streamed live on YouTube, and will also be
+    available to watch after the fact. Join us on \#rdo-hangout on the
+    Freenode IRC network for questions and conversation during the
+    presentation.
