@@ -1,0 +1,29 @@
+name: \#ChefConf 2014
+location: San Francisco, California
+start: 2014-04-15
+end: 2014-04-17
+description: |
+    \#ChefConf 2014 is the largest, most vibrant gathering of the New IT,
+    featuring three days of inspired discussions, collaborative presentations,
+    technical training and hands on labs focused on automating business to
+    hyper-speed.
+
+    For more details on \#ChefConf and to register, see
+    <http://chefconf.opscode.com/chefconf/>.
+
+talks:
+
+- title: "Foreman and Chef integration"
+  speaker: Dominic Cleal
+  start: 2014-04-17 14:20 PDT
+  end: 2014-04-17 15:00 PDT
+  description: |
+      Foreman is a lifecycle management tool for hosts, helping from
+      provisioning through to configuration management and monitoring. It's
+      traditionally been associated with Puppet, but now boasts Chef support
+      with fact and report handler integration.
+
+      In this session, we'll see how Foreman fits into your infrastructure and
+      the provisioning and Chef integration in action.
+
+      Followed by an "office hours" session with the speaker at 15:15 PDT.
