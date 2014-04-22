@@ -1,0 +1,16 @@
+name: RDO Hangout OpenStack Heat
+type: series
+
+talks:
+
+- title: OpenStack Heat
+  speaker: Steve Baker
+  start: 2014-04-24 10:00 EST
+  end: 2014-04-24 11:00 EST
+  description: |
+    Steve Baker will be presenting an introduction to OpenStack Heat,
+    and showing how to use it to orchestrate your OpenStack services.
+    The presentation will be streamed live on YouTube, and will also be
+    available to watch after the fact. Join us on \#rdo-hangout on the
+    Freenode IRC network for questions and conversation during the
+    presentation.
