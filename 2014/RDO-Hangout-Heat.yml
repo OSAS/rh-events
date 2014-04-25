@@ -3,14 +3,16 @@ type: series
 
 talks:
 
-- title: OpenStack Heat
+- title: What's new in the OpenStack Heat Icehouse release
   speaker: Steve Baker
-  start: 2014-04-24 10:00 EST
-  end: 2014-04-24 11:00 EST
+  start: 2014-04-29 17:00 EST
+  end: 2014-04-29 18:00 EST
   description: |
-    Steve Baker will be presenting an introduction to OpenStack Heat,
-    and showing how to use it to orchestrate your OpenStack services.
-    The presentation will be streamed live on YouTube, and will also be
-    available to watch after the fact. Join us on \#rdo-hangout on the
+    In this hangout Steve Baker will walk through the key new features
+    in the Icehouse release of OpenStack Heat.
+
+    The presentation will be streamed live on YouTube at
+    http://goo.gl/Tzj85j, and will also be available to watch after
+    the fact at that same address. Join us on \#rdo-hangout on the
     Freenode IRC network for questions and conversation during the
     presentation.
