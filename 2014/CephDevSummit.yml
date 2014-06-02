@@ -1,0 +1,20 @@
+name: Ceph Developer Summit: G/H
+location: Google Hangouts/Virtual
+start: 2014-06-24
+end: 2014-06-25
+description: |
+  Hard to believe another quarter has gone by in the world of Ceph development! 
+  So much has happened with the release of Firefly (late, but well worth 
+  the wait!), another smashing OpenStack Developer Summit, and of course 
+  the acquisition of Inktank. As the dust settles from all of the hustle and bustle 
+  we’re looking to get back on track with development.
+
+  So, since it has been a while since our last summit we thought it would be a 
+  good idea to have another “interim” summit to discuss work in flight, anything 
+  new that may have come up, and look forward to both our “Giant” and “Hammer” releases. 
+
+  Blueprint submissions begin June 2nd, and end June 16th. The schedule will be posted
+  after all blueprints are received, and start on June 24 and carry over to June 25
+  if needed.
+
+  <http://ceph.com/community/ceph-developer-summit-gh/>
