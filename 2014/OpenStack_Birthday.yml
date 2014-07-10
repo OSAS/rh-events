@@ -1,0 +1,18 @@
+name: OpenStack 4th Birthday
+location: Worldwide
+start: 2014-07-01
+end: 2014-07-31
+description: |
+  Celebrate the 4th OpenStack Foundation birthday.
+  
+  For informations and a list of the Worldwide events visit:
+  <http://www.openstack.org/birthday>.
+  
+talks:
+
+- title: TripleO, chicken/egg done right (Italy event)
+  speaker: Giulio Fidente
+    start: 2014-07-10 19:00 CEST
+  end: 2014-07-10 19:40 CEST
+  description: |
+    An overview of the TripleO project and its tooling.
