@@ -1,0 +1,35 @@
+name: FLOSS Community Metrics Meeting
+location: Puppet Labs, 926 NW 13th Ave, Portland, Oregon
+start: 2014-07-20
+end: 2014-07-20
+description: |
+  FLOSS Community Metrics Meeting together people interested in
+  FLOSS (free, libre, open source software) metrics to discuss
+  the FLOSS tools that are currently available in this area.
+
+  Additional details about the conference are available
+  [on the conference website](http://flosscommunitymetrics.org/).
+
+talks:
+
+- title: What you measure is what you get. Stories of metrics gone wrong
+  speaker: Dave Neary
+  start: 2014-07-20 14:30 PDT
+  end: 2014-07-20 14:35 PDT
+  description: |
+    Situational awareness is vital in any situation. If you are unaware
+    of an issue, then you are in a poor position to fix it. However,
+    there is a natural human response to the publication of metrics,
+    which is to optimise for what is measured. Here are some cautionary
+    tales of how performance metrics inadvertently created incentives
+    for behaviour that was bad for the system.
+
+- title: Incorporating Community Metrics and The Open Source Way
+  speaker: Karsten Wade
+  start: 2014-07-20 14:35 PDT
+  end: 2014-07-20 14:40 PDT
+  description: |
+    The Open Source Way is a book, website, and community around the best
+    practices of using open source methodologies in projects and other
+    endeavors. In this talk, learn how to incorporate your work and
+    practices in to this useful handbook.
