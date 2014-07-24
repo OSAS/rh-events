@@ -1,0 +1,15 @@
+name: Defense in Depth 2014 
+Location: MacLean, VA, USA
+start: 2014-07-30
+end: 2014-07-30
+description: |
+  Started in 2013, the Defense in Depth workshops bring members of Red Hat's 
+  Security Engineering communities to Washington, D.C. for a day of technical 
+  sessions and hands-on labs. Attendees learn about the latest developments 
+  (both GA, and upstream), the latest projects within the DoD and Intelligence 
+  communities, and Red Hat Engineering gets to hear directly from customers 
+  on their needs. In 2014, sessions span SCAP, SELinux, Docker, Cross Domain 
+  Supercomputing, and generally reflect sharing of current projects effecting 
+  government customers.
+
+  More information is available at <http://defenseindepth2014.com/>
