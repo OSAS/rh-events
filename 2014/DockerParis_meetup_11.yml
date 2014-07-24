@@ -1,15 +1,15 @@
-name: Docker Paris meetup #11 
-Location: Paris, France
+name: Docker Paris meetup #11
+location: Paris, France
 start: 2014-07-10
 end: 2014-07-10
 description: |
-  Meet other developers and ops engineers using Docker. Docker is an open platform 
-  for developers and sysadmins to build, ship, and run distributed applications.  
-  
+  Meet other developers and ops engineers using Docker. Docker is an open platform
+  for developers and sysadmins to build, ship, and run distributed applications.
+
   On the schedule, there was 2 talks.
 
   Project atomic, a integrated distribution to manage docker, by Michael Scherer
 
   Feedback on Docker at Fasterize , by David Rousselie
- 
+
   More information is available at <http://www.meetup.com/Docker-Paris/events/188071422/>

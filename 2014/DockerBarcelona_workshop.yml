@@ -1,5 +1,5 @@
-name: Docker Barcelona Workshop 
-Location: Barcelona, Spain
+name: Docker Barcelona Workshop
+location: Barcelona, Spain
 start: 2014-07-24
 end: 2014-07-24
 description: |
@@ -7,17 +7,17 @@ description: |
 
   Workshop Schedule
 
-- 17:30 - 18:00 Intro
-- 18:00 - 18:30 CLI basics
-- 18:30 - 19:00 Dockerfile basics
-- 19:00 - 20:00 Lightning Talks
+  - 17:30 - 18:00 Intro
+  - 18:00 - 18:30 CLI basics
+  - 18:30 - 19:00 Dockerfile basics
+  - 19:00 - 20:00 Lightning Talks
 
-Lightning Talks:
+  Lightning Talks:
 
-Starting at 19:00 we'll have lightning talks including the following topics:
+  Starting at 19:00 we'll have lightning talks including the following topics:
 
-- Docker + Vagrant
-- Docker Patterns (Ambassadors / Data Volumes / Service Discovery)
-- Project Atomic, an OS designed to run Docker containers
+  - Docker + Vagrant
+  - Docker Patterns (Ambassadors / Data Volumes / Service Discovery)
+  - Project Atomic, an OS designed to run Docker containers
 
   More information is available at <http://www.meetup.com/docker-barcelona-spain/events/193336922/>
