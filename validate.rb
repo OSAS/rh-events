@@ -43,3 +43,5 @@ Dir.glob("*/*.yml").each do |file|
 end
 
 puts "Congratulations! All events are valid!" if valid
+
+exit valid
