@@ -1,0 +1,21 @@
+name: FOSDEM
+location:  Brussels, Belgium
+start: 2015-01-31
+end: 2015-02-01
+description: |
+    FOSDEM is a free and non-commercial event organised
+    by the community for the community. The goal is to
+    provide open source software developers and communities
+    a place to meet to:
+
+    * get in touch with other developers and projects;
+    * be informed about the latest developments in the
+      open source world;
+    * attend interesting talks and presentations on
+      various topics by open source project leaders
+      and committers;
+    * to promote the development and the benefits of
+      open source solutions.
+
+    For more details on FOSDEM, see the event website at
+    <https://fosdem.org/2015/>
