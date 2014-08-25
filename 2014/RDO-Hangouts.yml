@@ -13,3 +13,15 @@ talks:
     done. The presentation will be 
     [streamed live on YouTube](https://plus.google.com/events/ckjhm8rggnqvrnspftna845kubk)
     and will also be available at that location afterwards.
+
+- title: Deploying with Heat
+  speaker: Lars Kellogg-Stedman 
+  start: 2014-09-05 11:00 EST
+  end: 2014-09-05 12:00 EST
+  description: |
+    Heat is the OpenStack orchestration project. In this hangout, Red
+    Hat engineer Lars Kellogg-Stedman will talk about using Heat to
+    deploy things in the real world. The talk will be [streamed live on
+    YouTube](https://plus.google.com/events/c9u4sjn7ksb8jrmma7vd25aok94)
+    and will also be available at that location afterwards.
+
