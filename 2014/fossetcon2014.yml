@@ -13,3 +13,15 @@ description: |
 
     For more details on Fossetcon, see the event website at
     <http://fossetcon.org/2014/>
+
+talks:
+
+- title: Software Collections on CentOS
+  speaker: Jim Perrin
+  start: 2014-09-12 4:20 EDT
+  end: 2013-09-12 5:00 EDT
+  description: |
+    If you need to run multiple versions of Python, Ruby, MySQL or something other
+    than the default system tools, you may not have many options. Developers and
+    system administrators need more flexibility. This presentation will show how
+    Software Collections can be used to accomplish this task.
