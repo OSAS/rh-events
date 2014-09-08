@@ -1,4 +1,4 @@
-name: RDO Hangout OpenStack Marconi
+name: RDO Hangouts
 type: series
 
 talks:
@@ -10,12 +10,12 @@ talks:
   description: |
     Flavio Percoco will be hosting a presentation on OpenStack
     Marconi - what it is, what the goals are, and what remains to be
-    done. The presentation will be 
+    done. The presentation will be
     [streamed live on YouTube](https://plus.google.com/events/ckjhm8rggnqvrnspftna845kubk)
     and will also be available at that location afterwards.
 
 - title: Deploying with Heat
-  speaker: Lars Kellogg-Stedman 
+  speaker: Lars Kellogg-Stedman
   start: 2014-09-05 11:00 EST
   end: 2014-09-05 12:00 EST
   description: |
