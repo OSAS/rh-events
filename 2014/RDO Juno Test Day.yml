@@ -1,0 +1,12 @@
+name: RDO Havana Test Day
+location: IRC
+start: 2014-10-01
+end: 2014-10-02
+description: |
+  We will be having a test day for the RDO Juno release, Milestone 3, 
+  on October 1st and 2nd. You should read the page at
+  <https://openstack.redhat.com/RDO_test_day_Juno_milestone_3>
+  to prepare your machine for the event, and join the #rdo channel on the
+  freenode.net IRC network for questions and conversation during the event.
+  We will be running tests as documented at
+  <https://openstack.redhat.com/RDO_test_day_Juno_milestone_3_test_cases>
