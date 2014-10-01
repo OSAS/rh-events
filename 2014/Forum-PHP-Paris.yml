@@ -1,0 +1,22 @@
+name: Forum PHP Paris 2014
+location: Paris, France
+start: 2014-10-23
+end: 2014-10-24
+description: |
+  The most important French PHP event, now in its 10th year.
+
+  Additional details about the conference are available
+  [on the conference website](http://forumphp.org/).
+
+talks:
+
+- title: PHP in RPM distribution
+  speaker: Remi Collet
+  start: 2014-10-23 11:30 CEST
+  end: 2014-10-23 12:15 CEST
+  description: |
+    The situation of PHP in RPM distributions:
+
+    * RHEL, Fedora, CentOS
+    * Software Collection
+    * Upstream / downstream collaboration
