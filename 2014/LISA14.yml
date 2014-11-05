@@ -37,52 +37,7 @@ talks:
     object stores, file systems, and even databases. Evolutionary 
     trends and emerging technologies will also be highlighted, 
     ranging from new physical media to erasure coding.
-
-- title: Open Source Identity Management in the Enterprise  
-  speaker: Brian J. Atkisson
-  start: 2014-11-13 11:00 PST
-  end: 2014-11-12 12:00 PST
-  description: |
-    Learn how Red Hat IT utilizes and integrates open source 
-    solutions to offer a seamless experience for internal users. 
-    Specifically, we will cover how Red Hat incorporates SAML, 
-    Kerberos, LDAP, Two-Factor Authentication, PKI certificates, and 
-    how end-user systems are able to function in this multi-platform, 
-    fluid BYOD environment. Find out how Red Hat is scaling this 
-    identity management platform to utilize true single sign-on in 
-    cloud environments, and learn best practices and about 
-    future plans.
-
-- title: Simplified Remote Management of Linux Servers 
-  speaker: Russell Doty
-  start: 2014-11-14 9:45 PST
-  end: 2014-11-12 10:30 PST
-  description: |
-    OpenLMI (the Linux Management Infrastructure program) 
-    delivers remote management of production servers, ranging 
-    from high end enterprise servers with complex network and 
-    storage configurations to virtual guests. Designed to 
-    support bare metal servers and to directly manipulate storage, 
-    network and system hardware, OpenLMI is equally capable of 
-    managing and monitoring virtual machine guests. Learn how a 
-    sys admin can use the new tools to function more effectively, 
-    and to extend and improve existing management workflows and 
-    expertise.
-
-- title: Penetration Testing in the Cloud 
-  speaker: Dan Lambright
-  start: 2014-11-13 14:00 PST
-  end: 2014-11-13 14:45 PST
-  description: |
-    Learn about challenges associated with ensuring your 
-    infrastructure is secure in the cloud. Cloud providers 
-    are careful about letting customers run penetration 
-    tests because they can be mistaken for real attacks, 
-    but such tests help confirm that data is safe. Find out 
-    about the conditions and limits of permissions obtainable, 
-    and methods of doing targeted tests that will not affect 
-    others using multi-tenant hardware. 
-
+    
 - title: "Fedora Server: Returning to Our Roots"
   speaker: Joe Brockmeier
   start: 2014-11-12 19:00 PST
@@ -100,3 +55,61 @@ talks:
     Attend this BoF to discuss experiences creating 
     containerized applications in general, and using 
     Docker and Kubernetes in particular.
+
+- title: Open Source Identity Management in the Enterprise  
+  speaker: Brian J. Atkisson
+  start: 2014-11-13 11:00 PST
+  end: 2014-11-13 12:00 PST
+  description: |
+    Learn how Red Hat IT utilizes and integrates open source 
+    solutions to offer a seamless experience for internal users. 
+    Specifically, we will cover how Red Hat incorporates SAML, 
+    Kerberos, LDAP, Two-Factor Authentication, PKI certificates, and 
+    how end-user systems are able to function in this multi-platform, 
+    fluid BYOD environment. Find out how Red Hat is scaling this 
+    identity management platform to utilize true single sign-on in 
+    cloud environments, and learn best practices and about 
+    future plans.
+
+- title: Penetration Testing in the Cloud 
+  speaker: Dan Lambright
+  start: 2014-11-13 14:00 PST
+  end: 2014-11-13 14:45 PST
+  description: |
+    Learn about challenges associated with ensuring your 
+    infrastructure is secure in the cloud. Cloud providers 
+    are careful about letting customers run penetration 
+    tests because they can be mistaken for real attacks, 
+    but such tests help confirm that data is safe. Find out 
+    about the conditions and limits of permissions obtainable, 
+    and methods of doing targeted tests that will not affect 
+    others using multi-tenant hardware. 
+    
+- title: Simplified Remote Management of Linux Servers 
+  speaker: Russell Doty
+  start: 2014-11-14 9:45 PST
+  end: 2014-11-14 10:30 PST
+  description: |
+    OpenLMI (the Linux Management Infrastructure program) 
+    delivers remote management of production servers, ranging 
+    from high end enterprise servers with complex network and 
+    storage configurations to virtual guests. Designed to 
+    support bare metal servers and to directly manipulate storage, 
+    network and system hardware, OpenLMI is equally capable of 
+    managing and monitoring virtual machine guests. Learn how a 
+    sys admin can use the new tools to function more effectively, 
+    and to extend and improve existing management workflows and 
+    expertise.
+    
+- title: "Making Containers Useful with Project Atomic" 
+  speaker: Brian Proffitt
+  start: 2014-11-14 11:45 PST
+  end: 2014-11-14 12:30 PST
+  description: |
+    Virtualization was the next Big Thing. Then cloud. Now, containers 
+    are at the peak of hype, led by the excitement surrounding Docker. 
+    But is this hype justified, or can innovation be tempered and 
+    improved by better management and control? This is the problem 
+    Project Atomic hopes to solve.
+
+
