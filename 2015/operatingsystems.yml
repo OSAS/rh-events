@@ -12,3 +12,21 @@ description: |
 
   More information is available at
   <http://operatingsystems.io/>
+
+talks:
+
+- title: Managing Systems with OSTree and Atomic
+  speaker: Michael Scherer
+  start: 2014-11-25 12:00 GMT
+  end: 2014-11-25 12:30 GMT
+  description: |
+    Learn about a new way to manage systems with ostree 
+    and [Project Atomic](http://www.projectatomic.io/).
+
+- title: CentOS Linux
+  speaker: Karanbir Singh
+  start: 2014-11-25 12:30 GMT
+  end: 2014-11-25 13:00 GMT
+  description: |
+    The [CentOS](http://centos.org/) project leader discusses
+    this continuously integrating platform.
