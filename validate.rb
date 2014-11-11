@@ -28,11 +28,15 @@ Dir.glob("*/*.yml").each do |file|
   rescue StandardError => err
     valid = false
 
+    puts err.problem
+
     friendly = case err.problem
       when /mapping values/
         "Strings containing colons must be surrounded in quotes"
       when /did not find expected comment/
         "Single-line strings must not start with a pipe |, unless quoted"
+      when /did not find expected key/
+        "Items are not in a group — perhaps 'talks:' is missing above the talks?"
       else
         "#{err.problem} #{err.context}"
       end
