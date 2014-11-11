@@ -1,0 +1,119 @@
+name: linuxconf.au
+location: Auckland, NZ
+start: 2015-01-12
+end: 2015-01-16
+description: |
+  linux.conf.au is one of the foremost open source 
+  conferences in the world, and is considered the 
+  most prestigious in the Southern Hemisphere. Every 
+  year open source geeks from across the globe gather 
+  to meet their fellow technologists, share the latest 
+  ideas and innovations, and spend a week collaborating 
+  on free, open source software projects.  
+
+  More information is available at
+  <http://linux.conf.au/>
+
+- title: "Miniconf: Clouds, Containers, and Orchestration"
+  speaker: Joe Brockmeier
+  start: 2015-01-12 10:40 NZDT
+  end: 2015-01-12 17:20 NZDT
+  description: |
+    The Clouds, Containers, and Orchestration miniconf 
+    will focus on the open source tools and best practices 
+    for working with cloud tools, containers, and orchestration 
+    software (e.g., Kubernetes, Apache Mesos, geard, and others). 
+    We'll have the leading developers working on those tools, as 
+    well as users who are deploying them in real production 
+    environments to share their knowledge and show where tools 
+    will be going in 2015.
+
+    See the linuxconf.au [schedule](http://linux.conf.au/schedule/30150/view_talk?day=None)
+    for details.
+
+- title: "Miniconf: Open Source Documentation"
+  speaker: Tim Hildred
+  start: 2015-01-12 14:15 NZDT
+  end: 2015-01-12 17:20 NZDT
+  description: |
+    People often complain about the quality of open source 
+    project documentation. At the same time, documentation 
+    is a great place to get started contributing to an open 
+    source community. This miniconf will explore practical 
+    aspects of Open Source documentation, with an eye to 
+    applying them right away.
+
+    See the linuxconf.au [schedule](http://linux.conf.au/schedule/30255/view_talk?day=None)
+    for details.
+
+- title: Displayport MST
+  speaker: David Airlie
+  start: 2015-01-14 14:15 NZDT
+  end: 2015-01-14 15:00 NZDT
+  description: |
+    Displayport is a VESA standard for transporting video/audio/other 
+    data between devices, it is used on lots of laptop and monitors. 
+    The Displayport 1.2 standard introduced a new technology called 
+    multi-stream transport (MST), and a number of laptop dock 
+    manufacturers (Lenovo, Dell) started using this technology to 
+    provide the output ports on the dock; however nobody told the Linux 
+    community this was coming (or nobody in the community noticed in 
+    time). Armed with a dock and shiny Lenovo laptop provided by the 
+    Red Hat IT department, David descended into the murky world of MST. 
+    This talk is his tale. 
+
+    See the linuxconf.au [schedule](http://linux.conf.au/schedule/30303/view_talk?day=wednesday)
+    for details.
+
+- title: Deploying to the Cloud with Golden Images, Heat, and Docker
+  speaker: Steve Baker
+  start: 2015-01-15 11:35 NZDT
+  end: 2015-01-15 12:20 NZDT
+  description: |
+    Image-based deployment of cloud applications is becoming a 
+    reality thanks to the growing popularity of Docker; however 
+    image-based deployments bring new challenges when it comes 
+    to orchestrating and managing the life-cycle of complex 
+    container-based applications. Heat is an orchestration service 
+    that can be offered by an OpenStack cloud. Steve will demonstrate 
+    how Heat is an ideal solution to orchestrate image-based 
+    applications, whether they are packaged as Docker images or 
+    full golden images. Image-building tools, such as diskimage-builder, 
+    will also be presented, along with options for how to manage 
+    images in the OpenStack or Docker registries. This presentation is 
+    focused on Heat, but is aimed at anyone who deploys applications 
+    to the cloud, regardless of whether they use Heat, OpenStack, or Docker.
+
+    See the linuxconf.au [schedule](http://linux.conf.au/schedule/30047/view_talk?day=thursday)
+    for details.
+
+- title: Programming Considered Harmful
+  speaker: Dave Chinner
+  start: 2015-01-15 16:35 NZDT
+  end: 2015-01-15 17:30 NZDT
+  description: |
+    Dave will demonstrate that humans cannot Program. There is 
+    evidence *everywhere* that we fail badly at Programming and 
+    we repeatedly demonstrate that our attempts to Program don't 
+    improve as complexity increases. Using examples from the Linux 
+    Kernel, Dave will state his case for why he thinks we should be 
+    engineering complex software rather than Programming, and how 
+    that impacts on our code design and review processes.
+
+    See the linuxconf.au [schedule](http://linux.conf.au/schedule/30034/view_talk?day=thursday)
+    for details.
+
+- title: "FreeIPA: Open Source Identity Management"
+  speaker: Fraser Tweedale
+  start: 2015-01-16 14:15 NZDT
+  end: 2015-01-16 15:00 NZDT
+  description: |
+    Fraser's talk will cover the basics of FreeIPA, 
+    the main features it provides (and why those features matter), 
+    the deployment process, how to enroll clients in the domain, 
+    and interoperability with Active Directory and other technologies.
+    He will conclude with a look ahead to what's on the roadmap.
+
+    See the linuxconf.au [schedule](http://linux.conf.au/schedule/30048/view_talk?day=friday)
+    for details.
+
