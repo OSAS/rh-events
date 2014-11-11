@@ -14,6 +14,8 @@ description: |
   More information is available at
   <http://linux.conf.au/>
 
+talks:
+
 - title: "Miniconf: Clouds, Containers, and Orchestration"
   speaker: Joe Brockmeier
   start: 2015-01-12 10:40 NZDT
