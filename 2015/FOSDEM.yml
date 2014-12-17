@@ -20,7 +20,7 @@ description: |
     For more details on FOSDEM, see the event website at
     <https://fosdem.org/2015/>
     
-    talks:
+talks:
 
 - title: Clouds, Containers, and Orchestration
   speaker: Joe Brockmeier
@@ -43,8 +43,8 @@ description: |
     People often complain about the quality of open source project 
     documentation. At the same time, documentation is a great place to 
     get started contributing to an open source community. This miniconf 
-    will explore practical aspects of Open Source documentation, 
-    with an eye to applying them right away. The session will cover:
+    will explore practical aspects of Open Source documentation, with an
+    eye to applying them right away. The session will cover
     
     * popular markup languages (Docbook, DITA, markdown, etc)
     * version control systems for writers (SVN, git, etc)
