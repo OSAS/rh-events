@@ -20,50 +20,6 @@ description: |
     For more details on FOSDEM, see the event website at
     <https://fosdem.org/2015/>
     
-talks:
 
-- title: Clouds, Containers, and Orchestration
-  speaker: Joe Brockmeier
-  start: 2015-01-12 10:40 NZDT
-  end: 2015-01-12 17:20 NZDT
-  description: |
-    The Clouds, Containers, and Orchestration miniconf will 
-    focus on the open source tools and best practices for working 
-    with cloud tools, containers, and orchestration software 
-    (e.g., Kubernetes, Apache Mesos, geard, and others). 
-    Leading developers and users who are deploying the tools in 
-    real production environments will demo and share their knowledge, 
-    and show where tools will be going in 2015.
-
-- title: Writing Openly - Open Source Documentation Miniconf
-  speaker: Tim Hildred
-  start: 2015-01-12 14:15 NZDT
-  end: 2015-01-12 17:20 NZDT
-  description: |
-    People often complain about the quality of open source project 
-    documentation. At the same time, documentation is a great place to 
-    get started contributing to an open source community. This miniconf 
-    will explore practical aspects of Open Source documentation, with an
-    eye to applying them right away. The session will cover
-    
-    * popular markup languages (Docbook, DITA, markdown, etc)
-    * version control systems for writers (SVN, git, etc)
-    * getting started as a contributor (how to pick a project, getting an 
-    account, meeting the community, your first commit, etc)
-    * documentation skills and methodologies (topic-based authoring, 
-    single sourcing, minimalism, etc)
-    
-- title: Connecting Containers - Building a PaaS with Docker and Kubernetes
-  speaker: Katie Miller
-  start: 2015-01-15 16:35 NZDT
-  end: 2015-01-12 17:20 NZDT
-  description: |
-    Learn how Red Hat is using Docker and Google's Kubernetes project to redefine 
-    modern application platform services. New container-centric tools for managing 
-    resources in the cloud have helped to establish new best practices, prompting a 
-    redesign of Red Hat's open source OpenShift Platform as a Service. This talk 
-    will give an overview of Docker, Kubernetes and the container-focused Atomic OS, 
-    and explain how these open source building blocks have been used to create the 
-    next generation OpenShift V3 PaaS.
 
     
