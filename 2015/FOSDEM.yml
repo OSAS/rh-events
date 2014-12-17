@@ -24,8 +24,8 @@ talks:
 
 - title: Clouds, Containers, and Orchestration
   speaker: Joe Brockmeier
-  start: 2015-01-12 10:40 UTC+12:00
-  end: 2015-01-12 17:20 UTC+12:00
+  start: 2015-01-12 10:40 
+  end: 2015-01-12 17:20 
   description: |
     The Clouds, Containers, and Orchestration miniconf will 
     focus on the open source tools and best practices for working 
@@ -37,8 +37,8 @@ talks:
 
 - title: Writing Openly - Open Source Documentation Miniconf
   speaker: Tim Hildred
-  start: 2015-01-12 14:15 UTC+12:00
-  end: 2015-01-12 17:20 UTC+12:00
+  start: 2015-01-12 14:15 
+  end: 2015-01-12 17:20 
   description: |
     People often complain about the quality of open source project 
     documentation. At the same time, documentation is a great place to 
@@ -55,8 +55,8 @@ talks:
     
 - title: Connecting Containers - Building a PaaS with Docker and Kubernetes
   speaker: Katie Miller
-  start: 2015-01-15 16:35 UTC+12:00
-  end: 2015-01-12 17:20 UTC+12:00
+  start: 2015-01-15 16:35 
+  end: 2015-01-12 17:20 
   description: |
     Learn how Red Hat is using Docker and Google's Kubernetes project to redefine 
     modern application platform services. New container-centric tools for managing 
