@@ -20,3 +20,16 @@ description: |
 
   More information is available at
   <http://www.devconf.cz/>
+  
+  talks:
+
+- title: Cockpit Hackfest
+  speaker: TBA
+  start: 2015-02-06 14:10 CET
+  end: 2015-02-06 17:10 CET
+  description: |
+    Learn how to hack on Cockpit, build plugins or prototypes, and more. 
+    If you want to get your feet wet (or dirty) this is the place to be.
+    Devconf does not require an admission fee. The Hackfest will be held in 
+    Room A113, Brno University of Technology. Devconf does not require an 
+    admission fee. Just come: http://devconf.cz.
