@@ -62,11 +62,11 @@ talks:
   track: Infrastructure as a service
   description: |
     GlusterFS is a distributed scale-out filesystem that runs on commodity
-    hardware. In this session, Vijay Bellur will provide an architectural
+    hardware. In this session, Niels de Vos will provide an architectural
     overview of GlusterFS and discuss how its file, object & block
     interfaces can be used to build a scale-out storage solution for IaaS
     needs. Details on new features , use cases and interesting challenges
-    with GlusterFS will be provided. As part of this session, Vijay will
+    with GlusterFS will be provided. As part of this session, Niels will
     also discuss integration of GlusterFS with other open source ecosystems
     like OpenStack, oVirt and provide future directions of the GlusterFS
     project.
