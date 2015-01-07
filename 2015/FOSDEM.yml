@@ -534,3 +534,44 @@ talks:
     too through an input driver called xf86-input-libinput, as well as the
     status of this move. xf86-input-libinput is scheduled to be the default
     Xorg input driver for Fedora 22.
+
+- title: Contributing to Foreman: where and how
+  speaker: Daniel Lobato Garcia
+  start: 2015-01-31 14:00 CET
+  end: 2015-01-31 14:50 CET
+  room: Configuration management devroom
+  track: Configuration management
+  description: |
+    The Foreman project and its community is varied, big, and it can take
+    very long to understand what is really going on. Luckily, a group of
+    people is actually working full-time on making it a better project. 
+    Contributors often scratch their own itches, and move on.  
+    This talk is meant to give you an overview about areas of Foreman 
+    that badly need help, refactoring, and some of the efforts the Foreman
+    community is doing to mitigate technical debt and keep on improving. 
+    
+    In short, we want to highlight our flaws so you can target your efforts
+    to the right place.
+
+- title: Provision and manage Docker containers with Foreman
+  speaker: Daniel Lobato Garcia
+  start: 2015-02-01 - undecided
+  end: 2015-02-01 - undecided
+  room: UD2 Chavanne
+  track: Virtualization
+  description: |
+    Deploying containers, images with Docker is becoming a big trend. 
+    However, large installations of containerized applications are still
+    few and far between, and solutions are either proprietary or they
+    force you to use their own cloud.
+    
+    We believe Foreman can fill this space by providing a central space
+    to provision and manage your containers and your network, as we already
+    do with your data center. This provides a great framework for mixed
+    environments where physical machines, vms, and containers are all used
+    in conjunction. Orchestration through Kubernetes is being implemented 
+    at the moment.
+    
+    Monitoring, deploying, and everything else is possible to do through
+    the web UI or an API, and it's open source, so if you miss any feature, 
+    feel free to add it!
