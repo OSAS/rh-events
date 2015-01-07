@@ -534,3 +534,14 @@ talks:
     too through an input driver called xf86-input-libinput, as well as the
     status of this move. xf86-input-libinput is scheduled to be the default
     Xorg input driver for Fedora 22.
+
+
+- title: Fedora something blah blah blah
+  speaker: Matthew Miller
+  start: ?
+  end: ?
+  room: ?
+  track: Distributions devroom
+  description: |
+     Stephen Gallagher pitched talk but isn't attending; I'm taking over
+     but don't actually have details yet. More to come.
