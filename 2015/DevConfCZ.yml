@@ -33,3 +33,24 @@ talks:
     Devconf does not require an admission fee. The Hackfest will be held in 
     Room A113, Brno University of Technology. Devconf does not require an 
     admission fee. Just come: http://devconf.cz.
+
+- title: Provision and manage Docker containers with Foreman
+  speaker: Daniel Lobato Garcia
+  start: 2015-02-06 - 13:20
+  end: 2015-02-06 - 14:00
+  room: D100
+  track: Containers
+  description: |
+    Deploying containers, images with Docker is becoming a big trend.
+    However, large installations of containerized applications are still
+    few and far between, and solutions are either proprietary or they
+    force you to use their own cloud.
+    We believe Foreman can fill this space by providing a central space
+    to provision and manage your containers and your network, as we already
+    do with your data center. This provides a great framework for mixed
+    environments where physical machines, vms, and containers are all used
+    in conjunction. Orchestration through Kubernetes is being implemented
+    at the moment.
+    Monitoring, deploying, and everything else is possible to do through
+    the web UI or an API, and it's open source, so if you miss any feature,
+    feel free to add it!
