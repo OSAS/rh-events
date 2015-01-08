@@ -24,8 +24,8 @@ talks:
 - title: 'Ubiquitous performance analysis and system introspection: an introduction
     to performance co-pilot and SystemTap'
   speaker: Lukas Berk
-  start: 2015-01-31 15:00 CET
-  end: 2015-01-31 15:50 CET
+  start: 2015-01-31 17:00 CET
+  end: 2015-01-31 17:50 CET
   room: Janson
   track: Performance
   description: |
@@ -62,18 +62,38 @@ talks:
   track: Infrastructure as a service
   description: |
     GlusterFS is a distributed scale-out filesystem that runs on commodity
-    hardware. In this session, Vijay Bellur will provide an architectural
+    hardware. In this session, Niels de Vos will provide an architectural
     overview of GlusterFS and discuss how its file, object & block
     interfaces can be used to build a scale-out storage solution for IaaS
     needs. Details on new features , use cases and interesting challenges
-    with GlusterFS will be provided. As part of this session, Vijay will
+    with GlusterFS will be provided. As part of this session, Niels will
     also discuss integration of GlusterFS with other open source ecosystems
     like OpenStack, oVirt and provide future directions of the GlusterFS
     project.
 
+- title: oVirt and Gluster hyperconvergence
+  speaker: Federico Simoncelli
+  start: 2015-01-31 12:20 CET
+  end: 2015-01-31 13:00 CET
+  room: UD2.120 (Chavanne)
+  track: Infrastructure as a service
+  description: |
+    This session will cover in detail the ongoing effort of integrating the
+    oVirt virtualization and Gluster storage resources in single commodity
+    boxes that can scale horizontally. The presentation will include the
+    description of the technical challenges encountered, the status of the
+    ongoing effort and the roadmap for the possible future improvements.
+
+    - oVirt virtualization and Gluster storage overview
+    - Architecture, hardware and software setups
+    - Scaling horizontally
+    - Challenges of the oVirt and Gluster Hyperconvergence
+    - Current status and other possible improvements
+    - Roadmap and future additions
+
 - title: 'Smart VM scheduling in oVirt cluster: deep dive to scheduling service based
     on probabilistic methods'
-  speaker: Martin Sivák
+  speaker: Roy Golan
   start: 2015-01-31 15:40 CET
   end: 2015-01-31 16:20 CET
   room: UD2.120 (Chavanne)
@@ -165,6 +185,69 @@ talks:
 
     Ideas discussed in this talk may form the basis for work done by the
     Open Source Initiative during the coming year.
+
+- title: 'Valgrind integration in the Eclipse IDE: an overview of the Valgrind plugin'
+  speaker: Lukas Berk
+  start: 2015-01-31 10:30 CET
+  end: 2015-01-31 11:20 CET
+  room: AW1.120
+  track: Valgrind
+  description: |
+    Software development rarely has "spare" time, which often forces
+    developers to stick to the tools they already know. Having any sort of
+    learning curve can be a barrier to entry for debugging and performance
+    tools, even when the payoffs are worth the time invested learning new
+    tools. The Linux Tools Project aims to improve the state of C/C++
+    development on the Eclipse IDE by integrating popular tools, such as
+    Valgrind. This integration allows developers to maintain an environment
+    they're familiar with, yet leverage new development tools.
+
+    This talk is aimed at people of varying experience with the Valgrind
+    tool who have never used it within the Eclipse IDE.
+
+- title: 'How to start hacking on Valgrind by example: easy hacks for Valgrind'
+  speaker: Mark Wielaard
+  start: 2015-01-31 16:00 CET
+  end: 2015-01-31 16:50 CET
+  room: AW1.120
+  track: Valgrind
+  description: |
+    If you always wanted to hack on Valgrind, but haven't yet really looked
+    at the code yet, this talk is for you. We'll got over the basics of
+    writing a new Valgrind tool. How to add a missing syscall. Show where to
+    start when adding a new x86/amd64 instruction and translating it to VEX
+    IR. After attending this talk, you should be all set to attend the
+    hackaton in the Valgrind devroom at the end of the day.
+
+- title: Connection tracking and stateful services with open vswitch
+  speaker: Thomas Graf
+  start: 2015-01-31 11:00 CET
+  end: 2015-01-31 11:30 CET
+  room: UD2.218A
+  track: Network management and SDN
+  description: |
+    Open vSwitch has traditionally focused on stateless L2-L4 packet
+    processing. The introduction of stateful connection tracking, NAT, and
+    L7 service integration extend the scope of Open vSwitch usage. In this
+    talk, we will discuss the introduction of stateful services and cover
+    the implementation of reflexive ACL and integration of L7 DPI on the
+    data center edge.
+
+- title: 'Networkmanager v1.0 status update: what happened. where are we. what comes
+    next for networkmanager'
+  speaker: Thomas Haller
+  start: 2015-01-31 18:30 CET
+  end: 2015-01-31 19:00 CET
+  room: UD2.218A
+  track: Network management and SDN
+  description: |
+    Give a status update on NetworkManager and talk about the current 1.0
+    release
+
+    NetworkManager 1.0 will be released by the time of FOSDEM15.
+
+    Talk shortly the major changes from the last year. Show highlights of
+    1.0 and discuss future plans.
 
 - title: Diagnosing performance issues using Thermostat
   speaker: Mario Torre, Severin Gehwolf
@@ -470,7 +553,7 @@ talks:
 - title: Shenandoah - project overview
   speaker: Roman Kennke, Christine H Flood
   start: 2015-02-01 12:30 CET
-  end: 2015-02-01 13:30 CET
+  end: 2015-02-01 13:20 CET
   room: K.4.201
   track: Java
   description: |
