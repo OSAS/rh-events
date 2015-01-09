@@ -129,63 +129,6 @@ talks:
     need: comprehensive security, finance/chargeback, automation and
     orchestration. Here's how to control all of the things.
 
-- title: Welcome to the legal and policy issues DevRoom
-  speaker: Tom Marble, Bradley M. Kuhn, Karen Sandler, Richard Fontana
-  start: 2015-01-31 11:00 CET
-  end: 2015-01-31 11:05 CET
-  room: H.1308 (Rolin)
-  track: Legal and policy issues
-  description: |
-    Now in its fourth year, the FOSDEM Legal and Policy Issues DevRoom
-    covers topics of licensing, legal, governance issues, and more as it
-    relates to Open Source and Free Software projects.
-
-    Attendees are welcome to come and engage in lively debate with our
-    excellent speakers. Please come with your questions, comments or
-    concerns. The DevRoom talks are carefully chosen to avoid merely being
-    introductory: we believe that FOSDEM attendees are well informed on
-    these issues, and we welcome participation for all. Our goal in
-    organizing this DevRoom is to bring the previously secretive and
-    non-public discussion on these sorts of issues to a public forum.
-
-- title: Crypto wars 2.0 and the Free Software response
-  speaker: Aaron Williamson
-  start: 2015-01-31 13:45 CET
-  end: 2015-01-31 14:25 CET
-  room: H.1308 (Rolin)
-  track: Legal and policy issues
-  description: |
-    Recent revelations about the scope of government surveillance have
-    touched off renewed interest in encryption and personal data privacy,
-    and prompted technology companies to offer more protections for users'
-    data. In response, the U.S. government has made moves toward increased
-    regulation of encryption software. This talk will discuss the laws
-    regulating surveillance and cryptography, how those laws apply to free
-    software, and opportunities for community response to the new crypto
-    wars.
-
-- title: Towards legal criteria for best practices in Free Software/open source development
-  speaker: Richard Fontana
-  start: 2015-01-31 17:00 CET
-  end: 2015-01-31 17:25 CET
-  room: H.1308 (Rolin)
-  track: Legal and policy issues
-  description: |
-    This talk will propose several ideas for inclusion in a set of modern
-    legal standards for good practices in FLOSS development and governance
-    beyond the traditional emphasis on software freedom-conformant source
-    code licensing. The theme will be maximizing diverse, egalitarian and
-    authentically meritocratic participation, minimizing legal impediments,
-    and avoiding distortion or corruption by powerful project stakeholders.
-    Ideas to be discussed include distributed and symmetrical copyright
-    licensing, fair trademark policies, appropriate approaches to patent
-    nonassertion by corporate participants, and commitments by projects or
-    associated foundations to promoting diverse and safe environments for
-    development work.
-
-    Ideas discussed in this talk may form the basis for work done by the
-    Open Source Initiative during the coming year.
-
 - title: 'Valgrind integration in the Eclipse IDE: an overview of the Valgrind plugin'
   speaker: Lukas Berk
   start: 2015-01-31 10:30 CET
@@ -218,20 +161,6 @@ talks:
     start when adding a new x86/amd64 instruction and translating it to VEX
     IR. After attending this talk, you should be all set to attend the
     hackaton in the Valgrind devroom at the end of the day.
-
-- title: Connection tracking and stateful services with open vswitch
-  speaker: Thomas Graf
-  start: 2015-01-31 11:00 CET
-  end: 2015-01-31 11:30 CET
-  room: UD2.218A
-  track: Network management and SDN
-  description: |
-    Open vSwitch has traditionally focused on stateless L2-L4 packet
-    processing. The introduction of stateful connection tracking, NAT, and
-    L7 service integration extend the scope of Open vSwitch usage. In this
-    talk, we will discuss the introduction of stateful services and cover
-    the implementation of reflexive ACL and integration of L7 DPI on the
-    data center edge.
 
 - title: Hardware switches - the opensource approach
   speaker: Jiří Pírko
@@ -349,26 +278,6 @@ talks:
     various methods of generating machine code inside the JVM. This talk
     will start with a brief tour of the various levels of code generation
     available and then open up the floor for questions from our panel.
-
-- title: JFree - the long and winding road (ahead)
-  speaker: David Gilbert
-  start: 2015-01-31 16:30 CET
-  end: 2015-01-31 16:55 CET
-  room: K.4.201
-  track: Java
-  description: |
-    This year the JFree project (that’s JFreeChart and friends) turns 15!
-    Though looking forward not backward is the JFree way, so this session
-    will cover a couple of the latest free things we’ve been working on. We
-    fly _high_ above the low level virtual machine technology, even above
-    the standard Java APIs, so if you want to soar with eagles (and your
-    brain hurts from some other talks about complex low-level _magic_) then
-    come a see some shiny graphical things and we’ll promise not to talk
-    about anything that’s complicated!
-
-    In this session, you will hear about our recent JavaFX work, or get a
-    quick demo of JFreeSVG, or maybe we’ll surprise you with something else
-    graphical, awesome and free. :-)
 
 - title: Fortress
   speaker: Christine H Flood
