@@ -474,7 +474,7 @@ talks:
   start: 2015-02-01 09:00 CET
   end: 2015-02-01 09:25 CET
   room: AW1.120
-  track: Security
+  track: Security devroom
   description: |
     For the development of openconnect VPN server a decision to
     compartmentalize the server was taken, in order to protect any sensitive
