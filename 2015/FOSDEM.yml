@@ -233,6 +233,45 @@ talks:
     the implementation of reflexive ACL and integration of L7 DPI on the
     data center edge.
 
+- title: Hardware switches - the opensource approach
+  speaker: Jiří Pírko
+  start: 2015-01-31 16:30 CET
+  end: 2015-01-31 17:00 CET
+  room: UD2.218A
+  track: Network management and SDN
+  description: |
+    Imagine buying off the shelf switch hardware, install Fedora (or any
+    other distribution) and configure it using standard linux tools. This is
+    not possible at the moment primarily because of lack of unified and
+    consistent platforms and driver interfaces. We are working to change
+    that.
+
+    The current state of support for switch chips in Linux is not good. Each
+    vendor provides userspace binary sdk blob that only works with their
+    chips. Each of this blobs has proprietary APIs. To get switch chips
+    properly supported there's need to introduce a new infrastructure
+    directly into Linux kernel and to work with vendors to adopt it.
+
+    This talk presents the current effort to unify and uphold the Linux
+    networking model across the spectrum of devices which is necessary to
+    make Linux the cornerstone of industrial grade networking. The scope of
+    this talk covers state of art with current implementation of standard
+    commodity switches such as top of rack switches, small home gateway
+    device as well as SR-IOV NIC embedded switches.
+
+    A device model and driver infrastructure will be presented for
+    accelerating the Linux bridge, Linux router, accelerated host virtual
+    switches and flow level offloads when supported by the hardware
+    underneath.
+
+- title: Networkd status update
+  speaker: Tom Gundersen
+  start: 2015-01-31 18:00 CET
+  end: 2015-01-31 18:30 CET
+  room: UD2.218A
+  track: Network management and SDN
+  description: A brief introduction to networkd and an update on recent features
+
 - title: 'Networkmanager v1.0 status update: what happened. where are we. what comes
     next for networkmanager'
   speaker: Thomas Haller
@@ -331,6 +370,16 @@ talks:
     quick demo of JFreeSVG, or maybe we’ll surprise you with something else
     graphical, awesome and free. :-)
 
+- title: Fortress
+  speaker: Christine H Flood
+  start: 2015-01-31 17:30 CET
+  end: 2015-01-31 17:55 CET
+  room: K.4.201
+  track: Java
+  description: |
+    In this talk we will talk about some of the most interesting aspects of
+    Fortress and the challenges with targeting them to the JVM
+
 - title: 'Concurrent Ruby: low and high-level concurrency abstractions for the Ruby
     language (discussion of concurrency patterns available and how they''re implemented
     for ruby)'
@@ -426,6 +475,30 @@ talks:
     - Managing Containers as VMs
     - Future Multi-Purpose Data Centers
     - Other Projects Related to Docker and IaaS
+
+- title: 'Provision and manage docker containers with Foreman: roll out your applications
+    in containers with ease'
+  speaker: Daniel Lobato
+  start: 2015-02-01 11:00 CET
+  end: 2015-02-01 11:40 CET
+  room: UD2.120 (Chavanne)
+  track: Virtualisation
+  description: |
+    Deploying containers, images with Docker is becoming a big trend.
+    However, large installations of containerized applications are still few
+    and far between, and solutions are either proprietary or they force you
+    to use their own cloud.
+
+    We believe Foreman can fill this space by providing a central space to
+    provision and manage your containers and your network, as we already do
+    with your data center. This provides a great framework for mixed
+    environments where physical machines, vms, and containers are all used
+    in conjunction. Orchestration through Kubernetes is being implemented at
+    the moment.
+
+    Monitoring, deploying, and everything else is possible to do through the
+    web UI or an API, and it's open source, so if you miss any feature, feel
+    free to add it!
 
 - title: 'Observability in KVM: how to troubleshoot virtual machines'
   speaker: Stefan Hajnoczi
