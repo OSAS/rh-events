@@ -1,0 +1,111 @@
+name: Linux Foundation Collaboration Summit
+location: Santa Rosa, California, USA
+start: 2015-02-18
+end: 2015-02-20
+description: |
+  The Linux Foundation Collaboration Summit is an invitation-only developer focussed event,
+  which aims to encourage and facilitate collaboration between different open source projects.
+
+  Additional details about the conference are available
+  [on the conference website](http://events.linuxfoundation.org/events/collaboration-summit).
+
+talks:
+
+- title:  Panel: The Future of Open Networking and Cloud Infrastructure
+  speaker: Stefano Maffulli, OpenStack; Chris Price, Ericsson; Chris Wright, Red Hat; Phil Robb, The Linux Foundation; Neela Jacques, OpenDaylight Project (Moderator)
+  start: 2015-02-18 11:30 PDT
+  end: 2015-02-18 12:15 PDT
+  description: |
+  A panel bringing together representatives of OpenStack, OPNFV, and OpenDaylight, including
+  Stefano Maffulli of OpenStack, Chris Price of Ericsson, and Chris Wright of Red Hat, to
+  discuss how the future of networking and cloud infrastructure is open, and how these
+  projects work together. 
+
+- title: The GNU C Library Update!
+  speaker: Roland McGrath, Google & Carlos O'Donell, Red Hat
+  start: 2015-02-19 09:00 PDT
+  end: 2015-02-19 09:50 PDT
+  description: |
+  The GNU C Library (GLIBC) is a part of almost all Linux systems deployed today. The library
+  continues to be a key piece of the low-level interface between user applications and the
+  Linux kernel, and as such an important enabler for new hardware, kernel features, and new
+  system-wide APIs.
+
+  This talk will cover the work by the community to add support for new features including
+  Intel MPX support, lock elision for s390 and s390x, optimizations for ARMv7 and ARMv8, and
+  file description locking support for the same Linux kernel feature.
+
+  This talk is but a small slice of the problems being tackled by the community. The goal is
+  to walk away with a broad view of the ongoing work and direction of the library.  
+
+- title: Cutting Through The Container Hype
+  speaker: Brian Proffitt, Red Hat
+  start: 2015-02-19 10:00 PDT
+  end: 2015-02-19 10:50 PDT
+  description: |
+  Virtualization was the next Big Thing. Then cloud. Now, containers are at the peak of
+  hype, led by the excitement surrounding Docker and containers. Project Atomic hopes
+  to temper innovation with better management and control, and it's not alone: CoreOS,
+  Docker's suite of enterprise products, and most recently, Ubuntu's Ubuntu Core all
+  hope to capture this market. But what is the market? Is container technology the best
+  plan for DevOps and an increasingly cloud-oriented IT? 
+
+- title: The Secrets to Open Source Innovation
+  speaker: John Mark Walker, Red Hat
+  start: 2015-02-19 14:40 PDT
+  end: 2015-02-19 15:30 PDT
+  description: |
+  Open Source is a phenomenon made possible by the will of the customer and end user,
+  leading to a world where end users collaborate directly with developers. This was
+  not by accident: end users were able to collaborate in this way because of the
+  establishment of the four freedoms and the resulting managed ecosystem of open
+  source platforms. The resulting changes in development process led to open source
+  becoming the dominant way to innovate in software. Ultimately, open source is a
+  victory of process, governance and agility, which are at least as important as the
+  code. But what lessons can we take away from open source domination, especially as
+  we advance forward with new technologies? If the four freedoms drove open source
+  development, will they play the same role in the advancement of cloud computing? 
+
+  In this talk, we will look at examples from the cloud computing world and other
+  areas of science. Is the secret to innovation the creation of sound processes
+  and good governance? 
+
+- title: Using ftrace (and Other Tools) for Performance Analysis
+  speaker: Steven Rostedt, Red Hat
+  start: 2015-02-19 16:00 PDT
+  end: 2015-02-19 16:50 PDT
+  description: |
+  Ever wonder why a tool you used suddenly dropped in performance when upgrading to a
+  new kernel? This can be very difficult to find the exact cause of such a problem.
+  But luckily there are several tools to use to help one out. The first tool to try is
+  perf. perf is well documented as a performance analysis tool. But sometimes that
+  doesn't give you enough information to find the cause of the degradation. Ftrace can
+  give you a different view of the system. This talk will show how to use ftrace and
+  other little known tools of the kernel to find out why a new kernel version has
+  suddenly introduced performance issues to the tools running on top of it. 
+
+- title: The Linux perf probe & trace tools
+  speaker: Arnaldo Carvalho de Melo, Red Hat
+  start: 2015-02-20 11:20 PDT
+  end: 2015-02-20 12:10 PDT
+  description: |
+  The Linux perf tools continuously grows in scope as an observability toolchest, with
+  more features being added. This talk showcases the 'probe' and 'trace' tools: one
+  allows adding dynamic probes in arbitrary points in the kernel and in userspace libs
+  and programs, collecting global and local variables and callchains, that can then be
+  used in conjunction with other perf tools: record, top, trace, script. The later,
+  trace, started as a super strace, one that allows stracing not just threads, but
+  other targets such as the whole system, sets of CPUs. It also has a lower overhead
+  as it doesn't use the ptrace syscall. Support for tracing page faults and other
+  events and collecting callchains is planned and may be ready by Collab'15. An
+  example of integration using 'probe', capturing syscall arguments for pretty
+  printing, showcasing 'candidate tracepoints' will also be presented. 
+
+- title: Perf Tool Scripts
+  speaker: Jiri Olsa, Red Hat
+  start: 2015-02-20 14:30 PDT
+  end: 2015-02-20 15:20 PDT
+  description: |
+  This presentation will help developers better understand perf scripting features
+  and help them to use existing scripts or write their own.   
+
