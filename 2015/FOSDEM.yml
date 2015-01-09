@@ -91,6 +91,20 @@ talks:
     - Current status and other possible improvements
     - Roadmap and future additions
 
+- title: 'Leveraging ceph: ceph integration in OpenStack, cloudstack, ganeti ..'
+  speaker: Loic Dachary
+  start: 2015-01-31 13:00 CET
+  end: 2015-01-31 13:40 CET
+  room: UD2.120 (Chavanne)
+  track: Infrastructure as a service
+  description: |
+    The Ceph storage system is used by many IaaS software. It provides
+    self-healing distributed storage in many forms (block device, file
+    system and object store).
+
+    An overview of the most recent Ceph features will be followed by use
+    cases about how current IaaS stacks could leverage them.
+
 - title: 'Smart VM scheduling in oVirt cluster: deep dive to scheduling service based
     on probabilistic methods'
   speaker: Roy Golan
