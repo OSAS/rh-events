@@ -143,6 +143,17 @@ talks:
     need: comprehensive security, finance/chargeback, automation and
     orchestration. Here's how to control all of the things.
 
+- title: Upstream allwinner arm soc (a10 / sunxi) support status
+  speaker: Hans de Goede
+  start: 2015-01-31 10:30 CET
+  end: 2015-01-31 10:55 CET
+  room: UB2.252A (Lameere)
+  track: Embedded
+  description: |
+    What is the current status of Allwinner support in upstream u-boot and
+    the kernel, which SoCs are supported, and which features (sound, video,
+    etc.) are supported ?
+
 - title: 'Valgrind integration in the Eclipse IDE: an overview of the Valgrind plugin'
   speaker: Lukas Berk
   start: 2015-01-31 10:30 CET
@@ -170,7 +181,7 @@ talks:
   track: Valgrind
   description: |
     If you always wanted to hack on Valgrind, but haven't yet really looked
-    at the code yet, this talk is for you. We'll got over the basics of
+    at the code yet, then this talk is for you. We'll go over the basics of
     writing a new Valgrind tool. How to add a missing syscall. Show where to
     start when adding a new x86/amd64 instruction and translating it to VEX
     IR. After attending this talk, you should be all set to attend the
