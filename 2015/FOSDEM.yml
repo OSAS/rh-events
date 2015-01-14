@@ -91,7 +91,7 @@ talks:
     - Current status and other possible improvements
     - Roadmap and future additions
 
-- title: 'Leveraging ceph: ceph integration in OpenStack, cloudstack, ganeti ..'
+- title: 'Leveraging Ceph: Ceph integration in OpenStack, CloudStack, Ganeti ..'
   speaker: Loic Dachary
   start: 2015-01-31 13:00 CET
   end: 2015-01-31 13:40 CET
@@ -143,7 +143,7 @@ talks:
     need: comprehensive security, finance/chargeback, automation and
     orchestration. Here's how to control all of the things.
 
-- title: Upstream allwinner arm soc (a10 / sunxi) support status
+- title: Upstream Allwinner ARM SoC (A10 / sunxi) support status
   speaker: Hans de Goede
   start: 2015-01-31 10:30 CET
   end: 2015-01-31 10:55 CET
@@ -242,8 +242,8 @@ talks:
   track: Network management and SDN
   description: A brief introduction to networkd and an update on recent features
 
-- title: 'Networkmanager v1.0 status update: what happened. where are we. what comes
-    next for networkmanager'
+- title: 'NetworkManager v1.0 status update: what happened. where are we. what comes
+    next for NetworkManager'
   speaker: Thomas Haller
   start: 2015-01-31 18:30 CET
   end: 2015-01-31 19:00 CET
@@ -376,8 +376,8 @@ talks:
     Use a hook framework, written in python to create rules to validate and
     automate tasks in your git/gerrit environment.
 
-- title: 'Fabricate your automated devops environment using Python: fabric is your
-    (devops) friend'
+- title: 'Fabricate your automated DevOps environment using Python: fabric is your
+    (DevOps) friend'
   speaker: Eyal Edri
   start: 2015-02-01 13:40 CET
   end: 2015-02-01 13:55 CET
@@ -388,7 +388,7 @@ talks:
     to use fabric to automate a lot of tasks you're doing and some you
     havn't thought of even.
 
-- title: 'Under the hood of docker containers: in flight and at rest'
+- title: 'Under the hood of Docker containers: in flight and at rest'
   speaker: Vincent Batts
   start: 2015-02-01 09:00 CET
   end: 2015-02-01 09:40 CET
@@ -426,7 +426,7 @@ talks:
     - Future Multi-Purpose Data Centers
     - Other Projects Related to Docker and IaaS
 
-- title: 'Provision and manage docker containers with Foreman: roll out your applications
+- title: 'Provision and manage Docker containers with Foreman: roll out your applications
     in containers with ease'
   speaker: Daniel Lobato
   start: 2015-02-01 11:00 CET
@@ -496,7 +496,7 @@ talks:
   track: Desktops
   description: Welcome to the Desktops DevRoom at FOSDEM 2015
 
-- title: 'Software isolation issues: faced on the development of openconnect VPN server'
+- title: 'Software isolation issues: faced on the development of OpenConnect VPN server'
   speaker: Nikos Mavrogiannopoulos
   start: 2015-02-01 09:00 CET
   end: 2015-02-01 09:25 CET
@@ -559,7 +559,7 @@ talks:
     Finally, I'll open up the floor for discussion. I'm sure we'll have a
     lot to talk about.
 
-- title: 'Invokebinder: literal programming for method handles'
+- title: 'InvokeBinder: literal programming for method handles'
   speaker: Charles Nutter
   start: 2015-02-01 12:00 CET
   end: 2015-02-01 12:25 CET
