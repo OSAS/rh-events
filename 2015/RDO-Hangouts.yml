@@ -1,0 +1,25 @@
+name: RDO Hangouts
+type: series
+
+talks:
+
+- title: What's coming for Ceilometer in OpenStack Kilo
+  speaker: Eoghan Glynn
+  start: 2015-02-09 14:00 UTC
+  end: 2015-02-09 15:00 UTC
+  description: |
+      On February 9th, at 14:00 UTC, Eoghan Glynn will
+      present a hangout covering what's coming for Ceilometer in the Kilo
+      release of OpenStack.
+
+      It will be [streamed live on 
+      YouTube](https://plus.google.com/events/cht3k5nr5u73pv3d08i7vq5m570), 
+      and will also be available at that location afterwards.
+
+      Kilo milestone 2 is due on February 5, so this is traditionally around
+      the time that mid-cycle meetings happen to evaluate the status of
+      projects, and set expectations for what will actually make it into the
+      release. So I hope that we'll be able to schedule more of these
+      hangouts in time between Milestone 2 and the release on April 30th.
+      (See the [Kilo release schedule](https://wiki.openstack.org/wiki/Kilo_Release_Schedule) for details.)
+
