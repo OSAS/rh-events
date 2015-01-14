@@ -111,7 +111,7 @@ talks:
   start: 2015-01-31 15:40 CET
   end: 2015-01-31 16:20 CET
   room: UD2.120 (Chavanne)
-  track: Virtualisation
+  track: Infrastructure as a service
   description: |
     The oVirt project allows efficient management of virtualized
     datacenters. Deciding what machine should host a certain VM is one of
@@ -135,7 +135,7 @@ talks:
   start: 2015-01-31 16:20 CET
   end: 2015-01-31 17:00 CET
   room: UD2.120 (Chavanne)
-  track: Virtualisation
+  track: Infrastructure as a service
   description: |
     What is cloud management and why do you need it? This talk explains the
     security and productivity ramifications of a hybrid cloud
