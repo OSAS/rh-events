@@ -91,6 +91,40 @@ talks:
     - Current status and other possible improvements
     - Roadmap and future additions
 
+- title: The CentOS Storage SIG and GlusterFS
+  speaker: Lalatendu Mohanty and Kaleb KEITHLEY
+  start: Not decided yet
+  end: Not decided yet
+  room: Not decided yet
+  track: Distributions devroom
+  description: |
+    GlusterFS is one of the founding members of Storage SIG [1]. We have
+    been able to successfully bootstrap GlusterFS in the Storage SIG.
+    Relevant RPMs have been build for the SIG using the new CentOS build system.
+    During the last couple of months of bootstrapping GlusterFS in the storage SIG
+    we have faced some technical challenges which will be applicable to other SIGs 
+    (current and Future). During this talk we will share our experiences and discuss
+    the technical challenges GlusterFS faced, how we solved it and the thought process
+    around it. In this talk we will also talk about how Storage SIG is trying to give
+    best upstream experience to community/users.
+  
+  - title: Running a SIG in CentOS
+  speaker: Lalatendu Mohanty
+  start: Not decided yet
+  end: Not decided yet
+  room: Not decided yet
+  track: Distributions devroom
+  description: |
+    Special interest groups in CentOS is a way to build a specialized variant
+    of CentOS to solve specific set of issues. SIGs have the freedom to add more
+    cutting edge software or rebuild existing packages depending upon the requirement.
+    This provides an excellent opportunity for the community to get best of both worlds
+    i.e. stability of CentOS and newer technology from open source projects. This also
+    creates a new way to consume technologies within CentOS ecosystem. In this session I
+    will explain the process required to start a SIG along with little bit history and
+    background.  This session should give enough information to users so that they can
+    get started with SIG
+  
 - title: 'Leveraging ceph: ceph integration in OpenStack, cloudstack, ganeti ..'
   speaker: Loic Dachary
   start: 2015-01-31 13:00 CET
