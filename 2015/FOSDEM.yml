@@ -487,15 +487,6 @@ talks:
     gain more knowledge on how to optimize their existing hypervisors in the
     virt world.
 
-- title: Opening of the desktops DevRoom 2015
-  speaker: Christophe Fergeau, Pau Garcia i Quiles, Philippe Caseiro, Jerome Leclanche,
-    Didier Roche
-  start: 2015-02-01 09:00 CET
-  end: 2015-02-01 09:05 CET
-  room: H.1308 (Rolin)
-  track: Desktops
-  description: Welcome to the Desktops DevRoom at FOSDEM 2015
-
 - title: 'Software isolation issues: faced on the development of OpenConnect VPN server'
   speaker: Nikos Mavrogiannopoulos
   start: 2015-02-01 09:00 CET
