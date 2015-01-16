@@ -22,7 +22,7 @@ end: 2015-02-01
 talks:
 
 - title: 'Ubiquitous performance analysis and system introspection: an introduction
-    to performance co-pilot and SystemTap'
+    to Performance Co-Pilot and SystemTap'
   speaker: Lukas Berk
   start: 2015-01-31 17:00 CET
   end: 2015-01-31 17:50 CET
@@ -203,6 +203,20 @@ talks:
     IR. After attending this talk, you should be all set to attend the
     hackaton in the Valgrind devroom at the end of the day.
 
+- title: Querying your datagrid with lucene, hadoop and spark
+  speaker: Gustavo Fernandes
+  start: 2015-01-31 17:20 CET
+  end: 2015-01-31 18:05 CET
+  room: UA2.114 (Baudoux)
+  track: Open source search
+  description: |
+    Key/Value stores rely on a simple data model represented by a map, where
+    each key appears once. Using such a structure does not necessarily mean
+    giving up on query expressiveness and capability. This talk will
+    demonstrate what Infinispan can do to empower your analytics needs, from
+    directly running Lucene Queries in a cluster to Hadoop Map Reduce and
+    Spark.
+
 - title: Hardware switches - the opensource approach
   speaker: Jiří Pírko
   start: 2015-01-31 16:30 CET
@@ -257,6 +271,18 @@ talks:
 
     Talk shortly the major changes from the last year. Show highlights of
     1.0 and discuss future plans.
+
+- title: 'C++11 and LibreOffice: the future has arrived (it was about time)'
+  speaker: Michael Stahl
+  start: 2015-01-31 11:20 CET
+  end: 2015-01-31 11:40 CET
+  room: K.3.201
+  track: Open Document editors
+  description: |
+    C++ has evolved quite a bit over the years, and the new C++11 standard
+    finally has usable implementations on all relevant platforms. We aim to
+    give an overview of the current status of C++11 adoption in the
+    LibreOffice project.
 
 - title: Diagnosing performance issues using Thermostat
   speaker: Mario Torre, Severin Gehwolf
