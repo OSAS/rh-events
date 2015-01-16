@@ -170,6 +170,24 @@ talks:
     meeting a set of standards (fsf.org/ryf). Embedded devices are a major
     target for the future of this program.
 
+- title: 'Contributing to Foreman: where and how'
+  speaker: Daniel Lobato
+  start: 2015-01-31 14:00 CET
+  end: 2015-01-31 14:50 CET
+  room: H.1309 (Van Rijn)
+  track: Configuration management
+  description: |
+    The Foreman project and its community is varied, big, and it can take
+    very long to understand what is really going on. Luckily, a group of
+    people is actually working full-time on making it a better project.
+    Contributors often scratch their own itches, and move on.
+
+    This talk is meant to give you an overview about areas of Foreman that
+    badly need help, refactoring, and some of the efforts the Foreman
+    community is doing to mitigate technical debt and keep on improving. In
+    short, we want to highlight our flaws so you can target your efforts to
+    the right place.
+
 - title: 'Valgrind integration in the Eclipse IDE: an overview of the Valgrind plugin'
   speaker: Lukas Berk
   start: 2015-01-31 10:30 CET
