@@ -531,6 +531,96 @@ talks:
     gain more knowledge on how to optimize their existing hypervisors in the
     virt world.
 
+- title: 'What''s new in systemd, 2015 edition: what''s new in the systemd world,
+    and what''s coming next'
+  speaker: Lennart Poettering
+  start: 2015-02-01 11:30 CET
+  end: 2015-02-01 12:25 CET
+  room: H.1302 (Depage)
+  track: Distributions
+  description: |
+    systemd is now a core component of most major distributions. In this
+    talk I want to give an overview over everything new in the systemd
+    project over the last year, and what to expect over the next year.
+
+- title: 'Retooling Fedora: a retrospective on Fedora 21'
+  speaker: Stephen Gallagher, Matthew Miller
+  start: 2015-02-01 12:30 CET
+  end: 2015-02-01 13:20 CET
+  room: H.1302 (Depage)
+  track: Distributions
+  description: |
+    Fedora 21 marked the first phase of the Fedora.next Initiative, an
+    umbrella concept for a reimagining of how Fedora will operate in its
+    second decade. This talk will focus on the switch to a Product-based
+    model, the reasons behind it and the challenges (both technical and
+    social) that we faced in shipping Fedora 21.
+
+    The session will be broken into approximately 25-30 minutes of lecture
+    lightly covering a variety of topics including release-engineering, new
+    feature development and socialization of ideas.
+
+    After the talk, the session will be opened up to a Q&A session with the
+    audience.
+
+- title: 'Scl for bleeding edge stacks on enterprise: find out how to deliver bleeding
+    edge, flexible development stacks on stable enterprise platform using software
+    collections'
+  speaker: Honza Horak
+  start: 2015-02-01 15:40 CET
+  end: 2015-02-01 16:20 CET
+  room: H.1302 (Depage)
+  track: Distributions
+  description: |
+    Learn how to provide bleeding edge features on stable platform using
+    Software Collections that allow you to enjoy different versions of a
+    package or whole application stack on one machine, separately for every
+    process and without influencing the rest of the system. The Software
+    Collections technology is more open than ever before and developed in
+    cooperation with CentOS now. Learn how to use it in practice, what
+    projects use them already and what are the recent changes in the
+    concept.
+
+- title: 'Running a sig in CentOS: information to get you started with CentOS sig'
+  speaker: Lalatendu Mohanty
+  start: 2015-02-01 16:25 CET
+  end: 2015-02-01 17:10 CET
+  room: H.1302 (Depage)
+  track: Distributions
+  description: |
+    Special interest groups in CentOS is a way to build a specialized
+    variant of CentOS to solve specific set of issues. SIGs have the freedom
+    to add more cutting edge software or rebuild existing packages depending
+    upon the requirement. This provides an excellent opportunity for the
+    community to get best of both worlds i.e. stability of CentOS and newer
+    technology from open source projects. This also creates a new way to
+    consume technologies within CentOS ecosystem. In this session I will
+    explain the process required to start a SIG along with little bit
+    history and background. This session should give enough information to
+    users so that they can get started with SIG.
+
+- title: 'The CentOS storage sig and GlusterFS: challenges, solutions and how GlusterFS
+    is fitting in storage sig'
+  speaker: Kaleb KEITHLEY, Lalatendu Mohanty
+  start: 2015-02-01 17:10 CET
+  end: 2015-02-01 17:55 CET
+  room: H.1302 (Depage)
+  track: Distributions
+  description: |
+    GlusterFS is a scale out storage solution which has wide range of uses
+    cases.
+
+    GlusterFS is one of the founding members of Storage SIG. We have been
+    able to successfully bootstrap GlusterFS in the Storage SIG. Relevant
+    RPMs have been build for the SIG using the new CentOS build system.
+    During the last couple of months of bootstrapping GlusterFS in the
+    storage SIG we have faced some technical challenges which will be
+    applicable to other SIGs (current and Future). During this talk we will
+    share our experiences and discuss the technical challenges GlusterFS
+    faced, how we solved it and the thought process around it. In this talk
+    we will also talk about how Storage SIG is trying to give best upstream
+    experience to community/users.
+
 - title: 'Software isolation issues: faced on the development of OpenConnect VPN server'
   speaker: Nikos Mavrogiannopoulos
   start: 2015-02-01 09:00 CET
