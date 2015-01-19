@@ -601,7 +601,7 @@ talks:
 - title: 'Running a SIG in CentOS: information to get you started with CentOS SIG'
   speaker: Lalatendu Mohanty
   start: 2015-02-01 16:25 CET
-  end: 2015-02-01 17:10 CET
+  end: 2015-02-01 17:00 CET
   room: H.1302 (Depage)
   track: Distributions
   description: |
@@ -615,28 +615,6 @@ talks:
     explain the process required to start a SIG along with little bit
     history and background. This session should give enough information to
     users so that they can get started with SIG.
-
-- title: 'The CentOS storage SIG and GlusterFS: challenges, solutions and how GlusterFS
-    is fitting in storage SIG'
-  speaker: Kaleb Keithley, Lalatendu Mohanty
-  start: 2015-02-01 17:10 CET
-  end: 2015-02-01 17:55 CET
-  room: H.1302 (Depage)
-  track: Distributions
-  description: |
-    GlusterFS is a scale out storage solution which has wide range of uses
-    cases.
-
-    GlusterFS is one of the founding members of Storage SIG. We have been
-    able to successfully bootstrap GlusterFS in the Storage SIG. Relevant
-    RPMs have been build for the SIG using the new CentOS build system.
-    During the last couple of months of bootstrapping GlusterFS in the
-    storage SIG we have faced some technical challenges which will be
-    applicable to other SIGs (current and Future). During this talk we will
-    share our experiences and discuss the technical challenges GlusterFS
-    faced, how we solved it and the thought process around it. In this talk
-    we will also talk about how Storage SIG is trying to give best upstream
-    experience to community/users.
 
 - title: 'Software isolation issues: faced on the development of OpenConnect VPN server'
   speaker: Nikos Mavrogiannopoulos
