@@ -581,6 +581,21 @@ talks:
     After the talk, the session will be opened up to a Q&A session with the
     audience.
 
+- title: OpenStack on Fedora & CentOS
+  speaker: Haïkel Guémar
+  start: 2015-02-01 13:25 CET
+  end: 2015-02-01 13:55 CET
+  room: H.1302 (Depage)
+  track: Distributions
+  description: |
+    This talk will describe the state of OpenStack packaging on Fedora &
+    CentOS through the project RDO.
+
+    Openstack is a big player in the FOSS IaaS field, yet, it's still a
+    challenge to package it and integrate it into major GNU/Linux Distros.
+    Here, we'll see how it is packaged and maintained in Fedora/CentOS and
+    what are the plans in the near future.
+
 - title: 'CentOS (community) infra revealed: aka the joy of running on donated machines'
   speaker: Fabian Arrotin
   start: 2015-02-01 14:50 CET
