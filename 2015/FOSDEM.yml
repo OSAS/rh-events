@@ -581,15 +581,15 @@ talks:
     After the talk, the session will be opened up to a Q&A session with the
     audience.
 
-- title: 'CentOS (community) infra revelead: aka the joy of running on donated machines'
+- title: 'CentOS (community) infra revealed: aka the joy of running on donated machines'
   speaker: Fabian Arrotin
   start: 2015-02-01 14:50 CET
   end: 2015-02-01 15:35 CET
   room: H.1302 (Depage)
   track: Distributions
   description: |
-    CentOS Project exists now for more than 10 years now , and some people
-    are wondering how the Centos.org Infra is managed. We'll explain all the
+    CentOS Project exists now for more than 10 years now, and some people
+    are wondering how the CentOS.org Infra is managed. We'll explain all the
     tools we use to maintain that infra, but also the constraints we have
     due to the fact that our infra is spread around the world on
     community/donated machines, without SLA and disappearing without
