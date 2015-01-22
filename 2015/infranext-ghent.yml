@@ -2,12 +2,12 @@ name: Infrastructure.Next Ghent 2015 
 location: Ghent, Belgium
 timezone: Europe/Brussels
 description: |
-  Red Hat will be sponsoring a new one-day event in Ghent, Belgium on
-  5 February 2014. Called Infrastructure.Next, you won’t want to miss
+  Red Hat is sponsoring a new one-day event in Ghent, Belgium on
+  4 February 2015. Called Infrastructure.Next, you won’t want to miss
   this if you’re involved in managing or building modern IT
   infrastructure.
 
-  More details: <http://www.infranext.org/?page_id=6>
+  More details: <http://lanyrd.com/2015/infranext-ghent/>
 
 talks:
 
@@ -60,7 +60,7 @@ talks:
     what you should use, or make the decision even more difficult on you.
 
 - title: 'Cloud Herding: Delivering Services Across Multiple Environments'
-  speaker: John Mark
+  speaker: John Mark Walker
   start: 2015-02-04 14:00 CET
   end: 2015-02-04 15:00 CET
   description: |
