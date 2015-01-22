@@ -1,0 +1,102 @@
+name: Infrastructure.Next Ghent 2015 
+location: Ghent, Belgium
+timezone: Europe/Brussels
+description: |
+  Red Hat will be sponsoring a new one-day event in Ghent, Belgium on
+  5 February 2014. Called Infrastructure.Next, you won’t want to miss
+  this if you’re involved in managing or building modern IT
+  infrastructure.
+
+  More details: <http://www.infranext.org/?page_id=6>
+
+talks:
+
+- title: Introduction to Infrastructure.Next
+  speaker: Joe Brockmeier
+  start: 2015-02-04 10:00 CET
+  end: 2015-02-04 10:10 CET
+  description: |
+    Introduction and welcome to Infrastructure.Next. Preview of the day's
+    program, and housekeeping details.
+
+- title: The "Hello World!" of Container-based Infrastructure with Docker and Atomic
+    Host
+  start: 2015-02-04 11:00 CET
+  end: 2015-02-04 12:00 CET
+  description: |
+    Gartner predicted it: containers are the new hot stuff of the moment.
+    However, the technology itself is not sufficient, and this talk will
+    present a example architecture that can be deployed for hosting the web
+    infrastructure on Docker, Atomic, Kubernetes and Ansible, showing how
+    the different pieces inter-operate, the decisions you will need to
+    make, and how your deployment and workflow will be affected.
+
+- title: Lunch
+  start: 2015-02-04 12:00 CET
+  end: 2015-02-04 13:00 CET
+  description: |
+    Ah, food. What would we do without it? Probably starve. And that's no
+    fun. No fun at all! Starving is bad. So let's not do that. Let's have
+    lunch instead. Lunch will be provided. You are also free to bring your
+    own or go out for lunch. But if you stay, you'll have the fantastic
+    opportunity to nosh with your fellow attendees and learn more about
+    open source, mission critical software, best practices, and maybe even
+    have a laugh or two.
+
+- title: From "Monitoring Sucks" to "Monitoring Love" and Back
+  speaker: Kris Buytaert
+  start: 2015-02-04 13:00 CET
+  end: 2015-02-04 14:00 CET
+  description: |
+    At DevOps Days Rome 2012, in November, Ulf Mansson proclaimed his
+    new-found love for monitoring and we changed the hashtag into
+    #monitoringlove. Based on a new era of open source tools, Ulf started
+    loving monitoring again. And for a lot of us he was absolutely right.
+    Over the past 5 years an enormous amount of new tools and new patterns
+    has come out of the community sometimes tagged with #devops, pretty
+    much all of them open source. Do you still know what you should be
+    using for what? And what the differences are? An opinionated overview
+    of the open source monitoring landscape to clear up the confusion on
+    what you should use, or make the decision even more difficult on you.
+
+- title: 'Cloud Herding: Delivering Services Across Multiple Environments'
+  speaker: John Mark
+  start: 2015-02-04 14:00 CET
+  end: 2015-02-04 15:00 CET
+  description: |
+    What is "Cloud Management"? In a datacenter, you might have 2 or more
+    virtualization management platforms, with a private cloud running
+    alongside, and some workloads running in a public cloud. ManageIQ gives
+    admins and developers a way to seamlessly deliver services from
+    multiple cloud and virtualization platforms. Across your cloud and
+    virtualization platforms, you'll need to enforce some kind of
+    consistency in who can consume your resources, integrate with approval
+    workflows, and be aware of waste when it is happening. Maybe you also
+    want to automate the provisioning of instances, integrate with a
+    service catalog or configuration management system. Perhaps you want to
+    know when VMs are vulnerable to security issues, prevent new VMs to be
+    created from known-bad templates, and perform some clean-up of services
+    when they are retired. These are all cloud management problems. Whether
+    it's curing VM sprawl or finding and fixing hot spots in the data
+    center, this presentation will give you tools and techniques you can
+    use to manage it all.
+
+- title: 'A Story of Two Best Buddies: OpenStack and Docker'
+  speaker: Chmouel Boudjnah
+  start: 2015-02-04 15:00 CET
+  end: 2015-02-04 16:00 CET
+  description: |
+    On one side you have the kid that used to be that everybody was talking
+    about, and on the other side the new fancy kid that everybody is
+    talking about. OpenStack is an Infrastructure as a service OpenSource
+    project that have seen a really large support and adoption from users
+    and large companies. Docker is a easy API and tools to make Linux
+    containers super easy to manage and change the way you are looking at
+    your deployment to be more focus on the application. For a bit of time
+    the two was contemplating how their workflow could fits with questions
+    like "is a container a VM or can a VM considered a container?". Things
+    now are well defined and most OpenStack components have been updated to
+    support Docker. In this session we are going what are the use cases
+    between Docker and OpenStack, how they can live happily in your
+    infrastructure, and what are the ways to make it even better in the
+    future.
