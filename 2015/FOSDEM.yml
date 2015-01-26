@@ -648,7 +648,8 @@ talks:
     we will also talk about how Storage SIG is trying to give best upstream
     experience to community/users.
 
-- title: 'Software isolation issues: faced on the development of OpenConnect VPN server'
+- title: 'Software isolation in Linux: as used in the development of OpenConnect VPN
+    server'
   speaker: Nikos Mavrogiannopoulos
   start: 2015-02-01 09:00 CET
   end: 2015-02-01 09:25 CET
@@ -662,7 +663,7 @@ talks:
     issues faced during that development that relate to software isolation.
     That would cover issues with protecting the server's keys via TLS, the
     client-side authentication of TLS, and PAM authentication, and how they
-    were solved (or not).
+    were solved.
 
 - title: 'Sustaining the zero assembler port in OpenJDK: an inside perspective of
     CPU specific issues'
