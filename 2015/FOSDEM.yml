@@ -92,7 +92,7 @@ talks:
     - Roadmap and future additions
 
 - title: 'Leveraging Ceph: Ceph integration in OpenStack, CloudStack, Ganeti ..'
-  speaker: Loic Dachary
+  speaker: Loic Dachary, Sage Weil
   start: 2015-01-31 13:00 CET
   end: 2015-01-31 13:40 CET
   room: UD2.120 (Chavanne)
@@ -142,6 +142,29 @@ talks:
     infrastructure, and how you can wrangle its various components. You
     need: comprehensive security, finance/chargeback, automation and
     orchestration. Here's how to control all of the things.
+
+- title: IaaS beyond the infrastructure
+  speaker: Flavio Percoco
+  start: 2015-01-31 17:40 CET
+  end: 2015-01-31 18:00 CET
+  room: UD2.120 (Chavanne)
+  track: Infrastructure as a service
+  description: |
+    We've been talking about Infrastructure providers for quite a bit
+    already. OpenStack itself started as such an IaaS and then it quickly
+    became a cloud provider. But what does that mean? What is a cloud
+    provider suppose to provide? What's cloud after all?
+
+    Scaling a distributed system goes beyond virtualization, shared storage
+    etc. In order to support on-demand scaling it is necessary to have an
+    easy way to provision and consume the available infrastructure, a way
+    for the services running in it to communicate, etc. Not to mention
+    latency needs, reliability, etc.
+
+    This talk aims to answer the above questions and take a step further
+    down the path of explaining what should be considered essential for
+    nowadays needs, especially when those needs require a `cloud` to be
+    covered.
 
 - title: Upstream Allwinner ARM SoC (A10 / sunxi) support status
   speaker: Hans de Goede
@@ -364,16 +387,6 @@ talks:
     will start with a brief tour of the various levels of code generation
     available and then open up the floor for questions from our panel.
 
-- title: Fortress
-  speaker: Christine H Flood
-  start: 2015-01-31 17:30 CET
-  end: 2015-01-31 17:55 CET
-  room: K.4.201
-  track: Java
-  description: |
-    In this talk we will talk about some of the most interesting aspects of
-    Fortress and the challenges with targeting them to the JVM
-
 - title: 'Concurrent Ruby: low and high-level concurrency abstractions for the Ruby
     language (discussion of concurrency patterns available and how they''re implemented
     for ruby)'
@@ -561,7 +574,7 @@ talks:
     talk I want to give an overview over everything new in the systemd
     project over the last year, and what to expect over the next year.
 
-- title: 'Retooling Fedora: a retrospective on Fedora 21'
+- title: 'Retooling Fedora: a retrospective on Fedora 21 (and looking to 22)'
   speaker: Stephen Gallagher, Matthew Miller
   start: 2015-02-01 12:30 CET
   end: 2015-02-01 13:20 CET
