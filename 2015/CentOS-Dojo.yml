@@ -1,0 +1,27 @@
+name: CentOS Dojo
+location: Brussels, Belgium
+timezone: Europe/Brussels
+description: |
+  The CentOS Dojos are a one day event, organised around the world, that
+  bring together people from the CentOS Communities to talk about
+  systems administration, best practices in Linux-centric activities and
+  emerging technologies of note. The emphasis is to find local speakers
+  and tutors to come together and talk about things that they care about
+  most, and to share stories from their experiences working with CentOS
+  in various scenarios.
+
+  This is a Free to attend event, but we require people to register in
+  advance. Seats are limited, so please register early to avoid
+  disapointment later.
+
+  More details: <https://wiki.centos.org/Events/Dojo/Brussels2015>
+
+talks:
+
+- title: Infrastructure.Next talks
+  speaker: James Shubin (@purpleidea) and others...
+  start: 2015-01-30 9:00 CET
+  end: 2015-01-30 17:00 CET
+  description: |
+    James Shubin and other speakers will be presenting. Other speakers
+    should update this yaml file with the relevant information.
