@@ -177,22 +177,6 @@ talks:
     the kernel, which SoCs are supported, and which features (sound, video,
     etc.) are supported ?
 
-- title: 'Freedom embedded: devices that respect their users'
-  speaker: John Sullivan
-  start: 2015-01-31 15:00 CET
-  end: 2015-01-31 15:45 CET
-  room: UB2.252A (Lameere)
-  track: Embedded
-  description: |
-    GNU and Linux are now embedded on more kinds of hardware than ever, but
-    often only by requiring proprietary bits. Plus, we now have tablets and
-    phones loaded with nonfree software on top of a free core -- how do we
-    get the freedom we all want, and how do we create the market for that?
-    The Free Software Foundation has a certification program called
-    "Respects Your Freedom" that awards a certification mark to hardware
-    meeting a set of standards (fsf.org/ryf). Embedded devices are a major
-    target for the future of this program.
-
 - title: 'Contributing to Foreman: where and how'
   speaker: Daniel Lobato
   start: 2015-01-31 14:00 CET
