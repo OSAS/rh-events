@@ -3,13 +3,13 @@ location: Los Angeles, CA
 start: 2015-02-19
 end: 2015-02-22
 description: |
-  SCALE 13x – the 13th annual Southern California Linux Expo –
-  will be held at the Hilton Los Angeles Airport hotel. As the
-  first-of-the-year Linux and Free/Open Source Software (FOSS)
-  expo in North America, SCALE 13x expects to host more than
-  100 exhibitors this year, along with nearly 130 sessions,
-  tutorials, and special events. Held annually in Los Angeles,
-  SCALE is the largest community-run FOSS conference in North America.
+  SCALE 13x – the 13th annual Southern California Linux Expo – will be
+  held at the Hilton Los Angeles Airport hotel. As the first-of-the-year
+  Linux and Free/Open Source Software (FOSS) expo in North America,
+  SCALE 13x expects to host more than 100 exhibitors this year, along
+  with nearly 130 sessions, tutorials, and special events. Held annually
+  in Los Angeles, SCALE is the largest community-run FOSS conference in
+  North America.
 
   More information is available at
   <http://www.socallinuxexpo.org/scale13x>
@@ -21,10 +21,11 @@ talks:
   start: 2015-02-21 11:00 PDT
   end: 2013-11-31 11:30 PDT
   description: |
-    You've seen Cloud in the press for years, and you have a pretty good idea of what
-    that means, but what's OpenStack? In this talk, you'll get the high-level view of
-    what OpenStack is, what all the moving parts do, and how they fit together. We'll
-    also talk about the OpenStack Foundation, and how the project is governed.
+    You've seen Cloud in the press for years, and you have a pretty good
+    idea of what that means, but what's OpenStack? In this talk, you'll
+    get the high-level view of what OpenStack is, what all the moving
+    parts do, and how they fit together. We'll also talk about the
+    OpenStack Foundation, and how the project is governed.
     Topics covered will include:
     * The various parts of the stack
     * How they communicate with one another
@@ -38,33 +39,37 @@ talks:
   start: 2015-02-21 13:30 PDT
   end: 2013-11-31 14:30 PDT
   description: |
-    We've come a long, long way since the days of installing software by compiling source
-    nd shoving it onto a system with `make install`. Last year, Docker containers were
-    heralded as a way out of the complexities of managing software - but today we're faced
-    with a slew of container offerings and things look more complex than ever.
-    What's the solution? In this presentation we'll look at a number of next-generation
-    technologies for managing applications, such as:
+    We've come a long, long way since the days of installing software by
+    compiling source nd shoving it onto a system with `make install`.
+    Last year, Docker containers were heralded as a way out of the
+    complexities of managing software - but today we're faced with
+    a slew of container offerings and things look more complex than
+    ever. What's the solution? In this presentation we'll look at
+    a number of next-generation technologies for managing applications,
+    such as:
     * OStree/rpm-ostree
     * Software Collections
     * Docker, Rocket, and LXC
     * dnf
-    We'll talk about the options in front of developers and admins today, how they can
-    navigate all the new shiny technologies that promise better software delivery and
-    management, and what the rest of 2015 is likely to bring.
+    We'll talk about the options in front of developers and admins
+    today, how they can navigate all the new shiny technologies that
+    promise better software delivery and management, and what the rest
+    of 2015 is likely to bring.
 
 - title: Solving (NP-Hard) Scheduling Problems with oVirt and OptaPlanner
   speaker: Jason Brooks
   start: 2015-02-21 18:00 PDT
   end: 2013-11-31 19:00 PDT
   description: |
-    Certain scheduling tasks, such as selecting the host to launch a new VM or
-    receive a migrating VM, are central to every cloud and virtualization management
-    system. These systems use rules to make scheduling decisions, but rules alone leave
-    certain efficiency gains unrealized. Version 3.5 of oVirt, the open source virtual
-    datacenter management system, included a new VM scheduling optimizer based on the
-    OptaPlanner project. While working within policy constraints set by an administrator,
-    this service performs probabalistic analysis of the environment to suggest how best
-    to assign host resources.
+    Certain scheduling tasks, such as selecting the host to launch a new
+    VM or receive a migrating VM, are central to every cloud and
+    virtualization management system. These systems use rules to make
+    scheduling decisions, but rules alone leave certain efficiency gains
+    unrealized. Version 3.5 of oVirt, the open source virtual datacenter
+    management system, included a new VM scheduling optimizer based on
+    the OptaPlanner project. While working within policy constraints set
+    by an administrator, this service performs probabalistic analysis of
+    the environment to suggest how best to assign host resources.
     In this talk, learn about:
     * The machine reassignment problem and how it relates to oVirt
     * What OptaPlanner is and how it addresses the problem
@@ -77,13 +82,15 @@ talks:
   start: 2015-02-21 18:00 PDT
   end: 2015-02-21 19:00 PDT
   description: |
-    Free and Open Source licenses are a key part of how FOSS works, but most of us
-    do not fully understand how (or why) they work. After reviewing more than 350 FOSS
-    licenses for Fedora (over the course of 10 years), Tom has seen almost everything and can
-    share his wisdom with you. In this talk, he'll cover the commonly used FOSS licenses,
-    describe how they work, and even point out some of the unique licenses on the fringe of our
-    universe. Bonus: he's been reading Legalese for years (as a non-lawyer who regularly works
-    with lawyers at Red Hat), so he can translate licenses back to English.
+    Free and Open Source licenses are a key part of how FOSS works, but
+    most of us do not fully understand how (or why) they work. After
+    reviewing more than 350 FOSS licenses for Fedora (over the course of
+    10 years), Tom has seen almost everything and can share his wisdom
+    with you. In this talk, he'll cover the commonly used FOSS licenses,
+    describe how they work, and even point out some of the unique
+    licenses on the fringe of our universe. Bonus: he's been reading
+    Legalese for years (as a non-lawyer who regularly works with
+    lawyers at Red Hat), so he can translate licenses back to English.
     He will also cover:
     * the fundamentals of copyrights, trademarks, and patents
     * Public Domain
@@ -91,4 +98,3 @@ talks:
     * Multiple license scenarios
     * How to choose the right license
     * Why you should never, ever, ever write your own license
-
