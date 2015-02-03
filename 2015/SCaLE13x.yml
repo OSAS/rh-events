@@ -198,9 +198,116 @@ talks:
     containers, and immutable systems. He'll talk about the security considerations, collaboration 
     between hundreds (thousands?) of packagers, and working on the engine while the car is running.
 
+- title: Why Scale Up Is Like Star Trek and Scale Out Is Like Star Wars
+  speaker: Brian Proffitt
+  start: 2015-02-21 15:00 PDT
+  end: 2015-02-21 16:00 PDT
+  description: |
+    The difference between the scale up model used in virtual datacenter management tools 
+    like oVirt and vSphere and the cloud's scale out model used in OpenStack and CloudStack 
+    has historially used the pets versus cattle model. But what if there was another way to 
+    describe how virtual machines are handled in the datacenter or the cloud? In this pop-culture talk, 
+    Brian Proffitt will expain these concepts and present the idea that it's the starships of Starfleet 
+    and the fighters of the Empire and the Alliance that can better demonstrate the complexities 
+    of virtual machine management. Datacenter VMs that scale up are more in line with the starships 
+    of Starfleet: large, dedicated ships that have an intense amount of investment, not just in 
+    the ships themselves, but in the crews that man them. These ships are multifunctional, dedicated 
+    to exploration, defense, and intergalactic troubleshooting. Laden with science labs, weaponry, and 
+    very diverse crews, these ships are designed to function autonomously in a a variety of situations.
+    Compare that with the ships of the Empire or the Alliance. Single-purpose ships with a seemingly 
+    lower investment in crews. On the Empire side, there is very little diversity, with ships and 
+    weaponry all designed for singular purposes. Empire crews are literally cut from the same cloth, 
+    and there is very little autonomy on any scale. The Alliance is slightly better, but their ships 
+    seems aligned to counter the Empire model, and so fall into the same "disposable" model. Crew 
+    diversity is infinitely better, but the barrier to entry seems a little low ("let's give the kid 
+    from the sticks an X-Wing fighter with no formal training!"). In many respects, these fictional 
+    universes represent how VMs are treated in the datacenter and the cloud. This talk will take a 
+    light-hearted and totally geeked-out approach to discussing VMs in modern IT environments.
+    
+- title: Makers -- The Next Frontier for Open Source
+  speaker: Ruth Suehle
+  start: 2015-02-22 10:00 PDT
+  end: 2015-02-22 11:00 PDT
+  description: |
+    At a glance, the maker movement seems open source by nature, full of contributors sharing 
+    their creations and building from one another. But the reality is quite different. Many 
+    (if not most) makers are unfamiliar with open source software even as users, much less with 
+    how to implement its principles within their projects. The apparently crossover is indeed a 
+    natural fit, thought, and there is much benefit in building communities around tangible projects 
+    on open source principles. Of course, there are also different sets of challenges from those 
+    faced by software communities. New sets of legal issues arise for open hardware projects. 
+    Communities unfamiliar with the evolution of open source projects panic when their goods are 
+    cloned. There are also project management and build issues larger than those faced by software 
+    projects that only have to handle bits and bytes and not pieces and parts; however, we can see a 
+    lot of hope and gain direction from those who have been successful, from groups like the Open 
+    Prosthetics Project to the wildly successful Arduino and Raspberry Pi ecosystems. These 
+    types of communities set the example for the success of open source in maker communities, 
+    and as a result, the success of maker communities' projects for the greater good.
 
+- title: The Key to Open Source Innovation
+  speaker: John Mark Walker
+  start: 2015-02-20 11:15 PDT
+  end: 2015-02-20 12:15 PDT
+  description: |
+    Open Source is a phenomenon made possible by defined freedoms, managed ecosystems, and the 
+    elevation of customers to the same status as developers and vendors, leading to a world where 
+    all participants collaborate on open source projects. This innovation was a happy accident: 
+    end users were able to collaborate in this way because of the establishment of the four 
+    freedoms and the resulting managed ecosystem of open source platforms. The resulting changes 
+    in development process led to open source becoming the dominant way to innovate in software. 
+    Ultimately, open source is a victory of process, governance and agility, which are at least as 
+    important as the code. But what lessons can we take away from open source domination, especially 
+    as we push forward in the cloud era? If the four freedoms drove open source development, will 
+    they play the same role in the advancement of cloud computing? In this talk, John Mark will look 
+    at examples from the cloud computing world and history. Is the secret to innovation the creation 
+    of sound processes and good governance?
 
+- title: Composing with Containers
+  speaker: Ryan Jarvinen
+  start: 2015-02-22 13:30 PDT
+  end: 2015-02-22 14:30 PDT
+  description: |
+    New container-centric tools are changing the way that projects are distributed and 
+    scaled in the cloud. Come learn how these open source building blocks can be used to 
+    compose complex, multi-container services that offer distinct advantages in scaling and reliability.
+    This talk provides an overview of Docker, Kubernetes and Red Hat's new "Atomic" OS distributions, 
+    and preview of the next generation OpenShift platform.
 
+- title: Fedora.next -- Bringing Change to a Classic Distro (without too much kicking and screaming)
+  speaker: Matthew Miller
+  start: 2015-02-22 16:30 PDT
+  end: 2015-02-22 17:30 PDT
+  description: |
+    As the Fedora Project reached its 10th birthday, we starting looking at how computing has 
+    changed since we started, and what we need to do to stay relevant, useful, and engaging. 
+    The IT world has become much more developer and application-centric, automation is everywhere, 
+    and cloud computing brings a whole new scale of operations (along with new privacy and security 
+    challenges). Personal computing is giving way to mobile. And Linux and open source are 
+    everywhere — in ways we only dreamed of a decade ago. Fedora had an amazing and successful 
+    first decade, but as we looked forward, realized that we weren't ideally positioned to 
+    meet the challenges this new world brings. Our years of hard work created a polished, 
+    capable, and amazing traditional Linux distribution, but our user and contributor communities 
+    weren't growing. After much soul-searching on the mailing list and at our contributor conferences,
+    we knew we had to make some changes. We also knew that we wanted to stay true to our core values — 
+    freedom, friends, features, and first — and we didn't want to turn back on the things we've gotten 
+    right. So, we worked on several initiatives under the umbrella term "Fedora.next". This includes 
+    the separate Fedora Cloud, Fedora Workstation, and Fedora Server flavors, constructed to fit 
+    specific user bases and use cases in a way we've never done before. And it includes a more 
+    ambitious plan to decompose the thousands of packages in the Fedora repository into modular 
+    components in a "ring" structure. It also comes with a new governance model — the consensus-based 
+    and objective-oriented Fedora Council. Matthew Miller, the Fedora Project Leader, will talk about 
+    all of these things and about where we might be going next, and will answer your questions about 
+    anything and everything Fedora related.
 
+- title: Linux Desktop: When Is Our Year?
+  speaker: Levente Kurusa
+  start: 2015-02-21 18:00 PDT
+  end: 2015-02-21 19:00 PDT
+  description: |
+    Levente's talk will start with some information about the current Desktop market, 
+    the status of the Linux Desktop and its different environments. He will discuss some problems he found
+    and how they are related to each other. These problems vary in nature from community and diversity problems to 
+    the problem of the enterprise overriding the needs of the desktop. The community must work together 
+    to solve these problems so that people who aren't tech-savvy can use a Linux distribution and enjoy it.
   
 
