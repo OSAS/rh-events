@@ -106,3 +106,101 @@ talks:
     * Multiple license scenarios
     * How to choose the right license
     * Why you should never, ever, ever write your own license
+    
+- title: Gluster Quickstart
+  speaker: Thomas Cameron
+  start: 2015-02-22 13:30 PDT
+  end: 2015-02-22 14:30 PDT
+  description: |
+    GlusterFS was developed as a distributed filesystem in the oil and gas/high 
+    performance compute arena. Using GlusterFS, flexible distributed storage can 
+    easily be set up using commodity x86 hardware. Simple, inexpensive internal 
+    or JBOD storage can be linked across multiple physical servers and presented 
+    as a single storage namespace. This storage can be used for log file, web 
+    content, virtual machine, and other storage use cases. Red Hat's Thomas 
+    Cameron will demonstrate the steps involved in installing Gluster, configuring 
+    disks, linking the Gluster nodes, defining storage bricks, and presenting that 
+    storage to clients. He'll talk about tips and tricks, best practices, backup 
+    and recovery, and more.
+
+- title: Confessions of a Reluctant Tweeter -- Social Media for Open Source Projects
+  speaker: Rikki Endsley
+  start: 2015-02-20 15:45 PDT
+  end: 2015-02-20 16:45 PDT
+  description: |
+    Do you cringe when you see #hashtags? Do you roll your eyes at "social media gurus"? 
+    Social media should save time (not suck it), but you don't have to be a community 
+    manager or have a communications background to leverage the power of 140 characters. 
+    With a few quick and easy tips, your open source project can use social media to 
+    communicate with contributors, grow its community, and share news and announcements.
+    Already love IRC and email lists? Great! This talk will explain how using social media -- 
+    such as Twitter, G+, and Facebook -- can complement those good ole reliable communication 
+    methods. You also will learn how to determine which social media accounts your project 
+    needs, what content to post (and when to post it), who to follow, and how to determine 
+    whether your approach is working. Find out how to avoid being the center of an ugly 
+    Twitter storm (or pull yourself out when it's too late), and how to keep from being 
+    super boring or becoming a spamtastic yawn fest. Using well-known open source projects 
+    as examples, this talk will show how one account doubled its followers in three months, 
+    and a new open source project had 435 followers the week it launched. This talk 
+    provides a crash course in social media to help your project effectively manage its 
+    messages and connect with its community. 
+    (* Drinking the social media Kool-aid not required.)
+
+- title: Community Building the Open Source Way
+  speaker: Jason Hibbets
+  start: 2015-02-20 17:00 PDT
+  end: 2015-02-20 18:00 PDT
+  description: |
+    Over the past five years, Jason Hibbets has been the community manager behind 
+    Opensource.com, an online publication focused on highlighting the use of open 
+    source methodologies in areas outside of technology. He’ll provide a case study of 
+    the content strategy and community building effort for the Opensource.com publication, 
+    a project sponsored by Red Hat. You’ll go behind the scenes and see the nuts-and-bolts, 
+    the tools, the metrics, and the strategy that’s helped this project grow to over 500,000 
+    page views a month. This session will:
+
+    * go in-depth on how to build a great team, including the different methodologies used from the team
+    * provide details on social media and SEO strategies
+    * outline our community moderator program
+    * show metrics and results monitored by the team
+
+- title: How to Thoroughly Insult and Offend People in Your Open Source Communities
+  speaker: Gina Likins
+  start: 2015-02-20 13:15 PDT
+  end: 2015-02-20 14:15 PDT
+  description: |
+    The tone and tenor of conversations in a community is a large part of whether a 
+    community succeeds, yet that’s often a hard concept to model and understand. Using a 
+    humorous approach, Gina will demonstrate behaviors that create a hostile community 
+    (and by contrast, those that create a welcoming community). She’ll look at the  
+    Defcon Insult Scale for Conversations (the DIScon level), from mildly insulting to 
+    abusive, and at key signifiers of each level. Audience members will be encouraged to 
+    share their own perceptions of how it feels to be at different DIScon levels. Then she'll 
+    tackle the more subtle forms of riling folks up (ways you can assume ignorance, belittle 
+    people, and/or just be condescending). She's even created a starter list of helpful 
+    phrases that people can use as writing prompts when they want to ensure that folks take 
+    things the wrong way (phrases like “You may have noticed” and “I’d just like to point out” 
+    and “I don’t mean to be [a pedant, sexist, etc], but…”). She'll conclude with steps 
+    individuals can take to reduce the “DIScon level” of the communities in which they participate.
+  
+  - title: Linux Charcuterie - How the Distribution Sausage Is Made
+  speaker: Ian McLeod
+  start: 2015-02-22 15:00 PDT
+  end: 2015-02-22 16:00 PDT
+  description: |
+    Distribution build systems are interesting  beasts, complex and with many moving parts. 
+    In the past year, containers, Project Atomic, and other changes have forced a rapid  
+    evolution in how we consume source and deliver a distribution. This talk will take a look 
+    at the entire chain of building a distribution from start to finish. Ian will look at how 
+    source is packaged and built, and then how complex combinations of packages are joined 
+    together to make a cohesive Linux distribution that successfully installs and runs in a 
+    diverse set of environments - from aging x86 hardware to public cloud environments, Linux 
+    containers, and immutable systems. He'll talk about the security considerations, collaboration 
+    between hundreds (thousands?) of packagers, and working on the engine while the car is running.
+
+
+
+
+
+  
+
