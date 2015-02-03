@@ -26,7 +26,9 @@ talks:
     get the high-level view of what OpenStack is, what all the moving
     parts do, and how they fit together. We'll also talk about the
     OpenStack Foundation, and how the project is governed.
+
     Topics covered will include:
+
     * The various parts of the stack
     * How they communicate with one another
     * How to spin up an OpenStack private cloud
@@ -47,10 +49,12 @@ talks:
     ever. What's the solution? In this presentation we'll look at
     a number of next-generation technologies for managing applications,
     such as:
+
     * OStree/rpm-ostree
     * Software Collections
     * Docker, Rocket, and LXC
     * dnf
+
     We'll talk about the options in front of developers and admins
     today, how they can navigate all the new shiny technologies that
     promise better software delivery and management, and what the rest
@@ -70,7 +74,9 @@ talks:
     the OptaPlanner project. While working within policy constraints set
     by an administrator, this service performs probabalistic analysis of
     the environment to suggest how best to assign host resources.
+
     In this talk, learn about:
+
     * The machine reassignment problem and how it relates to oVirt
     * What OptaPlanner is and how it addresses the problem
     * How the oVirt project developed and integrated this functionality
@@ -91,8 +97,10 @@ talks:
     licenses on the fringe of our universe. Bonus: he's been reading
     Legalese for years (as a non-lawyer who regularly works with
     lawyers at Red Hat), so he can translate licenses back to English.
+
     He will also cover:
-    * the fundamentals of copyrights, trademarks, and patents
+
+    * The fundamentals of copyrights, trademarks, and patents
     * Public Domain
     * FOSS licenses for non-software works
     * Multiple license scenarios
