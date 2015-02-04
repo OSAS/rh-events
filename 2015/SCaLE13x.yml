@@ -262,6 +262,25 @@ talks:
     at examples from the cloud computing world and history. Is the secret to innovation the creation 
     of sound processes and good governance?
 
+- title: Storage Tiering and Erasure cCoding in Ceph
+  speaker: Sage Weil
+  start: 2015-02-22 13:30 PDT
+  end: 2015-02-22 14:30 PDT
+  description: |
+    Ceph is designed around the assumption that all components of the system (disks, hosts, 
+    networks) can fail, and has traditionally leveraged replication to provide data durability 
+    and reliability. The CRUSH placement algorithm is used to allow failure domains to be defined 
+    across hosts, racks, rows, or datacenters, depending on the deployment scale and requirements. 
+    Recent releases have added support for erasure coding, which can provide much higher data 
+    durability and lower storage overheads. However, in practice erasure codes have different 
+    performance characteristics than traditional replication and, under some workloads, come at 
+    some expense. At the same time, we have introduced a storage tiering infrastructure and cache 
+    pools that allow alternate hardware backends (like high-end flash) to be leveraged for active 
+    data sets while cold data are transparently migrated to slower backends. The combination of 
+    these two features enables a surprisingly broad range of new applications and deployment configurations.
+    This talk will cover a few Ceph fundamentals, discuss the new tiering and erasure coding 
+    features, and then discuss a variety of ways that the new capabilities can be leveraged.
+  
 - title: Composing with Containers
   speaker: Ryan Jarvinen
   start: 2015-02-22 13:30 PDT
