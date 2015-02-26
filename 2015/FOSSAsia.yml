@@ -9,3 +9,17 @@ description: |
 
   Additional details about the conference are available
   [on the conference website](http://fossasia.org/).
+
+talks:
+
+- title: oVirt Virtualization Workshop
+  speaker: Brian Proffit
+  start: 2015-03-14 09:00 SGT
+  end: 2015-04-14 12:00 SGT
+  description: |
+    Attend a free 2015 oVirt Asia workshop at FOSSASIA in Singapore with 
+    star technologist Brian Proffitt. This 3 hour workshop is designed to
+    teach us about oVirt, learn what we can do with oVirt virtualization,
+    encourage collaboration in our community, lay the foundation for best
+    practices in oVirt use, and help answer questions about the project from
+    both a developer and user's perspective.
