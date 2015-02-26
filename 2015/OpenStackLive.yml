@@ -1,0 +1,14 @@
+name: OpenStack Live
+location: San Francisco, CA
+start: 2015-04-13
+end: 2015-04-14
+description: |
+  OpenStack Live 2015 is an opportunity to learn key considerations 
+  for cloud strategies, how to improve overall performance, and 
+  operational best practices for managing OpenStack and maximizing 
+  the MySQL core. Run in parallel with the Percona Live MySQL Conference,
+  OpenStack Live 2015 will include sessions presented by OpenStack 
+  community members. 
+
+  More information is available at
+  <http://www.percona.com/live/openstack-live-2015/>
