@@ -20,7 +20,7 @@ description: |
   
 talks:
 
-- title: Choosing tomcat Connectors: Internals and Performances 
+- title: "Choosing tomcat Connectors: Internals and Performances" 
   speaker: Jean-Frederic Clere
   start: 2015-04-15 03:15 CST
   end: 2015-04-14 04:05 CST
