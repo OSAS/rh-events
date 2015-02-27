@@ -17,3 +17,47 @@ description: |
 
   More information is available at
   <http://events.linuxfoundation.org/events/apachecon-north-america/>
+  
+  talks:
+
+- title: Choosing tomcat Connectors: Internals and Performances 
+  speaker: Jean-Frederic Clere
+  start: 2015-04-15 03:15 CST
+  end: 2015-04-14 04:05 CST
+  description: |
+    Attendees will learn the differences between BIO and NIO, what APR can do
+    for you, and whether or not using AJP makes any sense. You'll be able to
+    see what a proxy can do for you and see what connectors are likely to be
+    the best fit for your environments. You will see some performance
+    comparisons — including the results of a race against Apache httpd and
+    other servers. A part of the presentation will be dedicated to the Tomcat8
+    new connector and WebSockets.
+
+- title: What's New In Apache HTTPD 2.4 
+  speaker: Jim Jagielski
+  start: 2015-04-13 11:45 CST
+  end: 2015-04-13 12:35 CST
+  description: |
+    Learn about the new features and capabilities in Apache 2.4.
+
+- title: Reverse Proxy with Apache HTTPD 2.4 
+  speaker: Jim Jagielski
+  start: 2015-04-13 03:00 CST
+  end: 2015-04-13 03:50 CST
+  description: |
+    One of the biggest new improvements in the httpd 2.4 line has been the
+    features and performance improvements in mod_proxy, which implements
+    reverse proxy capability in httpd. Jim will detail those.
+
+- title: RTFM? Write a Better FM! 
+  speaker: Rich Bowen
+  start: 2015-04-13 03:00 CST
+  end: 2015-04-13 03:50 CST
+  description: |
+    Ever notice that the projects most likely to tell you to RTFM tend to have
+    the worst FM? That's because the virtues of a docs team - Dilligence,
+    Patience, and Humility - happen to be the virtues of kinder politer
+    people, too. Come learn some tips of writing better documentation,
+    providing better end-user support, and just possibly growing your project
+    community.
+
