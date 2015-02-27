@@ -18,7 +18,7 @@ description: |
   More information is available at
   <http://events.linuxfoundation.org/events/apachecon-north-america/>
   
-  talks:
+talks:
 
 - title: Choosing tomcat Connectors: Internals and Performances 
   speaker: Jean-Frederic Clere
