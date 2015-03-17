@@ -61,3 +61,13 @@ talks:
     providing better end-user support, and just possibly growing your project
     community.
 
+- title:  Pharmacovigilance - Big Data for RealTime Drug Monitoring
+  speaker: Pei Chen, Jay Vyas
+  start: 2015-04-13 01:30 CST
+  end: 2015-04-13 02:20 CST
+  description: |
+     Real Time Drug Safety Monitoring in the Cloud - Collecting and harnessing
+     knowledge from large public data sources in real time to monitor and detect 
+     adverse drug effects. In this presentation, Pei and Jay will demonstrate an 
+     entire system using Apache BigTop, OpenStack, Spark, cTAKES, Cassandra to 
+     proactively monitor and detect adverse drug events from Twitter data.
