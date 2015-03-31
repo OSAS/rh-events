@@ -1,0 +1,27 @@
+name: Protocols Plugfest Europe 2015
+location: Zaragoza, Spain
+start: 2015-05-12
+end: 2015-05-14
+description: |
+  The event offers 3 full days of sessions about Open source
+  offerings, Microsoft interoperable products and technologies,
+  and interoperable industry solutions. It will bring together
+  open source developers, technical managers, students and
+  decision-makers from across the technology industry, in an
+  environment where businesses and open source communities can
+  work closely together and share implementation knowledge.
+
+  Additional details about the conference are available
+  [on the conference website](http://www.protocolsplugfest.com/).
+
+talks:
+
+- title: Samba HA: An Operetta in Three Parts
+  speaker: José A. Rivera
+  start: 2015-05-12 15:00 CET
+  end: 2015-05-12 15:45 CET
+  
+- title: Cross Forest Trusts with Active Directory: protocols and practices
+  speaker: Simo Sorce
+  start: 2015-05-12 17:45 CET
+  end: 2015-05-12 18:30 CET
