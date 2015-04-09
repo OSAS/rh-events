@@ -16,12 +16,12 @@ description: |
 
 talks:
 
-- title: Samba HA: An Operetta in Three Parts
+- title: 'Samba HA: An Operetta in Three Parts'
   speaker: José A. Rivera
   start: 2015-05-12 15:00 CET
   end: 2015-05-12 15:45 CET
-  
-- title: Cross Forest Trusts with Active Directory: protocols and practices
+
+- title: 'Cross Forest Trusts with Active Directory: protocols and practices'
   speaker: Simo Sorce
   start: 2015-05-12 17:45 CET
   end: 2015-05-12 18:30 CET

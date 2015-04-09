@@ -19,7 +19,7 @@ talks:
   start: 2015-05-20 13:00 CET
   end: 2015-05-20 13:45 CET
 
-- title: Handling Persistent Problems: Persistent Handles in Samba
+- title: 'Handling Persistent Problems: Persistent Handles in Samba'
   speaker: Ira Cooper
   start: 2015-05-20 13:45 CET
   end: 2015-05-20 14:30 CET
@@ -29,7 +29,7 @@ talks:
   start: 2015-05-20 15:00 CET
   end: 2015-05-20 15:45 CET
 
-- title: Playing nice with others: Samba HA with Pacemaker
+- title: 'Playing nice with others: Samba HA with Pacemaker'
   speaker: José Rivera
   start: 2015-05-20 15:45 CET
   end: 2015-05-20 16:30 CET
