@@ -1,0 +1,14 @@
+name: DockerCon
+location: San Francisco, CA
+start: 2015-06-22
+end: 2015-06-23
+description: |
+  DockerCon 2015 is a two-day, multi-track conference organized by Docker, Inc.
+  The conference will feature topics and content covering all aspects of Docker
+  and the surrounding ecosystem and will be suitable for Developers, DevOps,
+  Systems Administration and C-level executives. 
+
+  Additional details about the conference are available at
+  <http://dockercon.com>.
+
+
