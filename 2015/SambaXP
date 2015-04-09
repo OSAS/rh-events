@@ -1,0 +1,66 @@
+name: SambaXP 2015
+location: Göttingen, Germany
+start: 2015-05-19
+end: 2015-05-21
+description: |
+  The SAMBA eXPerience 2015 in Göttingen, Germany will be
+   the 14th international SAMBA conference for users and
+   developers. Attendants will meet the SAMBA Team, discuss
+   requirements, new features and get an update on current
+   developments. The conference is organized by SerNet.
+
+  Additional details about the conference are available
+  [on the conference website](http://www.sambaxp.org/).
+
+talks:
+
+- title: SMB3 Multi-Channel in Samba
+  speaker: Michael Adam
+  start: 2015-05-20 13:00 CET
+  end: 2015-05-20 13:45 CET
+
+- title: Handling Persistent Problems: Persistent Handles in Samba
+  speaker: Ira Cooper
+  start: 2015-05-20 13:45 CET
+  end: 2015-05-20 14:30 CET
+
+- title: Implementing the Witness protocol in Samba
+  speaker: Günther Deschner
+  start: 2015-05-20 15:00 CET
+  end: 2015-05-20 15:45 CET
+
+- title: Playing nice with others: Samba HA with Pacemaker
+  speaker: José Rivera
+  start: 2015-05-20 15:45 CET
+  end: 2015-05-20 16:30 CET
+
+- title: Using Samba libraries outside Samba
+  speaker: Jakub Hrozek
+  start: 2015-05-21 9:30 CET
+  end: 2015-05-21 10:15 CET
+
+- title: Status update MIT KDC integration
+  speaker: Günther Deschner
+  start: 2015-05-21 10:15 CET
+  end: 2015-05-21 11:00 CET
+
+- title: Handling POSIX attributes for trusted Active Directory users and groups in FreeIPA
+  speaker: Alexander Bokovoy
+  start: 2015-05-21 11:30 CET
+  end: 2015-05-21 12:15 CET
+
+- title: How to use the Samba Selftest Suite
+  speaker: Andreas Schneider
+  start: 2015-05-21 11:30 CET
+  end: 2015-05-21 12:15 CET
+
+- title: Opening Samba to a Wider World with plugins
+  speaker: Sumit Bose
+  start: 2015-05-21 12:15 CET
+  end: 2015-05-21 13:00 CET
+
+- title: Tools for the Vagabonding Samba Developer
+  speaker: Michael Adam
+  start: 2015-05-21 12:15 CET
+  end: 2015-05-21 13:00 CET
+
