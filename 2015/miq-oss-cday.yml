@@ -1,0 +1,18 @@
+name: ManageIQ User Day at OpenStack Summit 
+location: Vancouver, Canada
+start: 2015-05-20
+end: 2015-05-20
+description: 
+  The ManageIQ User Day is an event co-located at OpenStack Summit to teach OpenStack users how to add integration and enterprise management capabilities to OpenStack. 
+  "Agenda:"
+
+  - Introduction to Managing OpenStack with ManageIQ
+  - Lab 1 - Deploy RDO with ManageIQ
+  - Lab 2 - Use ManageIQ for VM Lifecycle Management on RDO
+  - Lab 3 - Explore New Features of the Upcoming Botvinnik Release
+  - Botvinnik Release Party
+
+  NOTE - attendees will need a pass to OpenStack Summit in order to attend.
+
+  Additional details about the ManageIQ User Day are available at
+  <http://miq-oss-cday.eventbrite.com/>.
