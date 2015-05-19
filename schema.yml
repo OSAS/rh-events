@@ -7,6 +7,9 @@ mapping:
     type: str
     pattern: /series/i
     required: no
+  "tags":
+    type: str
+    required: no
   "location":
     type: str
     required: no
@@ -32,6 +35,9 @@ mapping:
             type: str
             required: yes
           "title_short":
+            type: str
+            required: no
+          "tags":
             type: str
             required: no
           "location":
