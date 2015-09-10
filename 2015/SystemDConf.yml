@@ -1,0 +1,9 @@
+name: systemd.conf
+location: Berlin, Germany
+start: 2015-11-05
+end: 2015-11-07
+description: |
+   systemd.conf 2015 is the inaugural conference devoted to the systemd project. It aims to bring developers distribution packagers as well as devops professionals together to present, discuss, and work on that topics that will shape the future of the systemd project.
+
+   Additional details about the conference are available at
+   <https://systemd.events/>.
