@@ -1,0 +1,11 @@
+name: Docker Meetup
+location: Brno, Czech Republic
+start: 2015-10-15
+end: 2015-10-15
+description: |
+    6:00 pm @  Impact Hub Brno (Cyrilská 7, Brno)
+    An evening full of interesting talks about containers.  Currently confirmed talks:
+    * Nulecule - how to define, distribute and deploy multi-container applications - Václav Pavlín, Red Hat
+    * Ceph and Docker: How to get persistent storage on the cloud - Matteo Ferraroni, Digital-blue
+    * Using docker together with test kitchen and serverspec for puppet test automation - Yury Tsarev, GoodData
+    * Using docker for advanced testing, building packages for multiple distributions - Tomáš Nožička, Seznam.cz  
