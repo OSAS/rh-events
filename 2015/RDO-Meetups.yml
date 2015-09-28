@@ -1,0 +1,370 @@
+name: RDO Hangouts
+type: series
+
+talks:
+
+
+- title: Containers, DevOps, Apache Mesos & Cloud - Reshaping how we Develop and Deliver
+  speaker: Docker Geneva
+  start: 2015-09-28 00:00 
+  description: |
+      Genève, CH
+      Containers, DevOps, Apache Mesos & Cloud - Reshaping how we Develop and Deliver
+
+- title: Meetup#16 Métriques dans OpenStack avec Gnocchi et Ceilometer
+  speaker: OpenStackFR Paris
+  start: 2015-09-28 00:00 
+  description: |
+      Paris, FR
+      Meetup#16 Métriques dans OpenStack avec Gnocchi et Ceilometer
+
+- title: Integration Services in the Cloud Workshop
+  speaker: Southern California Red Hat User Group (RHUG)
+  start: 2015-09-29 00:00 
+  description: |
+      Los Angeles, CA, US
+      Integration Services in the Cloud Workshop
+
+- title: Inaugural Redhat Users Group Meeting - Container Technology in Linux & Beyond
+  speaker: Regina Red Hat Users Group (RHUG)
+  start: 2015-09-29 00:00 
+  description: |
+      Regina, SK, CA
+      Inaugural Redhat Users Group Meeting - Container Technology in Linux & Beyond
+
+- title: Docker with Microsoft
+  speaker: Docker Helsinki
+  start: 2015-09-29 00:00 
+  description: |
+      Helsinki, FI
+      Docker with Microsoft
+
+- title: Preparation Session for HackZurich + Hackathon on Operation Rescue and Recovery!
+  speaker: HackSessionsSwitzerland
+  start: 2015-09-29 00:00 
+  description: |
+      Zürich, CH
+      Preparation Session for HackZurich + Hackathon on Operation Rescue and Recovery!
+
+- title: Partnerevent: Cloud Deployment
+  speaker: Association Of Technology and Innovation
+  start: 2015-09-29 00:00 
+  description: |
+      Redmond, WA, US
+      Partnerevent: Cloud Deployment
+
+- title: Cloud Deployment
+  speaker: Seattle Technical Forum
+  start: 2015-09-29 00:00 
+  description: |
+      Redmond, WA, US
+      Cloud Deployment
+
+- title: Python GIL - relikt przeszłości czy uzasadnione ograniczenie?
+  speaker: Poland CodiLime Tech Talk
+  start: 2015-09-29 00:00 
+  description: |
+      Warsaw, PL
+      Python GIL - relikt przeszłości czy uzasadnione ograniczenie?
+
+- title: Seattle DevOps Meetup
+  speaker: Seattle DevOps Meetup Group
+  start: 2015-09-29 00:00 
+  description: |
+      Seattle, WA, US
+      Seattle DevOps Meetup
+
+- title: Lightning talks & More
+  speaker: Docker Atlanta
+  start: 2015-09-29 00:00 
+  description: |
+      Atlanta, GA, US
+      Lightning talks & More
+
+- title: OpenStack Rhône-Alpes Meet-up #7: Outils de déploiement
+  speaker: OpenStack Rhône-Alpes
+  start: 2015-09-29 00:00 
+  description: |
+      Lyon, FR
+      OpenStack Rhône-Alpes Meet-up #7: Outils de déploiement
+
+- title: Cloud Storage in OpenStack
+  speaker: Frederick MD OpenStack Meetup
+  start: 2015-09-29 00:00 
+  description: |
+      Frederick, MD, US
+      Cloud Storage in OpenStack
+
+- title: What's New: Ansible 2.0
+  speaker: Ansible Durham
+  start: 2015-09-29 00:00 
+  description: |
+      Durham, NC, US
+      What's New: Ansible 2.0
+
+- title: Microservices, NFV & Big Data with VMware & Cloudify
+  speaker: Cloud Online Meetup
+  start: 2015-09-30 00:00 
+  description: |
+      Mountain View, CA, US
+      Microservices, NFV & Big Data with VMware & Cloudify
+
+- title: Docker in the Cloud Hands-on Lab with Lunch
+  speaker: Chicago PaaS, Bluemix and Cloud Computing Meetup
+  start: 2015-09-30 00:00 
+  description: |
+      Chicago, IL, US
+      Docker in the Cloud Hands-on Lab with Lunch
+
+- title: Guest Speaker - Jason Delker - Pinsight
+  speaker: DevOps Kansas City
+  start: 2015-09-30 00:00 
+  description: |
+      Kansas City, MO, US
+      Guest Speaker - Jason Delker - Pinsight
+
+- title: Meet.js - prezentacja nt. Browser Rendering Optimization
+  speaker: Poland CodiLime Tech Talk
+  start: 2015-09-30 00:00 
+  description: |
+      Warsaw, PL
+      Meet.js - prezentacja nt. Browser Rendering Optimization
+
+- title: Kubernetes meetup #3
+  speaker: Bay Area Kubernetes Meetup
+  start: 2015-09-30 00:00 
+  description: |
+      Mountain View, CA, US
+      Kubernetes meetup #3
+
+- title: Kubernetes meetup
+  speaker: Dell Networking
+  start: 2015-09-30 00:00 
+  description: |
+      Santa Clara, CA, US
+      Kubernetes meetup
+
+- title: The Rise of The Agile Private Cloud: What it is and how it’s different!
+  speaker: Orange County Cisco Users Group
+  start: 2015-09-30 00:00 
+  description: |
+      Irvine, CA, US
+      The Rise of The Agile Private Cloud: What it is and how it’s different!
+
+- title: Winning in the New Style of IT
+  speaker: Colombo Cloud Meet up
+  start: 2015-09-30 00:00 
+  description: |
+      Colombo, LK
+      Winning in the New Style of IT
+
+- title: Hands On DevOps Workshop using IBM UrbanCode Deploy
+  speaker: Boston DevOps Meetup
+  start: 2015-10-01 00:00 
+  description: |
+      Boston, MA, US
+      Hands On DevOps Workshop using IBM UrbanCode Deploy
+
+- title: Online Rancher Beta Weekly Training
+  speaker: Linux Containers & Virtualization Meetup
+  start: 2015-10-01 00:00 
+  description: |
+      Carrollton, TX, US
+      Online Rancher Beta Weekly Training
+
+- title: October OpenStack Meetup - SDN and Containers
+  speaker: Chicago-land OpenStack Group
+  start: 2015-10-01 00:00 
+  description: |
+      Chicago, IL, US
+      October OpenStack Meetup - SDN and Containers
+
+- title: Talk Cloud ...
+  speaker: Sydney Cloud Computing Meetup
+  start: 2015-10-01 00:00 
+  description: |
+      Sydney, AU
+      Talk Cloud ...
+
+- title: OpenStack Meetup Cluj
+  speaker: OpenStack Romania
+  start: 2015-10-01 00:00 
+  description: |
+      Cluj-Napoca, RO
+      OpenStack Meetup Cluj
+
+- title: So you want to do SDN? - Now what?
+  speaker: Atlanta Network Programmability User's Group (NPUG)
+  start: 2015-10-01 00:00 
+  description: |
+      Atlanta, GA, US
+      So you want to do SDN? - Now what?
+
+- title: Linking Network Infrastructure into Cloud Orchestration Tools Discussion
+  speaker: ONUG Meetup
+  start: 2015-10-01 00:00 
+  description: |
+      New York, NY, US
+      Linking Network Infrastructure into Cloud Orchestration Tools Discussion
+
+- title: South Bay OpenStack Meetup, Beginner track Topic: Carrier-grade OpenStack & NFV
+  speaker: SFBay OpenStack
+  start: 2015-10-01 00:00 
+  description: |
+      San Francisco, CA, US
+      South Bay OpenStack Meetup, Beginner track Topic: Carrier-grade OpenStack & NFV
+
+- title: A Discussion on Network-Aware Placement (NAP)
+  speaker: VMTurbo Boston Meetup
+  start: 2015-10-01 00:00 
+  description: |
+      Boston, MA, US
+      A Discussion on Network-Aware Placement (NAP)
+
+- title: Ansible Catania kickoff meeting
+  speaker: Ansible Catania
+  start: 2015-10-02 00:00 
+  description: |
+      Catania, CT, IT
+      Ansible Catania kickoff meeting
+
+- title: Regular Friday get-together
+  speaker: Promoting Open Source/Libre to the Canadian government
+  start: 2015-10-02 00:00 
+  description: |
+      Ottawa, ON, CA
+      Regular Friday get-together
+
+- title: DevOps - Why Important
+  speaker: Ludhiana DevOps Mavericks
+  start: 2015-10-03 00:00 
+  description: |
+      Ludhiana, IN
+      DevOps - Why Important
+
+- title: Blackboard: OpenStack From Zero to Production
+  speaker: OpenStack Northern Virginia
+  start: 2015-10-05 00:00 
+  description: |
+      Reston, VA, US
+      Blackboard: OpenStack From Zero to Production
+
+- title: October Meetup with special guests Jessie Frazelle and Tom Barlow
+  speaker: Docker Dublin
+  start: 2015-10-05 00:00 
+  description: |
+      Dublin, IE
+      October Meetup with special guests Jessie Frazelle and Tom Barlow
+
+- title: October Sydney Meetup
+  speaker: Australian OpenStack User Group
+  start: 2015-10-06 00:00 
+  description: |
+      Sydney, AU
+      October Sydney Meetup
+
+- title: ITS TIME FOR THE 3 T's- TACOS-TECHNOLOGY TUESDAY!!!!
+  speaker: Technology and Tacos Meat Up (SoCal)
+  start: 2015-10-06 00:00 
+  description: |
+      Orange, CA, US
+      ITS TIME FOR THE 3 T's- TACOS-TECHNOLOGY TUESDAY!!!!
+
+- title: Kennissessie Practical Python
+  speaker: CRI Service - Kennissessies
+  start: 2015-10-07 00:00 
+  description: |
+      Houten, NL
+      Kennissessie Practical Python
+
+- title: OpenStack 101
+  speaker: OpenStack Houston Meetup
+  start: 2015-10-07 00:00 
+  description: |
+      Houston, TX, US
+      OpenStack 101
+
+- title: OpenStack Liberty Release
+  speaker: OpenStack DFW
+  start: 2015-10-07 00:00 
+  description: |
+      Richardson, TX, US
+      OpenStack Liberty Release
+
+- title: OpenDaylight & the Lithium Saga: What? Why? Can it automate your dishwasher?
+  speaker: Portland OpenDaylight Users Group
+  start: 2015-10-07 00:00 
+  description: |
+      Portland, OR, US
+      OpenDaylight & the Lithium Saga: What? Why? Can it automate your dishwasher?
+
+- title: Hands On DevOps Workshop using IBM UrbanCode Release
+  speaker: Boston DevOps Meetup
+  start: 2015-10-08 00:00 
+  description: |
+      Boston, MA, US
+      Hands On DevOps Workshop using IBM UrbanCode Release
+
+- title: Docker Meetup with HBC Digital
+  speaker: Docker New York City
+  start: 2015-10-08 00:00 
+  description: |
+      New York, NY, US
+      Docker Meetup with HBC Digital
+
+- title: 6WIND - DPDK Silicon Valley Meetup
+  speaker: DPDK
+  start: 2015-10-08 00:00 
+  description: |
+      Santa Clara, CA, US
+      6WIND - DPDK Silicon Valley Meetup
+
+- title: Neutron apollozza! New date! New Location!
+  speaker: OpenStack Austin Texas
+  start: 2015-10-08 00:00 
+  description: |
+      Austin, TX, US
+      Neutron apollozza! New date! New Location!
+
+- title: 7. Meetup, Konu : Murano - OpenStack App Catalog
+  speaker: Turkey OpenStack Meetup
+  start: 2015-10-08 00:00 
+  description: |
+      Istanbul, TR
+      7. Meetup, Konu : Murano - OpenStack App Catalog
+
+- title: Ansible Stuttgart kickoff
+  speaker: Ansible Stuttgart
+  start: 2015-10-08 00:00 
+  description: |
+      Stuttgart, DE
+      Ansible Stuttgart kickoff
+
+- title: Martin Etmajer discusses "Red, Green, Refactor Cycle" of Test-Driven Development
+  speaker: Ansible DC
+  start: 2015-10-08 00:00 
+  description: |
+      Washington, DC, US
+      Martin Etmajer discusses "Red, Green, Refactor Cycle" of Test-Driven Development
+
+- title: Regular Friday get-together
+  speaker: Promoting Open Source/Libre to the Canadian government
+  start: 2015-10-09 00:00 
+  description: |
+      Ottawa, ON, CA
+      Regular Friday get-together
+
+- title: OpenStack India Meetup, Pune
+  speaker: Indian OpenStack User Group
+  start: 2015-10-10 00:00 
+  description: |
+      Bangalore, IN
+      OpenStack India Meetup, Pune
+
+- title: Lets Talk Cloud Computing & OpenStack
+  speaker: OpenSource Users, Developers & Ethical Hackers in Indore
+  start: 2015-10-11 00:00 
+  description: |
+      Indore, IN
+      Lets Talk Cloud Computing & OpenStack
+
