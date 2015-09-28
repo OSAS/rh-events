@@ -7,6 +7,7 @@ talks:
 
 - title: Meetup#16 Métriques dans OpenStack avec Gnocchi et Ceilometer
   tags: RDO
+  location: Paris, FR
   speaker: OpenStackFR Paris
   start: 2015-09-28 12:45 UTC
   description: |
@@ -16,6 +17,7 @@ talks:
 
 - title: OpenStack Rhône-Alpes Meet-up #7 Outils de déploiement
   tags: RDO
+  location: Lyon, FR
   speaker: OpenStack Rhône-Alpes
   start: 2015-09-29 13:00 UTC
   description: |
