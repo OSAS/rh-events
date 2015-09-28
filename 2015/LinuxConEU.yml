@@ -2,7 +2,7 @@ name: LinuxCon Europe
 location: Dublin, Ireland
 start: 2015-10-05
 end: 2015-10-07
-tags: oVirt
+tags: oVirt RDO
 description: |
   There's simply no other event in Europe where developers, 
   sys admins, architects and all levels of technical talent 
