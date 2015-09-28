@@ -3,101 +3,14 @@ type: series
 
 talks:
 
+
 - title: Meetup#16 Métriques dans OpenStack avec Gnocchi et Ceilometer
+  tags: RDO
   speaker: OpenStackFR Paris
-  start: 2015-09-28 00:00 
+  start: 2015-09-28 00:00 UTC
   description: |
       Paris, FR
       Meetup#16 Métriques dans OpenStack avec Gnocchi et Ceilometer
+      http://www.meetup.com/OpenStack-France/events/225227112/
 
-- title: OpenStack Rhône-Alpes Meet-up #7: Outils de déploiement
-  speaker: OpenStack Rhône-Alpes
-  start: 2015-09-29 00:00 
-  description: |
-      Lyon, FR
-      OpenStack Rhône-Alpes Meet-up #7: Outils de déploiement
-
-- title: Cloud Storage in OpenStack
-  speaker: Frederick MD OpenStack Meetup
-  start: 2015-09-29 00:00 
-  description: |
-      Frederick, MD, US
-      Cloud Storage in OpenStack
-
-- title: October OpenStack Meetup - SDN and Containers
-  speaker: Chicago-land OpenStack Group
-  start: 2015-10-01 00:00 
-  description: |
-      Chicago, IL, US
-      October OpenStack Meetup - SDN and Containers
-
-- title: OpenStack Meetup Cluj
-  speaker: OpenStack Romania
-  start: 2015-10-01 00:00 
-  description: |
-      Cluj-Napoca, RO
-      OpenStack Meetup Cluj
-
-- title: South Bay OpenStack Meetup, Beginner track Topic: Carrier-grade OpenStack & NFV
-  speaker: SFBay OpenStack
-  start: 2015-10-01 00:00 
-  description: |
-      San Francisco, CA, US
-      South Bay OpenStack Meetup, Beginner track Topic: Carrier-grade OpenStack & NFV
-
-- title: Blackboard: OpenStack From Zero to Production
-  speaker: OpenStack Northern Virginia
-  start: 2015-10-05 00:00 
-  description: |
-      Reston, VA, US
-      Blackboard: OpenStack From Zero to Production
-
-- title: October Sydney Meetup
-  speaker: Australian OpenStack User Group
-  start: 2015-10-06 00:00 
-  description: |
-      Sydney, AU
-      October Sydney Meetup
-
-- title: OpenStack 101
-  speaker: OpenStack Houston Meetup
-  start: 2015-10-07 00:00 
-  description: |
-      Houston, TX, US
-      OpenStack 101
-
-- title: OpenStack Liberty Release
-  speaker: OpenStack DFW
-  start: 2015-10-07 00:00 
-  description: |
-      Richardson, TX, US
-      OpenStack Liberty Release
-
-- title: OpenDaylight & the Lithium Saga: What? Why? Can it automate your dishwasher?
-  speaker: Portland OpenDaylight Users Group
-  start: 2015-10-07 00:00 
-  description: |
-      Portland, OR, US
-      OpenDaylight & the Lithium Saga: What? Why? Can it automate your dishwasher?
-
-- title: Neutron apollozza! New date! New Location!
-  speaker: OpenStack Austin Texas
-  start: 2015-10-08 00:00 
-  description: |
-      Austin, TX, US
-      Neutron apollozza! New date! New Location!
-
-- title: 7. Meetup, Konu : Murano - OpenStack App Catalog
-  speaker: Turkey OpenStack Meetup
-  start: 2015-10-08 00:00 
-  description: |
-      Istanbul, TR
-      7. Meetup, Konu : Murano - OpenStack App Catalog
-
-- title: OpenStack India Meetup, Pune
-  speaker: Indian OpenStack User Group
-  start: 2015-10-10 00:00 
-  description: |
-      Bangalore, IN
-      OpenStack India Meetup, Pune
 
