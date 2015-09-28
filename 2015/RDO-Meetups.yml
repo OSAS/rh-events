@@ -1,12 +1,10 @@
 name: RDO Hangouts
 type: series
+tags: RDO
 
 talks:
 
-
-
 - title: Meetup#16 Métriques dans OpenStack avec Gnocchi et Ceilometer
-  tags: RDO
   location: Paris, FR
   speaker: OpenStackFR Paris
   start: 2015-09-28 12:45 UTC
@@ -16,7 +14,6 @@ talks:
       http://www.meetup.com/OpenStack-France/events/225227112/
 
 - title: OpenStack Rhône-Alpes Meet-up #7 Outils de déploiement
-  tags: RDO
   location: Lyon, FR
   speaker: OpenStack Rhône-Alpes
   start: 2015-09-29 13:00 UTC
@@ -26,7 +23,7 @@ talks:
       http://www.meetup.com/OpenStack-Rhone-Alpes/events/220405945/
 
 - title: Cloud Storage in OpenStack
-  tags: RDO
+  location: Frederick, US
   speaker: Frederick MD OpenStack Meetup
   start: 2015-09-29 19:00 UTC
   description: |
@@ -35,7 +32,7 @@ talks:
       http://www.meetup.com/Frederick-MD-OpenStack-Meetup/events/224922940/
 
 - title: October OpenStack Meetup - SDN and Containers
-  tags: RDO
+  location: Chicago, US
   speaker: Chicago-land OpenStack Group
   start: 2015-10-01 19:00 UTC
   description: |
@@ -44,7 +41,7 @@ talks:
       http://www.meetup.com/meetup-group-NjZdcegA/events/225081881/
 
 - title: OpenStack Meetup Cluj
-  tags: RDO
+  location: Cluj-Napoca, RO
   speaker: OpenStack Romania
   start: 2015-10-01 11:30 UTC
   description: |
@@ -53,7 +50,7 @@ talks:
       http://www.meetup.com/OpenStackRomania/events/222910344/
 
 - title: So you want to do SDN? - Now what?
-  tags: RDO
+  location: Atlanta, US
   speaker: Atlanta Network Programmability User's Group (NPUG)
   start: 2015-10-01 18:30 UTC
   description: |
@@ -62,7 +59,7 @@ talks:
       http://www.meetup.com/AtlantaNPUG/events/224849003/
 
 - title: South Bay OpenStack Meetup, Beginner track Topic Carrier-grade OpenStack & NFV
-  tags: RDO
+  location: San Francisco, US
   speaker: SFBay OpenStack
   start: 2015-10-01 22:00 UTC
   description: |
@@ -71,7 +68,7 @@ talks:
       http://www.meetup.com/openstack/events/221806052/
 
 - title: Blackboard OpenStack From Zero to Production
-  tags: RDO
+  location: Reston, US
   speaker: OpenStack Northern Virginia
   start: 2015-10-05 18:00 UTC
   description: |
@@ -80,7 +77,7 @@ talks:
       http://www.meetup.com/OpenStack-Nova/events/225345504/
 
 - title: October Sydney Meetup
-  tags: RDO
+  location: Sydney, AU
   speaker: Australian OpenStack User Group
   start: 2015-10-06 03:00 UTC
   description: |
@@ -89,7 +86,7 @@ talks:
       http://www.meetup.com/Australian-OpenStack-User-Group/events/220202327/
 
 - title: OpenStack 101
-  tags: RDO
+  location: Houston, US
   speaker: OpenStack Houston Meetup
   start: 2015-10-07 19:00 UTC
   description: |
@@ -98,7 +95,7 @@ talks:
       http://www.meetup.com/openstackhoustonmeetup/events/224870393/
 
 - title: OpenStack Liberty Release
-  tags: RDO
+  location: Richardson, US
   speaker: OpenStack DFW
   start: 2015-10-07 19:00 UTC
   description: |
@@ -106,8 +103,17 @@ talks:
       OpenStack Liberty Release
       http://www.meetup.com/OpenStack-DFW/events/225014699/
 
+- title: OpenDaylight & the Lithium Saga What? Why? Can it automate your dishwasher?
+  location: Portland, US
+  speaker: Portland OpenDaylight Users Group
+  start: 2015-10-07 21:00 UTC
+  description: |
+      Portland, OR, US
+      OpenDaylight & the Lithium Saga What? Why? Can it automate your dishwasher?
+      http://www.meetup.com/Portland-OpenDaylight-Users-Group/events/224748890/
+
 - title: Neutron apollozza! New date! New Location!
-  tags: RDO
+  location: Austin, US
   speaker: OpenStack Austin Texas
   start: 2015-10-08 19:30 UTC
   description: |
@@ -116,7 +122,7 @@ talks:
       http://www.meetup.com/OpenStack-Austin/events/225479349/
 
 - title: 7. Meetup, Konu  Murano - OpenStack App Catalog
-  tags: RDO
+  location: Istanbul, TR
   speaker: Turkey OpenStack Meetup
   start: 2015-10-08 12:00 UTC
   description: |
@@ -125,7 +131,7 @@ talks:
       http://www.meetup.com/Turkey-OpenStack-Meetup/events/225419496/
 
 - title: OpenStack India Meetup, Pune
-  tags: RDO
+  location: Bangalore, IN
   speaker: Indian OpenStack User Group
   start: 2015-10-10 01:30 UTC
   description: |
@@ -134,7 +140,7 @@ talks:
       http://www.meetup.com/Indian-OpenStack-User-Group/events/225039190/
 
 - title: Lets Talk Cloud Computing & OpenStack
-  tags: RDO
+  location: Indore, IN
   speaker: OpenSource Users, Developers & Ethical Hackers in Indore
   start: 2015-10-11 03:00 UTC
   description: |
