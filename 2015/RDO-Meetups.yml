@@ -4,71 +4,8 @@ tags: RDO
 
 talks:
 
-- title: Meetup#16 Métriques dans OpenStack avec Gnocchi et Ceilometer
-  location: Paris, FR
-  speaker: OpenStackFR Paris
-  start: 2015-09-28 12:45 UTC
-  description: |
-      Paris, FR
-      Meetup#16 Métriques dans OpenStack avec Gnocchi et Ceilometer
-      http://www.meetup.com/OpenStack-France/events/225227112/
-
-- title: OpenStack Rhône-Alpes Meet-up #7 Outils de déploiement
-  location: Lyon, FR
-  speaker: OpenStack Rhône-Alpes
-  start: 2015-09-29 13:00 UTC
-  description: |
-      Lyon, FR
-      OpenStack Rhône-Alpes Meet-up #7 Outils de déploiement
-      http://www.meetup.com/OpenStack-Rhone-Alpes/events/220405945/
-
-- title: Cloud Storage in OpenStack
-  location: Frederick, US
-  speaker: Frederick MD OpenStack Meetup
-  start: 2015-09-29 19:00 UTC
-  description: |
-      Frederick, MD, US
-      Cloud Storage in OpenStack
-      http://www.meetup.com/Frederick-MD-OpenStack-Meetup/events/224922940/
-
-- title: October OpenStack Meetup - SDN and Containers
-  location: Chicago, US
-  speaker: Chicago-land OpenStack Group
-  start: 2015-10-01 19:00 UTC
-  description: |
-      Chicago, IL, US
-      October OpenStack Meetup - SDN and Containers
-      http://www.meetup.com/meetup-group-NjZdcegA/events/225081881/
-
-- title: OpenStack Meetup Cluj
-  location: Cluj-Napoca, RO
-  speaker: OpenStack Romania
-  start: 2015-10-01 11:30 UTC
-  description: |
-      Cluj-Napoca, RO
-      OpenStack Meetup Cluj
-      http://www.meetup.com/OpenStackRomania/events/222910344/
-
-- title: So you want to do SDN? - Now what?
-  location: Atlanta, US
-  speaker: Atlanta Network Programmability User's Group (NPUG)
-  start: 2015-10-01 18:30 UTC
-  description: |
-      Atlanta, GA, US
-      So you want to do SDN? - Now what?
-      http://www.meetup.com/AtlantaNPUG/events/224849003/
-
-- title: South Bay OpenStack Meetup, Beginner track Topic Carrier-grade OpenStack & NFV
-  location: San Francisco, US
-  speaker: SFBay OpenStack
-  start: 2015-10-01 22:00 UTC
-  description: |
-      San Francisco, CA, US
-      South Bay OpenStack Meetup, Beginner track Topic Carrier-grade OpenStack & NFV
-      http://www.meetup.com/openstack/events/221806052/
-
 - title: Blackboard OpenStack From Zero to Production
-  location: Reston, US
+  location: Reston, VA
   speaker: OpenStack Northern Virginia
   start: 2015-10-05 18:00 UTC
   description: |
@@ -76,17 +13,8 @@ talks:
       Blackboard OpenStack From Zero to Production
       http://www.meetup.com/OpenStack-Nova/events/225345504/
 
-- title: October Sydney Meetup
-  location: Sydney, AU
-  speaker: Australian OpenStack User Group
-  start: 2015-10-06 03:00 UTC
-  description: |
-      Sydney, AU
-      October Sydney Meetup
-      http://www.meetup.com/Australian-OpenStack-User-Group/events/220202327/
-
 - title: OpenStack 101
-  location: Houston, US
+  location: Houston, TX
   speaker: OpenStack Houston Meetup
   start: 2015-10-07 19:00 UTC
   description: |
@@ -95,7 +23,7 @@ talks:
       http://www.meetup.com/openstackhoustonmeetup/events/224870393/
 
 - title: OpenStack Liberty Release
-  location: Richardson, US
+  location: Richardson, TX
   speaker: OpenStack DFW
   start: 2015-10-07 19:00 UTC
   description: |
@@ -104,7 +32,7 @@ talks:
       http://www.meetup.com/OpenStack-DFW/events/225014699/
 
 - title: OpenDaylight & the Lithium Saga What? Why? Can it automate your dishwasher?
-  location: Portland, US
+  location: Portland, OR
   speaker: Portland OpenDaylight Users Group
   start: 2015-10-07 21:00 UTC
   description: |
@@ -113,7 +41,7 @@ talks:
       http://www.meetup.com/Portland-OpenDaylight-Users-Group/events/224748890/
 
 - title: Neutron apollozza! New date! New Location!
-  location: Austin, US
+  location: Austin, TX
   speaker: OpenStack Austin Texas
   start: 2015-10-08 19:30 UTC
   description: |
@@ -139,12 +67,84 @@ talks:
       OpenStack India Meetup, Pune
       http://www.meetup.com/Indian-OpenStack-User-Group/events/225039190/
 
-- title: Lets Talk Cloud Computing & OpenStack
-  location: Indore, IN
-  speaker: OpenSource Users, Developers & Ethical Hackers in Indore
-  start: 2015-10-11 03:00 UTC
+- title: OpenStack Cinder deep dive
+  location: Stockholm, SE
+  speaker: OpenStack User Group Nordics
+  start: 2015-10-12 11:30 UTC
   description: |
-      Indore, IN
-      Lets Talk Cloud Computing & OpenStack
-      http://www.meetup.com/Linux-Users-Ethical-Hackers-in-Indore/events/225669876/
+      Stockholm, SE
+      OpenStack Cinder deep dive
+      http://www.meetup.com/OpenStack-User-Group-Nordics/events/225365322/
+
+- title: Pub Gathering
+  location: Manchester, 18
+  speaker: Manchester OpenStack Meetup
+  start: 2015-10-13 13:30 UTC
+  description: |
+      Manchester, 18, GB
+      Pub Gathering
+      http://www.meetup.com/Manchester-OpenStack-Meetup/events/224421141/
+
+- title: Monolithic to Cloud-Native Apps Lessons Learned by HP/ Neutron with Akanda
+  location: New York, NY
+  speaker: OpenStack New York
+  start: 2015-10-14 18:00 UTC
+  description: |
+      New York, NY, US
+      Monolithic to Cloud-Native Apps Lessons Learned by HP/ Neutron with Akanda
+      http://www.meetup.com/OpenStack-New-York-Meetup/events/225737696/
+
+- title: OpenStack Howto part 7 - Data Processing
+  location: Prague, CZ
+  speaker: OpenStack Czech User Group Meetup
+  start: 2015-10-15 10:00 UTC
+  description: |
+      Prague, CZ
+      OpenStack Howto part 7 - Data Processing
+      http://www.meetup.com/OpenStack-Czech-User-Group-Meetup/events/222955596/
+
+- title: Monolithic to Cloud-Native Apps Lessons Learned by HP/ Neutron with Akanda
+  location: Philadelphia, PA
+  speaker: OpenStack Philly
+  start: 2015-10-15 18:00 UTC
+  description: |
+      Philadelphia, PA, US
+      Monolithic to Cloud-Native Apps Lessons Learned by HP/ Neutron with Akanda
+      http://www.meetup.com/Philly-OpenStack-Meetup-Group/events/225737782/
+
+- title: OpenStack Installation Methods & Software Defined Storage
+  location: Washington, DC
+  speaker: OpenStack DC
+  start: 2015-10-15 18:30 UTC
+  description: |
+      Washington, DC, US
+      OpenStack Installation Methods & Software Defined Storage
+      http://www.meetup.com/OpenStackDC/events/224954116/
+
+- title: Hands-on with OpenStack
+  location: Littleton, CO
+  speaker: OpenStack Denver
+  start: 2015-10-15 20:30 UTC
+  description: |
+      Littleton, CO, US
+      Hands-on with OpenStack
+      http://www.meetup.com/OpenStack-Denver/events/225566979/
+
+- title: SFBay OpenStack The Good, the Bad, and the Ugly of OpenStack APIs
+  location: San Francisco, CA
+  speaker: SFBay OpenStack
+  start: 2015-10-15 22:00 UTC
+  description: |
+      San Francisco, CA, US
+      SFBay OpenStack The Good, the Bad, and the Ugly of OpenStack APIs
+      http://www.meetup.com/openstack/events/223988220/
+
+- title: OpenStack中的SaaS
+  location: Beijing, CN
+  speaker: China OpenStack User Group
+  start: 2015-10-17 02:00 UTC
+  description: |
+      Beijing, CN
+      OpenStack中的SaaS
+      http://www.meetup.com/China-OpenStack-User-Group/events/225801881/
 
