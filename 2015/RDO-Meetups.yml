@@ -4,69 +4,6 @@ tags: RDO
 
 talks:
 
-- title: Blackboard OpenStack From Zero to Production
-  location: Reston, VA
-  speaker: OpenStack Northern Virginia
-  start: 2015-10-05 18:00 UTC
-  description: |
-      Reston, VA, US
-      Blackboard OpenStack From Zero to Production
-      http://www.meetup.com/OpenStack-Nova/events/225345504/
-
-- title: OpenStack 101
-  location: Houston, TX
-  speaker: OpenStack Houston Meetup
-  start: 2015-10-07 19:00 UTC
-  description: |
-      Houston, TX, US
-      OpenStack 101
-      http://www.meetup.com/openstackhoustonmeetup/events/224870393/
-
-- title: OpenStack Liberty Release
-  location: Richardson, TX
-  speaker: OpenStack DFW
-  start: 2015-10-07 19:00 UTC
-  description: |
-      Richardson, TX, US
-      OpenStack Liberty Release
-      http://www.meetup.com/OpenStack-DFW/events/225014699/
-
-- title: OpenDaylight & the Lithium Saga What? Why? Can it automate your dishwasher?
-  location: Portland, OR
-  speaker: Portland OpenDaylight Users Group
-  start: 2015-10-07 21:00 UTC
-  description: |
-      Portland, OR, US
-      OpenDaylight & the Lithium Saga What? Why? Can it automate your dishwasher?
-      http://www.meetup.com/Portland-OpenDaylight-Users-Group/events/224748890/
-
-- title: Neutron apollozza! New date! New Location!
-  location: Austin, TX
-  speaker: OpenStack Austin Texas
-  start: 2015-10-08 19:30 UTC
-  description: |
-      Austin, TX, US
-      Neutron apollozza! New date! New Location!
-      http://www.meetup.com/OpenStack-Austin/events/225479349/
-
-- title: 7. Meetup, Konu  Murano - OpenStack App Catalog
-  location: Istanbul, TR
-  speaker: Turkey OpenStack Meetup
-  start: 2015-10-08 12:00 UTC
-  description: |
-      Istanbul, TR
-      7. Meetup, Konu  Murano - OpenStack App Catalog
-      http://www.meetup.com/Turkey-OpenStack-Meetup/events/225419496/
-
-- title: OpenStack India Meetup, Pune
-  location: Bangalore, IN
-  speaker: Indian OpenStack User Group
-  start: 2015-10-10 01:30 UTC
-  description: |
-      Bangalore, IN
-      OpenStack India Meetup, Pune
-      http://www.meetup.com/Indian-OpenStack-User-Group/events/225039190/
-
 - title: OpenStack Cinder deep dive
   location: Stockholm, SE
   speaker: OpenStack User Group Nordics
@@ -75,6 +12,42 @@ talks:
       Stockholm, SE
       OpenStack Cinder deep dive
       http://www.meetup.com/OpenStack-User-Group-Nordics/events/225365322/
+
+- title: Open Source meetup at Red Hat October 2015
+  location: Ra'anana, IL
+  speaker: Open Source Israel
+  start: 2015-10-12 12:30 UTC
+  description: |
+      Ra'anana, IL
+      Open Source meetup at Red Hat October 2015
+      http://www.meetup.com/Open-Source-Israel/events/225488214/
+
+- title: Docker Meetup @Disney w/Datadog, Sumologic, and Microsoft
+  location: Seattle, WA
+  speaker: Docker Seattle
+  start: 2015-10-13 21:00 UTC
+  description: |
+      Seattle, WA, US
+      Docker Meetup @Disney w/Datadog, Sumologic, and Microsoft
+      http://www.meetup.com/Docker-Seattle/events/225594988/
+
+- title: Join us for our "Technology Innovator" Thought Leadership Dinner Event!
+  location: New York, NY
+  speaker: NYC "Technology Innovator" Thought Leadership Dinner Meetup
+  start: 2015-10-13 18:00 UTC
+  description: |
+      New York, NY, US
+      Join us for our "Technology Innovator" Thought Leadership Dinner Event!
+      http://www.meetup.com/NYC-Technology-Innovator-Thought-Leadership-Dinner-Meetup/events/225681737/
+
+- title: FREE FOOD & DRINKS- How Can My Startup Win Big W Big Data, The Cloud & Marketing
+  location: New York, NY
+  speaker: Startups Working Together
+  start: 2015-10-13 18:00 UTC
+  description: |
+      New York, NY, US
+      FREE FOOD & DRINKS- How Can My Startup Win Big W Big Data, The Cloud & Marketing
+      http://www.meetup.com/vidpaltravel/events/225121406/
 
 - title: Pub Gathering
   location: Manchester, 18
@@ -85,6 +58,78 @@ talks:
       Pub Gathering
       http://www.meetup.com/Manchester-OpenStack-Meetup/events/224421141/
 
+- title: Data Lake and the rise of the microservices
+  location: Berlin, DE
+  speaker: Docker Berlin
+  start: 2015-10-13 12:30 UTC
+  description: |
+      Berlin, DE
+      Data Lake and the rise of the microservices
+      http://www.meetup.com/Docker-Berlin/events/225894912/
+
+- title: First 15 Minutes with RancherOS and More
+  location: Tempe, AZ
+  speaker: Phoenix Docker Users Group
+  start: 2015-10-13 22:00 UTC
+  description: |
+      Tempe, AZ, US
+      First 15 Minutes with RancherOS and More
+      http://www.meetup.com/Docker-Phoenix/events/225782662/
+
+- title: Ansible München kickoff meeting
+  location: München, DE
+  speaker: Ansible München
+  start: 2015-10-13 13:00 UTC
+  description: |
+      München, DE
+      Ansible München kickoff meeting
+      http://www.meetup.com/Ansible-Munchen/events/223240048/
+
+- title: L.A. Cloud Engineeering Group Monthly Meetup
+  location: El Segundo, CA
+  speaker: L. A. Cloud Engineering Group
+  start: 2015-10-13 22:00 UTC
+  description: |
+      El Segundo, CA, US
+      L.A. Cloud Engineeering Group Monthly Meetup
+      http://www.meetup.com/Enterprise-Cloud/events/225087158/
+
+- title: OPENSHIFT 3 ROADSHOW 2015 in San Diego
+  location: Los Angeles, CA
+  speaker: Southern California Red Hat User Group (RHUG)
+  start: 2015-10-14 11:30 UTC
+  description: |
+      Los Angeles, CA, US
+      OPENSHIFT 3 ROADSHOW 2015 in San Diego
+      http://www.meetup.com/Southern-California-Red-Hat-User-Group-RHUG/events/224790514/
+
+- title: Arista CloudVision and VMware NSX-MH Integration
+  location: Reston, VA
+  speaker: Arista Networks MidAtlantic (DC/MD/NoVA) area Meetup
+  start: 2015-10-14 17:00 UTC
+  description: |
+      Reston, VA, US
+      Arista CloudVision and VMware NSX-MH Integration
+      http://www.meetup.com/Arista-Networks-MidAtlantic-DC-MD-NoVA-area-Meetup/events/225672109/
+
+- title: ACI Openstack LAB
+  location: New York, NY
+  speaker: NYC Networkers
+  start: 2015-10-14 17:30 UTC
+  description: |
+      New York, NY, US
+      ACI Openstack LAB
+      http://www.meetup.com/nycnetworkers/events/225949368/
+
+- title: The Home Depot
+  location: Boulder, CO
+  speaker: Colorado Cloud Foundry Meetup
+  start: 2015-10-14 19:30 UTC
+  description: |
+      Boulder, CO, US
+      The Home Depot
+      http://www.meetup.com/Colorado-Cloud-Foundry-Meetup/events/225590692/
+
 - title: Monolithic to Cloud-Native Apps Lessons Learned by HP/ Neutron with Akanda
   location: New York, NY
   speaker: OpenStack New York
@@ -93,6 +138,114 @@ talks:
       New York, NY, US
       Monolithic to Cloud-Native Apps Lessons Learned by HP/ Neutron with Akanda
       http://www.meetup.com/OpenStack-New-York-Meetup/events/225737696/
+
+- title: Scratching the surface of Continuous Delivery.
+  location: Wilmington, DE
+  speaker: Delaware DevOps
+  start: 2015-10-14 18:00 UTC
+  description: |
+      Wilmington, DE, US
+      Scratching the surface of Continuous Delivery.
+      http://www.meetup.com/Delaware-DevOps/events/224533993/
+
+- title: Policy-based Container Networking | The Dark Art of Container Monitoring
+  location: Palo Alto, CA
+  speaker: Docker Palo Alto
+  start: 2015-10-14 21:00 UTC
+  description: |
+      Palo Alto, CA, US
+      Policy-based Container Networking | The Dark Art of Container Monitoring
+      http://www.meetup.com/Docker-Palo-Alto/events/225559897/
+
+- title: Docker Philly October Meetup
+  location: Philadelphia, PA
+  speaker: Docker Philadelphia
+  start: 2015-10-14 18:00 UTC
+  description: |
+      Philadelphia, PA, US
+      Docker Philly October Meetup
+      http://www.meetup.com/Docker-Philadelphia/events/225724031/
+
+- title: Moving to a Micro-Service Architecture with Azure
+  location: Charlotte, NC
+  speaker: Charlotte Microsoft Cloud
+  start: 2015-10-14 18:00 UTC
+  description: |
+      Charlotte, NC, US
+      Moving to a Micro-Service Architecture with Azure
+      http://www.meetup.com/Charlotte-Microsoft-Cloud/events/224105274/
+
+- title: Monthly User Group Meeting
+  location: New York, NY
+  speaker: NYRHUG - New York Red Hat Users Group
+  start: 2015-10-14 18:00 UTC
+  description: |
+      New York, NY, US
+      Monthly User Group Meeting
+      http://www.meetup.com/NYRHUG-New-York-Red-Hat-Users-Group/events/225427421/
+
+- title: Bluemix Meetup dedicated to IBM Optimization on Cloud
+  location: Paris, FR
+  speaker: IBM Bluemix Paris Meetup
+  start: 2015-10-14 12:30 UTC
+  description: |
+      Paris, FR
+      Bluemix Meetup dedicated to IBM Optimization on Cloud
+      http://www.meetup.com/IBM-Bluemix-Paris-Meetup/events/225418201/
+
+- title: 3. Istanbul Meetup OpenStack'de Ceph Storage kullanimi
+  location: Istanbul, TR
+  speaker: Turkey OpenStack Meetup
+  start: 2015-10-14 12:00 UTC
+  description: |
+      Istanbul, TR
+      3. Istanbul Meetup OpenStack'de Ceph Storage kullanimi
+      http://www.meetup.com/Turkey-OpenStack-Meetup/events/225916298/
+
+- title: Ansible Berlin 10/15
+  location: Berlin, DE
+  speaker: Ansible Berlin
+  start: 2015-10-14 13:00 UTC
+  description: |
+      Berlin, DE
+      Ansible Berlin 10/15
+      http://www.meetup.com/Ansible-Berlin/events/225302435/
+
+- title: 教你玩東京~~東京高峰會介紹
+  location: Taipei, TW
+  speaker: OpenStack Taiwan User Group
+  start: 2015-10-14 07:30 UTC
+  description: |
+      Taipei, TW
+      教你玩東京~~東京高峰會介紹
+      http://www.meetup.com/OpenStack-Taiwan-User-Group/events/225859043/
+
+- title: Network and learn about DevOps!
+  location: New York, NY
+  speaker: New York DevOps Networking Meetup
+  start: 2015-10-15 09:00 UTC
+  description: |
+      New York, NY, US
+      Network and learn about DevOps!
+      http://www.meetup.com/New-York-DevOps-Networking-Meetup/events/225899749/
+
+- title: Online Rancher Beta Weekly Training
+  location: Carrollton, TX
+  speaker: Linux Containers & Virtualization Meetup
+  start: 2015-10-15 13:00 UTC
+  description: |
+      Carrollton, TX, US
+      Online Rancher Beta Weekly Training
+      http://www.meetup.com/Linux-Containers-Virtualization/events/225941992/
+
+- title: Virtual NPUG Meeting- Config Management Series
+  location: Houston, TX
+  speaker: Houston Network Programmability User Group (NPUG)
+  start: 2015-10-15 14:00 UTC
+  description: |
+      Houston, TX, US
+      Virtual NPUG Meeting- Config Management Series
+      http://www.meetup.com/Houston-NPUG/events/225945658/
 
 - title: OpenStack Howto part 7 - Data Processing
   location: Prague, CZ
@@ -103,6 +256,15 @@ talks:
       OpenStack Howto part 7 - Data Processing
       http://www.meetup.com/OpenStack-Czech-User-Group-Meetup/events/222955596/
 
+- title: Docker 101
+  location: Brno, CZ
+  speaker: Docker Brno
+  start: 2015-10-15 10:30 UTC
+  description: |
+      Brno, CZ
+      Docker 101
+      http://www.meetup.com/Docker-Brno/events/225921476/
+
 - title: Monolithic to Cloud-Native Apps Lessons Learned by HP/ Neutron with Akanda
   location: Philadelphia, PA
   speaker: OpenStack Philly
@@ -112,23 +274,113 @@ talks:
       Monolithic to Cloud-Native Apps Lessons Learned by HP/ Neutron with Akanda
       http://www.meetup.com/Philly-OpenStack-Meetup-Group/events/225737782/
 
-- title: OpenStack Installation Methods & Software Defined Storage
+- title: Open Mobile Networks with NFV & SFC technology, trend and implementation
+  location: Santa Clara, CA
+  speaker: Bay Area Network Virtualization
+  start: 2015-10-15 21:00 UTC
+  description: |
+      Santa Clara, CA, US
+      Open Mobile Networks with NFV & SFC technology, trend and implementation
+      http://www.meetup.com/openvswitch/events/225888312/
+
+- title: Docker Meetup #15 Docker toolbox & AWS ECS
+  location: London, 17
+  speaker: Docker London
+  start: 2015-10-15 13:00 UTC
+  description: |
+      London, 17, GB
+      Docker Meetup #15 Docker toolbox & AWS ECS
+      http://www.meetup.com/Docker-London/events/225932385/
+
+- title: Ansible at Scale by David Melamed (CloudLock)
+  location: Tel Aviv-Yafo, IL
+  speaker: Ansible Israel
+  start: 2015-10-15 12:00 UTC
+  description: |
+      Tel Aviv-Yafo, IL
+      Ansible at Scale by David Melamed (CloudLock)
+      http://www.meetup.com/Ansible-Israel/events/225060852/
+
+- title: Brno Docker meetup
+  location: Brno, CZ
+  speaker: Docker Brno
+  start: 2015-10-15 12:00 UTC
+  description: |
+      Brno, CZ
+      Brno Docker meetup
+      http://www.meetup.com/Docker-Brno/events/225508213/
+
+- title: OpenStack Installation Methods & Software Defined Storage (#27)
   location: Washington, DC
   speaker: OpenStack DC
   start: 2015-10-15 18:30 UTC
   description: |
       Washington, DC, US
-      OpenStack Installation Methods & Software Defined Storage
+      OpenStack Installation Methods & Software Defined Storage (#27)
       http://www.meetup.com/OpenStackDC/events/224954116/
 
-- title: Hands-on with OpenStack
+- title: Joint meeting with Colorado OpenStack
   location: Littleton, CO
   speaker: OpenStack Denver
   start: 2015-10-15 20:30 UTC
   description: |
       Littleton, CO, US
-      Hands-on with OpenStack
+      Joint meeting with Colorado OpenStack
       http://www.meetup.com/OpenStack-Denver/events/225566979/
+
+- title: Liberty, Tokyo, Arvind
+  location: Fort Collins, CO
+  speaker: Colorado OpenStack
+  start: 2015-10-15 20:30 UTC
+  description: |
+      Fort Collins, CO, US
+      Liberty, Tokyo, Arvind
+      http://www.meetup.com/OpenStack-Colorado/events/225872086/
+
+- title: September Ansible Meetup
+  location: Toronto, ON
+  speaker: Ansible Toronto
+  start: 2015-10-15 18:30 UTC
+  description: |
+      Toronto, ON, CA
+      September Ansible Meetup
+      http://www.meetup.com/Ansible-Toronto/events/224752617/
+
+- title: Meetup#17 Un peu de containers dans le monde OpenStack
+  location: Paris, FR
+  speaker: OpenStackFR Paris
+  start: 2015-10-15 12:45 UTC
+  description: |
+      Paris, FR
+      Meetup#17 Un peu de containers dans le monde OpenStack
+      http://www.meetup.com/OpenStack-France/events/225917781/
+
+- title: Watch and learn Building your own AWS AMI
+  location: Auckland, NZ
+  speaker: AuckLUG - The Auckland Linux Users Group
+  start: 2015-10-15 01:45 UTC
+  description: |
+      Auckland, NZ
+      Watch and learn Building your own AWS AMI
+      http://www.meetup.com/AuckLUG/events/225866275/
+
+- title: Docker Cordoba Meetup #2
+  location: Córdoba, AR
+  speaker: Docker Córdoba-ARG
+  start: 2015-10-15 17:45 UTC
+  description: |
+      Córdoba, AR
+      Docker Cordoba Meetup #2
+      http://www.meetup.com/Docker-Cordoba-ARG/events/225544905/
+
+- title: OpenStack Liberty
+  location: Atlanta, GA
+  speaker: Atlanta OpenStack Meetup Group
+  start: 2015-10-15 19:00 UTC
+  description: |
+      Atlanta, GA, US
+      OpenStack Liberty
+      http://www.meetup.com/openstack-atlanta/events/225414555/
 
 - title: SFBay OpenStack The Good, the Bad, and the Ugly of OpenStack APIs
   location: San Francisco, CA
@@ -139,6 +391,78 @@ talks:
       SFBay OpenStack The Good, the Bad, and the Ugly of OpenStack APIs
       http://www.meetup.com/openstack/events/223988220/
 
+- title: Ansible Barcelona October
+  location: Barcelona, ES
+  speaker: Ansible Barcelona
+  start: 2015-10-15 13:00 UTC
+  description: |
+      Barcelona, ES
+      Ansible Barcelona October
+      http://www.meetup.com/Ansible-Barcelona/events/225255072/
+
+- title: Workshop C C++ Debugging door Klaas van Gend
+  location: Utrecht, NL
+  speaker: NLUUG - Dutch Unix/Linux user group
+  start: 2015-10-15 13:00 UTC
+  description: |
+      Utrecht, NL
+      Workshop C C++ Debugging door Klaas van Gend
+      http://www.meetup.com/NLUUG-Dutch-Unix-Linux-user-group/events/225267103/
+
+- title: Live Session5 Best Practices for Hadoop Development
+  location: Bangalore, IN
+  speaker: Bangalore Storage and Data Management Group
+  start: 2015-10-15 11:30 UTC
+  description: |
+      Bangalore, IN
+      Live Session5 Best Practices for Hadoop Development
+      http://www.meetup.com/Bangalore-Storage-and-Data-Management-Group/events/226000637/
+
+- title:  Introduction to Camel Modernize Your Enterprise Application Development
+  location: Los Angeles, CA
+  speaker: Southern California Red Hat User Group (RHUG)
+  start: 2015-10-16 13:00 UTC
+  description: |
+      Los Angeles, CA, US
+       Introduction to Camel Modernize Your Enterprise Application Development
+      http://www.meetup.com/Southern-California-Red-Hat-User-Group-RHUG/events/225679156/
+
+- title: EasyVista The future of IT What the IT department looks like in 2020
+  location: Louisville, KY
+  speaker: HDI Kentuckiana (KSF)- our Local HDI  Chapter
+  start: 2015-10-16 13:00 UTC
+  description: |
+      Louisville, KY, US
+      EasyVista The future of IT What the IT department looks like in 2020
+      http://www.meetup.com/Kentuckiana-Support-Forum-KSF-HDI-Local-Chapter/events/225283722/
+
+- title: Regular Friday get-together
+  location: Ottawa, ON
+  speaker: Promoting Open Source/Libre to the Canadian government
+  start: 2015-10-16 16:30 UTC
+  description: |
+      Ottawa, ON, CA
+      Regular Friday get-together
+      http://www.meetup.com/Promoting-Open-Source-Libre-to-the-Canadian-government/events/225638096/
+
+- title: Linux INSTALLFest - Beginners Event
+  location: Auckland, NZ
+  speaker: AuckLUG - The Auckland Linux Users Group
+  start: 2015-10-16 16:30 UTC
+  description: |
+      Auckland, NZ
+      Linux INSTALLFest - Beginners Event
+      http://www.meetup.com/AuckLUG/events/225839239/
+
+- title: Ansbile Basics and Installation
+  location: Hyderabad, IN
+  speaker: Ansible Hyderabad
+  start: 2015-10-17 01:00 UTC
+  description: |
+      Hyderabad, IN
+      Ansbile Basics and Installation
+      http://www.meetup.com/Ansible-Hyderabad/events/225348493/
+
 - title: OpenStack中的SaaS
   location: Beijing, CN
   speaker: China OpenStack User Group
@@ -147,4 +471,337 @@ talks:
       Beijing, CN
       OpenStack中的SaaS
       http://www.meetup.com/China-OpenStack-User-Group/events/225801881/
+
+- title: OpenStack Octoberfest!
+  location: Saint Paul, MN
+  speaker: Minnesota OpenStack Meetup
+  start: 2015-10-19 18:15 UTC
+  description: |
+      Saint Paul, MN, US
+      OpenStack Octoberfest!
+      http://www.meetup.com/Minnesota-OpenStack-Meetup/events/224638648/
+
+- title: OpenStack Octoberfest!
+  location: Minneapolis, MN
+  speaker: Skyway Software Symposium
+  start: 2015-10-19 18:15 UTC
+  description: |
+      Minneapolis, MN, US
+      OpenStack Octoberfest!
+      http://www.meetup.com/Skyway-Software-Symposium/events/224701024/
+
+- title: Lightning talks & More
+  location: Atlanta, GA
+  speaker: Docker Atlanta
+  start: 2015-10-19 18:30 UTC
+  description: |
+      Atlanta, GA, US
+      Lightning talks & More
+      http://www.meetup.com/Docker-Atlanta/events/224667875/
+
+- title: Stateless OS From an OpenStack Perspective & Creacion de Plugins para Tempest
+  location: Guadalajara, MX
+  speaker: OpenStack GDL
+  start: 2015-10-19 20:00 UTC
+  description: |
+      Guadalajara, MX
+      Stateless OS From an OpenStack Perspective & Creacion de Plugins para Tempest
+      http://www.meetup.com/OpenStack-GDL/events/225875446/
+
+- title: Docker 101 - requires FREE registration
+  location: Kirkland, WA
+  speaker: Cloud Genius
+  start: 2015-10-20 18:00 UTC
+  description: |
+      Kirkland, WA, US
+      Docker 101 - requires FREE registration
+      http://www.meetup.com/cloudgenius/events/224721004/
+
+- title: Raleigh Red Hat user group - October meeting - Openstack revisit?
+  location: Raleigh, NC
+  speaker: Raleigh Red Hat User Group
+  start: 2015-10-20 18:00 UTC
+  description: |
+      Raleigh, NC, US
+      Raleigh Red Hat user group - October meeting - Openstack revisit?
+      http://www.meetup.com/Raleigh-Red-Hat-User-Group/events/225353900/
+
+- title: Come together for food, drink, and NATS! RSVP to attend
+  location: London, 17
+  speaker: London NATS Cloud Native User Group
+  start: 2015-10-20 13:00 UTC
+  description: |
+      London, 17, GB
+      Come together for food, drink, and NATS! RSVP to attend
+      http://www.meetup.com/London-NATS-Cloud-Native-User-Group/events/225592953/
+
+- title: How to Actually Recruit & Retain Diverse Tech Teams
+  location: Austin, TX
+  speaker: Cloud Austin
+  start: 2015-10-20 19:00 UTC
+  description: |
+      Austin, TX, US
+      How to Actually Recruit & Retain Diverse Tech Teams
+      http://www.meetup.com/CloudAustin/events/225393913/
+
+- title: Docker Meetup Oct @ Sportsbet
+  location: Melbourne, AU
+  speaker: Melbourne Docker User Group
+  start: 2015-10-20 03:00 UTC
+  description: |
+      Melbourne, AU
+      Docker Meetup Oct @ Sportsbet
+      http://www.meetup.com/Melbourne-Docker-User-Group/events/225342491/
+
+- title: October Ansible Meetup
+  location: Portland, OR
+  speaker: Ansible Portland
+  start: 2015-10-20 22:00 UTC
+  description: |
+      Portland, OR, US
+      October Ansible Meetup
+      http://www.meetup.com/Ansible-Portland/events/225534010/
+
+- title: What's new in OpenShift 3
+  location: Atlanta, GA
+  speaker: Atlanta Red Hat User Group
+  start: 2015-10-20 19:30 UTC
+  description: |
+      Atlanta, GA, US
+      What's new in OpenShift 3
+      http://www.meetup.com/Atlanta-Red-Hat-User-Group/events/225420636/
+
+- title: New, Fresh and Improved Satellite (6.1) -- Technical Architecture Session
+  location: Oslo, NO
+  speaker: Red Hat User Group Oslo
+  start: 2015-10-21 11:15 UTC
+  description: |
+      Oslo, NO
+      New, Fresh and Improved Satellite (6.1) -- Technical Architecture Session
+      http://www.meetup.com/RedHatOslo/events/224921989/
+
+- title: Leveraging the Cloud with Java Programming
+  location: Chicago, IL
+  speaker: Chicago PaaS, Bluemix and Cloud Computing Meetup
+  start: 2015-10-21 19:00 UTC
+  description: |
+      Chicago, IL, US
+      Leveraging the Cloud with Java Programming
+      http://www.meetup.com/Chicago-PaaS-Bluemix-and-Cloud-Computing-Meetup/events/225562136/
+
+- title: October Apache Aurora Meetup
+  location: San Francisco, CA
+  speaker: Bay Area Apache Aurora Users Group
+  start: 2015-10-21 21:00 UTC
+  description: |
+      San Francisco, CA, US
+      October Apache Aurora Meetup
+      http://www.meetup.com/Bay-Area-Apache-Aurora-Users-Group/events/225412389/
+
+- title: Monthly October Docker Meetup @ Optiver!
+  location: Sydney, AU
+  speaker: Sydney Docker User Group
+  start: 2015-10-21 03:00 UTC
+  description: |
+      Sydney, AU
+      Monthly October Docker Meetup @ Optiver!
+      http://www.meetup.com/Sydney-Docker-User-Group/events/219325408/
+
+- title: An Evening of Python Coding 
+  location: Austin, TX
+  speaker: The Austin Python Meetup
+  start: 2015-10-21 19:00 UTC
+  description: |
+      Austin, TX, US
+      An Evening of Python Coding 
+      http://www.meetup.com/austinpython/events/225591999/
+
+- title: OpenStack 2015 October
+  location: Budapest, HU
+  speaker: OpenStack Hungary Meetup Group
+  start: 2015-10-21 12:30 UTC
+  description: |
+      Budapest, HU
+      OpenStack 2015 October
+      http://www.meetup.com/OpenStack-Hungary-Meetup-Group/events/225260922/
+
+- title: Docker, automation, delivery and operation process. meetup #3
+  location: Kuala Lumpur, MY
+  speaker: Docker Kuala Lumpur
+  start: 2015-10-21 06:30 UTC
+  description: |
+      Kuala Lumpur, MY
+      Docker, automation, delivery and operation process. meetup #3
+      http://www.meetup.com/Docker-Kuala-Lumpur/events/225890865/
+
+- title: Moving into DevOps from more traditional roles
+  location: Boston, MA
+  speaker: Boston Devops
+  start: 2015-10-21 18:30 UTC
+  description: |
+      Boston, MA, US
+      Moving into DevOps from more traditional roles
+      http://www.meetup.com/Boston-Devops/events/225869919/
+
+- title: Docker Meetup Las Vegas Presents SaltStack
+  location: Las Vegas, NV
+  speaker: Docker Las Vegas
+  start: 2015-10-21 21:30 UTC
+  description: |
+      Las Vegas, NV, US
+      Docker Meetup Las Vegas Presents SaltStack
+      http://www.meetup.com/Docker-Las-Vegas/events/225430601/
+
+- title: Sensu & ELK
+  location: Bristol, M3
+  speaker: Bristol DevOps
+  start: 2015-10-21 13:30 UTC
+  description: |
+      Bristol, M3, GB
+      Sensu & ELK
+      http://www.meetup.com/Bristol-DevOps/events/225340610/
+
+- title: Docker Swarm/Kubernetes/Mesos overview
+  location: Raleigh, NC
+  speaker: Docker Raleigh
+  start: 2015-10-21 19:00 UTC
+  description: |
+      Raleigh, NC, US
+      Docker Swarm/Kubernetes/Mesos overview
+      http://www.meetup.com/Docker-Raleigh/events/225882011/
+
+- title: Open Source Cloud Meetup - October 2015
+  location: Columbia, MD
+  speaker: Open Source Cloud
+  start: 2015-10-21 19:00 UTC
+  description: |
+      Columbia, MD, US
+      Open Source Cloud Meetup - October 2015
+      http://www.meetup.com/opensourcecloud/events/223658717/
+
+- title: October Meeting Custom Resources with Chef 12.5+
+  location: San Diego, CA
+  speaker: San Diego DevOps
+  start: 2015-10-21 22:00 UTC
+  description: |
+      San Diego, CA, US
+      October Meeting Custom Resources with Chef 12.5+
+      http://www.meetup.com/sddevops/events/222281926/
+
+- title: DockerGrunn 4th edition
+  location: Groningen, NL
+  speaker: DockerGrunn
+  start: 2015-10-21 13:30 UTC
+  description: |
+      Groningen, NL
+      DockerGrunn 4th edition
+      http://www.meetup.com/DockerGrunn/events/225723185/
+
+- title: DevSecCon Let's put Security in DevOps
+  location: London, 17
+  speaker: London DevSecOps Meetup
+  start: 2015-10-22 04:00 UTC
+  description: |
+      London, 17, GB
+      DevSecCon Let's put Security in DevOps
+      http://www.meetup.com/London-DevSecOps-Meetup/events/225655900/
+
+- title: Service Discovery Why a bash script with nc checking a port isnt good.
+  location: Austin, TX
+  speaker: Austin Operators
+  start: 2015-10-22 12:30 UTC
+  description: |
+      Austin, TX, US
+      Service Discovery Why a bash script with nc checking a port isnt good.
+      http://www.meetup.com/AusOps/events/225851651/
+
+- title: Cloud Foundry w/ Josh McKenty co-founder of OpenStack
+  location: Seattle, WA
+  speaker: Seattle Cloud Foundry Meetup
+  start: 2015-10-22 21:00 UTC
+  description: |
+      Seattle, WA, US
+      Cloud Foundry w/ Josh McKenty co-founder of OpenStack
+      http://www.meetup.com/SeattleCloudFoundry/events/224610962/
+
+- title: Partner Event Cloud Security Alliance Seattle Chapter Meeting
+  location: Redmond, WA
+  speaker: Seattle Technical Forum
+  start: 2015-10-22 21:00 UTC
+  description: |
+      Redmond, WA, US
+      Partner Event Cloud Security Alliance Seattle Chapter Meeting
+      http://www.meetup.com/Sea-Tech-Forum/events/225993745/
+
+- title: October meetup - OpenStack Murano
+  location: Chesterfield, MO
+  speaker: OpenStack St. Louis
+  start: 2015-10-22 19:30 UTC
+  description: |
+      Chesterfield, MO, US
+      October meetup - OpenStack Murano
+      http://www.meetup.com/OpenStack-STL/events/225819101/
+
+- title: Ansible NOVA kickoff
+  location: Herndon, VA
+  speaker: Ansible NOVA
+  start: 2015-10-22 18:30 UTC
+  description: |
+      Herndon, VA, US
+      Ansible NOVA kickoff
+      http://www.meetup.com/Ansible-NOVA/events/221889537/
+
+- title: Ansible Boulder Monthly
+  location: Boulder, CO
+  speaker: Ansible Boulder
+  start: 2015-10-22 20:30 UTC
+  description: |
+      Boulder, CO, US
+      Ansible Boulder Monthly
+      http://www.meetup.com/Ansible-Boulder/events/224876029/
+
+- title: Open Stack Monthly Meetup
+  location: Herriman, UT
+  speaker: OpenStack Utah
+  start: 2015-10-22 21:00 UTC
+  description: |
+      Herriman, UT, US
+      Open Stack Monthly Meetup
+      http://www.meetup.com/openstack-utah/events/224963205/
+
+- title: NoVA Open Source Cloud Meetup - October 2015
+  location: Mc Lean, VA
+  speaker: NoVA Open Source Cloud
+  start: 2015-10-22 19:00 UTC
+  description: |
+      Mc Lean, VA, US
+      NoVA Open Source Cloud Meetup - October 2015
+      http://www.meetup.com/novaopensourcecloud/events/223658783/
+
+- title: Ansible Guadalajara Kickoff meeting
+  location: Guadalajara, MX
+  speaker: Ansible Guadalajara
+  start: 2015-10-22 20:00 UTC
+  description: |
+      Guadalajara, MX
+      Ansible Guadalajara Kickoff meeting
+      http://www.meetup.com/Ansible-Guadalajara/events/225256202/
+
+- title: Ansible Hawai'i Kickoff
+  location: Honolulu, HI
+  speaker: Ansible Hawai'i
+  start: 2015-10-24 00:00 UTC
+  description: |
+      Honolulu, HI, US
+      Ansible Hawai'i Kickoff
+      http://www.meetup.com/Ansible-Hawaii/events/222138558/
+
+- title: Docker Meetup #15
+  location: Bangalore, IN
+  speaker: Docker Bangalore
+  start: 2015-10-24 00:00 UTC
+  description: |
+      Bangalore, IN
+      Docker Meetup #15
+      http://www.meetup.com/Docker-Bangalore/events/225666858/
 
