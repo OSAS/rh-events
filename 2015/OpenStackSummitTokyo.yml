@@ -10,3 +10,19 @@ description: |
 
   More information is available at
   <https://www.openstack.org/summit/tokyo-2015/>
+
+talks:
+
+- title: RDO Community Meetup
+  start: 2015-10-28 12:45
+  end: 2015-10-28 14:00
+  room: Sakura Lower Level S-1 and S-2
+  description: |
+    RDO is a community packaging of OpenStack for CentOS, RHEL, and
+    Fedora. In this session, we'll discuss community governance,
+    progress on the packaging, and whatever other issues people are
+    interested in. The agenda may be found at
+    https://etherpad.openstack.org/p/rdo-tokyo and you can add your
+    items of interest.
+
+
