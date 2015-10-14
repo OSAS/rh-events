@@ -4,19 +4,11 @@ tags: RDO
 
 talks:
 
-- title: Pub Gathering
-  location: Manchester, 18
-  speaker: Manchester OpenStack Meetup
-  start: 2015-10-13 13:30 UTC
-  description: |
-      Manchester, 18, GB
-      Pub Gathering
-      http://www.meetup.com/Manchester-OpenStack-Meetup/events/224421141/
-
 - title: OPENSHIFT 3 ROADSHOW 2015 in San Diego
   location: Los Angeles, CA
   speaker: Southern California Red Hat User Group (RHUG)
   start: 2015-10-14 11:30 UTC
+  end: 2015-10-14 12:30 UTC
   description: |
       Los Angeles, CA, US
       OPENSHIFT 3 ROADSHOW 2015 in San Diego
@@ -26,42 +18,37 @@ talks:
   location: New York, NY
   speaker: NYC Networkers
   start: 2015-10-14 17:30 UTC
+  end: 2015-10-14 18:30 UTC
   description: |
       New York, NY, US
       ACI Openstack LAB
       http://www.meetup.com/nycnetworkers/events/225949368/
 
+- title: Monolithic to Cloud-Native Apps Lessons Learned by HP/ Neutron with Akanda
+  location: New York, NY
+  speaker: OpenStack New York
+  start: 2015-10-14 18:00 UTC
+  end: 2015-10-14 19:00 UTC
+  description: |
+      New York, NY, US
+      Monolithic to Cloud-Native Apps Lessons Learned by HP/ Neutron with Akanda
+      http://www.meetup.com/OpenStack-New-York-Meetup/events/225737696/
+
 - title: 3. Istanbul Meetup OpenStack'de Ceph Storage kullanimi
   location: Istanbul, TR
   speaker: Turkey OpenStack Meetup
   start: 2015-10-14 12:00 UTC
+  end: 2015-10-14 13:00 UTC
   description: |
       Istanbul, TR
       3. Istanbul Meetup OpenStack'de Ceph Storage kullanimi
       http://www.meetup.com/Turkey-OpenStack-Meetup/events/225916298/
 
-- title: 教你玩東京~~東京高峰會介紹
-  location: Taipei, TW
-  speaker: OpenStack Taiwan User Group
-  start: 2015-10-14 07:30 UTC
-  description: |
-      Taipei, TW
-      教你玩東京~~東京高峰會介紹
-      http://www.meetup.com/OpenStack-Taiwan-User-Group/events/225859043/
-
-- title: OpenStack Howto part 7 - Data Processing
-  location: Prague, CZ
-  speaker: OpenStack Czech User Group Meetup
-  start: 2015-10-15 10:00 UTC
-  description: |
-      Prague, CZ
-      OpenStack Howto part 7 - Data Processing
-      http://www.meetup.com/OpenStack-Czech-User-Group-Meetup/events/222955596/
-
 - title: Monolithic to Cloud-Native Apps Lessons Learned by HP/ Neutron with Akanda
   location: Philadelphia, PA
   speaker: OpenStack Philly
   start: 2015-10-15 18:00 UTC
+  end: 2015-10-15 19:00 UTC
   description: |
       Philadelphia, PA, US
       Monolithic to Cloud-Native Apps Lessons Learned by HP/ Neutron with Akanda
@@ -71,6 +58,7 @@ talks:
   location: Washington, DC
   speaker: OpenStack DC
   start: 2015-10-15 18:30 UTC
+  end: 2015-10-15 19:30 UTC
   description: |
       Washington, DC, US
       OpenStack Installation Methods & Software Defined Storage (#27)
@@ -80,6 +68,7 @@ talks:
   location: Littleton, CO
   speaker: OpenStack Denver
   start: 2015-10-15 20:30 UTC
+  end: 2015-10-15 21:30 UTC
   description: |
       Littleton, CO, US
       Joint meeting with Colorado OpenStack
@@ -89,6 +78,7 @@ talks:
   location: Fort Collins, CO
   speaker: Colorado OpenStack
   start: 2015-10-15 20:30 UTC
+  end: 2015-10-15 21:30 UTC
   description: |
       Fort Collins, CO, US
       Liberty, Tokyo, Arvind
@@ -98,33 +88,37 @@ talks:
   location: Paris, FR
   speaker: OpenStackFR Paris
   start: 2015-10-15 12:45 UTC
+  end: 2015-10-15 13:45 UTC
   description: |
       Paris, FR
       Meetup#17 Un peu de containers dans le monde OpenStack
       http://www.meetup.com/OpenStack-France/events/225917781/
 
-- title: OpenStack Liberty
-  location: Atlanta, GA
-  speaker: Atlanta OpenStack Meetup Group
-  start: 2015-10-15 19:00 UTC
-  description: |
-      Atlanta, GA, US
-      OpenStack Liberty
-      http://www.meetup.com/openstack-atlanta/events/225414555/
-
 - title: SFBay OpenStack The Good, the Bad, and the Ugly of OpenStack APIs
   location: San Francisco, CA
   speaker: SFBay OpenStack
   start: 2015-10-15 22:00 UTC
+  end: 2015-10-15 23:00 UTC
   description: |
       San Francisco, CA, US
       SFBay OpenStack The Good, the Bad, and the Ugly of OpenStack APIs
       http://www.meetup.com/openstack/events/223988220/
 
+- title: OpenStack Liberty
+  location: Atlanta, GA
+  speaker: Atlanta OpenStack Meetup Group
+  start: 2015-10-15 19:00 UTC
+  end: 2015-10-15 20:00 UTC
+  description: |
+      Atlanta, GA, US
+      OpenStack Liberty
+      http://www.meetup.com/openstack-atlanta/events/225414555/
+
 - title: OpenStack中的SaaS
   location: Beijing, CN
   speaker: China OpenStack User Group
   start: 2015-10-17 02:00 UTC
+  end: 2015-10-17 03:00 UTC
   description: |
       Beijing, CN
       OpenStack中的SaaS
@@ -134,24 +128,57 @@ talks:
   location: Saint Paul, MN
   speaker: Minnesota OpenStack Meetup
   start: 2015-10-19 18:15 UTC
+  end: 2015-10-19 19:15 UTC
   description: |
       Saint Paul, MN, US
       OpenStack Octoberfest!
       http://www.meetup.com/Minnesota-OpenStack-Meetup/events/224638648/
 
+- title: OpenStack BoF at All Things Open!
+  location: Durham, NC
+  speaker: Triangle OpenStack Meetup
+  start: 2015-10-19 18:00 UTC
+  end: 2015-10-19 19:00 UTC
+  description: |
+      Durham, NC, US
+      OpenStack BoF at All Things Open!
+      http://www.meetup.com/Triangle-OpenStack-Meetup/events/226055043/
+
 - title: Stateless OS From an OpenStack Perspective & Creacion de Plugins para Tempest
   location: Guadalajara, MX
   speaker: OpenStack GDL
   start: 2015-10-19 20:00 UTC
+  end: 2015-10-19 21:00 UTC
   description: |
       Guadalajara, MX
       Stateless OS From an OpenStack Perspective & Creacion de Plugins para Tempest
       http://www.meetup.com/OpenStack-GDL/events/225875446/
 
+- title: Raleigh Red Hat user group - October meeting - Openstack revisit?
+  location: Raleigh, NC
+  speaker: Raleigh Red Hat User Group
+  start: 2015-10-20 18:00 UTC
+  end: 2015-10-20 19:00 UTC
+  description: |
+      Raleigh, NC, US
+      Raleigh Red Hat user group - October meeting - Openstack revisit?
+      http://www.meetup.com/Raleigh-Red-Hat-User-Group/events/225353900/
+
+- title: What's new in OpenShift 3
+  location: Atlanta, GA
+  speaker: Atlanta Red Hat User Group
+  start: 2015-10-20 19:30 UTC
+  end: 2015-10-20 20:30 UTC
+  description: |
+      Atlanta, GA, US
+      What's new in OpenShift 3
+      http://www.meetup.com/Atlanta-Red-Hat-User-Group/events/225420636/
+
 - title: OpenStack 2015 October
   location: Budapest, HU
   speaker: OpenStack Hungary Meetup Group
   start: 2015-10-21 12:30 UTC
+  end: 2015-10-21 13:30 UTC
   description: |
       Budapest, HU
       OpenStack 2015 October
@@ -161,6 +188,7 @@ talks:
   location: Chesterfield, MO
   speaker: OpenStack St. Louis
   start: 2015-10-22 19:30 UTC
+  end: 2015-10-22 20:30 UTC
   description: |
       Chesterfield, MO, US
       October meetup - OpenStack Murano
@@ -170,8 +198,19 @@ talks:
   location: Herriman, UT
   speaker: OpenStack Utah
   start: 2015-10-22 21:00 UTC
+  end: 2015-10-22 22:00 UTC
   description: |
       Herriman, UT, US
       Open Stack Monthly Meetup
       http://www.meetup.com/openstack-utah/events/224963205/
+
+- title: OpenStack Baltimore BiModel IT
+  location: Baltimore, MD
+  speaker: OpenStack Baltimore
+  start: 2015-10-27 18:00 UTC
+  end: 2015-10-27 19:00 UTC
+  description: |
+      Baltimore, MD, US
+      OpenStack Baltimore BiModel IT
+      http://www.meetup.com/OpenStack-Baltimore/events/225776066/
 
