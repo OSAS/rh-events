@@ -14,8 +14,8 @@ description: |
 talks:
 
 - title: RDO Community Meetup
-  start: 2015-10-28 12:45
-  end: 2015-10-28 14:00
+  start: 2015-10-28 12:45 JST
+  end: 2015-10-28 14:00 JST
   room: Sakura Lower Level S-1 and S-2
   description: |
     RDO is a community packaging of OpenStack for CentOS, RHEL, and
