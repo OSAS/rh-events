@@ -24,7 +24,7 @@ talks:
       Liberty Introduction
       http://www.meetup.com/OpenStack-Taiwan-User-Group/events/226125797/
 
-- title: October meetup - OpenStack Murano
+- title: October Meetup - OpenStack Murano
   location: Chesterfield, MO
   speaker: OpenStack St. Louis
   start: 2015-10-22 19:30 UTC
@@ -34,14 +34,14 @@ talks:
       October meetup - OpenStack Murano
       http://www.meetup.com/OpenStack-STL/events/225819101/
 
-- title: OPENSTACK TOKYO KIRIN ICHIBAN MITAKA CLOUDBEERS SUMMIT 
+- title: OpenStack Tokyo Kirin Ichiban Mitaka CloudBeers Summit
   location: San Francisco, CA
   speaker: #CloudBeers
   start: 2015-10-26 22:00 UTC
   end: 2015-10-26 23:00 UTC
   description: |
       San Francisco, CA, US
-      OPENSTACK TOKYO KIRIN ICHIBAN MITAKA CLOUDBEERS SUMMIT 
+      OpenStack Tokyo Kirin Ichiban Mitaka CloudBeers Summit 
       http://www.meetup.com/CloudBeers/events/226076091/
 
 - title: OpenStack Baltimore BiModel IT
@@ -63,4 +63,3 @@ talks:
       Porto Alegre, BR
       7º Hangout OpenStack Brasil
       http://www.meetup.com/Openstack-Brasil/events/225944928/
-
