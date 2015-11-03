@@ -63,3 +63,145 @@ talks:
       Porto Alegre, BR
       7º Hangout OpenStack Brasil
       http://www.meetup.com/Openstack-Brasil/events/225944928/
+
+- title: OpenStack Liberty & Mehr
+  location: Köln, DE
+  speaker: OpenStack X Cologne
+  start: 2015-11-04 12:00 UTC
+  end: 2015-11-04 13:00 UTC
+  description: |
+      Köln, DE
+      OpenStack Liberty & Mehr
+      http://www.meetup.com/OpenStack-X/events/225616146/
+
+- title: OpenStack Cinder, Implementation Today and New Trends for Tomorrow
+  location: Richardson, TX
+  speaker: OpenStack DFW
+  start: 2015-11-04 19:00 UTC
+  end: 2015-11-04 20:00 UTC
+  description: |
+      Richardson, TX, US
+      OpenStack Cinder, Implementation Today and New Trends for Tomorrow
+      http://www.meetup.com/OpenStack-DFW/events/225205780/
+
+- title: Nov Meetup - What's new in OpenStack Liberty?
+  location: Orlando, FL
+  speaker: OpenStack Central Florida Meetup
+  start: 2015-11-04 19:00 UTC
+  end: 2015-11-04 20:00 UTC
+  description: |
+      Orlando, FL, US
+      Nov Meetup - What's new in OpenStack Liberty?
+      http://www.meetup.com/Orlando-Central-Florida-OpenStack-Meetup/events/226233373/
+
+- title: Quoi de neuf du côté d'OpenStack / Découvrez Ansible
+  location: Toulouse, FR
+  speaker: Toulouse DevOps
+  start: 2015-11-04 13:00 UTC
+  end: 2015-11-04 14:00 UTC
+  description: |
+      Toulouse, FR
+      Quoi de neuf du côté d'OpenStack / Découvrez Ansible
+      http://www.meetup.com/Toulouse-DevOps/events/226016373/
+
+- title: OSATH - FOSSCOMM 2015
+  location: Athens, GR
+  speaker: Athens OpenStack User Group
+  start: 2015-11-07 03:30 UTC
+  end: 2015-11-07 04:30 UTC
+  description: |
+      Athens, GR
+      OSATH - FOSSCOMM 2015
+      http://www.meetup.com/Athens-OpenStack-User-Group/events/226479917/
+
+- title: InfoTechMeetup02 -Intro to OpenStack & Linux Lab (Part 1 of 2)
+  location: Bowie, MD
+  speaker: Bowie InfoTech Network
+  start: 2015-11-07 14:00 UTC
+  end: 2015-11-07 15:00 UTC
+  description: |
+      Bowie, MD, US
+      InfoTechMeetup02 -Intro to OpenStack & Linux Lab (Part 1 of 2)
+      http://www.meetup.com/BowieInfoTechNetwork/events/225875477/
+
+- title: whereis instance_ha + OpenStack Tokyo Summit Recap
+  location: Sydney, AU
+  speaker: Australian OpenStack User Group
+  start: 2015-11-11 02:00 UTC
+  end: 2015-11-11 03:00 UTC
+  description: |
+      Sydney, AU
+      whereis instance_ha + OpenStack Tokyo Summit Recap
+      http://www.meetup.com/Australian-OpenStack-User-Group/events/220202353/
+
+- title: OpenStack Networking Deep Dive with PLUMgrid
+  location: Dallas, TX
+  speaker: DFW Software Defined Networking (SDN) Group
+  start: 2015-11-12 19:00 UTC
+  end: 2015-11-12 20:00 UTC
+  description: |
+      Dallas, TX, US
+      OpenStack Networking Deep Dive with PLUMgrid
+      http://www.meetup.com/DFWSDN/events/225292709/
+
+- title: 8. Meetup, Konu OpenStack Plugin Development 101
+  location: Istanbul, TR
+  speaker: Turkey OpenStack Meetup
+  start: 2015-11-12 12:00 UTC
+  end: 2015-11-12 13:00 UTC
+  description: |
+      Istanbul, TR
+      8. Meetup, Konu OpenStack Plugin Development 101
+      http://www.meetup.com/Turkey-OpenStack-Meetup/events/225419513/
+
+- title: NFV - Applications virtuelles Openstack accélérées - Paris 11h30
+  location: Santa Clara, CA
+  speaker: DPDK
+  start: 2015-11-13 14:30 UTC
+  end: 2015-11-13 15:30 UTC
+  description: |
+      Santa Clara, CA, US
+      NFV - Applications virtuelles Openstack accélérées - Paris 11h30
+      http://www.meetup.com/DPDK_org/events/226016492/
+
+- title: November Meetup
+  location: Manchester, 18
+  speaker: Manchester OpenStack Meetup
+  start: 2015-11-16 13:30 UTC
+  end: 2015-11-16 14:30 UTC
+  description: |
+      Manchester, 18, GB
+      November Meetup
+      http://www.meetup.com/Manchester-OpenStack-Meetup/events/225442374/
+
+- title: Intro to OpenStack
+  location: New York, NY
+  speaker: NYC Networkers
+  start: 2015-11-17 17:30 UTC
+  end: 2015-11-17 18:30 UTC
+  description: |
+      New York, NY, US
+      Intro to OpenStack
+      http://www.meetup.com/nycnetworkers/events/226008746/
+
+- title: Deploying OpenStack Using OSAD
+  location: Houston, TX
+  speaker: OpenStack Houston Meetup
+  start: 2015-11-17 19:00 UTC
+  end: 2015-11-17 20:00 UTC
+  description: |
+      Houston, TX, US
+      Deploying OpenStack Using OSAD
+      http://www.meetup.com/openstackhoustonmeetup/events/226009298/
+
+- title: Kuryr - Connecting containers to OpenStack Neutron & Intel Open Network Platform
+  location: Santa Clara, CA
+  speaker: Bay Area Network Virtualization
+  start: 2015-11-17 21:00 UTC
+  end: 2015-11-17 22:00 UTC
+  description: |
+      Santa Clara, CA, US
+      Kuryr - Connecting containers to OpenStack Neutron & Intel Open Network Platform
+      http://www.meetup.com/openvswitch/events/226518209/
+
+
