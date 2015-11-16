@@ -4,66 +4,6 @@ tags: RDO
 
 talks:
 
-- title: Mastering OpenStack - Step 11 - Scaling Out / Docker on OpenStack - Step 4
-  location: Tehran, IR
-  speaker: Iran OpenStack
-  start: 2015-11-10 07:30 UTC
-  end: 2015-11-10 08:30 UTC
-  description: |
-      Tehran, IR
-      Mastering OpenStack - Step 11 - Scaling Out / Docker on OpenStack - Step 4
-      http://www.meetup.com/Iran-OpenStack/events/226649114/
-
-- title: whereis instance_ha + OpenStack Tokyo Summit Recap
-  location: Sydney, AU
-  speaker: Australian OpenStack User Group
-  start: 2015-11-11 02:00 UTC
-  end: 2015-11-11 03:00 UTC
-  description: |
-      Sydney, AU
-      whereis instance_ha + OpenStack Tokyo Summit Recap
-      http://www.meetup.com/Australian-OpenStack-User-Group/events/220202353/
-
-- title: HP Helion Meetup Budapest 11/2015
-  location: Budapest, HU
-  speaker: HP Helion Hungary
-  start: 2015-11-11 12:30 UTC
-  end: 2015-11-11 13:30 UTC
-  description: |
-      Budapest, HU
-      HP Helion Meetup Budapest 11/2015
-      http://www.meetup.com/HP-Helion-Hungary/events/225705273/
-
-- title: Online Meetup Pure-container OpenStack
-  location: Carrollton, TX
-  speaker: Linux Containers & Virtualization Meetup
-  start: 2015-11-12 12:00 UTC
-  end: 2015-11-12 13:00 UTC
-  description: |
-      Carrollton, TX, US
-      Online Meetup Pure-container OpenStack
-      http://www.meetup.com/Linux-Containers-Virtualization/events/226573811/
-
-- title: OpenStack Networking Deep Dive with PLUMgrid
-  location: Dallas, TX
-  speaker: DFW Software Defined Networking (SDN) Group
-  start: 2015-11-12 19:00 UTC
-  end: 2015-11-12 20:00 UTC
-  description: |
-      Dallas, TX, US
-      OpenStack Networking Deep Dive with PLUMgrid
-      http://www.meetup.com/DFWSDN/events/225292709/
-
-- title: 8. Meetup, Konu OpenStack Plugin Development 101
-  location: Istanbul, TR
-  speaker: Turkey OpenStack Meetup
-  start: 2015-11-12 12:00 UTC
-  end: 2015-11-12 13:00 UTC
-  description: |
-      Istanbul, TR
-      8. Meetup, Konu OpenStack Plugin Development 101
-      http://www.meetup.com/Turkey-OpenStack-Meetup/events/225419513/
-
 - title: November Meetup
   location: Manchester, 18
   speaker: Manchester OpenStack Meetup
@@ -104,25 +44,85 @@ talks:
       Kuryr - Connecting containers to OpenStack Neutron & Intel Open Network Platform
       http://www.meetup.com/openvswitch/events/226518209/
 
-- title: Openstack Lessons learned from the field with Mirantis
+- title: Arista and OpenStack SDN with Nuage
+  location: London, 17
+  speaker: Arista Networks London Meetup Group
+  start: 2015-11-17 13:30 UTC
+  end: 2015-11-17 14:30 UTC
+  description: |
+      London, 17, GB
+      Arista and OpenStack SDN with Nuage
+      http://www.meetup.com/Arista-Networks-London-Meetup-Group/events/226533916/
+
+- title: Discuss the Changes in Openstack releases from Juno to Kilo to Liberty
+  location: Frederick, MD
+  speaker: Frederick MD OpenStack Meetup
+  start: 2015-11-17 19:00 UTC
+  end: 2015-11-17 20:00 UTC
+  description: |
+      Frederick, MD, US
+      Discuss the Changes in Openstack releases from Juno to Kilo to Liberty
+      http://www.meetup.com/Frederick-MD-OpenStack-Meetup/events/226653740/
+
+- title: Cloud - Openstack technical overview
+  location: Prague, CZ
+  speaker: Morning Talks
+  start: 2015-11-18 03:00 UTC
+  end: 2015-11-18 04:00 UTC
+  description: |
+      Prague, CZ
+      Cloud - Openstack technical overview
+      http://www.meetup.com/Morning-Talks/events/225867303/
+
+- title: Meetup#18 - OpenStack Big Tent  usine d'innovations @POSS
+  location: Paris, FR
+  speaker: OpenStackFR Paris
+  start: 2015-11-18 11:00 UTC
+  end: 2015-11-18 12:00 UTC
+  description: |
+      Paris, FR
+      Meetup#18 - OpenStack Big Tent  usine d'innovations @POSS
+      http://www.meetup.com/OpenStack-France/events/226167226/
+
+- title: Lessons learned from the field with Mirantis
   location: Chicago, IL
   speaker: Chicago-land OpenStack Group
   start: 2015-11-18 19:00 UTC
   end: 2015-11-18 20:00 UTC
   description: |
       Chicago, IL, US
-      Openstack Lessons learned from the field with Mirantis
+      Lessons learned from the field with Mirantis
       http://www.meetup.com/meetup-group-NjZdcegA/events/226599397/
 
-- title: Tokyo Aftermath Meetup
-  location: London, 17
-  speaker: London OpenStack Meetup
-  start: 2015-11-18 13:30 UTC
-  end: 2015-11-18 14:30 UTC
+- title: 8º Hangout OpenStack Brasil
+  location: Porto Alegre, BR
+  speaker: Openstack Brasil
+  start: 2015-11-18 17:00 UTC
+  end: 2015-11-18 18:00 UTC
   description: |
-      London, 17, GB
-      Tokyo Aftermath Meetup
-      http://www.meetup.com/Openstack-London/events/226314483/
+      Porto Alegre, BR
+      8º Hangout OpenStack Brasil
+      http://www.meetup.com/Openstack-Brasil/events/226770126/
+
+- title: 【热点活动早知道】IBM云生态创新创业沙龙
+  location: Xian, CN
+  speaker: Xian OpenStack Meetup
+  start: 2015-11-19 00:30 UTC
+  end: 2015-11-19 01:30 UTC
+  description: |
+      Xian, CN
+      【热点活动早知道】IBM云生态创新创业沙龙
+      http://www.meetup.com/Xian-OpenStack-Meetup/events/226749667/
+
+- title: Fourth OpenStack UG Meetup in Bulgaria
+  location: Sofia, BG
+  speaker: OpenStack Bulgaria
+  start: 2015-11-19 07:00 UTC
+  end: 2015-11-19 08:00 UTC
+  description: |
+      Sofia, BG
+      Fourth OpenStack UG Meetup in Bulgaria
+      http://www.meetup.com/OpenStack-Bulgaria/events/226587732/
 
 - title: OpenStack mini-conf at OSI Days India
   location: Bangalore, IN
@@ -143,16 +143,6 @@ talks:
       Portland, OR, US
       OpenStack PDX Meetup
       http://www.meetup.com/openstack-pdx/events/226168331/
-
-- title: Monitoring A Multi-Tenant Cloud by Datadog/ Neutron Networking by Midokura
-  location: Philadelphia, PA
-  speaker: OpenStack Philly
-  start: 2015-11-19 18:00 UTC
-  end: 2015-11-19 19:00 UTC
-  description: |
-      Philadelphia, PA, US
-      Monitoring A Multi-Tenant Cloud by Datadog/ Neutron Networking by Midokura
-      http://www.meetup.com/Philly-OpenStack-Meetup-Group/events/226541688/
 
 - title: OpenStack in the Space Industry (#28)
   location: Washington, DC
@@ -184,15 +174,15 @@ talks:
       Hands-on with OpenStack
       http://www.meetup.com/OpenStack-Denver/events/225567012/
 
-- title: SFBay OpenStack Hackathon #OSSFO
-  location: San Francisco, CA
-  speaker: SFBay OpenStack
-  start: 2015-11-19 22:00 UTC
-  end: 2015-11-19 23:00 UTC
+- title: OpenStack Storage 
+  location: Chesterfield, MO
+  speaker: OpenStack St. Louis
+  start: 2015-11-19 19:30 UTC
+  end: 2015-11-19 20:30 UTC
   description: |
-      San Francisco, CA, US
-      SFBay OpenStack Hackathon #OSSFO
-      http://www.meetup.com/openstack/events/221431326/
+      Chesterfield, MO, US
+      OpenStack Storage 
+      http://www.meetup.com/OpenStack-STL/events/226660023/
 
 - title: OpenStack Neutron Advanced Services Deep Dive
   location: Boston, MA
@@ -214,6 +204,36 @@ talks:
       OpenStack Meetup (Topic TBD)
       http://www.meetup.com/openstack-atlanta/events/226387040/
 
+- title: OpenStack Monthly Meetup
+  location: Herriman, UT
+  speaker: OpenStack Utah
+  start: 2015-11-19 21:00 UTC
+  end: 2015-11-19 22:00 UTC
+  description: |
+      Herriman, UT, US
+      Open Stack Monthly Meetup
+      http://www.meetup.com/openstack-utah/events/225939602/
+
+- title: 11/21 上海 openstack meetup - 东京峰会分享 summit keynote,Container, Neutron, Cinder...
+  location: Shanghai, CN
+  speaker: Shanghai OpenStack Meetup
+  start: 2015-11-21 00:00 UTC
+  end: 2015-11-21 01:00 UTC
+  description: |
+      Shanghai, CN
+      11/21 上海 openstack meetup - 东京峰会分享 summit keynote,Container, Neutron, Cinder...
+      http://www.meetup.com/Shanghai-OpenStack-Meetup/events/226674732/
+
+- title: OpenStack云环境的测试与评估（­兼与社区大咖畅聊东京峰会见闻）
+  location: Beijing, CN
+  speaker: China OpenStack User Group
+  start: 2015-11-21 01:00 UTC
+  end: 2015-11-21 02:00 UTC
+  description: |
+      Beijing, CN
+      OpenStack云环境的测试与评估（­兼与社区大咖畅聊东京峰会见闻）
+      http://www.meetup.com/China-OpenStack-User-Group/events/226675511/
+
 - title: OpenStack & SDN/NFV at JNU
   location: Bangalore, IN
   speaker: Indian OpenStack User Group
@@ -233,4 +253,44 @@ talks:
       Delhi, IN
       SDN/NFV  & OpenStack @JNU
       http://www.meetup.com/SDN-OpenDayLight-Delhi-User-Group/events/226560720/
+
+- title: OpenStack Orchestratie 2015
+  location: Amersfoort, NL
+  speaker: OpenStack Netherlands
+  start: 2015-11-26 10:00 UTC
+  end: 2015-11-26 11:00 UTC
+  description: |
+      Amersfoort, NL
+      OpenStack Orchestratie 2015
+      http://www.meetup.com/Openstack-Netherlands/events/222368737/
+
+- title: From Liberty to Mitaka
+  location: Roma, RM
+  speaker: OpenStack User Group Italia
+  start: 2015-11-26 12:00 UTC
+  end: 2015-11-26 13:00 UTC
+  description: |
+      Roma, RM, IT
+      From Liberty to Mitaka
+      http://www.meetup.com/OpenStack-User-Group-Italia/events/226324667/
+
+- title: Red Hat Openstack and Ceph Meetup, Pune
+  location: Bangalore, IN
+  speaker: Indian OpenStack User Group
+  start: 2015-11-27 22:45 UTC
+  end: 2015-11-27 23:45 UTC
+  description: |
+      Bangalore, IN
+      Red Hat Openstack and Ceph Meetup, Pune
+      http://www.meetup.com/Indian-OpenStack-User-Group/events/226100785/
+
+- title: Australian OpenStack User Group - Quarterly Brisbane Meetup
+  location: Sydney, AU
+  speaker: Australian OpenStack User Group
+  start: 2015-11-30 02:00 UTC
+  end: 2015-11-30 03:00 UTC
+  description: |
+      Sydney, AU
+      Australian OpenStack User Group - Quarterly Brisbane Meetup
+      http://www.meetup.com/Australian-OpenStack-User-Group/events/224772759/
 
