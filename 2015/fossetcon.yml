@@ -37,7 +37,7 @@ talks:
 
     In this talk we will look at the use of Apache modules that allow single-sign on with central access control and identity services. We will focus on using proven OS-level components such as SSSD for Web applications, but will also discuss setup using federation.
 
-- title: Keynote: Makers: Default to Open
+- title: Keynote - Makers Default to Open
   speaker: Ruth Suehle
   start: 2015-11-20 17:20 EST
   end: 2015-11-20 18:30 EST
@@ -48,7 +48,7 @@ talks:
 
     However, we can see a lot of hope and gain direction from those who have been successful, from groups like the Open Prosthetics Project to the wildly successful Arduino and Raspberry Pi ecosystems. These types of communities set the example for the success of open source in maker communities, and as a result, the success of maker communities' projects for the greater good.
 
-- title: Systemd: Beyond the Politics to the Practical
+- title: Systemd - Beyond the Politics to the Practical
   speaker: Jim Wildman
   start: 2015-11-21 14:00 EST
   end: 2015-11-21 14:40 EST
@@ -64,7 +64,7 @@ talks:
       * Post startup process management
       * Advanced features such as cgroup integration
 
-- title: Hardware Hacking 101: There Is Plenty of Room at the Bottom
+- title: Hardware Hacking 101 - There Is Plenty of Room at the Bottom
   speaker: Federico Lucifredi
   start: 2015-11-21 14:00 EST
   end: 2015-11-21 14:40 EST
@@ -81,7 +81,7 @@ talks:
 
     Use your newfound knowledge for good, with great power comes great responsibility!
 
-- title: Keynote: Effective Outreach in Four Steps
+- title: Keynote - Effective Outreach in Four Steps
   speaker: Marina Zhurakhinskaya
   start: 2015-11-21 17:20 EST
   end: 2015-11-21 18:30 EST
