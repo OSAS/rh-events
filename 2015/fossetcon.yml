@@ -1,0 +1,95 @@
+name: Fossetcon 2015
+location: Orlando, FL
+start: 2015-11-19
+end: 2015-11-21
+description: |
+    Fossetcon is a three-day event focusing on a variety of free and open source training and speeches.
+
+    For more details on Fossetcon, see the event website at
+    <http://www.fossetcon.org/>
+
+talks:
+
+- title: IPV6 - What Is It Good For Now?
+  speaker: Jim Wildman
+  start: 2015-11-19 14:00 EST
+  end: 2015-11-19 15:30 EST
+  description: |
+    The year of IPV6 keeps coming. But what can it be used for now? What problems does it cause and solve?
+
+    Attendees will be walked through the basics of IPV6 design, tunnel creation and how to use IPV6 to access otherwise unreachable resources. The IPV6 capabilities of basic packages will be discussed and explored via the use of the presenter's personal laboratory space.
+
+- title: Secure Peer Networking with Tinc
+  speaker: Benjamin Kero
+  start: 2015-11-20 10:15 EST
+  end: 2015-11-20 11:00 EST
+  description: |
+    Tinc provides a secure mesh vpn for any number of hosts. My friends and I used this to build a network linking our homes, laptops, and various hosted machines. This is different from the usual use of a vpn, where multiple clients connect to a single server. We use Tinc to provide a secure peer to peer network over the public internet. We started doing some cool things with it such as UPnP and NFS, things that would be impossible to do securely over the public internet. We then added Consul (https://consul.io/) which provides a service directory and health checks. Consul's raft consensus algorithm works well for us because nodes drop on and off this network frequently.
+
+    In this talk I will cover the configuration of our VPN and the neat things that we do with it.
+
+- title: External Authentication and Access Control for Web Applications
+  speaker: Dmitri Pal
+  start: 2015-11-20 10:15 EST
+  end: 2015-11-20 11:00 EST
+  description: |
+    When applications get deployed in enterprise environment or in large organizations, they need to support user accounts and groups that are managed externally, in existing directory services like FreeIPA or Active Directory, or federated via protocols like SAML. While it is possible to add support for these individual use cases and protocols directly to application code or to Web frameworks or libraries, often it is better to delegate the authentication and identity operations to a front end server and do minimal modifications to the application code to be able to consume results of the external authentication, identity lookups, and access control.
+
+    In this talk we will look at the use of Apache modules that allow single-sign on with central access control and identity services. We will focus on using proven OS-level components such as SSSD for Web applications, but will also discuss setup using federation.
+
+- title: Keynote: Makers: Default to Open
+  speaker: Ruth Suehle
+  start: 2015-11-20 17:20 EST
+  end: 2015-11-20 18:30 EST
+  description: |
+    At a glance, the maker movement seems open by nature, full of contributors sharing their creations and building better and better things based on the efforts of those who built before them. But the reality is quite different. Many (if not most) makers are unfamiliar with open source software even as users, much less with how to implement its principles within their projects. The apparent crossover is indeed a natural fit, though, and there is much benefit to be had from building these communities around tangible projects on open source principles.
+
+    Of course, there are also different sets of challenges from those faced by software communities. New sets of legal issues arise for open hardware projects. Communities unfamiliar with the evolution of open source projects panic when their goods are cloned. There are also project management and build issues larger than those faced by software projects that only have to handle bits and bytes and not pieces and parts.
+
+    However, we can see a lot of hope and gain direction from those who have been successful, from groups like the Open Prosthetics Project to the wildly successful Arduino and Raspberry Pi ecosystems. These types of communities set the example for the success of open source in maker communities, and as a result, the success of maker communities' projects for the greater good.
+
+- title: Systemd: Beyond the Politics to the Practical
+  speaker: Jim Wildman
+  start: 2015-11-21 14:00 EST
+  end: 2015-11-21 14:40 EST
+  description: |
+    This presentation will avoid the debate around whether systemd is a good or bad implementation and concentrate on how it is implemented and used within the Red Hat family of Linux distributions (Fedora, Red Hat Enterprise Linux and CentOS).
+
+    Topics will include:
+
+      * Basic overview
+      * Differences from previous init systems
+      * Design goals
+      * Process enablement, start and stop
+      * Post startup process management
+      * Advanced features such as cgroup integration
+
+- title: Hardware Hacking 101: There Is Plenty of Room at the Bottom
+  speaker: Federico Lucifredi
+  start: 2015-11-21 14:00 EST
+  end: 2015-11-21 14:40 EST
+  description: |
+    This is a live demonstration of hacking into the processor embedded in an SD card, effectively turning the device into a potentially covert Raspberry Pi-class computer under your complete control. The ARM926EJ-S ARM processor made its appearance as the embedded CPU in Transcend’s WiFi-enabled SD cards, clocking in at an impressive 426 BogoMips – we can’t possibly leave that territory unexplored, can we?
+
+    In this session we root the card’s own CPU, install a more featureful OS, and explore the system’s common and unusual capabilities (in hardware AES encryption and native support for Java bytecode among them). These provide plenty of building blocks for our projects.
+
+    I will review the hardware, its capabilities, how to breach its security, and how to enable it with top-class network configuration at boot-up, on nearly any network. I will then show how to build and install additional software and customize the device, using shell script and Perl, for workloads that fit its minute size and low power requirements.
+
+    Clearly, complete control of such a hidden computer running with full network connectivity can be used in network penetration scenarios. We’ll discuss applicable security threat countermeasures.
+
+    We close the session with a review of similar exploits against hard drive controllers. There is plenty of room at the bottom, and opening these computer-within-the computer configurations create interesting miniaturized automation scenarios alongside the obvious, more ominous security aspects.
+
+    Use your newfound knowledge for good, with great power comes great responsibility!
+
+- title: Keynote: Effective Outreach in Four Steps
+  speaker: Marina Zhurakhinskaya
+  start: 2015-11-21 17:20 EST
+  end: 2015-11-21 18:30 EST
+  description: |
+    The full potential of Free and Open Source Software is to break down the barriers to technology and to participation, and to include users and contributors from a wide range of backgrounds.
+
+    There are four key steps for making communities diverse and inclusive: creating a welcoming environment, teaching skills, fostering connections, and increasing visibility of contributors from underrepresented backgrounds.
+
+    Whether you are a prospective contributor yourself who wants to understand what an inclusive community looks like and how to take advantage of available opportunities, an individual contributor to a project wanting to take concrete steps to improve your project's outreach, or a project leader looking to create a comprehensive diversity strategy for your community, this talk will have the information you need.
+
+    Marina will share best practices and inspiring stories from her years of experience in Free and Open Source Software diversity outreach in roles including outreach specialist at Red Hat, co-organizer of Outreachy, advisor and director for the Ada Initiative, and outreach lead for GNOME.
