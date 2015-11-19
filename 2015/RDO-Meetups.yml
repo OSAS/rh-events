@@ -4,107 +4,7 @@ tags: RDO
 
 talks:
 
-- title: November Meetup
-  location: Manchester, 18
-  speaker: Manchester OpenStack Meetup
-  start: 2015-11-16 13:30 UTC
-  end: 2015-11-16 14:30 UTC
-  description: |
-      Manchester, 18, GB
-      November Meetup
-      http://www.meetup.com/Manchester-OpenStack-Meetup/events/225442374/
-
-- title: Intro to OpenStack
-  location: New York, NY
-  speaker: NYC Networkers
-  start: 2015-11-17 17:30 UTC
-  end: 2015-11-17 18:30 UTC
-  description: |
-      New York, NY, US
-      Intro to OpenStack
-      http://www.meetup.com/nycnetworkers/events/226008746/
-
-- title: Deploying OpenStack Using OSAD
-  location: Houston, TX
-  speaker: OpenStack Houston Meetup
-  start: 2015-11-17 19:00 UTC
-  end: 2015-11-17 20:00 UTC
-  description: |
-      Houston, TX, US
-      Deploying OpenStack Using OSAD
-      http://www.meetup.com/openstackhoustonmeetup/events/226009298/
-
-- title: Kuryr - Connecting containers to OpenStack Neutron & Intel Open Network Platform
-  location: Santa Clara, CA
-  speaker: Bay Area Network Virtualization
-  start: 2015-11-17 21:00 UTC
-  end: 2015-11-17 22:00 UTC
-  description: |
-      Santa Clara, CA, US
-      Kuryr - Connecting containers to OpenStack Neutron & Intel Open Network Platform
-      http://www.meetup.com/openvswitch/events/226518209/
-
-- title: Arista and OpenStack SDN with Nuage
-  location: London, 17
-  speaker: Arista Networks London Meetup Group
-  start: 2015-11-17 13:30 UTC
-  end: 2015-11-17 14:30 UTC
-  description: |
-      London, 17, GB
-      Arista and OpenStack SDN with Nuage
-      http://www.meetup.com/Arista-Networks-London-Meetup-Group/events/226533916/
-
-- title: Discuss the Changes in Openstack releases from Juno to Kilo to Liberty
-  location: Frederick, MD
-  speaker: Frederick MD OpenStack Meetup
-  start: 2015-11-17 19:00 UTC
-  end: 2015-11-17 20:00 UTC
-  description: |
-      Frederick, MD, US
-      Discuss the Changes in Openstack releases from Juno to Kilo to Liberty
-      http://www.meetup.com/Frederick-MD-OpenStack-Meetup/events/226653740/
-
-- title: Cloud - Openstack technical overview
-  location: Prague, CZ
-  speaker: Morning Talks
-  start: 2015-11-18 03:00 UTC
-  end: 2015-11-18 04:00 UTC
-  description: |
-      Prague, CZ
-      Cloud - Openstack technical overview
-      http://www.meetup.com/Morning-Talks/events/225867303/
-
-- title: Meetup#18 - OpenStack Big Tent  usine d'innovations @POSS
-  location: Paris, FR
-  speaker: OpenStackFR Paris
-  start: 2015-11-18 11:00 UTC
-  end: 2015-11-18 12:00 UTC
-  description: |
-      Paris, FR
-      Meetup#18 - OpenStack Big Tent  usine d'innovations @POSS
-      http://www.meetup.com/OpenStack-France/events/226167226/
-
-- title: Lessons learned from the field with Mirantis
-  location: Chicago, IL
-  speaker: Chicago-land OpenStack Group
-  start: 2015-11-18 19:00 UTC
-  end: 2015-11-18 20:00 UTC
-  description: |
-      Chicago, IL, US
-      Lessons learned from the field with Mirantis
-      http://www.meetup.com/meetup-group-NjZdcegA/events/226599397/
-
-- title: 8º Hangout OpenStack Brasil
-  location: Porto Alegre, BR
-  speaker: Openstack Brasil
-  start: 2015-11-18 17:00 UTC
-  end: 2015-11-18 18:00 UTC
-  description: |
-      Porto Alegre, BR
-      8º Hangout OpenStack Brasil
-      http://www.meetup.com/Openstack-Brasil/events/226770126/
-
-- title: 【热点活动早知道】IBM云生态创新创业沙龙
+- title: Xian OpenStack Meetup, IBM
   location: Xian, CN
   speaker: Xian OpenStack Meetup
   start: 2015-11-19 00:30 UTC
@@ -174,14 +74,14 @@ talks:
       Hands-on with OpenStack
       http://www.meetup.com/OpenStack-Denver/events/225567012/
 
-- title: OpenStack Storage 
+- title: OpenStack Storage
   location: Chesterfield, MO
   speaker: OpenStack St. Louis
   start: 2015-11-19 19:30 UTC
   end: 2015-11-19 20:30 UTC
   description: |
       Chesterfield, MO, US
-      OpenStack Storage 
+      OpenStack Storage
       http://www.meetup.com/OpenStack-STL/events/226660023/
 
 - title: OpenStack Neutron Advanced Services Deep Dive
@@ -293,4 +193,3 @@ talks:
       Sydney, AU
       Australian OpenStack User Group - Quarterly Brisbane Meetup
       http://www.meetup.com/Australian-OpenStack-User-Group/events/224772759/
-
