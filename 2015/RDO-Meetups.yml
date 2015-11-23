@@ -4,35 +4,155 @@ tags: RDO
 
 talks:
 
-- title: De Marconi a Zaqar, la evolución del sistema de mensajería y notificaciones
-  location: Guadalajara, MX
-  speaker: OpenStack GDL
-  start: 2015-11-23 20:00 UTC
-  end: 2015-11-23 21:00 UTC
+- title: Xian OpenStack Meetup, IBM
+  location: Xian, CN
+  speaker: Xian OpenStack Meetup
+  start: 2015-11-19 00:30 UTC
+  end: 2015-11-19 01:30 UTC
   description: |
-      Guadalajara, MX
-      De Marconi a Zaqar, la evolución del sistema de mensajería y notificaciones
-      http://www.meetup.com/OpenStack-GDL/events/226680581/
+      Xian, CN
+      【热点活动早知道】IBM云生态创新创业沙龙
+      http://www.meetup.com/Xian-OpenStack-Meetup/events/226749667/
 
-- title: Flavio Percoco en Buenos Aires
-  location: Buenos Aires, AR
-  speaker: OpenStack Argentina
-  start: 2015-11-25 17:00 UTC
-  end: 2015-11-25 18:00 UTC
+- title: Fourth OpenStack UG Meetup in Bulgaria
+  location: Sofia, BG
+  speaker: OpenStack Bulgaria
+  start: 2015-11-19 07:00 UTC
+  end: 2015-11-19 08:00 UTC
   description: |
-      Buenos Aires, AR
-      Flavio Percoco en Buenos Aires
-      http://www.meetup.com/openstack-argentina/events/226912425/
+      Sofia, BG
+      Fourth OpenStack UG Meetup in Bulgaria
+      http://www.meetup.com/OpenStack-Bulgaria/events/226587732/
 
-- title: Premier Meetup SDN Paris, avec deux présentations de prévues
-  location: Paris, FR
-  speaker: SDN Paris
-  start: 2015-11-25 13:30 UTC
-  end: 2015-11-25 14:30 UTC
+- title: OpenStack mini-conf at OSI Days India
+  location: Bangalore, IN
+  speaker: Indian OpenStack User Group
+  start: 2015-11-19 03:30 UTC
+  end: 2015-11-19 04:30 UTC
   description: |
-      Paris, FR
-      Premier Meetup SDN Paris, avec deux présentations de prévues
-      http://www.meetup.com/SDN-Paris/events/226608667/
+      Bangalore, IN
+      OpenStack mini-conf at OSI Days India
+      http://www.meetup.com/Indian-OpenStack-User-Group/events/226157966/
+
+- title: OpenStack PDX Meetup
+  location: Portland, OR
+  speaker: OpenStack PDX
+  start: 2015-11-19 21:00 UTC
+  end: 2015-11-19 22:00 UTC
+  description: |
+      Portland, OR, US
+      OpenStack PDX Meetup
+      http://www.meetup.com/openstack-pdx/events/226168331/
+
+- title: OpenStack in the Space Industry (#28)
+  location: Washington, DC
+  speaker: OpenStack DC
+  start: 2015-11-19 18:30 UTC
+  end: 2015-11-19 19:30 UTC
+  description: |
+      Washington, DC, US
+      OpenStack in the Space Industry (#28)
+      http://www.meetup.com/OpenStackDC/events/224954125/
+
+- title: Discuss and learn about OpenStack
+  location: Phoenix, AZ
+  speaker: OpenStack Phoenix
+  start: 2015-11-19 20:30 UTC
+  end: 2015-11-19 21:30 UTC
+  description: |
+      Phoenix, AZ, US
+      Discuss and learn about OpenStack
+      http://www.meetup.com/OpenStack-Phoenix/events/226264510/
+
+- title: Hands-on with OpenStack
+  location: Littleton, CO
+  speaker: OpenStack Denver
+  start: 2015-11-19 20:30 UTC
+  end: 2015-11-19 21:30 UTC
+  description: |
+      Littleton, CO, US
+      Hands-on with OpenStack
+      http://www.meetup.com/OpenStack-Denver/events/225567012/
+
+- title: OpenStack Storage
+  location: Chesterfield, MO
+  speaker: OpenStack St. Louis
+  start: 2015-11-19 19:30 UTC
+  end: 2015-11-19 20:30 UTC
+  description: |
+      Chesterfield, MO, US
+      OpenStack Storage
+      http://www.meetup.com/OpenStack-STL/events/226660023/
+
+- title: OpenStack Neutron Advanced Services Deep Dive
+  location: Boston, MA
+  speaker: Openstack Boston
+  start: 2015-11-19 19:00 UTC
+  end: 2015-11-19 20:00 UTC
+  description: |
+      Boston, MA, US
+      OpenStack Neutron Advanced Services Deep Dive
+      http://www.meetup.com/Openstack-Boston/events/226422816/
+
+- title: OpenStack Meetup (Topic TBD)
+  location: Atlanta, GA
+  speaker: Atlanta OpenStack Meetup Group
+  start: 2015-11-19 19:00 UTC
+  end: 2015-11-19 20:00 UTC
+  description: |
+      Atlanta, GA, US
+      OpenStack Meetup (Topic TBD)
+      http://www.meetup.com/openstack-atlanta/events/226387040/
+
+- title: OpenStack Monthly Meetup
+  location: Herriman, UT
+  speaker: OpenStack Utah
+  start: 2015-11-19 21:00 UTC
+  end: 2015-11-19 22:00 UTC
+  description: |
+      Herriman, UT, US
+      Open Stack Monthly Meetup
+      http://www.meetup.com/openstack-utah/events/225939602/
+
+- title: 11/21 上海 openstack meetup - 东京峰会分享 summit keynote,Container, Neutron, Cinder...
+  location: Shanghai, CN
+  speaker: Shanghai OpenStack Meetup
+  start: 2015-11-21 00:00 UTC
+  end: 2015-11-21 01:00 UTC
+  description: |
+      Shanghai, CN
+      11/21 上海 openstack meetup - 东京峰会分享 summit keynote,Container, Neutron, Cinder...
+      http://www.meetup.com/Shanghai-OpenStack-Meetup/events/226674732/
+
+- title: OpenStack云环境的测试与评估（­兼与社区大咖畅聊东京峰会见闻）
+  location: Beijing, CN
+  speaker: China OpenStack User Group
+  start: 2015-11-21 01:00 UTC
+  end: 2015-11-21 02:00 UTC
+  description: |
+      Beijing, CN
+      OpenStack云环境的测试与评估（­兼与社区大咖畅聊东京峰会见闻）
+      http://www.meetup.com/China-OpenStack-User-Group/events/226675511/
+
+- title: OpenStack & SDN/NFV at JNU
+  location: Bangalore, IN
+  speaker: Indian OpenStack User Group
+  start: 2015-11-22 00:00 UTC
+  end: 2015-11-22 01:00 UTC
+  description: |
+      Bangalore, IN
+      OpenStack & SDN/NFV at JNU
+      http://www.meetup.com/Indian-OpenStack-User-Group/events/226534245/
+
+- title: SDN/NFV  & OpenStack @JNU
+  location: Delhi, IN
+  speaker: SDN OpenDayLight Delhi User Group
+  start: 2015-11-22 00:00 UTC
+  end: 2015-11-22 01:00 UTC
+  description: |
+      Delhi, IN
+      SDN/NFV  & OpenStack @JNU
+      http://www.meetup.com/SDN-OpenDayLight-Delhi-User-Group/events/226560720/
 
 - title: OpenStack Orchestratie 2015
   location: Amersfoort, NL
@@ -73,84 +193,3 @@ talks:
       Sydney, AU
       Australian OpenStack User Group - Quarterly Brisbane Meetup
       http://www.meetup.com/Australian-OpenStack-User-Group/events/224772759/
-
-- title: Fuga Public OpenStack Cloud Training
-  location: Amsterdam, NL
-  speaker: Web- en Cloud Hosting Meetup! for everyone
-  start: 2015-12-01 10:00 UTC
-  end: 2015-12-01 11:00 UTC
-  description: |
-      Amsterdam, NL
-      Fuga Public OpenStack Cloud Training
-      http://www.meetup.com/Web-en-Cloud-Hosting-Meetup-for-everyone/events/226808157/
-
-- title: Containers on OpenStack and using Ansible to manage OpenStack - Melbourne
-  location: Melbourne, AU
-  speaker: HP Helion Australia
-  start: 2015-12-01 02:00 UTC
-  end: 2015-12-01 03:00 UTC
-  description: |
-      Melbourne, AU
-      Containers on OpenStack and using Ansible to manage OpenStack - Melbourne
-      http://www.meetup.com/HP-Helion-Australia/events/225659514/
-
-- title: OpenStack 2015 december
-  location: Budapest, HU
-  speaker: OpenStack Hungary Meetup Group
-  start: 2015-12-02 11:30 UTC
-  end: 2015-12-02 12:30 UTC
-  description: |
-      Budapest, HU
-      OpenStack 2015 december
-      http://www.meetup.com/OpenStack-Hungary-Meetup-Group/events/226673589/
-
-- title: OpenStack Roadshow
-  location: Houten, NL
-  speaker: CRI Service - Kennissessies
-  start: 2015-12-02 11:30 UTC
-  end: 2015-12-02 12:30 UTC
-  description: |
-      Houten, NL
-      OpenStack Roadshow
-      http://www.meetup.com/CRI-Service-Kennissessies/events/226831442/
-
-- title: OpenStack Munich - User stories Meetup
-  location: Berlin, DE
-  speaker: German OpenStack users
-  start: 2015-12-02 12:30 UTC
-  end: 2015-12-02 13:30 UTC
-  description: |
-      Berlin, DE
-      OpenStack Munich - User stories Meetup
-      http://www.meetup.com/openstack-de/events/226703026/
-
-- title: Openstack & Ceph is back! Hosted by DMC
-  location: Amsterdam, NL
-  speaker: Openstack & Ceph User Group Amsterdam
-  start: 2015-12-02 13:00 UTC
-  end: 2015-12-02 14:00 UTC
-  description: |
-      Amsterdam, NL
-      Openstack & Ceph is back! Hosted by DMC
-      http://www.meetup.com/Openstack-Amsterdam/events/226707668/
-
-- title: Discuss Meetup and Intro to OpenStack
-  location: Hadley, MA
-  speaker: OpenStack Western MA
-  start: 2015-12-03 18:00 UTC
-  end: 2015-12-03 19:00 UTC
-  description: |
-      Hadley, MA, US
-      Discuss Meetup and Intro to OpenStack
-      http://www.meetup.com/OpenStack-Western-MA/events/226547151/
-
-- title: South Bay OpenStack Meetup, Beginner track
-  location: San Francisco, CA
-  speaker: SFBay OpenStack
-  start: 2015-12-03 22:00 UTC
-  end: 2015-12-03 23:00 UTC
-  description: |
-      San Francisco, CA, US
-      South Bay OpenStack Meetup, Beginner track
-      http://www.meetup.com/openstack/events/224424995/
-
