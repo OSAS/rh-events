@@ -4,147 +4,6 @@ tags: RDO
 
 talks:
 
-
-- title: OpenStack & Beyond Podcast - Predictions for 2016
-  location: Mountain View, CA
-  speaker: Cloud Online Meetup
-  start: 2015-11-30 11:30 UTC
-  end: 2015-11-30 12:30 UTC
-  description: |
-      Mountain View, CA, US
-      OpenStack & Beyond Podcast - Predictions for 2016
-      http://www.meetup.com/Cloud-Online-Meetup/events/227108687/
-
-- title: Fuga Public OpenStack Cloud Training
-  location: Amsterdam, NL
-  speaker: Web- en Cloud Hosting Meetup! for everyone
-  start: 2015-12-01 10:00 UTC
-  end: 2015-12-01 11:00 UTC
-  description: |
-      Amsterdam, NL
-      Fuga Public OpenStack Cloud Training
-      http://www.meetup.com/Web-en-Cloud-Hosting-Meetup-for-everyone/events/226808157/
-
-- title: Open Stack & OVSDB - Demystified By Anil Vishnoi
-  location: Bangalore, IN
-  speaker: Bangalore SDN, NFV and OpenDaylight Meetup
-  start: 2015-12-01 06:00 UTC
-  end: 2015-12-01 07:00 UTC
-  description: |
-      Bangalore, IN
-      Open Stack & OVSDB - Demystified By Anil Vishnoi
-      http://www.meetup.com/Bangalore-SDN-and-NFV-meetup/events/227027691/
-
-- title: Containers on OpenStack and using Ansible to manage OpenStack - Melbourne
-  location: Melbourne, AU
-  speaker: HP Helion Australia
-  start: 2015-12-01 02:00 UTC
-  end: 2015-12-01 03:00 UTC
-  description: |
-      Melbourne, AU
-      Containers on OpenStack and using Ansible to manage OpenStack - Melbourne
-      http://www.meetup.com/HP-Helion-Australia/events/225659514/
-
-- title: Repose The OpenSource Reverse Proxy, What it is and how it can help
-  location: San Antonio, TX
-  speaker: San Antonio Java User Group
-  start: 2015-12-01 19:00 UTC
-  end: 2015-12-01 20:00 UTC
-  description: |
-      San Antonio, TX, US
-      Repose The OpenSource Reverse Proxy, What it is and how it can help
-      http://www.meetup.com/San-Antonio-Java-User-Group/events/226756865/
-
-- title: OpenStack 2015 december
-  location: Budapest, HU
-  speaker: OpenStack Hungary Meetup Group
-  start: 2015-12-02 11:30 UTC
-  end: 2015-12-02 12:30 UTC
-  description: |
-      Budapest, HU
-      OpenStack 2015 december
-      http://www.meetup.com/OpenStack-Hungary-Meetup-Group/events/226673589/
-
-- title: OpenStack Roadshow
-  location: Houten, NL
-  speaker: CRI Service - Kennissessies
-  start: 2015-12-02 11:30 UTC
-  end: 2015-12-02 12:30 UTC
-  description: |
-      Houten, NL
-      OpenStack Roadshow
-      http://www.meetup.com/CRI-Service-Kennissessies/events/226831442/
-
-- title: OpenStack Munich - User stories Meetup
-  location: München, DE
-  speaker: OpenStack Munich
-  start: 2015-12-02 12:30 UTC
-  end: 2015-12-02 13:30 UTC
-  description: |
-      München, DE
-      OpenStack Munich - User stories Meetup
-      http://www.meetup.com/OpenStack-Munich/events/226702968/
-
-- title: Openstack & Ceph is back! Hosted by DMC
-  location: Amsterdam, NL
-  speaker: Openstack & Ceph User Group Amsterdam
-  start: 2015-12-02 13:00 UTC
-  end: 2015-12-02 14:00 UTC
-  description: |
-      Amsterdam, NL
-      Openstack & Ceph is back! Hosted by DMC
-      http://www.meetup.com/Openstack-Amsterdam/events/226707668/
-
-- title: Second SFOUG Meeting
-  location: Fort Lauderdale, FL
-  speaker: South Florida OpenStack Users Group
-  start: 2015-12-03 17:15 UTC
-  end: 2015-12-03 18:15 UTC
-  description: |
-      Fort Lauderdale, FL, US
-      Second SFOUG Meeting
-      http://www.meetup.com/South-Florida-OpenStack-Users-Group/events/226540819/
-
-- title: Discuss Meetup and Intro to OpenStack
-  location: Hadley, MA
-  speaker: OpenStack Western MA
-  start: 2015-12-03 18:00 UTC
-  end: 2015-12-03 19:00 UTC
-  description: |
-      Hadley, MA, US
-      Discuss Meetup and Intro to OpenStack
-      http://www.meetup.com/OpenStack-Western-MA/events/226547151/
-
-- title: Containers on OpenStack and using Ansible to manage OpenStack - Sydney
-  location: Melbourne, AU
-  speaker: HP Helion Australia
-  start: 2015-12-03 02:00 UTC
-  end: 2015-12-03 03:00 UTC
-  description: |
-      Melbourne, AU
-      Containers on OpenStack and using Ansible to manage OpenStack - Sydney
-      http://www.meetup.com/HP-Helion-Australia/events/226954627/
-
-- title: Lets meet for a beer
-  location: London, 17
-  speaker: CentOS Users and Contributers in UK
-  start: 2015-12-03 13:30 UTC
-  end: 2015-12-03 14:30 UTC
-  description: |
-      London, 17, GB
-      Lets meet for a beer
-      http://www.meetup.com/CentOS-UK/events/227013212/
-
-- title: 日本OpenStackユーザ会 第24回勉強会
-  location: Tokyo, JP
-  speaker: Japan OpenStack User Group
-  start: 2015-12-04 05:30 UTC
-  end: 2015-12-04 06:30 UTC
-  description: |
-      Tokyo, JP
-      日本OpenStackユーザ会 第24回勉強会
-      http://www.meetup.com/Japan-OpenStack-User-Group/events/227046129/
-
 - title: Verisign's OpenStack Journey
   location: Reston, VA
   speaker: OpenStack Northern Virginia
@@ -185,45 +44,25 @@ talks:
       Recap of OpenStack Tokyo Summit
       http://www.meetup.com/OpenStack-STL/events/226908240/
 
-- title: Hypernetes OpenStack mit Docker, NFV, Manila, Kubernetes
-  location: Köln, DE
-  speaker: OpenStack X Cologne
-  start: 2015-12-09 12:00 UTC
-  end: 2015-12-09 13:00 UTC
-  description: |
-      Köln, DE
-      Hypernetes OpenStack mit Docker, NFV, Manila, Kubernetes
-      http://www.meetup.com/OpenStack-X/events/226548949/
-
-- title: DevOps Foundation Training with Certification, 2 days, in Bucharest
-  location: Bucharest, RO
-  speaker: OpenStack Bucharest, Romania Meetup
-  start: 2015-12-10 02:00 UTC
-  end: 2015-12-10 03:00 UTC
-  description: |
-      Bucharest, RO
-      DevOps Foundation Training with Certification, 2 days, in Bucharest
-      http://www.meetup.com/OpenStack-Bucharest-Romania-Meetup/events/225582472/
-
-- title: Topics coming soon
+- title: OpenStack Meetup and BBQ extravaganza!
   location: Austin, TX
   speaker: OpenStack Austin Texas
   start: 2015-12-10 19:30 UTC
   end: 2015-12-10 20:30 UTC
   description: |
       Austin, TX, US
-      Topics coming soon
+      OpenStack Meetup and BBQ extravaganza!
       http://www.meetup.com/OpenStack-Austin/events/226421866/
 
-- title: MySQL the cloud way - Trove
-  location: Athens, GR
-  speaker: Athens OpenStack User Group
-  start: 2015-12-10 12:00 UTC
-  end: 2015-12-10 13:00 UTC
+- title: Placeholder Topic - OpenStack deployment using docker and ansible
+  location: North York, ON
+  speaker: Stacks and Docker Labs Toronto
+  start: 2015-12-10 19:00 UTC
+  end: 2015-12-10 20:00 UTC
   description: |
-      Athens, GR
-      MySQL the cloud way - Trove
-      http://www.meetup.com/Athens-OpenStack-User-Group/events/226904820/
+      North York, ON, CA
+      Placeholder Topic - OpenStack deployment using docker and ansible
+      http://www.meetup.com/StackDocker-TO/events/226571486/
 
 - title: Dec. topic coming soon
   location: Boston, MA
@@ -244,4 +83,64 @@ talks:
       Beijing, CN
       开源文化与OpenStack
       http://www.meetup.com/China-OpenStack-User-Group/events/226985185/
+
+- title: Software Defined Storage - What makes Ceph special
+  location: Guadalajara, MX
+  speaker: OpenStack GDL
+  start: 2015-12-14 20:00 UTC
+  end: 2015-12-14 21:00 UTC
+  description: |
+      Guadalajara, MX
+      Software Defined Storage - What makes Ceph special
+      http://www.meetup.com/OpenStack-GDL/events/224852574/
+
+- title: Openstack Seattle Meetup A Deep Dive of the OpenStack Security Project
+  location: Seattle, WA
+  speaker: OpenStack Seattle
+  start: 2015-12-15 21:00 UTC
+  end: 2015-12-15 22:00 UTC
+  description: |
+      Seattle, WA, US
+      Openstack Seattle Meetup A Deep Dive of the OpenStack Security Project
+      http://www.meetup.com/OpenStack-Seattle/events/226702941/
+
+- title: OpenStack PDX Meetup
+  location: Portland, OR
+  speaker: OpenStack PDX
+  start: 2015-12-17 21:00 UTC
+  end: 2015-12-17 22:00 UTC
+  description: |
+      Portland, OR, US
+      OpenStack PDX Meetup
+      http://www.meetup.com/openstack-pdx/events/226716157/
+
+- title: SFBay OpenStack Advanced Track #OSSFO
+  location: San Francisco, CA
+  speaker: SFBay OpenStack
+  start: 2015-12-17 22:00 UTC
+  end: 2015-12-17 23:00 UTC
+  description: |
+      San Francisco, CA, US
+      SFBay OpenStack Advanced Track #OSSFO
+      http://www.meetup.com/openstack/events/224424928/
+
+- title: OpenStack awareness camp at Indore
+  location: Bangalore, IN
+  speaker: Indian OpenStack User Group
+  start: 2015-12-19 00:00 UTC
+  end: 2015-12-19 01:00 UTC
+  description: |
+      Bangalore, IN
+      OpenStack awareness camp at Indore
+      http://www.meetup.com/Indian-OpenStack-User-Group/events/226561165/
+
+- title: Митап OpenStack и контейнеры + Новый Год RCCPA
+  location: Moscow, RU
+  speaker: OpenStack Russia
+  start: 2015-12-21 08:00 UTC
+  end: 2015-12-21 09:00 UTC
+  description: |
+      Moscow, RU
+      Митап OpenStack и контейнеры + Новый Год RCCPA
+      http://www.meetup.com/OpenStack-Russia/events/227183795/
 
