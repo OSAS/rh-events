@@ -4,85 +4,25 @@ tags: RDO
 
 talks:
 
-- title: Verisign's OpenStack Journey
-  location: Reston, VA
-  speaker: OpenStack Northern Virginia
-  start: 2015-12-07 18:00 UTC
-  end: 2015-12-07 19:00 UTC
+- title: What's hot DockerCon EU 2015 + Docker 1.9
+  location: Brussels, BE
+  speaker: Brussels - WeCraft & DevOps
+  start: 2015-12-14 12:30 UTC
+  end: 2015-12-14 13:30 UTC
   description: |
-      Reston, VA, US
-      Verisign's OpenStack Journey
-      http://www.meetup.com/OpenStack-Nova/events/226728722/
+      Brussels, BE
+      What's hot DockerCon EU 2015 & Docker 1.9
+      http://www.meetup.com/Brussels-WeCraft-DevOps/events/227266299/
 
-- title: Meetup#19 OpenStack avec Open Compute Project
-  location: Paris, FR
-  speaker: OpenStackFR Paris
-  start: 2015-12-07 12:45 UTC
-  end: 2015-12-07 13:45 UTC
+- title: DockerCon EU 2015. Cosa c’è di nuovo?
+  location: Milano, MI
+  speaker: Docker Milano
+  start: 2015-12-14 12:30 UTC
+  end: 2015-12-14 13:30 UTC
   description: |
-      Paris, FR
-      Meetup#19 OpenStack avec Open Compute Project
-      http://www.meetup.com/OpenStack-France/events/226646869/
-
-- title: OpenStack Baltics Meet and Greet
-  location: Riga, LV
-  speaker: OpenStack Baltics Meetup
-  start: 2015-12-07 12:00 UTC
-  end: 2015-12-07 13:00 UTC
-  description: |
-      Riga, LV
-      OpenStack Baltics Meet and Greet
-      http://www.meetup.com/OpenStack-Baltics-Meetup/events/226532627/
-
-- title: Recap of OpenStack Tokyo Summit
-  location: Chesterfield, MO
-  speaker: OpenStack St. Louis
-  start: 2015-12-08 19:00 UTC
-  end: 2015-12-08 20:00 UTC
-  description: |
-      Chesterfield, MO, US
-      Recap of OpenStack Tokyo Summit
-      http://www.meetup.com/OpenStack-STL/events/226908240/
-
-- title: OpenStack Meetup and BBQ extravaganza!
-  location: Austin, TX
-  speaker: OpenStack Austin Texas
-  start: 2015-12-10 19:30 UTC
-  end: 2015-12-10 20:30 UTC
-  description: |
-      Austin, TX, US
-      OpenStack Meetup and BBQ extravaganza!
-      http://www.meetup.com/OpenStack-Austin/events/226421866/
-
-- title: Placeholder Topic - OpenStack deployment using docker and ansible
-  location: North York, ON
-  speaker: Stacks and Docker Labs Toronto
-  start: 2015-12-10 19:00 UTC
-  end: 2015-12-10 20:00 UTC
-  description: |
-      North York, ON, CA
-      Placeholder Topic - OpenStack deployment using docker and ansible
-      http://www.meetup.com/StackDocker-TO/events/226571486/
-
-- title: Dec. topic coming soon
-  location: Boston, MA
-  speaker: Openstack Boston
-  start: 2015-12-10 19:00 UTC
-  end: 2015-12-10 20:00 UTC
-  description: |
-      Boston, MA, US
-      Dec. topic coming soon
-      http://www.meetup.com/Openstack-Boston/events/226422837/
-
-- title: 开源文化与OpenStack
-  location: Beijing, CN
-  speaker: China OpenStack User Group
-  start: 2015-12-12 01:00 UTC
-  end: 2015-12-12 02:00 UTC
-  description: |
-      Beijing, CN
-      开源文化与OpenStack
-      http://www.meetup.com/China-OpenStack-User-Group/events/226985185/
+      Milano, MI, IT
+      DockerCon EU 2015. Cosa c’è di nuovo?
+      http://www.meetup.com/Docker-Milano/events/226988503/
 
 - title: Software Defined Storage - What makes Ceph special
   location: Guadalajara, MX
@@ -94,6 +34,46 @@ talks:
       Software Defined Storage - What makes Ceph special
       http://www.meetup.com/OpenStack-GDL/events/224852574/
 
+- title: Mitchell Hashimoto, creator of Vagrant, speaks about Nomad and Otto
+  location: San Francisco, CA
+  speaker: San Francisco DevOps
+  start: 2015-12-14 22:00 UTC
+  end: 2015-12-14 23:00 UTC
+  description: |
+      San Francisco, CA, US
+      Mitchell Hashimoto, creator of Vagrant, speaks about Nomad and Otto
+      http://www.meetup.com/San-Francisco-DevOps/events/227067291/
+
+- title: 2015 NYC Tech Holiday Meta-Party
+  location: New York, NY
+  speaker: New York City Cloud Foundry Meetup
+  start: 2015-12-14 19:00 UTC
+  end: 2015-12-14 20:00 UTC
+  description: |
+      New York, NY, US
+      2015 NYC Tech Holiday Meta-Party
+      http://www.meetup.com/nyc-cloud-foundry/events/227138198/
+
+- title: Presentation Glimmer and QResponse.net
+  location: Amsterdam, NL
+  speaker: Next Generation Infrastructure management
+  start: 2015-12-14 13:00 UTC
+  end: 2015-12-14 14:00 UTC
+  description: |
+      Amsterdam, NL
+      Presentation Glimmer and QResponse.net
+      http://www.meetup.com/Next-Generation-Infrastructure-management/events/226974032/
+
+- title: Webinar - Run your agency like Google The power of containers for public sector
+  location: Los Angeles, CA
+  speaker: Southern California Red Hat User Group (RHUG)
+  start: 2015-12-15 11:00 UTC
+  end: 2015-12-15 12:00 UTC
+  description: |
+      Los Angeles, CA, US
+      Webinar - Run your agency like Google The power of containers for public sector
+      http://www.meetup.com/Southern-California-Red-Hat-User-Group-RHUG/events/227118797/
+
 - title: Openstack Seattle Meetup A Deep Dive of the OpenStack Security Project
   location: Seattle, WA
   speaker: OpenStack Seattle
@@ -104,15 +84,215 @@ talks:
       Openstack Seattle Meetup A Deep Dive of the OpenStack Security Project
       http://www.meetup.com/OpenStack-Seattle/events/226702941/
 
-- title: OpenStack PDX Meetup
-  location: Portland, OR
-  speaker: OpenStack PDX
-  start: 2015-12-17 21:00 UTC
-  end: 2015-12-17 22:00 UTC
+- title: Guest Speakers - Abner Germanow and Paul Brant - New Relic 
+  location: Kansas City, MO
+  speaker: DevOps Kansas City
+  start: 2015-12-15 19:00 UTC
+  end: 2015-12-15 20:00 UTC
   description: |
-      Portland, OR, US
-      OpenStack PDX Meetup
-      http://www.meetup.com/openstack-pdx/events/226716157/
+      Kansas City, MO, US
+      Guest Speakers - Abner Germanow and Paul Brant - New Relic 
+      http://www.meetup.com/DevOps-Kansas-City/events/227161199/
+
+- title: CloudAustin - The Twelve Clouds of Christmas
+  location: Austin, TX
+  speaker: Cloud Austin
+  start: 2015-12-15 19:00 UTC
+  end: 2015-12-15 20:00 UTC
+  description: |
+      Austin, TX, US
+      CloudAustin - The Twelve Clouds of Christmas
+      http://www.meetup.com/CloudAustin/events/226373629/
+
+- title: 1st Meeting
+  location: Arlington, VA
+  speaker: Infrastructure as Code, Arlington/DC Meetup
+  start: 2015-12-15 18:00 UTC
+  end: 2015-12-15 19:00 UTC
+  description: |
+      Arlington, VA, US
+      1st Meeting
+      http://www.meetup.com/infrastructure-as-code/events/227093326/
+
+- title: Erstes AWSwiss Meetup
+  location: Bern, CH
+  speaker: AWSwiss User Group
+  start: 2015-12-15 12:00 UTC
+  end: 2015-12-15 13:00 UTC
+  description: |
+      Bern, CH
+      Erstes AWSwiss Meetup
+      http://www.meetup.com/AWSwiss/events/226315789/
+
+- title: Docker Meetup December @ EMC
+  location: Melbourne, AU
+  speaker: Melbourne Docker User Group
+  start: 2015-12-15 02:00 UTC
+  end: 2015-12-15 03:00 UTC
+  description: |
+      Melbourne, AU
+      Docker Meetup December @ EMC
+      http://www.meetup.com/Melbourne-Docker-User-Group/events/227010734/
+
+- title: Soirée Jenkins avec le Toulouse Java User Group
+  location: Toulouse, FR
+  speaker: Toulouse DevOps
+  start: 2015-12-15 12:30 UTC
+  end: 2015-12-15 13:30 UTC
+  description: |
+      Toulouse, FR
+      Soirée Jenkins avec le Toulouse Java User Group
+      http://www.meetup.com/Toulouse-DevOps/events/227207372/
+
+- title: Ansible Milan kickoff meeting
+  location: Milano, MI
+  speaker: Ansible Milan
+  start: 2015-12-15 13:00 UTC
+  end: 2015-12-15 14:00 UTC
+  description: |
+      Milano, MI, IT
+      Ansible Milan kickoff meeting
+      http://www.meetup.com/Ansible-Milan/events/222869631/
+
+- title: Meetup Docker #27 @42
+  location: Paris, FR
+  speaker: Docker Paris
+  start: 2015-12-15 13:30 UTC
+  end: 2015-12-15 14:30 UTC
+  description: |
+      Paris, FR
+      Meetup Docker #27 @42
+      http://www.meetup.com/Docker-Paris/events/227135277/
+
+- title: Holiday Social and Experience sharing
+  location: Wilmington, DE
+  speaker: Delaware DevOps
+  start: 2015-12-16 18:00 UTC
+  end: 2015-12-16 19:00 UTC
+  description: |
+      Wilmington, DE, US
+      Holiday Social and Experience sharing
+      http://www.meetup.com/Delaware-DevOps/events/224534126/
+
+- title: Arista Networks Software Driven Networking Holiday Celebration
+  location: Philadelphia, PA
+  speaker: Aristacrats Independence / Philadelphia PA
+  start: 2015-12-16 18:00 UTC
+  end: 2015-12-16 19:00 UTC
+  description: |
+      Philadelphia, PA, US
+      Arista Networks Software Driven Networking Holiday Celebration
+      http://www.meetup.com/Arista-Warriors-Independence-Philadelphia-PA/events/227115762/
+
+- title: Ansible Berlin 12/15
+  location: Berlin, DE
+  speaker: Ansible Berlin
+  start: 2015-12-16 12:30 UTC
+  end: 2015-12-16 13:30 UTC
+  description: |
+      Berlin, DE
+      Ansible Berlin 12/15
+      http://www.meetup.com/Ansible-Berlin/events/226987946/
+
+- title: Meetup Docker avec Amazon et REX des startups Marseillaises
+  location: Marseille, FR
+  speaker: Docker Marseille
+  start: 2015-12-16 12:30 UTC
+  end: 2015-12-16 13:30 UTC
+  description: |
+      Marseille, FR
+      Meetup Docker avec Amazon et REX des startups Marseillaises
+      http://www.meetup.com/Docker-Marseille/events/227017921/
+
+- title: December Social - Networking and Collaboration. What did you learn in 2015?
+  location: Boston, MA
+  speaker: Boston Devops
+  start: 2015-12-16 19:00 UTC
+  end: 2015-12-16 20:00 UTC
+  description: |
+      Boston, MA, US
+      December Social - Networking and Collaboration. What did you learn in 2015?
+      http://www.meetup.com/Boston-Devops/events/226812073/
+
+- title: December Meeting Lightning Talks
+  location: San Diego, CA
+  speaker: San Diego DevOps
+  start: 2015-12-16 22:00 UTC
+  end: 2015-12-16 23:00 UTC
+  description: |
+      San Diego, CA, US
+      December Meeting Lightning Talks
+      http://www.meetup.com/sddevops/events/226894408/
+
+- title: AWS Summit 2015 in SHANGHAI
+  location: Shanghai, CN
+  speaker: AWS Shanghai
+  start: 2015-12-16 18:00 UTC
+  end: 2015-12-16 19:00 UTC
+  description: |
+      Shanghai, CN
+      AWS Summit 2015 in SHANGHAI
+      http://www.meetup.com/AWS_Shanghai/events/226880603/
+
+- title: Webinar - Red Hat and Cisco Making OpenStack work for the Enterprise
+  location: Los Angeles, CA
+  speaker: Southern California Red Hat User Group (RHUG)
+  start: 2015-12-17 11:00 UTC
+  end: 2015-12-17 12:00 UTC
+  description: |
+      Los Angeles, CA, US
+      Webinar - Red Hat and Cisco Making OpenStack work for the Enterprise
+      http://www.meetup.com/Southern-California-Red-Hat-User-Group-RHUG/events/227118822/
+
+- title: Red Hat Technical User Group (TUG)
+  location: Brussels, BE
+  speaker: Red Hat Belgium
+  start: 2015-12-17 07:15 UTC
+  end: 2015-12-17 08:15 UTC
+  description: |
+      Brussels, BE
+      Red Hat Technical User Group (TUG)
+      http://www.meetup.com/RedHat-Belgium/events/226254433/
+
+- title: Join your Tintri friends for a fun, casual holiday party!
+  location: Franklin, TN
+  speaker: Tintri Nashville - VMaware storage
+  start: 2015-12-17 17:30 UTC
+  end: 2015-12-17 18:30 UTC
+  description: |
+      Franklin, TN, US
+      Join your Tintri friends for a fun, casual holiday party!
+      http://www.meetup.com/Tintri-Nashville/events/227269574/
+
+- title: Cloud Foundry on Google Cloud Platform
+  location: Denver, CO
+  speaker: Colorado Cloud Foundry Meetup
+  start: 2015-12-17 19:00 UTC
+  end: 2015-12-17 20:00 UTC
+  description: |
+      Denver, CO, US
+      Cloud Foundry on Google Cloud Platform
+      http://www.meetup.com/Colorado-Cloud-Foundry-Meetup/events/226862691/
+
+- title: CF Beat Cloud Foundry 2015 Wrap-up & Holiday Mixer
+  location: Pleasanton, CA
+  speaker: Docker, Containers & Cloud Foundry PaaS East Bay Meetup
+  start: 2015-12-17 20:00 UTC
+  end: 2015-12-17 21:00 UTC
+  description: |
+      Pleasanton, CA, US
+      CF Beat Cloud Foundry 2015 Wrap-up & Holiday Mixer
+      http://www.meetup.com/Docker-Containers-Cloud-Foundry-PaaS-East-Bay-Meetup/events/227111357/
+
+- title: Whiteboarding OpenStack Architecture
+  location: Phoenix, AZ
+  speaker: OpenStack Phoenix
+  start: 2015-12-17 20:30 UTC
+  end: 2015-12-17 21:30 UTC
+  description: |
+      Phoenix, AZ, US
+      Whiteboarding OpenStack Architecture
+      http://www.meetup.com/OpenStack-Phoenix/events/227367393/
 
 - title: SFBay OpenStack Advanced Track #OSSFO
   location: San Francisco, CA
@@ -124,6 +304,66 @@ talks:
       SFBay OpenStack Advanced Track #OSSFO
       http://www.meetup.com/openstack/events/224424928/
 
+- title: OpenStack Meetup (Topic TBD)
+  location: Atlanta, GA
+  speaker: Atlanta OpenStack Meetup Group
+  start: 2015-12-17 19:00 UTC
+  end: 2015-12-17 20:00 UTC
+  description: |
+      Atlanta, GA, US
+      OpenStack Meetup (Topic TBD)
+      http://www.meetup.com/openstack-atlanta/events/226994564/
+
+- title: Ansible Lyon kickoff meeting
+  location: Lyon, FR
+  speaker: Ansible Lyon
+  start: 2015-12-17 13:00 UTC
+  end: 2015-12-17 14:00 UTC
+  description: |
+      Lyon, FR
+      Ansible Lyon kickoff meeting
+      http://www.meetup.com/Ansible-Lyon/events/223238801/
+
+- title: Modelos de Negocio basados en Software Libre
+  location: Valencia, ES
+  speaker: Super Users VLC
+  start: 2015-12-17 13:30 UTC
+  end: 2015-12-17 14:30 UTC
+  description: |
+      Valencia, ES
+      Modelos de Negocio basados en Software Libre
+      http://www.meetup.com/superusers-vlc/events/227040851/
+
+- title: Gluster Community Meetup
+  location: Bangalore, IN
+  speaker: GlusterFS India community
+  start: 2015-12-18 03:30 UTC
+  end: 2015-12-18 04:30 UTC
+  description: |
+      Bangalore, IN
+      Gluster Community Meetup
+      http://www.meetup.com/glusterfs-India/events/227287952/
+
+- title: Bluemix Star Wars Premiere Event
+  location: Chicago, IL
+  speaker: Chicago PaaS, Bluemix and Cloud Computing Meetup
+  start: 2015-12-18 15:00 UTC
+  end: 2015-12-18 16:00 UTC
+  description: |
+      Chicago, IL, US
+      Bluemix Star Wars Premiere Event
+      http://www.meetup.com/Chicago-PaaS-Bluemix-and-Cloud-Computing-Meetup/events/227276535/
+
+- title: Getting Open Source/Standard Logic into Government (GOSLING)
+  location: Ottawa, ON
+  speaker: Promoting Open Source/Libre to the Canadian government
+  start: 2015-12-18 16:30 UTC
+  end: 2015-12-18 17:30 UTC
+  description: |
+      Ottawa, ON, CA
+      Getting Open Source/Standard Logic into Government (GOSLING)
+      http://www.meetup.com/Promoting-Open-Source-Libre-to-the-Canadian-government/events/227026959/
+
 - title: OpenStack awareness camp at Indore
   location: Bangalore, IN
   speaker: Indian OpenStack User Group
@@ -134,6 +374,26 @@ talks:
       OpenStack awareness camp at Indore
       http://www.meetup.com/Indian-OpenStack-User-Group/events/226561165/
 
+- title: 西安OpenStack/Docker Meetup --Dec.19 @葡萄城
+  location: Xian, CN
+  speaker: Xian OpenStack Meetup
+  start: 2015-12-19 00:45 UTC
+  end: 2015-12-19 01:45 UTC
+  description: |
+      Xian, CN
+      西安OpenStack/Docker Meetup --Dec.19 @葡萄城
+      http://www.meetup.com/Xian-OpenStack-Meetup/events/227335949/
+
+- title: Docker&OpenStack Meetup
+  location: Xian, CN
+  speaker: Docker Xi'an
+  start: 2015-12-19 00:45 UTC
+  end: 2015-12-19 01:45 UTC
+  description: |
+      Xian, CN
+      Docker&OpenStack Meetup
+      http://www.meetup.com/Docker-Xian/events/227336534/
+
 - title: Митап OpenStack и контейнеры + Новый Год RCCPA
   location: Moscow, RU
   speaker: OpenStack Russia
@@ -143,4 +403,14 @@ talks:
       Moscow, RU
       Митап OpenStack и контейнеры + Новый Год RCCPA
       http://www.meetup.com/OpenStack-Russia/events/227183795/
+
+- title: Chat with Kelsey Hightower
+  location: Atlanta, GA
+  speaker: Docker Atlanta
+  start: 2015-12-22 18:00 UTC
+  end: 2015-12-22 19:00 UTC
+  description: |
+      Atlanta, GA, US
+      Chat with Kelsey Hightower
+      http://www.meetup.com/Docker-Atlanta/events/227321451/
 
