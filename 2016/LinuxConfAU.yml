@@ -2,6 +2,7 @@ name: linux.conf.au
 location: Geelong, Australia
 start: 2016-02-01
 end: 2016-02-05
+tags: oVirt
 description: |
   linux.conf.au is the largest linux and open source conference in the Asia-Pacific region. Run annually since 1999, it brings together the Australian, New Zealand and international community for standout presentations, demonstrations and relationship building. It is a deeply technical conference and pre-emininent practitioners in the field, both professionals and hobbyists, are expected to attend.
 
