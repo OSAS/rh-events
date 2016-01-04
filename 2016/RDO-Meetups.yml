@@ -1,0 +1,117 @@
+name: RDO Meetups
+type: series
+tags: RDO
+
+talks:
+
+
+- title: Mastering OpenStack - Step 15 - Network Design / Docker on OpenStack - Step 7
+  location: Tehran, IR
+  speaker: Iran OpenStack
+  start: 2016-01-05 07:30 UTC
+  end: 2016-01-05 08:30 UTC
+  description: |
+      Tehran, IR
+      Mastering OpenStack - Step 15 - Network Design / Docker on OpenStack - Step 7
+      http://www.meetup.com/Iran-OpenStack/events/227796998/
+
+- title: De 2de ITGilde Tech-Talk “Openstack and Ceph” by Alessandro Vozza
+  location: Amsterdam, NL
+  speaker: ITGilde Coöperatie Amsterdam  Unix/Linux Meetups
+  start: 2016-01-06 13:00 UTC
+  end: 2016-01-06 14:00 UTC
+  description: |
+      Amsterdam, NL
+      De 2de ITGilde Tech-Talk “Openstack and Ceph” by Alessandro Vozza
+      http://www.meetup.com/ITGilde-Cooperatie-Amsterdam-Unix-Linux-Meetups/events/227122004/
+
+- title: Meet for "Building Agile Clouds with OpenStack" - Technical Event!
+  location: Raleigh, NC
+  speaker: Raleigh Building Agile Clouds with OpenStack
+  start: 2016-01-07 18:15 UTC
+  end: 2016-01-07 19:15 UTC
+  description: |
+      Raleigh, NC, US
+      Meet for "Building Agile Clouds with OpenStack" - Technical Event!
+      http://www.meetup.com/Raleigh-Triange-Building-Agile-Clouds-with-OpenStack/events/226396633/
+
+- title: Unified Underlay and Overlay SDNs for OpenStack Clouds
+  location: San Francisco, CA
+  speaker: SFBay OpenStack
+  start: 2016-01-07 21:30 UTC
+  end: 2016-01-07 22:30 UTC
+  description: |
+      San Francisco, CA, US
+      Unified Underlay and Overlay SDNs for OpenStack Clouds
+      http://www.meetup.com/openstack/events/222218302/
+
+- title: Ankara 10. Meetup, Konu SDN Basics (VXLAN, OpenFlow, Controllers)
+  location: Istanbul, TR
+  speaker: Turkey OpenStack Meetup
+  start: 2016-01-07 12:00 UTC
+  end: 2016-01-07 13:00 UTC
+  description: |
+      Istanbul, TR
+      Ankara 10. Meetup, Konu SDN Basics (VXLAN, OpenFlow, Controllers)
+      http://www.meetup.com/Turkey-OpenStack-Meetup/events/227291737/
+
+- title: OpenStack India Meetup and Hackathon -  Bangalore
+  location: Bangalore, IN
+  speaker: Indian OpenStack User Group
+  start: 2016-01-08 23:00 UTC
+  end: 2016-01-09 00:00 UTC
+  description: |
+      Bangalore, IN
+      OpenStack India Meetup and Hackathon -  Bangalore
+      http://www.meetup.com/Indian-OpenStack-User-Group/events/227411441/
+
+- title: Webinar - Red Hat and Cisco Making OpenStack work for the Enterprise
+  location: Raleigh, NC
+  speaker: Raleigh Red Hat User Group
+  start: 2016-01-12 11:00 UTC
+  end: 2016-01-12 12:00 UTC
+  description: |
+      Raleigh, NC, US
+      Webinar - Red Hat and Cisco Making OpenStack work for the Enterprise
+      http://www.meetup.com/Raleigh-Red-Hat-User-Group/events/227551001/
+
+- title: Building Distributed Service Rich SDNs
+  location: Seattle, WA
+  speaker: OpenStack Seattle
+  start: 2016-01-12 21:00 UTC
+  end: 2016-01-12 22:00 UTC
+  description: |
+      Seattle, WA, US
+      Building Distributed Service Rich SDNs
+      http://www.meetup.com/OpenStack-Seattle/events/227458793/
+
+- title: OpenStack and data bases!
+  location: Boston, MA
+  speaker: Openstack Boston
+  start: 2016-01-12 18:45 UTC
+  end: 2016-01-12 19:45 UTC
+  description: |
+      Boston, MA, US
+      OpenStack and data bases!
+      http://www.meetup.com/Openstack-Boston/events/227826780/
+
+- title: OpenStack Jobs
+  location: Amersfoort, NL
+  speaker: OpenStack Netherlands
+  start: 2016-01-13 09:00 UTC
+  end: 2016-01-13 10:00 UTC
+  description: |
+      Amersfoort, NL
+      OpenStack Jobs
+      http://www.meetup.com/Openstack-Netherlands/events/227409852/
+
+- title: Monthly SFOUG Meeting
+  location: Fort Lauderdale, FL
+  speaker: South Florida OpenStack Users Group
+  start: 2016-01-14 17:15 UTC
+  end: 2016-01-14 18:15 UTC
+  description: |
+      Fort Lauderdale, FL, US
+      Monthly SFOUG Meeting
+      http://www.meetup.com/South-Florida-OpenStack-Users-Group/events/227415610/
+
