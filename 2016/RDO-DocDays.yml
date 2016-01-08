@@ -9,5 +9,6 @@ talks:
   speaker: RDO
   start: 2016-01-20 00:01 UTC
   end: 2016-01-21 23:58 UTC
-
-
+  description: |
+      Come help make RDO better by improving the documentation and the
+      website. Details at https://www.rdoproject.org/events/docdays
