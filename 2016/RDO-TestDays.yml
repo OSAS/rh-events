@@ -8,24 +8,15 @@ talks:
   location: rdo channel on Freenode
   speaker: RDO
   start: 2016-01-27 00:01 UTC
-  end: 2016-01-27 23:59 UTC
-
-- title: Mitaka Milestone 2 Test Day
-  location: rdo channel on Freenode
-  speaker: RDO
-  start: 2016-01-28 00:01 UTC
   end: 2016-01-28 23:59 UTC
+  description: |
+      Come help make RDO better by testing the Mitaka Milestone 2
+      packages. Details at https://www.rdoproject.org/testday/mitaka/milestone2
 
 - title: Mitaka Milestone 3 Test Day
   location: rdo channel on Freenode
   speaker: RDO
   start: 2016-02-18 00:01 UTC
-  end: 2016-02-18 23:59 UTC
-
-- title: Mitaka Milestone 3 Test Day
-  location: rdo channel on Freenode
-  speaker: RDO
-  start: 2016-02-19 00:01 UTC
   end: 2016-02-19 23:59 UTC
 
 - title: Mitaka RC Test Day
@@ -34,21 +25,9 @@ talks:
   start: 2016-03-10 00:01 UTC
   end: 2016-03-11 23:59 UTC
 
-- title: Mitaka RC Test Day
-  location: rdo channel on Freenode
-  speaker: RDO
-  start: 2016-03-11 00:01 UTC
-  end: 2016-03-11 23:59 UTC
-
 - title: Mitaka GA Test Day
   location: rdo channel on Freenode
   speaker: RDO
   start: 2016-04-13 00:01 UTC
-  end: 2016-04-13 23:59 UTC
-
-- title: Mitaka GA Test Day
-  location: rdo channel on Freenode
-  speaker: RDO
-  start: 2016-04-14 00:01 UTC
   end: 2016-04-14 23:59 UTC
 
