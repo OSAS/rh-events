@@ -1,13 +1,24 @@
 name: FOSDEM
+description: |
+  FOSDEM is a free and non-commercial event organised
+  by the community for the community. The goal is to
+  provide open source software developers and communities
+  a place to meet to:
+
+  * get in touch with other developers and projects;
+  * be informed about the latest developments in the
+    open source world;
+  * attend interesting talks and presentations on
+    various topics by open source project leaders
+    and committers;
+  * to promote the development and the benefits of
+    open source solutions.
+
+  For more details on FOSDEM, see the event website at
+  <https://fosdem.org/2015/>
 location: Brussels, Belgium
 start: 2016-01-30
 end: 2016-01-31
-tags: RDO, oVirt
-description: |
-  FOSDEM is a free event for software developers to meet, share ideas and collaborate. Every year, thousands of developers of free and open source software from all over the world gather at the event in Brussels.
-
-  Additional details about the conference are available at
-  <https://fosdem.org/2016/>.
 
 talks:
 
@@ -20,3 +31,775 @@ talks:
     http://rdoproject.org/events/rdo-day-fosdem-2016
     Register at https://www.eventbrite.co.uk/e/centos-dojo-brussels-belgium-jan-29th-2016-tickets-19589843750
 
+- title: Systemd and where we want to take the basic Linux userspace in 2016
+  speaker: Lennart Poettering
+  start: 2016-01-30 10:00 CET
+  end: 2016-01-30 10:50 CET
+  room: Janson
+  track: Keynotes
+  description: |
+    systemd is a system and service manager for Linux and is at the core of
+    most of today's big distributions. In this presentation I'd like to
+    explain where systemd stands in 2016, and where we want to take it.
+
+    Please join me if you are interested in the Linux platform from a
+    developer, user, administrator PoV.
+
+- title: 'Cockpit: a Linux session in your browser'
+  speaker: Stef Walter
+  start: 2016-01-30 11:00 CET
+  end: 2016-01-30 11:50 CET
+  room: Janson
+  track: Enterprise
+  description: |
+    Cockpit is the new system admin UI for Linux. It's a default part of
+    Fedora, and available in other distros as well.
+
+- title: Enterprise desktop at home with freeipa and GNOME
+  speaker: Alexander Bokovoy
+  start: 2016-01-30 12:00 CET
+  end: 2016-01-30 12:50 CET
+  room: Janson
+  track: Enterprise
+  description: |
+    Enterprise environment means a lot of integration to work together.
+    Single sign-on, VPNs, access controls, boring user experience, multiple
+    third-party applications which may not be playing well with each other.
+    FreeIPA is a project providing an integrated and secure setup of
+    complete free software stack that makes up a typical enterprise
+    environment.
+
+- title: Gluster roadmap, recent improvements and upcoming features
+  speaker: Niels de Vos
+  start: 2016-01-30 16:00 CET
+  end: 2016-01-30 16:50 CET
+  room: Janson
+  track: Enterprise
+  description: |
+    Gluster provides Software Defined Storage for the cloud, and is gaining
+    new functionalities every couple of months. New features make it
+    possible to deploy the cloud storage solution for an increasing number
+    of use-cases.
+
+- title: 'How to run a telco on Free Software: the network transformation with opnfv'
+  speaker: Dave Neary
+  start: 2016-01-30 17:00 CET
+  end: 2016-01-30 17:50 CET
+  room: K.1.105 (La Fontaine)
+  track: Systems Administration
+  description: |
+    Networks Functions Virtualizationm or NFV, is a very hot industry topic
+    at the moment. What you might not know is what it means -
+    telecommunications companies who have traditionally used only
+    proprietary software to run their core services are now embracing free
+    and open source software, and in the process changing the way they build
+    and deploy core telco serives to be more open.
+
+    This presentation will review what makes up an NFV stack in OPNFV,
+    covering OpenStack, OpenDaylight, Open vSwitch, DPDK, QEMU, the Linux
+    kernel, and other projects. I will present the work being done in these
+    communities to enable the migration of telco applications to this
+    platform, particularly in the areas of improved network dataplane
+    performance, enabling better management of applications running on the
+    platform, and the ability to run real-time guest workloads with KVM.
+
+    I will also look at the organisational transformation in the
+    telecommunications industry, and the adoption of DevOps and agile
+    practices, and the evolving culture of the telecommunications industry,
+    and how the changes that are happening at the request of the
+    telecommunications industry benefit everyone, from the home hardware
+    hacker hobbyist to IT operations in small and large companies.
+
+- title: Free Java 2016 welcome - saturday
+  speaker: Mario Torre
+  start: 2016-01-30 10:25 CET
+  end: 2016-01-30 10:30 CET
+  room: H.1301 (Cornil)
+  track: Free Java
+  description: Free Java 2016 Introduction - Saturday
+
+- title: Shenandoah, theory and practice
+  speaker: Roman Kennke, Christine H Flood
+  start: 2016-01-30 12:05 CET
+  end: 2016-01-30 12:30 CET
+  room: H.1301 (Cornil)
+  track: Free Java
+  description: |
+    The Difference between Theory and Practice is greater in practice then
+    it is in theory. We are on the brink of our first official release of
+    Shenandoah. It took two weeks to write up the design and over two years
+    to implement it. This talk will discuss the differences between what we
+    initially proposed and what we now have working. An honest look at
+    compromises, wrong turns, and innovations. We will finish the talk with
+    the theory of what comes next: A high level design for NUMA aware GC, a
+    sketch of a plan for truly pauseless GC, a brief consideration of
+    reference counting...
+
+- title: Hunting the bug from hell
+  speaker: Andrew Haley
+  start: 2016-01-30 13:30 CET
+  end: 2016-01-30 14:15 CET
+  room: H.1301 (Cornil)
+  track: Free Java
+  description: |
+    Imagine you receive a report of a bug which causes a segfault (i.e. a
+    memory exception) in the HotSpot Java VM very occasionally. This bug
+    only occurs about one time in ten; it might take many hours before it
+    happens. It has only been observed when running one particular piece of
+    proprietary software. It only seems to occur on one large machine when
+    running many concurrent threads and a huge heap. There is a clue: it
+    only seems to happen when running the parallel scavenge garbage
+    collector. But you've no real idea of how the garbage collector works.
+
+    This happened to me in 2015. I'm used to being able to find and fix
+    bugs, but this one resisted all of my attempts for a long time. As far
+    as I can recall it's the most difficult bug I've ever fixed. In hunting
+    this bug I used every tool available to me as a HotSpot developer. I'll
+    describe them and how they were used.
+
+    We don't much talk about debugging. Many of us spend much of our time
+    doing it, but not talking or writing about this important activity. We
+    should talk about it more. If there's time it would be good to swap war
+    stories.
+
+- title: Thermostat for developers
+  speaker: Mario Torre
+  start: 2016-01-30 15:00 CET
+  end: 2016-01-30 15:25 CET
+  room: H.1301 (Cornil)
+  track: Free Java
+  description: |
+    Thermostat has evolved a log way from being a specialised tool for
+    performance monitoring and analysis of the JVM, first by encompassing a
+    generic framework for performance analysis and data visualisation and
+    now with the addition of a powerful and advanced new Platform
+    infrastructure that also allow users to build completely standalone
+    projects.
+
+    The Platform offers a familiar environment that handles Model View and
+    Controllers objects, presentation layer, threading models, visualisation
+    and also special effects, and a new data architecture.
+
+    In this presentation we will demonstrate how to build an application
+    based on Thermostat in few simple steps and how to take advantage of the
+    new architecture to build stunning and visually appealing applications.
+
+- title: Displaying application events in Thermostat using byteman
+  speaker: Mario Torre, Andrew Dinn
+  start: 2016-01-30 15:30 CET
+  end: 2016-01-30 16:10 CET
+  room: H.1301 (Cornil)
+  track: Free Java
+  description: |
+    Thermostat is more than just an open source tool for performance
+    monitoring and analysis of the JVM. It is also an extensible platform
+    which supports development of many different data capture and
+    visualization tools, allowing users to collate and display disparate
+    data from a runtime environment. One such extension currently being
+    developed by Red Hat is a Byteman plugin. Events and data captured by
+    Byteman rules can be reported to the Thermostat agent and displayed in
+    the Thermostat user interface.
+
+    This talk will provide a preview of the Byteman Thermostat plugin in
+    action. Byteman will be used to inject rules into a running application
+    and into the underlying JDK runtime. These rules will all use the
+    Thermostat-Byteman Helper, provided as part of the plugin
+    implementation, to pass a variety of data through to the Thermostat
+    agent. The data will be collected and rendered using several of the
+    available Thermostat information displays. By making simple changes to
+    the loaded rule sets and the corresponding displays we will show how you
+    can rapidly shift focus from viewing one set of application events to
+    another.
+
+- title: Huge code bases - application monitoring with hystrix
+  speaker: Roman Mohr
+  start: 2016-01-30 16:20 CET
+  end: 2016-01-30 16:45 CET
+  room: H.1301 (Cornil)
+  track: Free Java
+  description: "[1] https://github.com/Netflix [2] http://www.ovirt.org"
+
+- title: An overview OpenConnect VPN
+  speaker: Nikos Mavrogiannopoulos
+  start: 2016-01-30 15:00 CET
+  end: 2016-01-30 15:25 CET
+  room: H.1309 (Van Rijn)
+  track: Security
+  description: |
+    Openconnect is a relatively new VPN solution. It started as a clone of
+    CISCO's anyconnect VPN server, but it has now surpassed that role and
+    provides a reliable VPN solution with a very conservative security
+    architecture. This talk will address the question on the need for a new
+    VPN solution given the plethora of open source VPN solutions, the
+    distinctive security features and capabilities of openconnect and an
+    insight on the current development status.
+
+- title: 'Community impacts of legal decisions: legal policy as barrier to entry'
+  speaker: Dave Neary
+  start: 2016-01-30 12:00 CET
+  end: 2016-01-30 12:25 CET
+  room: H.2213
+  track: Legal and Policy Issues
+  description: |
+    Legal decisions related to an open source project serve multiple
+    purposes. One of the constituencies of these legal policies is the
+    community of contributors to the project. Unfortunately, the effect of
+    legal policy decisions by a primary copyright holder can have
+    unanticipated negative effects on this constituency.
+
+    Some legal decisions which have an effect on the contributor community
+    are: \* License choice \* Contributor licensing agreements \*
+    Determining origin of contributions and "clearing" them \* Trademark
+    usage policy
+
+    Dave Neary is a community manager with a long history of participating
+    in and organising open source community projects, and he will walk you
+    through some of the ways in which decisions in these areas have actively
+    harmed project growth in the past, and may suggest some alternatives
+    which accomplish similar goals without the same side-effects.
+
+- title: 'Tl;dr on legal strategy for commercial ventures: an abridged review of legal
+    strategy and licensing issues for commercial ventures and enterprises'
+  speaker: James Shubin
+  start: 2016-01-30 18:00 CET
+  end: 2016-01-30 18:25 CET
+  room: H.2213
+  track: Legal and Policy Issues
+  description: |
+    James Shubin (@purpleidea) will be presenting his review of some of the
+    important legal and licensing issues faced by commercial ventures and
+    enterprises who are involved with or are (in particular) producing
+    software. This will include: current practices and their impact, public
+    discussion and prior art on this topic, the cost of different licenses,
+    and a review and rebuttal of some of the points brought up during
+    previous FOSDEM legal dev room presentations. More info in the full
+    description.
+
+- title: 'Blender as virtual studio lighting playground: using blender''s realtime
+    rendering preview to explore lighting for photography or video setups'
+  speaker: Tuomas Kuosmanen
+  start: 2016-01-30 12:30 CET
+  end: 2016-01-30 12:50 CET
+  room: AW1.120
+  track: Open Source Design
+  description: |
+    Blender (www.blender.org) is a versatile 3D studio that, among other
+    things, contains a handy rendering preview which renders lights and
+    shadows in the 3D editor view. We will be exploring this feature to
+    create a virtual studio to play with lighting ideas.
+
+- title: 'How awesome ended up with lua and not guile: retrospective of the awesome
+    window manager'
+  speaker: Julien Danjou
+  start: 2016-01-30 14:00 CET
+  end: 2016-01-30 14:20 CET
+  room: K.3.201
+  track: Lua
+  description: |
+    During the year 2008, the awesome window manager jumped in and picked a
+    programming language to allow its users to extend their configuration
+    beyond the limit of the possible. History shows that Lua was picked and
+    Guile completely ignored. Fast forward 7 years later: awesome is still
+    used by tens of thousands of geeks around the globe who write Lua every
+    day. This talk is going to relate how awesome ended up with Lua, how
+    wonderful and terrible it was, and how and why Guile was discarded.
+
+- title: 'The future of small languages: experience of lua and guile'
+  speaker: Andy Wingo, Christopher Webber, Ludovic Courtès, Etiene Dalcol, Hisham
+    Muhammad, Julien Danjou
+  start: 2016-01-30 14:20 CET
+  end: 2016-01-30 15:00 CET
+  room: K.3.201
+  track: GNU Guile
+  description: Session with the GNU Guile and LUA communities
+
+- title: Where are your symbols, debuginfo and sources? (a package is more than a
+    binary - make it observable)
+  speaker: Mark Wielaard
+  start: 2016-01-30 15:30 CET
+  end: 2016-01-30 15:50 CET
+  room: K.4.201
+  track: Distributions
+  description: |
+    Users (and developers) don't just want to run an executable, they also
+    like to know that it runs efficiently, that it doesn't use unnecessary
+    resources and if it crashes and burns they want to collect the pieces
+    and inspect what went wrong. So a package should also provide the user
+    with a means to easily profile, trace and debug what is running on their
+    system. This means a distro should also package symbols, debuginfo and
+    sources for easy/automatic installation. With different distros and
+    different versions of distro packages running next to each other in
+    containers we need some standard conventions to identify executables
+    (build-id) and match and fetch the needed symbols, debuginfo and sources
+    to help the user profile, trace and debug any binary they find on their
+    system.
+
+- title: Do Software Collections still matter? (with containers, unikernels, and all
+    the new hotness?)
+  speaker: Langdon White
+  start: 2016-01-30 17:00 CET
+  end: 2016-01-30 17:15 CET
+  room: K.4.201
+  track: Distributions
+  description: ''
+
+- title: Finally building LibreOffice on windows
+  speaker: Stephan Bergmann
+  start: 2016-01-30 16:00 CET
+  end: 2016-01-30 16:20 CET
+  room: K.4.401
+  track: Open Document Editors
+  description: |
+    ...with clang-cl, thereby leveraging (some of) the Clang goodness we
+    enjoy on the other platforms for the Windows-specific parts, too. This
+    talk will highlight some of the findings made during that endeavour.
+
+- title: Docker for developers
+  speaker: Michael Hrivnak
+  start: 2016-01-30 12:15 CET
+  end: 2016-01-30 12:45 CET
+  room: UA2.114 (Baudoux)
+  track: Containers and Process Isolation
+  description: |
+    Docker is not just for deployment. As a developer, there are many ways
+    Docker can make you more productive, regardless of how your app gets
+    deployed.
+
+    In this session, you will learn practical strategies for using Docker,
+    including how to:
+
+    - Run unit tests locally in multiple environments with almost no
+    overhead.
+    - Make your integration tests easy for anyone to run by distributing
+    them in a Docker image.
+    - Simulate advanced network topologies, especially for a
+    service-oriented architecture.
+    - Make a Docker image in 5 minutes or less that produces builds from a
+    consistent environment.
+    - Isolate database state changes in your test suite by using a pool of
+    disposable containers.
+
+- title: 'Testing complex software in ci: stories from sssd and samba world'
+  speaker: Jakub Hrozek, Andreas Schneider
+  start: 2016-01-30 13:45 CET
+  end: 2016-01-30 14:30 CET
+  room: UA2.220 (Guillissen)
+  track: Testing and Automation
+  description: |
+    This talk will show stories from the trenches of developing tests for
+    SSSD and Samba. How we developed complete integration tests that
+    exercise all the capabilities of our software and run in environments
+    without a real network access, without requiring root or sudo or
+    touching the important OS interfaces.
+
+- title: '"i find your lack of threads disturbing": optimizing qemu and KVM for high
+    iops'
+  speaker: Paolo Bonzini
+  start: 2016-01-30 11:30 CET
+  end: 2016-01-30 12:10 CET
+  room: UB2.252A (Lameere)
+  track: Virtualisation and IaaS
+  description: |
+    The QEMU and KVM developers' efforts towards a high-performance block
+    layer started back in 2012, and are now seeing the light. In this
+    presentation I will lead the audience through this multi-year journey.
+
+    I will explain the structure of the QEMU block layer, why it has
+    traditionally preferred cooperative multitasking (coroutines) to
+    threads, and how to reconcile this design with the high level of
+    parallelism required by modern PCIe storage devices.
+
+- title: 'Bringing host lifecycle and content management into oVirt: powerful management
+    of your virtualized data-center'
+  speaker: Oved Ourfali
+  start: 2016-01-30 14:00 CET
+  end: 2016-01-30 14:40 CET
+  room: UB2.252A (Lameere)
+  track: Virtualisation and IaaS
+  description: |
+    In this session I'll show an overview of oVirt (Virtualization
+    Management), Foreman (Host Lifecycle Management), and Katello (Content
+    Management), and show how we use the latter two in oVirt to give a
+    Powerful Virtualizaed Data-Center Management system.
+
+- title: Reactive processing in oVirt
+  speaker: Piotr Kliczewski
+  start: 2016-01-30 14:45 CET
+  end: 2016-01-30 15:25 CET
+  room: UB2.252A (Lameere)
+  track: Virtualisation and IaaS
+  description: |
+    Virtualization management requires processing continuous streams of
+    data, mostly for monitoring purposes. It is therefore challenging to
+    make sure the different services are able to act properly, rather than
+    become overloaded with incoming data. "Reactive" concepts can help
+    overcome such challenges. In this presentation I'll show how oVirt
+    embraced these concepts and evolved to Reactive architecture, and show
+    the impact it had on overall system performance and stability.
+
+- title: 'Sweep away the garbage: for scalable, fault-tolerant shared VM storage'
+  speaker: Adam Litke
+  start: 2016-01-30 15:30 CET
+  end: 2016-01-30 16:10 CET
+  room: UB2.252A (Lameere)
+  track: Virtualisation and IaaS
+  description: |
+    In modern virtualization platforms virtual machine disks are stored in
+    various kinds of shared repositories which are accessed by thousands of
+    hypervisors simultaneously. Changes are constant. How can you provide
+    high performance access to these resources while ensuring a consistent
+    view of the world across all systems? When bad things happen, how do you
+    restore the integrity of the data?
+
+- title: Guix-tox, a functional version of tox
+  speaker: Cyril Roelandt
+  start: 2016-01-30 17:00 CET
+  end: 2016-01-30 17:30 CET
+  room: UD2.218A
+  track: Python
+  description: |
+    Tox is a very well-known tool, written in Python, that allows users to
+    run tests inside various virtual environments created using virtualenv.
+    This approach prevents tests from being truly reproducible. We will see
+    in this talk how virtualenv can be replaced by GNU Guix, a functional
+    package manager, in order to improve tox. We will give real-life
+    examples using Python packages from the OpenStack project.
+
+- title: Managing Python packages with pulp
+  speaker: Michael Hrivnak
+  start: 2016-01-30 17:30 CET
+  end: 2016-01-30 18:00 CET
+  room: UD2.218A
+  track: Python
+  description: |
+    Pulp can be used to create and manage local repositories of Python
+    packages.
+
+- title: 'Re-thinking Linux distributions: ... separate the operating system from
+    the content'
+  speaker: Langdon White
+  start: 2016-01-31 10:00 CET
+  end: 2016-01-31 10:50 CET
+  room: Janson
+  track: Distros
+  description: |
+    As the power pendulum swings towards developers and open source, from
+    sys-admins and proprietary software, respectively, Linux Distributions
+    are faced with a challenge. How do they get more relevant to the new
+    power brokers?
+
+    This talk will discuss the work taking place in the Fedora, CentOS, and
+    Red Hat EL communities to address these challenges.
+
+- title: Live migration of virtual machines from the bottom up
+  speaker: Amit Shah
+  start: 2016-01-31 15:00 CET
+  end: 2016-01-31 15:50 CET
+  room: K.1.105 (La Fontaine)
+  track: Virtualisation
+  description: |
+    Hypervisors get deployed in wildly different scenarios: datacenters are
+    different from clouds, and both of these are different from the way we
+    use virtualization on our workstations or laptops. This has resulted in
+    the different projects using a layered approach, which makes everything
+    modular, but prone to a lot of mismatches and errors. Effort has been
+    ongoing on making these layers behave as a cohesive whole, while
+    addressing the usecases and demands from the various deployment
+    scenarios in a way that scales well. This talk will be focussed on the
+    live migration aspect of virtualization, showcasing some of the
+    usecases, and actual problems that have been solved while keeping all
+    the usecases in mind.
+
+- title: Free Java 2016 welcome - sunday
+  speaker: Mario Torre
+  start: 2016-01-31 10:15 CET
+  end: 2016-01-31 10:20 CET
+  room: H.1301 (Cornil)
+  track: Free Java
+  description: Free Java 2016 Welcome - Sunday
+
+- title: Optimizing above the jVM in JRuby 9000
+  speaker: Charles Nutter, Thomas  Enebo
+  start: 2016-01-31 13:30 CET
+  end: 2016-01-31 14:00 CET
+  room: H.1301 (Cornil)
+  track: Free Java
+  description: |
+    JRuby has for years routed around the JVM, to maximize compatibility
+    with standard Ruby. We've implemented byte[]-based String and Regexp,
+    native POSIX support, and our own mixed-mode interpreting/jitting
+    runtime atop JVM bytecode.
+
+    With JRuby 9000, we're taking this even further. JRuby 9000 introduces a
+    new IR-based optimizing compiler, with inlining, specialization, and
+    other tricks applied to both interpreted and bytecode-compiled code.
+    We've also gone fully native for much of IO and Process management. This
+    talk will show the state of this work and how it affects JRuby and the
+    wider JVM world.
+
+- title: Adoption's group cultural guide to OpenJDK
+  speaker: Mario Torre, Martijn Verburg, Dalibor Topić
+  start: 2016-01-31 14:50 CET
+  end: 2016-01-31 15:20 CET
+  room: H.1301 (Cornil)
+  track: Free Java
+  description: |
+    OpenJDK is now a well established Free Software Ecosystem, with a
+    vibrant Community and lots of interesting stuff going on, with projects,
+    repositories, bug database and above all experiments!
+
+    This is exciting and fun, but given the challenges of such massive
+    project, it is intimidating and it is easy to get lost. It is also easy
+    to forget that such massive infrastructure requires well defined rules,
+    that are sometime perceived as blocking rather than aiding the
+    participation. To help people wanting to contribute keep track of this
+    intricate forest of development and find their way in, the Adoption
+    Group was created (http://openjdk.java.net/groups/adoption/).
+
+    This session is an exchange between few of the hackers directly involved
+    with the Adoption Group and the public, we will answer questions the
+    audience may have in relation to getting involved with OpenJDK, try to
+    define and explain workarounds for most common problems (and blockers!)
+    that newcomers face, discuss some of the projects we are currently
+    involved with, and hope to be your Ariadne's thread to win back the fun
+    of contributing and participating at all levels, without ever getting
+    lost!
+
+- title: Meet the governing board
+  speaker: Mark Reinhold, Andrew Haley, Georges Saab, Doug Lea, John Duimovich
+  start: 2016-01-31 15:30 CET
+  end: 2016-01-31 17:00 CET
+  room: H.1301 (Cornil)
+  track: Free Java
+  description: Meet the OpenJDK Governing Board, Q&A session
+
+- title: 'Optimizing JRuby 9000: taking Ruby performance to the next level'
+  speaker: Charles Nutter
+  start: 2016-01-31 11:05 CET
+  end: 2016-01-31 11:50 CET
+  room: H.2213
+  track: Ruby
+  description: |
+    JRuby 9000 introduced a brand new optimizing runtime, with a
+    register-based IR and classic compiler design. Atop this new runtime,
+    we've started to apply our own dynamic language optimizations like
+    inlining, specialization, and more. This talk will summarize the state
+    of our work and how it's paying off for Ruby users.
+
+    This is a talk about JRuby 9000s optimizing compiler and the work we're
+    doing to optimize Ruby above the level of JVM bytecode. We'll also cover
+    work to take better advantage of JVM optimizations and keep making JRuby
+    the best Ruby implementation available.
+
+- title: 'Nir on the mesa i965 backend: a case for a faster and simpler driver'
+  speaker: Eduardo Lima
+  start: 2016-01-31 11:00 CET
+  end: 2016-01-31 11:50 CET
+  room: K.3.401
+  track: Graphics
+  description: |
+    If you are running Linux on an Intel GPU, chances are that your graphics
+    driver just got much better. Mesa, the most popular open source OpenGL
+    implementation, has got a new intermediate language to represent GLSL
+    shader programs. It is called NIR, and is based on modern knowledge on
+    compilers and GPU architecture. The Intel i965 driver is fully powered
+    by NIR now, after support to non-scalar shaders has been added recently.
+
+- title: 'Compute support for nouveau: creating a llVM to tgsi and a spir-v to nv50
+    ir backends'
+  speaker: Hans de Goede, Pierre Moreau
+  start: 2016-01-31 14:00 CET
+  end: 2016-01-31 14:50 CET
+  room: K.3.401
+  track: Graphics
+  description: |
+    This talk will look at the work recently done to enable compute support
+    on GPUs supported by Nouveau. The focus of the talk will be on
+    generating a representation of the OpenCL code that can be consumed by
+    Nouveau, which is the biggest missing piece to get OpenCL running on
+    Nouveau.
+
+- title: 'The state of Linux distributions: where do distributions stand in the brave
+    new world?'
+  speaker: Joe Brockmeier
+  start: 2016-01-31 10:00 CET
+  end: 2016-01-31 10:20 CET
+  room: K.4.201
+  track: Distributions
+  description: |
+    Once Upon a Time, Linux distributions were the "center of the universe"
+    for free and open source software. If you wanted to reach users with
+    your project, the best path to do so was to have your software packaged
+    for the "major" Linux distributions of the time. Today, the world looks
+    a lot different with language-specific package managers, microservices
+    and containers, and so on. What's the role of Linux distributions in
+    today's open source world, and where do we go from here?
+
+- title: 'Reorienting traditional distributions towards containers: medium term work
+    for project atomic to land in Fedora/CentOS'
+  speaker: Colin Walters
+  start: 2016-01-31 10:30 CET
+  end: 2016-01-31 11:20 CET
+  room: K.4.201
+  track: Distributions
+  description: |
+    Project Atomic is an effort to drive Linux containerization, built on
+    top of distributions like Fedora and CentOS. This talk will cover some
+    medium-term work to improve the way we build and manage containers as it
+    relates to the distribution technology. This talk will cover aspects of
+    Docker, OpenShift v3 and Atomic Enterprise Platform, OSTree, and more.
+
+- title: 'Cockpit: discoverable Linux servers'
+  speaker: Stef Walter
+  start: 2016-01-31 11:30 CET
+  end: 2016-01-31 12:20 CET
+  room: K.4.201
+  track: Distributions
+  description: |
+    Cockpit is a discoverable admin interface. Cockpit makes Linux usable by
+    a far more sysadmins. Cockpit is on by default in Fedora Server, and
+    available on RHEL, CentOS, Atomic, Debian, Arch and others.
+
+- title: 'The CentOS ci: a getting started guide (the CentOS ci: a getting started
+    guide)'
+  speaker: Dusty Mabe
+  start: 2016-01-31 13:30 CET
+  end: 2016-01-31 13:50 CET
+  room: K.4.201
+  track: Distributions
+  description: |
+    The CentOS CI is a public resource that open source based projects can
+    use for integration tests on bare metal hardware. The goal of the
+    project is to be a resource for communities that build on top of CentOS
+    in order to enable them to perform better automated testing. Down the
+    line this infrastructure will be developed into a full pipeline for
+    building and testing containers. This talk will give an overview of the
+    CentOS CI as well as a quick start to getting started with the project.
+
+- title: GNOME builder, a year of development
+  speaker: Christian Hergert
+  start: 2016-01-31 09:10 CET
+  end: 2016-01-31 09:40 CET
+  room: K.4.401
+  track: Desktops
+  description: |
+    This talk will take a look at a year of development on GNOME Builder by
+    it's primary author. We'll cover tips and tricks to get the most out of
+    the application. Additionally, we'll discuss where the project is headed
+    and how you can help and define it's future.
+
+- title: 'Freebsd/xen update: news from freebsd and xen'
+  speaker: Roger Pau Monné, Wei Liu
+  start: 2016-01-31 12:00 CET
+  end: 2016-01-31 13:00 CET
+  room: K.4.601
+  track: BSD
+  description: |
+    It's been more than a year since FreeBSD gained support for running as a
+    Xen host, but there's still a lot of ongoing work on both FreeBSD and
+    Xen in order to improve the features and the performance of FreeBSD as a
+    guest and a host.
+
+    This talk will cover the latest improvements in FreeBSD related to Xen
+    support, and the new features being developed for Xen itself.
+
+- title: Managing Ceph through cinder using oVirt
+  speaker: Maor Lipchuk
+  start: 2016-01-31 10:00 CET
+  end: 2016-01-31 10:25 CET
+  room: UB2.252A (Lameere)
+  track: Virtualisation and IaaS
+  description: |
+    The demand for managing a large amount of data in a scalable yet
+    reliable and cost-effective way has became more and more relevant in
+    this day and age. Ceph, a software-defined storage, provides an original
+    solution for this problem and guarantees a resilient and self-healing
+    way for managing large amount of data up to the Exabyte level. In this
+    session I will talk about a new feature introduced in oVirt 3.6 which
+    provides the ability to integrate with Red Hat Ceph storage using
+    Cinder, a storage service used mainly for OpenStack. This integration
+    reveals new opportunities and tools for storage management in a scalable
+    and virtualized way and also opens the door for interesting future
+    integrations with other storage providers.
+
+- title: Ceph rados gateway overview
+  speaker: Orit Wasserman
+  start: 2016-01-31 10:30 CET
+  end: 2016-01-31 11:10 CET
+  room: UB2.252A (Lameere)
+  track: Virtualisation and IaaS
+  description: |
+    Ceph is a highly available distributed software defined storage,
+    providing object, key/value and file-system interfaces. Ceph RGW (Rados
+    Gateway) provides cloud object storage with HTTP REST API that is Amazon
+    S3 and openstack swift compatible.
+
+    We will provide an architecture overview of Ceph and RGW and will talk
+    of RGW future directions.
+
+- title: oVirt - let's hyperconverge!
+  speaker: Martin Sivák
+  start: 2016-01-31 11:15 CET
+  end: 2016-01-31 11:55 CET
+  room: UB2.252A (Lameere)
+  track: Virtualisation and IaaS
+  description: |
+    We were asked to come up with a solution to setting up a cluster where
+    storage, management and VMs are running together on small number of
+    nodes. This solution is currently known as hyper converged architecture.
+    This kind of setup seems to be getting quite common in small
+    deployments, but it was not possible to use it and maintain all oVirt
+    reliability features until now. This presentation will be about the
+    system design and issues we encountered while installing the minimal
+    possible reliable cluster using three hyper converged hosts with oVirt
+    as the software stack and Gluster for the storage - all running together
+    in highly available setup across all three nodes.
+
+- title: 'Containers and virtualization: how they can work together'
+  speaker: Joe Brockmeier
+  start: 2016-01-31 12:15 CET
+  end: 2016-01-31 12:40 CET
+  room: UB2.252A (Lameere)
+  track: Virtualisation and IaaS
+  description: |
+    A lot of folks are talking about containers vs. virtualization.
+    Sometimes that makes sense, but there are also a number of cases where
+    they're working together. I want to talk about the relationship between
+    virtualization and containers, and some of the efforts to manage
+    virtualization / IaaS technologies with containers to make them easier
+    to deploy and manage. This includes efforts to containerize things like
+    oVirt and OpenStack, as well as the best way to run KVM virtual machines
+    in privileged containers.
+
+- title: Advanced management for IaaS and containers
+  speaker: Federico Simoncelli
+  start: 2016-01-31 12:45 CET
+  end: 2016-01-31 13:25 CET
+  room: UB2.252A (Lameere)
+  track: Virtualisation and IaaS
+  description: |
+    As your IaaS of choice is becoming more and more fundamental to run
+    containerized applications, the need for orchestration and advanced
+    management is critical for an efficient, secure, and scalable
+    deployment. This presentation will describe how ManageIQ, the leading
+    Open Source cloud management platform, can cross-link information from
+    different layers in your infrastructure to present a consistent view for
+    the operator.
+
+- title: 'Oh, my! oh-my-vagrant (with live demos!): oh-my-vagrant development environments
+    for hackers'
+  speaker: James Shubin
+  start: 2016-01-31 16:30 CET
+  end: 2016-01-31 16:55 CET
+  room: UB2.252A (Lameere)
+  track: Virtualisation and IaaS
+  description: |
+    Learn how to get a Vagrant environment running as quickly as possible,
+    so that you can start iterating on your project right away. I'll show
+    you an upstream project called Oh-My-Vagrant that does the work and adds
+    all the tweaks to glue different Vagrant provisioners together
+    perfectly. I'll also demonstrate some tools such as vscreen and vcssh
+    which make it possible to connect to single and multiple numbers of
+    vagrant vm's more easily. We'll do all of this using the libvirt plugin
+    to vagrant, which makes it possible to use the virsh and virt-manager
+    tools in parallel with your vagrant toolset.
