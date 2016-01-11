@@ -1,0 +1,23 @@
+name: CentOS Dojo at FOSDEM
+description: |
+  The CentOS Dojo at FOSDEM is part of the FOSDEM 
+  Fringe - https://fosdem.org/2016/fringe/ - and will be held at the IBM
+  Client Center in Brussels. Find out more at
+  https://wiki.centos.org/Events/Dojo/Brussels2016
+location: Brussels, Belgium
+start: 2016-01-29
+end: 2016-01-29
+tags: RDO, CentOS
+
+talks:
+
+- title: RDO Community Day
+  location: IBM Client Center, Brussels, Belgium
+  start: 2016-01-29 08:00 CET
+  end: 2016-01-29 18:00 CET
+  description: |
+    RDO Community Day at the CentOS Dojo. Schedule and details at
+    http://rdoproject.org/events/rdo-day-fosdem-2016
+    Register at https://www.eventbrite.co.uk/e/centos-dojo-brussels-belgium-jan-29th-2016-tickets-19589843750
+
+
