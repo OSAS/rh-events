@@ -71,6 +71,19 @@ talks:
     possible to deploy the cloud storage solution for an increasing number
     of use-cases.
 
+- title: 'Applying band-aids over security wounds with SystemTap: a data-modification-based
+    approach for fixing the unfixable.'
+  speaker: Frank Ch. Eigler
+  start: 2016-01-30 16:00 CET
+  end: 2016-01-30 16:50 CET
+  room: K.1.105 (La Fontaine)
+  track: Systems Administration
+  description: |
+    We present a live-patching technique based on systemtap's programmable
+    in-situ instrumentation. These patches are limited to modifying data
+    instead of code, but are often sufficient to put a bandage on a
+    bleeding security vulnerability - or even a plain bug.
+
 - title: 'How to run a telco on Free Software: the network transformation with opnfv'
   speaker: Dave Neary
   start: 2016-01-30 17:00 CET
