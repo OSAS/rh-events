@@ -210,6 +210,22 @@ talks:
   track: Free Java
   description: "[1] https://github.com/Netflix [2] http://www.ovirt.org"
 
+- title: 'Usbguard: take control over your usb devices'
+  speaker: Daniel Kopeček
+  start: 2016-01-30 13:30 CET
+  end: 2016-01-30 13:55 CET
+  room: H.1309 (Van Rijn)
+  track: Security
+  description: |
+    In this talk we will learn a bit about how USB devices can do evil
+    things to your system and introduce a new tool, called USBGuard, that
+    helps you to defend against USB-based attacks. The USBGuard software
+    framework helps to protect your computer against rogue USB devices
+    (a.k.a. BadUSB) by implementing a firewall-like system for whitelisting
+    and blacklisting the devices based on their attributes. Finally, some
+    of the advanced and planned features like USB traffic monitoring or
+    network bound USB disk encryption will be presented.
+
 - title: An overview OpenConnect VPN
   speaker: Nikos Mavrogiannopoulos
   start: 2016-01-30 15:00 CET
@@ -335,6 +351,19 @@ talks:
   track: Distributions
   description: ''
 
+- title: 'Ui event fuzzing via american-fuzzy-lop: using afl to fuzz keyboard input
+    for ui testing LibreOffice'
+  speaker: Caolán McNamara
+  start: 2016-01-30 12:50 CET
+  end: 2016-01-30 13:10 CET
+  room: K.4.401
+  track: Open Document Editors
+  description: |
+    We use american-fuzzy-lop for fuzzing various file formats that
+    LibreOffice supports. Here I demo some amusing hackery to use afl to
+    fuzz a stream of keyboard events in order to attempt to flush out
+    unknown or difficult to reproduce bugs.
+
 - title: Finally building LibreOffice on windows
   speaker: Stephan Bergmann
   start: 2016-01-30 16:00 CET
@@ -442,6 +471,25 @@ talks:
     high performance access to these resources while ensuring a consistent
     view of the world across all systems? When bad things happen, how do
     you restore the integrity of the data?
+
+- title: Build a basic cloud using rdo-manager
+  speaker: K Rain Leander
+  start: 2016-01-30 17:15 CET
+  end: 2016-01-30 17:40 CET
+  room: UB2.252A (Lameere)
+  track: Virtualisation and IaaS
+  description: |
+    One of the impediments to becoming an active technical contributor in
+    the OpenStack community is setting up your own R&D environment which
+    includes making your own cloud. How much RAM do you really need? How
+    important is processor speed? What else do I need to know?
+
+    Using RDO-manager, get a basic cloud up and running with the fewest
+    steps and minimal hardware so you can focus on the fun stuff -
+    development!
+
+    After this presentation, you will be able to build your own basic cloud
+    using RDO-manager.
 
 - title: Guix-tox, a functional version of tox
   speaker: Cyril Roelandt
@@ -565,6 +613,24 @@ talks:
   track: Free Java
   description: Meet the OpenJDK Governing Board, Q&A session
 
+- title: 'From prototype to deployment: building a rest application using go (experiences
+    learned during the development of heketi)'
+  speaker: Luis Pabón
+  start: 2016-01-31 10:35 CET
+  end: 2016-01-31 11:20 CET
+  room: H.1302 (Depage)
+  track: Go
+  description: |
+    Choosing a language, specially a relatively new language, for a project
+    can be a challenge. Does it have enough documentation? Is it
+    interpreted or compiled to machine language? How easily can it be
+    built? How can it be tested? What libraries are available? These and
+    other question like them are always asked by developers when
+    confronting a new language for a project. In this talk we will be
+    discussing the experiences learned while researching, designing,
+    developing, and deploying project Heketi, a RESTful service used to
+    intelligently allocate volumes in GlusterFS.
+
 - title: 'Optimizing JRuby 9000: taking Ruby performance to the next level'
   speaker: Charles Nutter
   start: 2016-01-31 11:05 CET
@@ -653,6 +719,24 @@ talks:
     Cockpit is a discoverable admin interface. Cockpit makes Linux usable
     by a far more sysadmins. Cockpit is on by default in Fedora Server, and
     available on RHEL, CentOS, Atomic, Debian, Arch and others.
+
+- title: 'The Fedora project by the numbers: (storytelling with metrics and data)'
+  speaker: decause
+  start: 2016-01-31 12:30 CET
+  end: 2016-01-31 12:50 CET
+  room: K.4.201
+  track: Distributions
+  description: |
+    This presentation will feature metrics from the Fedora Project. Some
+    topics of interest will include:
+
+    - Mailing List Demographics and Breakdown. Annual and All-time metrics
+    - Downloads and server traffic
+    - Yearly contributor Activity on the Fedmsg bus (technical and
+    non-technical contributions)
+    - Bodhi Updates System traffic and metrics
+    - Data visualizations and graphics
+    - Storytelling and anecdotes
 
 - title: 'The CentOS ci: a getting started guide (the CentOS ci: a getting started
     guide)'
@@ -779,6 +863,23 @@ talks:
     Open Source cloud management platform, can cross-link information from
     different layers in your infrastructure to present a consistent view
     for the operator.
+
+- title: 'Raiders of the lost testing env: the search for a reproducible VM testing
+    environment'
+  speaker: David Caro
+  start: 2016-01-31 16:00 CET
+  end: 2016-01-31 16:25 CET
+  room: UB2.252A (Lameere)
+  track: Virtualisation and IaaS
+  description: |
+    In the oVirt project, getting a full testing environment where to run
+    functional and integration tests for all the involved subprojects is a
+    hard task, if you add to that that it has to be reproducible across
+    machines, easy to automate and being able to be run on a developer
+    laptop, you end up with a huge challenge, but we are up to it!
+
+    In the oVirt project we are actively developing a framework that meets
+    all those requirements, **Lago**! (spanish/italian for lake)
 
 - title: 'Oh, my! oh-my-vagrant (with live demos!): oh-my-vagrant development environments
     for hackers'
