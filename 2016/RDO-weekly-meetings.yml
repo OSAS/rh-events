@@ -1,0 +1,39 @@
+name: RDO Weekly Meetings
+type: series
+tags: RDO
+
+talks:
+
+- title: Weekly RDO community sync
+  location: IRC
+  start: 2016-01-20 15:00 UTC
+  end: 2016-01-20 16:00 UTC
+  description: |
+      Weekly RDO IRC sync meeting, 15:00 UTC every Wednesday on 
+      the \#rdo channel on the Freenode IRC network.
+
+- title: Weekly CentOS Cloud SIG meeting
+  location: IRC
+  start: 2016-01-21 15:00 UTC
+  end: 2016-01-21 16:00 UTC
+  description: |
+      Weekly CentOS Cloud SIG meeting, 15:00 UTC every Thursday on 
+      the \#centos-devel channel on the Freenode IRC network.
+
+- title: Weekly RDO community sync
+  location: IRC
+  start: 2016-01-27 15:00 UTC
+  end: 2016-01-27 16:00 UTC
+  description: |
+      Weekly RDO IRC sync meeting, 15:00 UTC every Wednesday on 
+      the \#rdo channel on the Freenode IRC network.
+
+- title: Weekly CentOS Cloud SIG meeting
+  location: IRC
+  start: 2016-01-28 15:00 UTC
+  end: 2016-01-28 16:00 UTC
+  description: |
+      Weekly CentOS Cloud SIG meeting, 15:00 UTC every Thursday on 
+      the \#centos-devel channel on the Freenode IRC network.
+
+
