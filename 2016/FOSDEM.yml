@@ -19,8 +19,6 @@ description: |
 location: Brussels, Belgium
 start: 2016-01-30
 end: 2016-01-31
-tags: RDO
-
 talks:
 
 - title: Systemd and where we want to take the basic Linux userspace in 2016
@@ -84,8 +82,8 @@ talks:
     at the moment. What you might not know is what it means -
     telecommunications companies who have traditionally used only
     proprietary software to run their core services are now embracing free
-    and open source software, and in the process changing the way they build
-    and deploy core telco serives to be more open.
+    and open source software, and in the process changing the way they
+    build and deploy core telco serives to be more open.
 
     This presentation will review what makes up an NFV stack in OPNFV,
     covering OpenStack, OpenDaylight, Open vSwitch, DPDK, QEMU, the Linux
@@ -169,12 +167,13 @@ talks:
     projects.
 
     The Platform offers a familiar environment that handles Model View and
-    Controllers objects, presentation layer, threading models, visualisation
-    and also special effects, and a new data architecture.
+    Controllers objects, presentation layer, threading models,
+    visualisation and also special effects, and a new data architecture.
 
     In this presentation we will demonstrate how to build an application
-    based on Thermostat in few simple steps and how to take advantage of the
-    new architecture to build stunning and visually appealing applications.
+    based on Thermostat in few simple steps and how to take advantage of
+    the new architecture to build stunning and visually appealing
+    applications.
 
 - title: Displaying application events in Thermostat using byteman
   speaker: Mario Torre, Andrew Dinn
@@ -199,9 +198,9 @@ talks:
     implementation, to pass a variety of data through to the Thermostat
     agent. The data will be collected and rendered using several of the
     available Thermostat information displays. By making simple changes to
-    the loaded rule sets and the corresponding displays we will show how you
-    can rapidly shift focus from viewing one set of application events to
-    another.
+    the loaded rule sets and the corresponding displays we will show how
+    you can rapidly shift focus from viewing one set of application events
+    to another.
 
 - title: Huge code bases - application monitoring with hystrix
   speaker: Roman Mohr
@@ -246,9 +245,10 @@ talks:
 
     Dave Neary is a community manager with a long history of participating
     in and organising open source community projects, and he will walk you
-    through some of the ways in which decisions in these areas have actively
-    harmed project growth in the past, and may suggest some alternatives
-    which accomplish similar goals without the same side-effects.
+    through some of the ways in which decisions in these areas have
+    actively harmed project growth in the past, and may suggest some
+    alternatives which accomplish similar goals without the same
+    side-effects.
 
 - title: 'Tl;dr on legal strategy for commercial ventures: an abridged review of legal
     strategy and licensing issues for commercial ventures and enterprises'
@@ -317,14 +317,14 @@ talks:
     like to know that it runs efficiently, that it doesn't use unnecessary
     resources and if it crashes and burns they want to collect the pieces
     and inspect what went wrong. So a package should also provide the user
-    with a means to easily profile, trace and debug what is running on their
-    system. This means a distro should also package symbols, debuginfo and
-    sources for easy/automatic installation. With different distros and
-    different versions of distro packages running next to each other in
-    containers we need some standard conventions to identify executables
-    (build-id) and match and fetch the needed symbols, debuginfo and sources
-    to help the user profile, trace and debug any binary they find on their
-    system.
+    with a means to easily profile, trace and debug what is running on
+    their system. This means a distro should also package symbols,
+    debuginfo and sources for easy/automatic installation. With different
+    distros and different versions of distro packages running next to each
+    other in containers we need some standard conventions to identify
+    executables (build-id) and match and fetch the needed symbols,
+    debuginfo and sources to help the user profile, trace and debug any
+    binary they find on their system.
 
 - title: Do Software Collections still matter? (with containers, unikernels, and all
     the new hotness?)
@@ -440,8 +440,8 @@ talks:
     various kinds of shared repositories which are accessed by thousands of
     hypervisors simultaneously. Changes are constant. How can you provide
     high performance access to these resources while ensuring a consistent
-    view of the world across all systems? When bad things happen, how do you
-    restore the integrity of the data?
+    view of the world across all systems? When bad things happen, how do
+    you restore the integrity of the data?
 
 - title: Guix-tox, a functional version of tox
   speaker: Cyril Roelandt
@@ -522,12 +522,12 @@ talks:
     native POSIX support, and our own mixed-mode interpreting/jitting
     runtime atop JVM bytecode.
 
-    With JRuby 9000, we're taking this even further. JRuby 9000 introduces a
-    new IR-based optimizing compiler, with inlining, specialization, and
+    With JRuby 9000, we're taking this even further. JRuby 9000 introduces
+    a new IR-based optimizing compiler, with inlining, specialization, and
     other tricks applied to both interpreted and bytecode-compiled code.
-    We've also gone fully native for much of IO and Process management. This
-    talk will show the state of this work and how it affects JRuby and the
-    wider JVM world.
+    We've also gone fully native for much of IO and Process management.
+    This talk will show the state of this work and how it affects JRuby and
+    the wider JVM world.
 
 - title: Adoption's group cultural guide to OpenJDK
   speaker: Mario Torre, Martijn Verburg, Dalibor Topić
@@ -537,8 +537,8 @@ talks:
   track: Free Java
   description: |
     OpenJDK is now a well established Free Software Ecosystem, with a
-    vibrant Community and lots of interesting stuff going on, with projects,
-    repositories, bug database and above all experiments!
+    vibrant Community and lots of interesting stuff going on, with
+    projects, repositories, bug database and above all experiments!
 
     This is exciting and fun, but given the challenges of such massive
     project, it is intimidating and it is easy to get lost. It is also easy
@@ -548,14 +548,14 @@ talks:
     intricate forest of development and find their way in, the Adoption
     Group was created (http://openjdk.java.net/groups/adoption/).
 
-    This session is an exchange between few of the hackers directly involved
-    with the Adoption Group and the public, we will answer questions the
-    audience may have in relation to getting involved with OpenJDK, try to
-    define and explain workarounds for most common problems (and blockers!)
-    that newcomers face, discuss some of the projects we are currently
-    involved with, and hope to be your Ariadne's thread to win back the fun
-    of contributing and participating at all levels, without ever getting
-    lost!
+    This session is an exchange between few of the hackers directly
+    involved with the Adoption Group and the public, we will answer
+    questions the audience may have in relation to getting involved with
+    OpenJDK, try to define and explain workarounds for most common problems
+    (and blockers!) that newcomers face, discuss some of the projects we
+    are currently involved with, and hope to be your Ariadne's thread to
+    win back the fun of contributing and participating at all levels,
+    without ever getting lost!
 
 - title: Meet the governing board
   speaker: Mark Reinhold, Andrew Haley, Georges Saab, Doug Lea, John Duimovich
@@ -579,9 +579,9 @@ talks:
     of our work and how it's paying off for Ruby users.
 
     This is a talk about JRuby 9000s optimizing compiler and the work we're
-    doing to optimize Ruby above the level of JVM bytecode. We'll also cover
-    work to take better advantage of JVM optimizations and keep making JRuby
-    the best Ruby implementation available.
+    doing to optimize Ruby above the level of JVM bytecode. We'll also
+    cover work to take better advantage of JVM optimizations and keep
+    making JRuby the best Ruby implementation available.
 
 - title: 'Nir on the mesa i965 backend: a case for a faster and simpler driver'
   speaker: Eduardo Lima
@@ -590,12 +590,13 @@ talks:
   room: K.3.401
   track: Graphics
   description: |
-    If you are running Linux on an Intel GPU, chances are that your graphics
-    driver just got much better. Mesa, the most popular open source OpenGL
-    implementation, has got a new intermediate language to represent GLSL
-    shader programs. It is called NIR, and is based on modern knowledge on
-    compilers and GPU architecture. The Intel i965 driver is fully powered
-    by NIR now, after support to non-scalar shaders has been added recently.
+    If you are running Linux on an Intel GPU, chances are that your
+    graphics driver just got much better. Mesa, the most popular open
+    source OpenGL implementation, has got a new intermediate language to
+    represent GLSL shader programs. It is called NIR, and is based on
+    modern knowledge on compilers and GPU architecture. The Intel i965
+    driver is fully powered by NIR now, after support to non-scalar shaders
+    has been added recently.
 
 - title: 'Compute support for nouveau: creating a llVM to tgsi and a spir-v to nv50
     ir backends'
@@ -637,9 +638,10 @@ talks:
   description: |
     Project Atomic is an effort to drive Linux containerization, built on
     top of distributions like Fedora and CentOS. This talk will cover some
-    medium-term work to improve the way we build and manage containers as it
-    relates to the distribution technology. This talk will cover aspects of
-    Docker, OpenShift v3 and Atomic Enterprise Platform, OSTree, and more.
+    medium-term work to improve the way we build and manage containers as
+    it relates to the distribution technology. This talk will cover aspects
+    of Docker, OpenShift v3 and Atomic Enterprise Platform, OSTree, and
+    more.
 
 - title: 'Cockpit: discoverable Linux servers'
   speaker: Stef Walter
@@ -648,8 +650,8 @@ talks:
   room: K.4.201
   track: Distributions
   description: |
-    Cockpit is a discoverable admin interface. Cockpit makes Linux usable by
-    a far more sysadmins. Cockpit is on by default in Fedora Server, and
+    Cockpit is a discoverable admin interface. Cockpit makes Linux usable
+    by a far more sysadmins. Cockpit is on by default in Fedora Server, and
     available on RHEL, CentOS, Atomic, Debian, Arch and others.
 
 - title: 'The CentOS ci: a getting started guide (the CentOS ci: a getting started
@@ -677,8 +679,8 @@ talks:
   description: |
     This talk will take a look at a year of development on GNOME Builder by
     it's primary author. We'll cover tips and tricks to get the most out of
-    the application. Additionally, we'll discuss where the project is headed
-    and how you can help and define it's future.
+    the application. Additionally, we'll discuss where the project is
+    headed and how you can help and define it's future.
 
 - title: 'Freebsd/xen update: news from freebsd and xen'
   speaker: Roger Pau Monné, Wei Liu
@@ -687,10 +689,10 @@ talks:
   room: K.4.601
   track: BSD
   description: |
-    It's been more than a year since FreeBSD gained support for running as a
-    Xen host, but there's still a lot of ongoing work on both FreeBSD and
-    Xen in order to improve the features and the performance of FreeBSD as a
-    guest and a host.
+    It's been more than a year since FreeBSD gained support for running as
+    a Xen host, but there's still a lot of ongoing work on both FreeBSD and
+    Xen in order to improve the features and the performance of FreeBSD as
+    a guest and a host.
 
     This talk will cover the latest improvements in FreeBSD related to Xen
     support, and the new features being developed for Xen itself.
@@ -704,15 +706,15 @@ talks:
   description: |
     The demand for managing a large amount of data in a scalable yet
     reliable and cost-effective way has became more and more relevant in
-    this day and age. Ceph, a software-defined storage, provides an original
-    solution for this problem and guarantees a resilient and self-healing
-    way for managing large amount of data up to the Exabyte level. In this
-    session I will talk about a new feature introduced in oVirt 3.6 which
-    provides the ability to integrate with Red Hat Ceph storage using
-    Cinder, a storage service used mainly for OpenStack. This integration
-    reveals new opportunities and tools for storage management in a scalable
-    and virtualized way and also opens the door for interesting future
-    integrations with other storage providers.
+    this day and age. Ceph, a software-defined storage, provides an
+    original solution for this problem and guarantees a resilient and
+    self-healing way for managing large amount of data up to the Exabyte
+    level. In this session I will talk about a new feature introduced in
+    oVirt 3.6 which provides the ability to integrate with Red Hat Ceph
+    storage using Cinder, a storage service used mainly for OpenStack. This
+    integration reveals new opportunities and tools for storage management
+    in a scalable and virtualized way and also opens the door for
+    interesting future integrations with other storage providers.
 
 - title: Ceph rados gateway overview
   speaker: Orit Wasserman
@@ -723,8 +725,8 @@ talks:
   description: |
     Ceph is a highly available distributed software defined storage,
     providing object, key/value and file-system interfaces. Ceph RGW (Rados
-    Gateway) provides cloud object storage with HTTP REST API that is Amazon
-    S3 and openstack swift compatible.
+    Gateway) provides cloud object storage with HTTP REST API that is
+    Amazon S3 and openstack swift compatible.
 
     We will provide an architecture overview of Ceph and RGW and will talk
     of RGW future directions.
@@ -738,14 +740,14 @@ talks:
   description: |
     We were asked to come up with a solution to setting up a cluster where
     storage, management and VMs are running together on small number of
-    nodes. This solution is currently known as hyper converged architecture.
-    This kind of setup seems to be getting quite common in small
-    deployments, but it was not possible to use it and maintain all oVirt
-    reliability features until now. This presentation will be about the
-    system design and issues we encountered while installing the minimal
-    possible reliable cluster using three hyper converged hosts with oVirt
-    as the software stack and Gluster for the storage - all running together
-    in highly available setup across all three nodes.
+    nodes. This solution is currently known as hyper converged
+    architecture. This kind of setup seems to be getting quite common in
+    small deployments, but it was not possible to use it and maintain all
+    oVirt reliability features until now. This presentation will be about
+    the system design and issues we encountered while installing the
+    minimal possible reliable cluster using three hyper converged hosts
+    with oVirt as the software stack and Gluster for the storage - all
+    running together in highly available setup across all three nodes.
 
 - title: 'Containers and virtualization: how they can work together'
   speaker: Joe Brockmeier
@@ -760,8 +762,8 @@ talks:
     virtualization and containers, and some of the efforts to manage
     virtualization / IaaS technologies with containers to make them easier
     to deploy and manage. This includes efforts to containerize things like
-    oVirt and OpenStack, as well as the best way to run KVM virtual machines
-    in privileged containers.
+    oVirt and OpenStack, as well as the best way to run KVM virtual
+    machines in privileged containers.
 
 - title: Advanced management for IaaS and containers
   speaker: Federico Simoncelli
@@ -775,8 +777,8 @@ talks:
     management is critical for an efficient, secure, and scalable
     deployment. This presentation will describe how ManageIQ, the leading
     Open Source cloud management platform, can cross-link information from
-    different layers in your infrastructure to present a consistent view for
-    the operator.
+    different layers in your infrastructure to present a consistent view
+    for the operator.
 
 - title: 'Oh, my! oh-my-vagrant (with live demos!): oh-my-vagrant development environments
     for hackers'
@@ -788,8 +790,8 @@ talks:
   description: |
     Learn how to get a Vagrant environment running as quickly as possible,
     so that you can start iterating on your project right away. I'll show
-    you an upstream project called Oh-My-Vagrant that does the work and adds
-    all the tweaks to glue different Vagrant provisioners together
+    you an upstream project called Oh-My-Vagrant that does the work and
+    adds all the tweaks to glue different Vagrant provisioners together
     perfectly. I'll also demonstrate some tools such as vscreen and vcssh
     which make it possible to connect to single and multiple numbers of
     vagrant vm's more easily. We'll do all of this using the libvirt plugin
