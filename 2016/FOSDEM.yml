@@ -113,6 +113,24 @@ talks:
     telecommunications industry benefit everyone, from the home hardware
     hacker hobbyist to IT operations in small and large companies.
 
+- title: 'Ircb: a versatile, scalable irc bouncer, as a service, for humans'
+  speaker: Ratnadeep Debnath
+  start: 2016-01-30 17:20 CET
+  end: 2016-01-30 17:35 CET
+  room: H.2215 (Ferrer)
+  track: Lightning Talks
+  description: |
+    ircb, or IRC Bouncer, is an attempt to make next gen IRC bouncer as a
+    service, from the ground up. It focuses on: - easy setup, deployment,
+    management - low barrier and automated entry point for users - handle
+    scale: - support multiple nodes to distribute connections to IRC
+    networks - load balance client connections - optimize network IO usage,
+    by using intelligent caching - support multiple client connections for
+    the same connection to IRC network
+
+    Source code: https://github.com/waartaa/ircb/ Design doc:
+    https://github.com/waartaa/ircb/wiki/Design-docs
+
 - title: Free Java 2016 welcome - Saturday
   speaker: Mario Torre
   start: 2016-01-30 10:25 CET
@@ -334,6 +352,15 @@ talks:
   track: GNU Guile
   description: Session with the GNU Guile and LUA communities
 
+- title: 'Voip troubleshooting with sipcapture tools: open-source voip capture, monitoring
+    and troubleshooting'
+  speaker: Lorenzo Mangani
+  start: 2016-01-30 17:35 CET
+  end: 2016-01-30 17:55 CET
+  room: K.3.401
+  track: Real Time
+  description: ''
+
 - title: Where are your symbols, debuginfo and sources? (a package is more than a
     binary - make it observable)
   speaker: Mark Wielaard
@@ -362,7 +389,14 @@ talks:
   end: 2016-01-30 17:15 CET
   room: K.4.201
   track: Distributions
-  description: ''
+  description: |
+    Software Collections are a consistent way of developing RPMs that
+    allows for parallel installation of binaries. With containers and
+    unikernels being all the rage, do we still have a need to parallel
+    install binaries? Why not just make a new container? A new VM? Come to
+    our talk to understand a little bit mora about what Software
+    Collections are and why the authors believe they are still very
+    relevant. We might even be able to work in a demo!
 
 - title: 'UI event fuzzing via american-fuzzy-lop: using afl to fuzz keyboard input
     for UI testing LibreOffice'
@@ -706,21 +740,6 @@ talks:
     a lot different with language-specific package managers, microservices
     and containers, and so on. What's the role of Linux distributions in
     today's open source world, and where do we go from here?
-
-- title: 'Reorienting traditional distributions towards containers: medium term work
-    for project atomic to land in Fedora/CentOS'
-  speaker: Colin Walters
-  start: 2016-01-31 10:30 CET
-  end: 2016-01-31 11:20 CET
-  room: K.4.201
-  track: Distributions
-  description: |
-    Project Atomic is an effort to drive Linux containerization, built on
-    top of distributions like Fedora and CentOS. This talk will cover some
-    medium-term work to improve the way we build and manage containers as
-    it relates to the distribution technology. This talk will cover aspects
-    of Docker, OpenShift v3 and Atomic Enterprise Platform, OSTree, and
-    more.
 
 - title: 'Cockpit: discoverable Linux servers'
   speaker: Stef Walter
