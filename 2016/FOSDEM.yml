@@ -21,7 +21,7 @@ start: 2016-01-30
 end: 2016-01-31
 talks:
 
-- title: Systemd and where we want to take the basic Linux userspace in 2016
+- title: systemd and where we want to take the basic Linux userspace in 2016
   speaker: Lennart Poettering
   start: 2016-01-30 10:00 CET
   end: 2016-01-30 10:50 CET
@@ -45,7 +45,7 @@ talks:
     Cockpit is the new system admin UI for Linux. It's a default part of
     Fedora, and available in other distros as well.
 
-- title: Enterprise desktop at home with freeipa and GNOME
+- title: Enterprise desktop at home with FreeIPA and GNOME
   speaker: Alexander Bokovoy
   start: 2016-01-30 12:00 CET
   end: 2016-01-30 12:50 CET
@@ -84,7 +84,7 @@ talks:
     instead of code, but are often sufficient to put a bandage on a
     bleeding security vulnerability - or even a plain bug.
 
-- title: 'How to run a telco on Free Software: the network transformation with opnfv'
+- title: 'How to run a telco on Free Software: the network transformation with OPNFV'
   speaker: Dave Neary
   start: 2016-01-30 17:00 CET
   end: 2016-01-30 17:50 CET
@@ -113,7 +113,7 @@ talks:
     telecommunications industry benefit everyone, from the home hardware
     hacker hobbyist to IT operations in small and large companies.
 
-- title: Free Java 2016 welcome - saturday
+- title: Free Java 2016 welcome - Saturday
   speaker: Mario Torre
   start: 2016-01-30 10:25 CET
   end: 2016-01-30 10:30 CET
@@ -215,7 +215,7 @@ talks:
     you can rapidly shift focus from viewing one set of application events
     to another.
 
-- title: Huge code bases - application monitoring with hystrix
+- title: Huge code bases - application monitoring with Hystrix
   speaker: Roman Mohr
   start: 2016-01-30 16:20 CET
   end: 2016-01-30 16:45 CET
@@ -223,7 +223,7 @@ talks:
   track: Free Java
   description: "[1] https://github.com/Netflix [2] http://www.ovirt.org"
 
-- title: 'Usbguard: take control over your usb devices'
+- title: 'USBguard: take control over your USB devices'
   speaker: Daniel Kopeček
   start: 2016-01-30 13:30 CET
   end: 2016-01-30 13:55 CET
@@ -296,7 +296,7 @@ talks:
     previous FOSDEM legal dev room presentations. More info in the full
     description.
 
-- title: 'Blender as virtual studio lighting playground: using blender''s realtime
+- title: 'Blender as virtual studio lighting playground: using Blender''s realtime
     rendering preview to explore lighting for photography or video setups'
   speaker: Tuomas Kuosmanen
   start: 2016-01-30 12:30 CET
@@ -309,7 +309,7 @@ talks:
     shadows in the 3D editor view. We will be exploring this feature to
     create a virtual studio to play with lighting ideas.
 
-- title: 'How awesome ended up with lua and not guile: retrospective of the awesome
+- title: 'How awesome ended up with Lua and not Guile: retrospective of the awesome
     window manager'
   speaker: Julien Danjou
   start: 2016-01-30 14:00 CET
@@ -325,7 +325,7 @@ talks:
     day. This talk is going to relate how awesome ended up with Lua, how
     wonderful and terrible it was, and how and why Guile was discarded.
 
-- title: 'The future of small languages: experience of lua and guile'
+- title: 'The future of small languages: experience of Lua and Guile'
   speaker: Andy Wingo, Christopher Webber, Ludovic Courtès, Etiene Dalcol, Hisham
     Muhammad, Julien Danjou
   start: 2016-01-30 14:20 CET
@@ -364,8 +364,8 @@ talks:
   track: Distributions
   description: ''
 
-- title: 'Ui event fuzzing via american-fuzzy-lop: using afl to fuzz keyboard input
-    for ui testing LibreOffice'
+- title: 'UI event fuzzing via american-fuzzy-lop: using afl to fuzz keyboard input
+    for UI testing LibreOffice'
   speaker: Caolán McNamara
   start: 2016-01-30 12:50 CET
   end: 2016-01-30 13:10 CET
@@ -377,7 +377,7 @@ talks:
     fuzz a stream of keyboard events in order to attempt to flush out
     unknown or difficult to reproduce bugs.
 
-- title: Finally building LibreOffice on windows
+- title: Finally building LibreOffice on Windows
   speaker: Stephan Bergmann
   start: 2016-01-30 16:00 CET
   end: 2016-01-30 16:20 CET
@@ -413,7 +413,7 @@ talks:
     - Isolate database state changes in your test suite by using a pool of
     disposable containers.
 
-- title: 'Testing complex software in ci: stories from sssd and samba world'
+- title: 'Testing complex software in CI: stories from sssd and Samba world'
   speaker: Jakub Hrozek, Andreas Schneider
   start: 2016-01-30 13:45 CET
   end: 2016-01-30 14:30 CET
@@ -426,8 +426,8 @@ talks:
     without a real network access, without requiring root or sudo or
     touching the important OS interfaces.
 
-- title: '"i find your lack of threads disturbing": optimizing qemu and KVM for high
-    iops'
+- title: '"i find your lack of threads disturbing": optimizing QEMU and KVM for high
+    IOPS'
   speaker: Paolo Bonzini
   start: 2016-01-30 11:30 CET
   end: 2016-01-30 12:10 CET
@@ -485,7 +485,7 @@ talks:
     view of the world across all systems? When bad things happen, how do
     you restore the integrity of the data?
 
-- title: Build a basic cloud using rdo-manager
+- title: Build a basic cloud using RDO-Manager
   speaker: K Rain Leander
   start: 2016-01-30 17:15 CET
   end: 2016-01-30 17:40 CET
@@ -504,7 +504,7 @@ talks:
     After this presentation, you will be able to build your own basic cloud
     using RDO-manager.
 
-- title: Guix-tox, a functional version of tox
+- title: Guix-Tox, a functional version of Tox
   speaker: Cyril Roelandt
   start: 2016-01-30 17:00 CET
   end: 2016-01-30 17:30 CET
@@ -563,7 +563,7 @@ talks:
     usecases, and actual problems that have been solved while keeping all
     the usecases in mind.
 
-- title: Free Java 2016 welcome - sunday
+- title: Free Java 2016 welcome - Sunday
   speaker: Mario Torre
   start: 2016-01-31 10:15 CET
   end: 2016-01-31 10:20 CET
@@ -571,7 +571,7 @@ talks:
   track: Free Java
   description: Free Java 2016 Welcome - Sunday
 
-- title: Optimizing above the jVM in JRuby 9000
+- title: Optimizing above the JVM in JRuby 9000
   speaker: Charles Nutter, Thomas  Enebo
   start: 2016-01-31 13:30 CET
   end: 2016-01-31 14:00 CET
@@ -662,7 +662,7 @@ talks:
     cover work to take better advantage of JVM optimizations and keep
     making JRuby the best Ruby implementation available.
 
-- title: 'Nir on the mesa i965 backend: a case for a faster and simpler driver'
+- title: 'Nir on the Mesa i965 backend: a case for a faster and simpler driver'
   speaker: Eduardo Lima
   start: 2016-01-31 11:00 CET
   end: 2016-01-31 11:50 CET
@@ -677,7 +677,7 @@ talks:
     driver is fully powered by NIR now, after support to non-scalar shaders
     has been added recently.
 
-- title: 'Compute support for nouveau: creating a llVM to tgsi and a spir-v to nv50
+- title: 'Compute support for Nouveau: creating a LLVM to TGSI and a SPIR-V to nv50
     ir backends'
   speaker: Hans de Goede, Pierre Moreau
   start: 2016-01-31 14:00 CET
@@ -751,7 +751,7 @@ talks:
     - Data visualizations and graphics
     - Storytelling and anecdotes
 
-- title: 'The CentOS ci: a getting started guide (the CentOS ci: a getting started
+- title: 'The CentOS CI: a getting started guide (the CentOS CI: a getting started
     guide)'
   speaker: Dusty Mabe
   start: 2016-01-31 13:30 CET
@@ -779,7 +779,7 @@ talks:
     the application. Additionally, we'll discuss where the project is
     headed and how you can help and define it's future.
 
-- title: 'Freebsd/xen update: news from freebsd and xen'
+- title: 'FreeBSD/Xen update: news from FreeBSD and Xen'
   speaker: Roger Pau Monné, Wei Liu
   start: 2016-01-31 12:00 CET
   end: 2016-01-31 13:00 CET
@@ -813,7 +813,7 @@ talks:
     in a scalable and virtualized way and also opens the door for
     interesting future integrations with other storage providers.
 
-- title: Ceph rados gateway overview
+- title: Ceph RADOS gateway overview
   speaker: Orit Wasserman
   start: 2016-01-31 10:30 CET
   end: 2016-01-31 11:10 CET
