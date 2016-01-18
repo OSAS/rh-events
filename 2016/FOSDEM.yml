@@ -359,7 +359,15 @@ talks:
   end: 2016-01-30 17:55 CET
   room: K.3.401
   track: Real Time
-  description: ''
+  description: |
+    VoIP/SIP Monitoring and Troubleshooting have never been simpler! Our
+    Workshop provides a brief history of classic VoIP Capture tools and
+    introduces HOMER 5, SIPCAPTURE's flagship Open-Source VoIP Capture,
+    Monitoring and Troubleshooting Appliance with its powerful packet
+    capture companion tools, providing tight native integration with all
+    major OSS VoIP Platforms (Kamailio, OpenSIPS, FreeSwitch, Asterisk and
+    more) and hooks into external dbs/bigdata for endless integration based
+    on the EEP/HEP Encapsulation protocol.
 
 - title: Where are your symbols, debuginfo and sources? (a package is more than a
     binary - make it observable)
@@ -741,6 +749,16 @@ talks:
     and containers, and so on. What's the role of Linux distributions in
     today's open source world, and where do we go from here?
 
+- title: 'Standardising booting on ARMv7: making U-Boot useful and simple to use'
+  speaker: Dennis Gilmore
+  start: 2016-01-31 10:30 CET
+  end: 2016-01-31 11:15 CET
+  room: K.4.201
+  track: Distributions
+  description: |
+    This talk will go over the work being done in standardising how distros
+    boot on armv7 machines. Making things simpler for the user.
+
 - title: 'Cockpit: discoverable Linux servers'
   speaker: Stef Walter
   start: 2016-01-31 11:30 CET
@@ -753,7 +771,7 @@ talks:
     available on RHEL, CentOS, Atomic, Debian, Arch and others.
 
 - title: 'The Fedora project by the numbers: (storytelling with metrics and data)'
-  speaker: decause
+  speaker: Remy DeCausemaker
   start: 2016-01-31 12:30 CET
   end: 2016-01-31 12:50 CET
   room: K.4.201
@@ -785,6 +803,24 @@ talks:
     line this infrastructure will be developed into a full pipeline for
     building and testing containers. This talk will give an overview of the
     CentOS CI as well as a quick start to getting started with the project.
+
+- title: Wither EPEL? (harvesting the next generation of software for the enterprise)
+  speaker: Karsten Wade
+  start: 2016-01-31 16:30 CET
+  end: 2016-01-31 16:50 CET
+  room: K.4.201
+  track: Distributions
+  description: |
+    EPEL is a repository of packages rebuilt from the Fedora Project and
+    available for use on RHEL, CentOS, Scientific Linux, and other
+    \*EL-based rebuilds. At FOSDEM 2015 there was a hallway session
+    (literally), where we discussed the challenges of EPEL for users and
+    developers, how to work best across the Fedora and CentOS projects, and
+    how the repository should evolve. This session for FOSDEM 2016 intends
+    to build on that discussion with a round-table of key people from EPEL,
+    Fedora, and EL-rebuilds to discuss amongst themselves and with the
+    audience what's right, what's wrong, how to fix, and what the future of
+    EPEL should be.
 
 - title: GNOME builder, a year of development
   speaker: Christian Hergert
