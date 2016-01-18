@@ -4,75 +4,25 @@ tags: RDO
 
 talks:
 
-- title: Webinar - Red Hat and Cisco Making OpenStack work for the Enterprise
-  location: Los Angeles, CA
-  speaker: Southern California Red Hat User Group (RHUG)
-  start: 2016-01-12 11:00 UTC
-  end: 2016-01-12 12:00 UTC
+- title: snap – A modern and performant telemetry framework
+  location: Guadalajara, MX
+  speaker: OpenStack GDL
+  start: 2016-01-18 20:00 UTC
+  end: 2016-01-18 21:00 UTC
   description: |
-      Los Angeles, CA, US
-      Webinar - Red Hat and Cisco Making OpenStack work for the Enterprise
-      http://www.meetup.com/Southern-California-Red-Hat-User-Group-RHUG/events/227418207/
+      Guadalajara, MX
+      snap – A modern and performant telemetry framework
+      http://www.meetup.com/OpenStack-GDL/events/227277059/
 
-- title: Webinar - Red Hat and Cisco Making OpenStack work for the Enterprise
-  location: Raleigh, NC
-  speaker: Raleigh Red Hat User Group
-  start: 2016-01-12 11:00 UTC
-  end: 2016-01-12 12:00 UTC
+- title: Mastering OpenStack - Step 16 - Network Design / Docker on OpenStack - Step 8
+  location: Tehran, IR
+  speaker: Iran OpenStack
+  start: 2016-01-19 07:30 UTC
+  end: 2016-01-19 08:30 UTC
   description: |
-      Raleigh, NC, US
-      Webinar - Red Hat and Cisco Making OpenStack work for the Enterprise
-      http://www.meetup.com/Raleigh-Red-Hat-User-Group/events/227551001/
-
-- title: OpenStack and data bases!
-  location: Boston, MA
-  speaker: Openstack Boston
-  start: 2016-01-12 18:45 UTC
-  end: 2016-01-12 19:45 UTC
-  description: |
-      Boston, MA, US
-      OpenStack and data bases!
-      http://www.meetup.com/Openstack-Boston/events/227826780/
-
-- title: OpenStack Jobs
-  location: Amersfoort, NL
-  speaker: OpenStack Netherlands
-  start: 2016-01-13 09:30 UTC
-  end: 2016-01-13 10:30 UTC
-  description: |
-      Amersfoort, NL
-      OpenStack Jobs
-      http://www.meetup.com/Openstack-Netherlands/events/227409852/
-
-- title: Monthly SFOUG Meeting
-  location: Fort Lauderdale, FL
-  speaker: South Florida OpenStack Users Group
-  start: 2016-01-14 17:15 UTC
-  end: 2016-01-14 18:15 UTC
-  description: |
-      Fort Lauderdale, FL, US
-      Monthly SFOUG Meeting
-      http://www.meetup.com/South-Florida-OpenStack-Users-Group/events/227415610/
-
-- title: 2016深圳第一场技术大趴：The Dragons of OpenStack
-  location: Shenzhen, CN
-  speaker: Shenzhen OpenStack User Group
-  start: 2016-01-16 01:00 UTC
-  end: 2016-01-16 02:00 UTC
-  description: |
-      Shenzhen, CN
-      2016深圳第一场技术大趴：The Dragons of OpenStack
-      http://www.meetup.com/Shenzhen-openstack-usergroup/events/228001930/
-
-- title: Docker, Kubernetes, OpenSource & OpenShift by Red Hat
-  location: Brisbane, AU
-  speaker: Brisbane OpenShift Group
-  start: 2016-01-19 02:45 UTC
-  end: 2016-01-19 03:45 UTC
-  description: |
-      Brisbane, AU
-      Docker, Kubernetes, OpenSource & OpenShift by Red Hat
-      http://www.meetup.com/Brisbane-OpenShift-Group/events/227580048/
+      Tehran, IR
+      Mastering OpenStack - Step 16 - Network Design / Docker on OpenStack - Step 8
+      http://www.meetup.com/Iran-OpenStack/events/228131053/
 
 - title: HP talks OpenStack
   location: Houston, TX
@@ -84,6 +34,16 @@ talks:
       HP talks OpenStack
       http://www.meetup.com/openstackhoustonmeetup/events/225092390/
 
+- title: Using new clouds, private clouds, and how things can go wrong
+  location: Manchester, 18
+  speaker: Manchester OpenStack Meetup
+  start: 2016-01-19 13:30 UTC
+  end: 2016-01-19 14:30 UTC
+  description: |
+      Manchester, 18, GB
+      Using new clouds, private clouds, and how things can go wrong
+      http://www.meetup.com/Manchester-OpenStack-Meetup/events/227459376/
+
 - title: January meetup
   location: Chesterfield, MO
   speaker: OpenStack St. Louis
@@ -93,16 +53,6 @@ talks:
       Chesterfield, MO, US
       January meetup
       http://www.meetup.com/OpenStack-STL/events/227517187/
-
-- title: Open Source Cloud Meetup - January 2016
-  location: Columbia, MD
-  speaker: Open Source Cloud
-  start: 2016-01-20 19:00 UTC
-  end: 2016-01-20 20:00 UTC
-  description: |
-      Columbia, MD, US
-      Open Source Cloud Meetup - January 2016
-      http://www.meetup.com/opensourcecloud/events/226756392/
 
 - title: 9º Hangout OpenStack Brasil
   location: São Paulo, BR
@@ -114,15 +64,15 @@ talks:
       9º Hangout OpenStack Brasil
       http://www.meetup.com/Openstack-Brasil/events/227936853/
 
-- title: OpenStack PDX Meetup
-  location: Portland, OR
-  speaker: OpenStack PDX
-  start: 2016-01-21 21:00 UTC
-  end: 2016-01-21 22:00 UTC
+- title: OpenStack Meetup Jan 21 - Coming soon!
+  location: Austin, TX
+  speaker: OpenStack Austin Texas
+  start: 2016-01-21 19:30 UTC
+  end: 2016-01-21 20:30 UTC
   description: |
-      Portland, OR, US
-      OpenStack PDX Meetup
-      http://www.meetup.com/openstack-pdx/events/227296366/
+      Austin, TX, US
+      OpenStack Meetup Jan 21 - Coming soon!
+      http://www.meetup.com/OpenStack-Austin/events/227830355/
 
 - title: SFBay OpenStack Advanced Track #OSSFO Topic OpenStack Security
   location: San Francisco, CA
@@ -144,12 +94,103 @@ talks:
       OpenStack Meetup (Topic TBD)
       http://www.meetup.com/openstack-atlanta/events/226994579/
 
+- title: OpenStack Update and IBM Bluemix Demo
+  location: Saint Paul, MN
+  speaker: Minnesota OpenStack Meetup
+  start: 2016-01-25 18:00 UTC
+  end: 2016-01-25 19:00 UTC
+  description: |
+      Saint Paul, MN, US
+      OpenStack Update and IBM Bluemix Demo
+      http://www.meetup.com/Minnesota-OpenStack-Meetup/events/227739133/
+
+- title: Neutron Done the SDN Way
+  location: Tel Aviv-Yafo, IL
+  speaker: OpenStack-Israel
+  start: 2016-01-26 02:15 UTC
+  end: 2016-01-26 03:15 UTC
+  description: |
+      Tel Aviv-Yafo, IL
+      Neutron Done the SDN Way
+      http://www.meetup.com/OpenStack-Israel/events/227823764/
+
+- title: London Openstack January Meetup
+  location: London, 17
+  speaker: London OpenStack Meetup
+  start: 2016-01-27 13:30 UTC
+  end: 2016-01-27 14:30 UTC
+  description: |
+      London, 17, GB
+      London Openstack January Meetup
+      http://www.meetup.com/Openstack-London/events/227588289/
+
+- title: Partner Promo Dell lanserer OpenStack Forum i Oslo Automation For The Win!
+  location: Oslo, NO
+  speaker: Red Hat User Group Oslo
+  start: 2016-01-28 07:00 UTC
+  end: 2016-01-28 08:00 UTC
+  description: |
+      Oslo, NO
+      Partner Promo Dell lanserer OpenStack Forum i Oslo Automation For The Win!
+      http://www.meetup.com/RedHatOslo/events/227888127/
+
+- title: OpenStack Harrisburg kickoff
+  location: Harrisburg, PA
+  speaker: OpenStack Harrisburg
+  start: 2016-01-28 18:30 UTC
+  end: 2016-01-28 19:30 UTC
+  description: |
+      Harrisburg, PA, US
+      OpenStack Harrisburg kickoff
+      http://www.meetup.com/OpenStack-Harrisburg/events/228110502/
+
+- title: Bios 2 Boot 2 OpenStack Deploying a Straight Opensource OpenStack Infrastructure
+  location: Herriman, UT
+  speaker: OpenStack Utah
+  start: 2016-01-28 20:30 UTC
+  end: 2016-01-28 21:30 UTC
+  description: |
+      Herriman, UT, US
+      Bios 2 Boot 2 OpenStack Deploying a Straight Opensource OpenStack Infrastructure
+      http://www.meetup.com/openstack-utah/events/227290248/
+
+- title: Building Distributed Service Rich SDNs
+  location: Littleton, CO
+  speaker: OpenStack Denver
+  start: 2016-01-28 20:30 UTC
+  end: 2016-01-28 21:30 UTC
+  description: |
+      Littleton, CO, US
+      Building Distributed Service Rich SDNs
+      http://www.meetup.com/OpenStack-Denver/events/226962447/
+
+- title: Deployment Experience From Large-Scale Neutron Networks - January OpenStack L.A.
+  location: Pasadena, CA
+  speaker: OpenStack LA
+  start: 2016-01-28 22:00 UTC
+  end: 2016-01-28 23:00 UTC
+  description: |
+      Pasadena, CA, US
+      Deployment Experience From Large-Scale Neutron Networks - January OpenStack L.A.
+      http://www.meetup.com/OpenStack-LA/events/227931609/
+
 - title: OpenStack / RDO Q&A with Perry Myers
   location: Morgantown, WV
-  speaker: Perry Myers
-  start: 2016-01-29 00:00 UTC
-  end: 2016-01-29 01:00 UTC
+  speaker: Morgantown Linux User Group
+  start: 2016-01-28 19:00 UTC
+  end: 2016-01-28 20:00 UTC
   description: |
       Morgantown, WV, US
       OpenStack / RDO Q&A with Perry Myers
       http://www.meetup.com/Morgantown-Linux-User-Group/events/227482742/
+
+- title: OpenStack Cloud Security Workshop
+  location: São Paulo, BR
+  speaker: Openstack Brasil
+  start: 2016-02-01 06:00 UTC
+  end: 2016-02-01 07:00 UTC
+  description: |
+      São Paulo, BR
+      OpenStack Cloud Security Workshop
+      http://www.meetup.com/Openstack-Brasil/events/227950266/
+
