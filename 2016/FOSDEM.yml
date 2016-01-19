@@ -113,7 +113,7 @@ talks:
     telecommunications industry benefit everyone, from the home hardware
     hacker hobbyist to IT operations in small and large companies.
 
-- title: 'Ircb: a versatile, scalable irc bouncer, as a service, for humans'
+- title: 'ircb: a versatile, scalable irc bouncer, as a service, for humans'
   speaker: Ratnadeep Debnath
   start: 2016-01-30 17:20 CET
   end: 2016-01-30 17:35 CET
@@ -241,7 +241,7 @@ talks:
   track: Free Java
   description: "[1] https://github.com/Netflix [2] http://www.ovirt.org"
 
-- title: 'USBguard: take control over your USB devices'
+- title: 'USBGuard: take control over your USB devices'
   speaker: Daniel Kopeček
   start: 2016-01-30 13:30 CET
   end: 2016-01-30 13:55 CET
@@ -352,7 +352,7 @@ talks:
   track: GNU Guile
   description: Session with the GNU Guile and LUA communities
 
-- title: 'Voip troubleshooting with sipcapture tools: open-source voip capture, monitoring
+- title: 'VOIP troubleshooting with sipcapture tools: open-source VOIP capture, monitoring
     and troubleshooting'
   speaker: Lorenzo Mangani
   start: 2016-01-30 17:35 CET
@@ -455,7 +455,7 @@ talks:
     - Isolate database state changes in your test suite by using a pool of
     disposable containers.
 
-- title: 'Testing complex software in CI: stories from sssd and Samba world'
+- title: 'Testing complex software in CI: stories from SSSD and Samba world'
   speaker: Jakub Hrozek, Andreas Schneider
   start: 2016-01-30 13:45 CET
   end: 2016-01-30 14:30 CET
@@ -546,7 +546,7 @@ talks:
     After this presentation, you will be able to build your own basic cloud
     using RDO-manager.
 
-- title: Guix-Tox, a functional version of Tox
+- title: Guix-tox, a functional version of Tox
   speaker: Cyril Roelandt
   start: 2016-01-30 17:00 CET
   end: 2016-01-30 17:30 CET
@@ -668,7 +668,7 @@ talks:
   track: Free Java
   description: Meet the OpenJDK Governing Board, Q&A session
 
-- title: 'From prototype to deployment: building a rest application using go (experiences
+- title: 'From prototype to deployment: building a REST application using go (experiences
     learned during the development of heketi)'
   speaker: Luis Pabón
   start: 2016-01-31 10:35 CET
