@@ -76,7 +76,7 @@ talks:
   speaker: Frank Ch. Eigler
   start: 2016-01-30 16:00 CET
   end: 2016-01-30 16:50 CET
-  room: K.1.105 (La Fontaine)
+  room: K.1.105 / La Fontaine
   track: Systems Administration
   description: |
     We present a live-patching technique based on systemtap's programmable
@@ -88,7 +88,7 @@ talks:
   speaker: Dave Neary
   start: 2016-01-30 17:00 CET
   end: 2016-01-30 17:50 CET
-  room: K.1.105 (La Fontaine)
+  room: K.1.105 / La Fontaine
   track: Systems Administration
   description: |
     Networks Functions Virtualizationm or NFV, is a very hot industry topic
@@ -117,7 +117,7 @@ talks:
   speaker: Ratnadeep Debnath
   start: 2016-01-30 17:20 CET
   end: 2016-01-30 17:35 CET
-  room: H.2215 (Ferrer)
+  room: H.2215 / Ferrer
   track: Lightning Talks
   description: |
     ircb, or IRC Bouncer, is an attempt to make next gen IRC bouncer as a
@@ -135,7 +135,7 @@ talks:
   speaker: Mario Torre
   start: 2016-01-30 10:25 CET
   end: 2016-01-30 10:30 CET
-  room: H.1301 (Cornil)
+  room: H.1301 / Cornil
   track: Free Java
   description: Free Java 2016 Introduction - Saturday
 
@@ -143,7 +143,7 @@ talks:
   speaker: Roman Kennke, Christine H Flood
   start: 2016-01-30 12:05 CET
   end: 2016-01-30 12:30 CET
-  room: H.1301 (Cornil)
+  room: H.1301 / Cornil
   track: Free Java
   description: |
     The Difference between Theory and Practice is greater in practice then
@@ -160,7 +160,7 @@ talks:
   speaker: Andrew Haley
   start: 2016-01-30 13:30 CET
   end: 2016-01-30 14:15 CET
-  room: H.1301 (Cornil)
+  room: H.1301 / Cornil
   track: Free Java
   description: |
     Imagine you receive a report of a bug which causes a segfault (i.e. a
@@ -187,7 +187,7 @@ talks:
   speaker: Mario Torre
   start: 2016-01-30 15:00 CET
   end: 2016-01-30 15:25 CET
-  room: H.1301 (Cornil)
+  room: H.1301 / Cornil
   track: Free Java
   description: |
     Thermostat has evolved a log way from being a specialised tool for
@@ -210,7 +210,7 @@ talks:
   speaker: Mario Torre, Andrew Dinn
   start: 2016-01-30 15:30 CET
   end: 2016-01-30 16:10 CET
-  room: H.1301 (Cornil)
+  room: H.1301 / Cornil
   track: Free Java
   description: |
     Thermostat is more than just an open source tool for performance
@@ -237,7 +237,7 @@ talks:
   speaker: Roman Mohr
   start: 2016-01-30 16:20 CET
   end: 2016-01-30 16:45 CET
-  room: H.1301 (Cornil)
+  room: H.1301 / Cornil
   track: Free Java
   description: "[1] https://github.com/Netflix [2] http://www.ovirt.org"
 
@@ -245,7 +245,7 @@ talks:
   speaker: Daniel Kopeček
   start: 2016-01-30 13:30 CET
   end: 2016-01-30 13:55 CET
-  room: H.1309 (Van Rijn)
+  room: H.1309 / Van Rijn
   track: Security
   description: |
     In this talk we will learn a bit about how USB devices can do evil
@@ -261,7 +261,7 @@ talks:
   speaker: Nikos Mavrogiannopoulos
   start: 2016-01-30 15:00 CET
   end: 2016-01-30 15:25 CET
-  room: H.1309 (Van Rijn)
+  room: H.1309 / Van Rijn
   track: Security
   description: |
     Openconnect is a relatively new VPN solution. It started as a clone of
@@ -434,7 +434,7 @@ talks:
   speaker: Michael Hrivnak
   start: 2016-01-30 12:15 CET
   end: 2016-01-30 12:45 CET
-  room: UA2.114 (Baudoux)
+  room: UA2.114 / Baudoux
   track: Containers and Process Isolation
   description: |
     Docker is not just for deployment. As a developer, there are many ways
@@ -459,7 +459,7 @@ talks:
   speaker: Jakub Hrozek, Andreas Schneider
   start: 2016-01-30 13:45 CET
   end: 2016-01-30 14:30 CET
-  room: UA2.220 (Guillissen)
+  room: UA2.220 / Guillissen
   track: Testing and Automation
   description: |
     This talk will show stories from the trenches of developing tests for
@@ -473,7 +473,7 @@ talks:
   speaker: Paolo Bonzini
   start: 2016-01-30 11:30 CET
   end: 2016-01-30 12:10 CET
-  room: UB2.252A (Lameere)
+  room: UB2.252A / Lameere
   track: Virtualisation and IaaS
   description: |
     The QEMU and KVM developers' efforts towards a high-performance block
@@ -490,7 +490,7 @@ talks:
   speaker: Oved Ourfali
   start: 2016-01-30 14:00 CET
   end: 2016-01-30 14:40 CET
-  room: UB2.252A (Lameere)
+  room: UB2.252A / Lameere
   track: Virtualisation and IaaS
   description: |
     In this session I'll show an overview of oVirt (Virtualization
@@ -502,7 +502,7 @@ talks:
   speaker: Piotr Kliczewski
   start: 2016-01-30 14:45 CET
   end: 2016-01-30 15:25 CET
-  room: UB2.252A (Lameere)
+  room: UB2.252A / Lameere
   track: Virtualisation and IaaS
   description: |
     Virtualization management requires processing continuous streams of
@@ -517,7 +517,7 @@ talks:
   speaker: Adam Litke
   start: 2016-01-30 15:30 CET
   end: 2016-01-30 16:10 CET
-  room: UB2.252A (Lameere)
+  room: UB2.252A / Lameere
   track: Virtualisation and IaaS
   description: |
     In modern virtualization platforms virtual machine disks are stored in
@@ -531,7 +531,7 @@ talks:
   speaker: K Rain Leander
   start: 2016-01-30 17:15 CET
   end: 2016-01-30 17:40 CET
-  room: UB2.252A (Lameere)
+  room: UB2.252A / Lameere
   track: Virtualisation and IaaS
   description: |
     One of the impediments to becoming an active technical contributor in
@@ -590,7 +590,7 @@ talks:
   speaker: Amit Shah
   start: 2016-01-31 15:00 CET
   end: 2016-01-31 15:50 CET
-  room: K.1.105 (La Fontaine)
+  room: K.1.105 / La Fontaine
   track: Virtualisation
   description: |
     Hypervisors get deployed in wildly different scenarios: datacenters are
@@ -609,7 +609,7 @@ talks:
   speaker: Mario Torre
   start: 2016-01-31 10:15 CET
   end: 2016-01-31 10:20 CET
-  room: H.1301 (Cornil)
+  room: H.1301 / Cornil
   track: Free Java
   description: Free Java 2016 Welcome - Sunday
 
@@ -617,7 +617,7 @@ talks:
   speaker: Charles Nutter, Thomas  Enebo
   start: 2016-01-31 13:30 CET
   end: 2016-01-31 14:00 CET
-  room: H.1301 (Cornil)
+  room: H.1301 / Cornil
   track: Free Java
   description: |
     JRuby has for years routed around the JVM, to maximize compatibility
@@ -636,7 +636,7 @@ talks:
   speaker: Mario Torre, Martijn Verburg, Dalibor Topić
   start: 2016-01-31 14:50 CET
   end: 2016-01-31 15:20 CET
-  room: H.1301 (Cornil)
+  room: H.1301 / Cornil
   track: Free Java
   description: |
     OpenJDK is now a well established Free Software Ecosystem, with a
@@ -664,7 +664,7 @@ talks:
   speaker: Mark Reinhold, Andrew Haley, Georges Saab, Doug Lea, John Duimovich
   start: 2016-01-31 15:30 CET
   end: 2016-01-31 17:00 CET
-  room: H.1301 (Cornil)
+  room: H.1301 / Cornil
   track: Free Java
   description: Meet the OpenJDK Governing Board, Q&A session
 
@@ -673,7 +673,7 @@ talks:
   speaker: Luis Pabón
   start: 2016-01-31 10:35 CET
   end: 2016-01-31 11:20 CET
-  room: H.1302 (Depage)
+  room: H.1302 / Depage
   track: Go
   description: |
     Choosing a language, specially a relatively new language, for a project
@@ -853,7 +853,7 @@ talks:
   speaker: Maor Lipchuk
   start: 2016-01-31 10:00 CET
   end: 2016-01-31 10:25 CET
-  room: UB2.252A (Lameere)
+  room: UB2.252A / Lameere
   track: Virtualisation and IaaS
   description: |
     The demand for managing a large amount of data in a scalable yet
@@ -872,7 +872,7 @@ talks:
   speaker: Orit Wasserman
   start: 2016-01-31 10:30 CET
   end: 2016-01-31 11:10 CET
-  room: UB2.252A (Lameere)
+  room: UB2.252A / Lameere
   track: Virtualisation and IaaS
   description: |
     Ceph is a highly available distributed software defined storage,
@@ -887,7 +887,7 @@ talks:
   speaker: Martin Sivák
   start: 2016-01-31 11:15 CET
   end: 2016-01-31 11:55 CET
-  room: UB2.252A (Lameere)
+  room: UB2.252A / Lameere
   track: Virtualisation and IaaS
   description: |
     We were asked to come up with a solution to setting up a cluster where
@@ -905,7 +905,7 @@ talks:
   speaker: Joe Brockmeier
   start: 2016-01-31 12:15 CET
   end: 2016-01-31 12:40 CET
-  room: UB2.252A (Lameere)
+  room: UB2.252A / Lameere
   track: Virtualisation and IaaS
   description: |
     A lot of folks are talking about containers vs. virtualization.
@@ -921,7 +921,7 @@ talks:
   speaker: Federico Simoncelli
   start: 2016-01-31 12:45 CET
   end: 2016-01-31 13:25 CET
-  room: UB2.252A (Lameere)
+  room: UB2.252A / Lameere
   track: Virtualisation and IaaS
   description: |
     As your IaaS of choice is becoming more and more fundamental to run
@@ -937,7 +937,7 @@ talks:
   speaker: David Caro
   start: 2016-01-31 16:00 CET
   end: 2016-01-31 16:25 CET
-  room: UB2.252A (Lameere)
+  room: UB2.252A / Lameere
   track: Virtualisation and IaaS
   description: |
     In the oVirt project, getting a full testing environment where to run
@@ -954,7 +954,7 @@ talks:
   speaker: James Shubin
   start: 2016-01-31 16:30 CET
   end: 2016-01-31 16:55 CET
-  room: UB2.252A (Lameere)
+  room: UB2.252A / Lameere
   track: Virtualisation and IaaS
   description: |
     Learn how to get a Vagrant environment running as quickly as possible,
