@@ -13,13 +13,13 @@ talks:
       Come help make RDO better by testing the Mitaka Milestone 2
       packages. Details at https://www.rdoproject.org/testday/mitaka/milestone2
 
-- title: Mitaka Milestone 3 Test Day
+- title: February Test Day
   location: rdo channel on Freenode
   speaker: RDO
   start: 2016-02-18 00:01 UTC
   end: 2016-02-19 23:59 UTC
 
-- title: Mitaka RC Test Day
+- title: Mitaka 3, RC Test Day
   location: rdo channel on Freenode
   speaker: RDO
   start: 2016-03-10 00:01 UTC
