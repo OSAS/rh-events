@@ -704,6 +704,20 @@ talks:
     cover work to take better advantage of JVM optimizations and keep
     making JRuby the best Ruby implementation available.
 
+- title: Building a geo-aware OS
+  speaker: Zeeshan Ali (Khattak)
+  start: 2016-01-31 11:00 CET
+  end: 2016-01-31 11:25 CET
+  room: AW1.121
+  track: Geospatial
+  description: |
+    In this talk, I'll be presenting the tools (geoclue, geocode-glib and
+    GNOME Maps) we have been slowing creating to make GNOME fully geo-aware
+    and and how these tools harness existing open source and open data
+    projects out there. While our focus has been GNOME, most of these tools
+    are very much generic and could (and IMO should) be used by other
+    Linux-based system.
+
 - title: 'Nir on the Mesa i965 backend: a case for a faster and simpler driver'
   speaker: Eduardo Lima
   start: 2016-01-31 11:00 CET
