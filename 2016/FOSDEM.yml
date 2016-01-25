@@ -375,14 +375,7 @@ talks:
   end: 2016-01-30 15:10 CET
   room: K.4.201
   track: Distributions
-  description: |
-    Come present your topic to the Distributions audience!
-
-    Miss the CFP? Think of a topic on the way here? From a different
-    devroom and want to present your topic to the distributions community?
-
-    Lightning talks are for you! Come by the devroom and sign up for a
-    short speaking slot.
+  description: Come present your topic to the Distributions audience!
 
 - title: Where are your symbols, debuginfo and sources? (a package is more than a
     binary - make it observable)
