@@ -344,8 +344,8 @@ talks:
     wonderful and terrible it was, and how and why Guile was discarded.
 
 - title: 'The future of small languages: experience of Lua and Guile'
-  speaker: Andy Wingo, Christopher Webber, Ludovic Courtès, Etiene Dalcol, Hisham
-    Muhammad, Julien Danjou
+  speaker: Andy Wingo, Christopher Webber, Ludovic Courtès, Hisham Muhammad, Etiene
+    Dalcol, Julien Danjou
   start: 2016-01-30 14:20 CET
   end: 2016-01-30 15:00 CET
   room: K.3.201
@@ -368,6 +368,21 @@ talks:
     major OSS VoIP Platforms (Kamailio, OpenSIPS, FreeSwitch, Asterisk and
     more) and hooks into external dbs/bigdata for endless integration based
     on the EEP/HEP Encapsulation protocol.
+
+- title: Lightning talks
+  speaker: Brian Stinson
+  start: 2016-01-30 14:15 CET
+  end: 2016-01-30 15:10 CET
+  room: K.4.201
+  track: Distributions
+  description: |
+    Come present your topic to the Distributions audience!
+
+    Miss the CFP? Think of a topic on the way here? From a different
+    devroom and want to present your topic to the distributions community?
+
+    Lightning talks are for you! Come by the devroom and sign up for a
+    short speaking slot.
 
 - title: Where are your symbols, debuginfo and sources? (a package is more than a
     binary - make it observable)
