@@ -8,3 +8,88 @@ description: |
 
   Additional details about the conference are available at
   <http://lcabythebay.org.au/>.
+talks:
+
+- title: A brief history of technical writing with examples
+  speaker: Zac Dover
+  start: 2016-02-01 11:00 AEDT
+  end: 2016-02-02 11:40 AEDT
+  room:  D2.212 
+  track: Open Documentation Mini-Conf
+  description: |
+    
+- title: Two years of tech writing
+  speaker: Zac Dover
+  start: 2016-02-01 14:20 AEDT
+  end: 2016-02-02 15:00 AEDT
+  room:  D2.212 
+  track: Open Documentation Mini-Conf
+  description: |
+    
+- title: Is that a data-center in your pocket? 
+  speaker: Steven Ellis
+  start: 2016-02-02 10:40 AEDT
+  end: 2016-02-02 11:10 AEDT
+  room:   Costa Hall
+  track: Sys-Admin Mini-Conf
+  description: |
+    Fed up fighting with the public cloud, or running out of space on your laptop next time you want to try our latest and greatest technology out?
+    Thanks to technologies like nested virtualisation and thin-lvm you can now
+    build, run and redeploy on your personal laptop a small data-centre's worth of technology. As great as the public cloud and shared lab environments are(n't), sometimes you just want to thrash out a problem quickly. What do you do when you're missing that extra storage or physical compute resource to make it happen?
+    Come learn some tips and tricks.
+    
+- title: "Tutorial: Identity Management with FreeIPA"
+  speaker: Fraser Tweedale
+  start: 2016-02-03 13:20 AEDT
+  end: 2016-02-03 15:00 AEDT
+  room:  D2.211 
+  track: 
+  description: |
+    FreeIPA is an integrated identity management solution providing
+    centralised user, host and service management, authentication and
+    authorisation in Linux/UNIX networked environments, with a focus on
+    ease of deployment and management. It is built on top of well-known
+    Open Source technologies and standards including 389 Directory
+    Server, MIT Kerberos and Dogtag Certificate System.
+
+    This hand-on workshop will provide participants with a comprehensive
+    introduction to FreeIPA including server deployment and
+    administration, client machine enrolment, and configuring server
+    software to use FreeIPA's centralised identity and policy store.
+    
+
+- title: "Melvin: A new implementation of LVM in Rust"
+  speaker: Andy Grover
+  start: 2016-02-03 15:40 AEDT
+  end: 2016-02-03 16:35 AEDT
+  room:  Wool Museum
+  track: 
+  description: |
+    The LVM2 logical volume management tool has been a mainstay of using Linux for many years. Rust is a new memory-safe systems programming language. Melvin is a pure Rust implementation of LVM2 and libdm functionality. This talk will cover why Rust is uniquely suited for rewriting LVM and other existing C-based projects: the benefits that accrue from a second implementation generally, and the benefits particular to using Rust. We will also peer under the covers of LVM to understand what's actually going on, what Melvin supports already, and what's still to come.
+
+
+- title: "Speaking their language: How to write for technical and non-technical audiences"
+  speaker: Rikki Endsley
+  start: 2016-02-04 16:35 AEDT
+  end: 2016-02-04 17:20 AEDT
+  room: Costa Hall 
+  track: 
+  description: |
+    Open source communities are made up of individuals with a range of experience and expertise, so how do you write for the different audiences? Sure, you're comfortable shooting sentences over IRC or knocking out a note to your mailing list. But what about reporting your team's progress to a non-technical manager, or explaining your product to non-technical end users? Find out how to:
+    * Define your audience(s)
+    * Outline your idea
+    * Decide what information to include and terms to define
+    * Repurpose content for multiple audiences
+    * Streamline the writing process
+
+    Attendees will also see real examples of submissions for Opensource.com, which illustrate how marketing pieces, developer blog posts, announcements, event reports, and other formats can be turned into polished articles, tutorials, and documentation.
+
+
+- title: Raspberry Pi Hacks
+  speaker: Ruth Suehle
+  start: 2016-02-05 14:15 AEDT
+  end: 2016-02-05 15:00 AEDT
+  room:  Wool Museum 
+  track: 
+  description: |
+    Maybe you bought a Raspberry Pi a year or two ago and never got around to using it. Or you built something interesting, but now there's a new version of the Pi and new add-ons, and you want to know if they could make your project even better? The Raspberry Pi has grown from its original purpose as a teaching tool to become the tiny computer of choice for many makers, allowing those with varied Linux and hardware experience to have a fully functional computer the size of a credit card powering their ideas. Regardless of where you are in Pi experience, join Ruth Suehle and Tom Callaway to hear some of the best tricks for getting the most out of the Raspberry Pi. They'll also share some of the best projects they and others have built, from gaming devices to home automation, and they'll fill you in on what the Raspberry Pi 2 can help you do. 
