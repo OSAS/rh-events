@@ -4,96 +4,6 @@ tags: RDO
 
 talks:
 
-- title: snap – A modern and performant telemetry framework
-  location: Guadalajara, MX
-  speaker: OpenStack GDL
-  start: 2016-01-18 20:00 UTC
-  end: 2016-01-18 21:00 UTC
-  description: |
-      Guadalajara, MX
-      snap – A modern and performant telemetry framework
-      http://www.meetup.com/OpenStack-GDL/events/227277059/
-
-- title: Mastering OpenStack - Step 16 - Network Design / Docker on OpenStack - Step 8
-  location: Tehran, IR
-  speaker: Iran OpenStack
-  start: 2016-01-19 07:30 UTC
-  end: 2016-01-19 08:30 UTC
-  description: |
-      Tehran, IR
-      Mastering OpenStack - Step 16 - Network Design / Docker on OpenStack - Step 8
-      http://www.meetup.com/Iran-OpenStack/events/228131053/
-
-- title: HP talks OpenStack
-  location: Houston, TX
-  speaker: OpenStack Houston Meetup
-  start: 2016-01-19 19:00 UTC
-  end: 2016-01-19 20:00 UTC
-  description: |
-      Houston, TX, US
-      HP talks OpenStack
-      http://www.meetup.com/openstackhoustonmeetup/events/225092390/
-
-- title: Using new clouds, private clouds, and how things can go wrong
-  location: Manchester, 18
-  speaker: Manchester OpenStack Meetup
-  start: 2016-01-19 13:30 UTC
-  end: 2016-01-19 14:30 UTC
-  description: |
-      Manchester, 18, GB
-      Using new clouds, private clouds, and how things can go wrong
-      http://www.meetup.com/Manchester-OpenStack-Meetup/events/227459376/
-
-- title: January meetup
-  location: Chesterfield, MO
-  speaker: OpenStack St. Louis
-  start: 2016-01-19 19:30 UTC
-  end: 2016-01-19 20:30 UTC
-  description: |
-      Chesterfield, MO, US
-      January meetup
-      http://www.meetup.com/OpenStack-STL/events/227517187/
-
-- title: 9º Hangout OpenStack Brasil
-  location: São Paulo, BR
-  speaker: Openstack Brasil
-  start: 2016-01-20 17:00 UTC
-  end: 2016-01-20 18:00 UTC
-  description: |
-      São Paulo, BR
-      9º Hangout OpenStack Brasil
-      http://www.meetup.com/Openstack-Brasil/events/227936853/
-
-- title: OpenStack Meetup Jan 21 - Coming soon!
-  location: Austin, TX
-  speaker: OpenStack Austin Texas
-  start: 2016-01-21 19:30 UTC
-  end: 2016-01-21 20:30 UTC
-  description: |
-      Austin, TX, US
-      OpenStack Meetup Jan 21 - Coming soon!
-      http://www.meetup.com/OpenStack-Austin/events/227830355/
-
-- title: SFBay OpenStack Advanced Track #OSSFO Topic OpenStack Security
-  location: San Francisco, CA
-  speaker: SFBay OpenStack
-  start: 2016-01-21 22:00 UTC
-  end: 2016-01-21 23:00 UTC
-  description: |
-      San Francisco, CA, US
-      SFBay OpenStack Advanced Track #OSSFO Topic OpenStack Security
-      http://www.meetup.com/openstack/events/227192009/
-
-- title: OpenStack Meetup (Topic TBD)
-  location: Atlanta, GA
-  speaker: Atlanta OpenStack Meetup Group
-  start: 2016-01-21 19:00 UTC
-  end: 2016-01-21 20:00 UTC
-  description: |
-      Atlanta, GA, US
-      OpenStack Meetup (Topic TBD)
-      http://www.meetup.com/openstack-atlanta/events/226994579/
-
 - title: OpenStack Update and IBM Bluemix Demo
   location: Saint Paul, MN
   speaker: Minnesota OpenStack Meetup
@@ -114,6 +24,16 @@ talks:
       Neutron Done the SDN Way
       http://www.meetup.com/OpenStack-Israel/events/227823764/
 
+- title: Come learn about building OpenStack Clouds with Maas and Juju
+  location: San Jose, CA
+  speaker: Silicon Valley OpenStack Ops Meetup
+  start: 2016-01-26 21:00 UTC
+  end: 2016-01-26 22:00 UTC
+  description: |
+      San Jose, CA, US
+      Come learn about building OpenStack Clouds with Maas and Juju
+      http://www.meetup.com/Silicon-Valley-OpenStack-Ops-Meetup/events/228102705/
+
 - title: London Openstack January Meetup
   location: London, 17
   speaker: London OpenStack Meetup
@@ -123,6 +43,16 @@ talks:
       London, 17, GB
       London Openstack January Meetup
       http://www.meetup.com/Openstack-London/events/227588289/
+
+- title: Red Hat and OpenStack in the Enterprise
+  location: Orlando, FL
+  speaker: OpenStack Central Florida
+  start: 2016-01-27 19:00 UTC
+  end: 2016-01-27 20:00 UTC
+  description: |
+      Orlando, FL, US
+      Red Hat and OpenStack in the Enterprise
+      http://www.meetup.com/Orlando-Central-Florida-OpenStack-Meetup/events/228183631/
 
 - title: Partner Promo Dell lanserer OpenStack Forum i Oslo Automation For The Win!
   location: Oslo, NO
@@ -184,13 +114,63 @@ talks:
       OpenStack / RDO Q&A with Perry Myers
       http://www.meetup.com/Morgantown-Linux-User-Group/events/227482742/
 
-- title: OpenStack Cloud Security Workshop
+- title: Cloud Budapest 2016/01
+  location: Budapest, HU
+  speaker: Cloud Budapest
+  start: 2016-01-28 13:00 UTC
+  end: 2016-01-28 14:00 UTC
+  description: |
+      Budapest, HU
+      Cloud Budapest 2016/01
+      http://www.meetup.com/Cloud-Budapest/events/227922125/
+
+- title: OpenStack Cloud Security Workshop CANCELADO 
   location: São Paulo, BR
   speaker: Openstack Brasil
   start: 2016-02-01 06:00 UTC
   end: 2016-02-01 07:00 UTC
   description: |
       São Paulo, BR
-      OpenStack Cloud Security Workshop
+      OpenStack Cloud Security Workshop CANCELADO 
       http://www.meetup.com/Openstack-Brasil/events/227950266/
+
+- title: DevConf 2016
+  location: Oslo, NO
+  speaker: Red Hat User Group Oslo
+  start: 2016-02-03 03:00 UTC
+  end: 2016-02-03 04:00 UTC
+  description: |
+      Oslo, NO
+      DevConf 2016
+      http://www.meetup.com/RedHatOslo/events/228115607/
+
+- title: OpenStack Container 2016
+  location: Amersfoort, NL
+  speaker: OpenStack Netherlands
+  start: 2016-02-04 09:00 UTC
+  end: 2016-02-04 10:00 UTC
+  description: |
+      Amersfoort, NL
+      OpenStack Container 2016
+      http://www.meetup.com/Openstack-Netherlands/events/226986936/
+
+- title: Building Agile Clouds on Openstack Technical Event -Feb
+  location: Raleigh, NC
+  speaker: Raleigh Building Agile Clouds with OpenStack
+  start: 2016-02-04 18:15 UTC
+  end: 2016-02-04 19:15 UTC
+  description: |
+      Raleigh, NC, US
+      Building Agile Clouds on Openstack Technical Event -Feb
+      http://www.meetup.com/Raleigh-Triange-Building-Agile-Clouds-with-OpenStack/events/227328279/
+
+- title: DevConf.cz (containers track)
+  location: Brno, CZ
+  speaker: Docker Brno
+  start: 2016-02-05 03:00 UTC
+  end: 2016-02-05 04:00 UTC
+  description: |
+      Brno, CZ
+      DevConf.cz (containers track)
+      http://www.meetup.com/Docker-Brno/events/228034611/
 
