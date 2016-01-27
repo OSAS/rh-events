@@ -739,7 +739,7 @@ talks:
     represent GLSL shader programs. It is called NIR, and is based on
     modern knowledge on compilers and GPU architecture. The Intel i965
     driver is fully powered by NIR now, after support to non-scalar shaders
-    has been added recently.
+    has been recently added.
 
 - title: 'Compute support for Nouveau: creating a LLVM to TGSI and a SPIR-V to nv50
     ir backends'
