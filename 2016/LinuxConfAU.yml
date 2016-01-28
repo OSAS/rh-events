@@ -14,7 +14,7 @@ talks:
   speaker: Zac Dover
   start: 2016-02-01 11:00 AEDT
   end: 2016-02-02 11:40 AEDT
-  room:  D2.212 
+  room:  D2.211 
   track: Open Documentation Mini-Conf
   description: |
     
@@ -22,10 +22,20 @@ talks:
   speaker: Zac Dover
   start: 2016-02-01 14:20 AEDT
   end: 2016-02-02 15:00 AEDT
-  room:  D2.212 
+  room:  D2.211 
   track: Open Documentation Mini-Conf
   description: |
     
+- title: Cloud Crafting – Public / Private / Hybrid
+  speaker: Steven Ellis
+  start: 2016-02-01 16:05 AEDT
+  end: 2016-02-01 16:25 AEDT
+  room:   Costa Hall
+  track: Open Cloud Symposium
+  description: |
+    Do you need to utilise many different public cloud technologies, or perhaps you’d like to put a cloud friendly shine on that rust old legacy VMware infrastructure. Perhaps the learning curve for OpenStack is too steep or it is missing critical feature you require? Take a look at ManageIQ, an Open Source project that can broker across on-premise IaaS as well as Public/Private cloud environments to provide a one stop shop for your DevOps needs.
+    This session will cover the key features of ManageIQ and demo connectivity to a range of Cloud and IaaS technologies.
+
 - title: Is that a data-center in your pocket? 
   speaker: Steven Ellis
   start: 2016-02-02 10:40 AEDT
