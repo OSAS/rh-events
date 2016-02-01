@@ -36,7 +36,7 @@ talks:
     developer, user, administrator PoV.
 
 - title: 'Cockpit: a Linux session in your browser'
-  speaker: Stef Walter
+  speaker: Peter Volpe
   start: 2016-01-30 11:00 CET
   end: 2016-01-30 11:50 CET
   room: Janson
@@ -206,32 +206,39 @@ talks:
     the new architecture to build stunning and visually appealing
     applications.
 
-- title: Displaying application events in Thermostat using byteman
-  speaker: Mario Torre, Andrew Dinn
+- title: 'Fault injection testing with bmunit'
+  speaker: Andrew Dinn
   start: 2016-01-30 15:30 CET
   end: 2016-01-30 16:10 CET
   room: H.1301 / Cornil
   track: Free Java
   description: |
-    Thermostat is more than just an open source tool for performance
-    monitoring and analysis of the JVM. It is also an extensible platform
-    which supports development of many different data capture and
-    visualization tools, allowing users to collate and display disparate
-    data from a runtime environment. One such extension currently being
-    developed by Red Hat is a Byteman plugin. Events and data captured by
-    Byteman rules can be reported to the Thermostat agent and displayed in
-    the Thermostat user interface.
+    BMUnit is the package which integrates Byteman into JUnit and TestNG,
+    enabling you to locally redefine the behaviour of application or JDK
+    runtime code for the duration of a single test or group of related
+    tests. BMUnit is very simple to use; just add a few annotations to your
+    test classes and place a few jars in your classpath. This talk will
+    explain how BMUnit works by presenting and executing tests which
+    exemplify the 3 most common use cases:
 
-    This talk will provide a preview of the Byteman Thermostat plugin in
-    action. Byteman will be used to inject rules into a running application
-    and into the underlying JDK runtime. These rules will all use the
-    Thermostat-Byteman Helper, provided as part of the plugin
-    implementation, to pass a variety of data through to the Thermostat
-    agent. The data will be collected and rendered using several of the
-    available Thermostat information displays. By making simple changes to
-    the loaded rule sets and the corresponding displays we will show how
-    you can rapidly shift focus from viewing one set of application events
-    to another.
+    -
+
+    injecting trace code so you can be sure your tests enter the expected
+    code paths
+
+    -
+
+    injecting validation rules so you can assert that specific outcomes do
+    occur
+
+    -
+
+    injecting 'faults' to modify state or control flow, driving the
+    application or JDK runtime down the path needed to exercise a desired
+    test scenario
+
+    (Please note that this talk replaces 'Displaying Application Events in
+    Thermostat Using Byteman')
 
 - title: Huge code bases - application monitoring with Hystrix
   speaker: Roman Mohr
@@ -264,13 +271,14 @@ talks:
   room: H.1309 / Van Rijn
   track: Security
   description: |
-    Openconnect is a relatively new VPN solution. It started as a clone of
-    CISCO's anyconnect VPN server, but it has now surpassed that role and
-    provides a reliable VPN solution with a very conservative security
-    architecture. This talk will address the question on the need for a new
-    VPN solution given the plethora of open source VPN solutions, the
-    distinctive security features and capabilities of openconnect and an
-    insight on the current development status.
+    Openconnect is a relatively new VPN solution. It started as a client
+    for CISCO's anyconnect VPN server, but it has now surpassed that role
+    and provides a reliable VPN solution with a very conservative security
+    architecture for the server. This talk will go through the story behind
+    the development of the OpenConnect VPN server, address the question on
+    the need for a new VPN solution and feature the distinctive security
+    features and capabilities of openconnect. Finally we will provide an
+    insight on the current development plans.
 
 - title: 'Community impacts of legal decisions: legal policy as barrier to entry'
   speaker: Dave Neary
@@ -640,6 +648,14 @@ talks:
     This talk will show the state of this work and how it affects JRuby and
     the wider JVM world.
 
+- title: 'Maven'
+  speaker: Mario Torre
+  start: 2016-01-31 14:10 CET
+  end: 2016-01-31 14:40 CET
+  room: H.1301 / Cornil
+  track: Free Java
+  description: "(This talk replaces 'Beyond Java 9'.)"
+
 - title: Adoption's group cultural guide to OpenJDK
   speaker: Mario Torre, Martijn Verburg, Dalibor Topić
   start: 2016-01-31 14:50 CET
@@ -781,17 +797,6 @@ talks:
     This talk will go over the work being done in standardising how distros
     boot on armv7 machines. Making things simpler for the user.
 
-- title: 'Cockpit: discoverable Linux servers'
-  speaker: Stef Walter
-  start: 2016-01-31 11:30 CET
-  end: 2016-01-31 12:20 CET
-  room: K.4.201
-  track: Distributions
-  description: |
-    Cockpit is a discoverable admin interface. Cockpit makes Linux usable
-    by a far more sysadmins. Cockpit is on by default in Fedora Server, and
-    available on RHEL, CentOS, Atomic, Debian, Arch and others.
-
 - title: 'The Fedora project by the numbers: (storytelling with metrics and data)'
   speaker: Remy DeCausemaker
   start: 2016-01-31 12:30 CET
@@ -810,8 +815,7 @@ talks:
     - Data visualizations and graphics
     - Storytelling and anecdotes
 
-- title: 'The CentOS CI: a getting started guide (the CentOS CI: a getting started
-    guide)'
+- title: 'The CentOS CI: a getting started guide'
   speaker: Dusty Mabe
   start: 2016-01-31 13:30 CET
   end: 2016-01-31 13:50 CET
