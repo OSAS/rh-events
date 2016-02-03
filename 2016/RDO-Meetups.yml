@@ -4,135 +4,15 @@ tags: RDO
 
 talks:
 
-- title: OpenStack Update and IBM Bluemix Demo
-  location: Saint Paul, MN
-  speaker: Minnesota OpenStack Meetup
-  start: 2016-01-25 18:00 UTC
-  end: 2016-01-25 19:00 UTC
+- title: OpenStack & Beyond Podcast - Ecosystem Tooling & Related OSS Projects
+  location: Mountain View, CA
+  speaker: Cloud Online Meetup
+  start: 2016-02-03 11:30 UTC
+  end: 2016-02-03 12:30 UTC
   description: |
-      Saint Paul, MN, US
-      OpenStack Update and IBM Bluemix Demo
-      http://www.meetup.com/Minnesota-OpenStack-Meetup/events/227739133/
-
-- title: Neutron Done the SDN Way
-  location: Tel Aviv-Yafo, IL
-  speaker: OpenStack-Israel
-  start: 2016-01-26 02:15 UTC
-  end: 2016-01-26 03:15 UTC
-  description: |
-      Tel Aviv-Yafo, IL
-      Neutron Done the SDN Way
-      http://www.meetup.com/OpenStack-Israel/events/227823764/
-
-- title: Come learn about building OpenStack Clouds with Maas and Juju
-  location: San Jose, CA
-  speaker: Silicon Valley OpenStack Ops Meetup
-  start: 2016-01-26 21:00 UTC
-  end: 2016-01-26 22:00 UTC
-  description: |
-      San Jose, CA, US
-      Come learn about building OpenStack Clouds with Maas and Juju
-      http://www.meetup.com/Silicon-Valley-OpenStack-Ops-Meetup/events/228102705/
-
-- title: London Openstack January Meetup
-  location: London, 17
-  speaker: London OpenStack Meetup
-  start: 2016-01-27 13:30 UTC
-  end: 2016-01-27 14:30 UTC
-  description: |
-      London, 17, GB
-      London Openstack January Meetup
-      http://www.meetup.com/Openstack-London/events/227588289/
-
-- title: Red Hat and OpenStack in the Enterprise
-  location: Orlando, FL
-  speaker: OpenStack Central Florida
-  start: 2016-01-27 19:00 UTC
-  end: 2016-01-27 20:00 UTC
-  description: |
-      Orlando, FL, US
-      Red Hat and OpenStack in the Enterprise
-      http://www.meetup.com/Orlando-Central-Florida-OpenStack-Meetup/events/228183631/
-
-- title: Partner Promo Dell lanserer OpenStack Forum i Oslo Automation For The Win!
-  location: Oslo, NO
-  speaker: Red Hat User Group Oslo
-  start: 2016-01-28 07:00 UTC
-  end: 2016-01-28 08:00 UTC
-  description: |
-      Oslo, NO
-      Partner Promo Dell lanserer OpenStack Forum i Oslo Automation For The Win!
-      http://www.meetup.com/RedHatOslo/events/227888127/
-
-- title: OpenStack Harrisburg kickoff
-  location: Harrisburg, PA
-  speaker: OpenStack Harrisburg
-  start: 2016-01-28 18:30 UTC
-  end: 2016-01-28 19:30 UTC
-  description: |
-      Harrisburg, PA, US
-      OpenStack Harrisburg kickoff
-      http://www.meetup.com/OpenStack-Harrisburg/events/228110502/
-
-- title: Bios 2 Boot 2 OpenStack Deploying a Straight Opensource OpenStack Infrastructure
-  location: Herriman, UT
-  speaker: OpenStack Utah
-  start: 2016-01-28 20:30 UTC
-  end: 2016-01-28 21:30 UTC
-  description: |
-      Herriman, UT, US
-      Bios 2 Boot 2 OpenStack Deploying a Straight Opensource OpenStack Infrastructure
-      http://www.meetup.com/openstack-utah/events/227290248/
-
-- title: Building Distributed Service Rich SDNs
-  location: Littleton, CO
-  speaker: OpenStack Denver
-  start: 2016-01-28 20:30 UTC
-  end: 2016-01-28 21:30 UTC
-  description: |
-      Littleton, CO, US
-      Building Distributed Service Rich SDNs
-      http://www.meetup.com/OpenStack-Denver/events/226962447/
-
-- title: Deployment Experience From Large-Scale Neutron Networks - January OpenStack L.A.
-  location: Pasadena, CA
-  speaker: OpenStack LA
-  start: 2016-01-28 22:00 UTC
-  end: 2016-01-28 23:00 UTC
-  description: |
-      Pasadena, CA, US
-      Deployment Experience From Large-Scale Neutron Networks - January OpenStack L.A.
-      http://www.meetup.com/OpenStack-LA/events/227931609/
-
-- title: OpenStack / RDO Q&A with Perry Myers
-  location: Morgantown, WV
-  speaker: Morgantown Linux User Group
-  start: 2016-01-28 19:00 UTC
-  end: 2016-01-28 20:00 UTC
-  description: |
-      Morgantown, WV, US
-      OpenStack / RDO Q&A with Perry Myers
-      http://www.meetup.com/Morgantown-Linux-User-Group/events/227482742/
-
-- title: Cloud Budapest 2016/01
-  location: Budapest, HU
-  speaker: Cloud Budapest
-  start: 2016-01-28 13:00 UTC
-  end: 2016-01-28 14:00 UTC
-  description: |
-      Budapest, HU
-      Cloud Budapest 2016/01
-      http://www.meetup.com/Cloud-Budapest/events/227922125/
-
-- title: OpenStack Cloud Security Workshop CANCELADO 
-  location: São Paulo, BR
-  speaker: Openstack Brasil
-  start: 2016-02-01 06:00 UTC
-  end: 2016-02-01 07:00 UTC
-  description: |
-      São Paulo, BR
-      OpenStack Cloud Security Workshop CANCELADO 
-      http://www.meetup.com/Openstack-Brasil/events/227950266/
+      Mountain View, CA, US
+      OpenStack & Beyond Podcast - Ecosystem Tooling & Related OSS Projects
+      http://www.meetup.com/Cloud-Online-Meetup/events/228394885/
 
 - title: DevConf 2016
   location: Oslo, NO
@@ -144,33 +24,83 @@ talks:
       DevConf 2016
       http://www.meetup.com/RedHatOslo/events/228115607/
 
+- title: Openstack Amsterdam Slack Channel
+  location: Amsterdam, NL
+  speaker: Openstack & Ceph User Group Amsterdam
+  start: 2016-02-03 09:30 UTC
+  end: 2016-02-03 10:30 UTC
+  description: |
+      Amsterdam, NL
+      Openstack Amsterdam Slack Channel
+      http://www.meetup.com/Openstack-Amsterdam/events/228428149/
+
+- title: Neutron Network Trouble Shooting part 1
+  location: Richardson, TX
+  speaker: OpenStack DFW
+  start: 2016-02-03 19:00 UTC
+  end: 2016-02-03 20:00 UTC
+  description: |
+      Richardson, TX, US
+      Neutron Network Trouble Shooting part 1
+      http://www.meetup.com/OpenStack-DFW/events/228303276/
+
+- title: St. Louis Open Source Cloud Meetup - February 2015
+  location: Saint Louis, MO
+  speaker: St. Louis OpenSource Cloud
+  start: 2016-02-03 20:00 UTC
+  end: 2016-02-03 21:00 UTC
+  description: |
+      Saint Louis, MO, US
+      St. Louis Open Source Cloud Meetup - February 2015
+      http://www.meetup.com/stlouisopensourcecloud/events/227550344/
+
 - title: OpenStack Container 2016
   location: Amersfoort, NL
   speaker: OpenStack Netherlands
-  start: 2016-02-04 09:00 UTC
-  end: 2016-02-04 10:00 UTC
+  start: 2016-02-04 09:30 UTC
+  end: 2016-02-04 10:30 UTC
   description: |
       Amersfoort, NL
       OpenStack Container 2016
       http://www.meetup.com/Openstack-Netherlands/events/226986936/
 
-- title: Building Agile Clouds on Openstack Technical Event -Feb
-  location: Raleigh, NC
-  speaker: Raleigh Building Agile Clouds with OpenStack
-  start: 2016-02-04 18:15 UTC
-  end: 2016-02-04 19:15 UTC
+- title: OpenStack Designate - DNS for your OpenStack Cloud
+  location: Dublin, IE
+  speaker: OpenStack Ireland
+  start: 2016-02-09 13:15 UTC
+  end: 2016-02-09 14:15 UTC
   description: |
-      Raleigh, NC, US
-      Building Agile Clouds on Openstack Technical Event -Feb
-      http://www.meetup.com/Raleigh-Triange-Building-Agile-Clouds-with-OpenStack/events/227328279/
+      Dublin, IE
+      OpenStack Designate - DNS for your OpenStack Cloud
+      http://www.meetup.com/OpenStack-Ireland/events/227453812/
 
-- title: DevConf.cz (containers track)
-  location: Brno, CZ
-  speaker: Docker Brno
-  start: 2016-02-05 03:00 UTC
-  end: 2016-02-05 04:00 UTC
+- title: Ankara 11. Meetup, Konu OpenStack ELK (Elastic Search, Logstash, Kibana)
+  location: Istanbul, TR
+  speaker: Turkey OpenStack Meetup
+  start: 2016-02-09 12:00 UTC
+  end: 2016-02-09 13:00 UTC
   description: |
-      Brno, CZ
-      DevConf.cz (containers track)
-      http://www.meetup.com/Docker-Brno/events/228034611/
+      Istanbul, TR
+      Ankara 11. Meetup, Konu OpenStack ELK (Elastic Search, Logstash, Kibana)
+      http://www.meetup.com/Turkey-OpenStack-Meetup/events/228575106/
+
+- title: Openstack Workloads with Windows Server 2016
+  location: Iasi, RO
+  speaker: Iasi DevOps Meetup
+  start: 2016-02-10 12:00 UTC
+  end: 2016-02-10 13:00 UTC
+  description: |
+      Iasi, RO
+      Openstack Workloads with Windows Server 2016
+      http://www.meetup.com/IS-DevOps-Meetup/events/228224839/
+
+- title: OpenStack Mini-Conf
+  location: Madrid, ES
+  speaker: MAD for OpenStack
+  start: 2016-02-12 12:00 UTC
+  end: 2016-02-12 13:00 UTC
+  description: |
+      Madrid, ES
+      OpenStack Mini-Conf
+      http://www.meetup.com/MAD-for-OpenStack/events/227554166/
 
