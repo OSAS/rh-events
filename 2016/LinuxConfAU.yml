@@ -68,6 +68,19 @@ talks:
     software to use FreeIPA's centralised identity and policy store.
     
 
+- title: "Improving thread synchronization in GlusterD (Daemon for Gluster) using Userspace RCU (Read-copy-update)"
+  speaker: Atin Mukherjee
+  start: 2016-02-03 13:20 AEDT
+  end: 2016-02-03 14:05 AEDT
+  room:  Wool Museum
+  track: 
+  description: |
+    Gluster is a open source scalable distributed storage system which can run in any commodity hardware. GlusterD is the daemon which manages the cluster configuration for Gluster.
+
+    GlusterD was originally designed as a single threaded application which could handle just one transaction at a time. It was made multi-threaded to improve responsiveness and support handling multiple transactions at a time. This was needed for newer features like volume snapshots which could leave GlusterD unresponsive for some periods of time.
+
+    Making GlusterD multi-threaded required the creation of a thread synchronization mechanism, to protect the shared data-structures (mainly everything under the GlusterD configuration, glusterd_conf_t struct) from concurrent access from multiple threads. This was accomplished using the Big-lock.
+
 - title: "Melvin: A new implementation of LVM in Rust"
   speaker: Andy Grover
   start: 2016-02-03 15:40 AEDT
