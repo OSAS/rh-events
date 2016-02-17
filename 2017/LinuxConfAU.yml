@@ -1,0 +1,12 @@
+name: linux.conf.au
+location: Hobart, Australia
+start: 2017-01-16
+end: 2017-01-20
+tags: RDO, CentOS, ManageIQ, Fedora
+description: |
+  linux.conf.au is the largest linux and open source conference in the Asia-Pacific region. Run annually since 1999, it brings together the Australian, New Zealand and international community for standout presentations, demonstrations and relationship building. It is a deeply technical conference and pre-emininent practitioners in the field, both professionals and hobbyists, are expected to attend.
+
+  Additional details about the conference are available at
+  <http://http://hobart.lca2017.org/>.
+talks:
+
