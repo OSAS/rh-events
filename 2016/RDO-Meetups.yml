@@ -4,207 +4,6 @@ tags: RDO
 
 talks:
 
-
-- title: OpenStack PoC usando Packstack
-  location: Guadalajara, MX
-  speaker: OpenStack GDL
-  start: 2016-02-22 20:00 UTC
-  end: 2016-02-22 21:00 UTC
-  description: |
-      Guadalajara, MX
-      OpenStack PoC usando Packstack
-      http://www.meetup.com/OpenStack-GDL/events/228269157/
-
-- title: Netapp contributions to OpenStack (Feb Meetup)
-  location: Chesterfield, MO
-  speaker: OpenStack St. Louis
-  start: 2016-02-23 19:30 UTC
-  end: 2016-02-23 20:30 UTC
-  description: |
-      Chesterfield, MO, US
-      Netapp contributions to OpenStack (Feb Meetup)
-      http://www.meetup.com/OpenStack-STL/events/228051297/
-
-- title: PaaS vs. CaaS vs. X Solutions w/(o) OpenStack
-  location: Köln, DE
-  speaker: OpenStack X Cologne
-  start: 2016-02-24 12:00 UTC
-  end: 2016-02-24 13:00 UTC
-  description: |
-      Köln, DE
-      PaaS vs. CaaS vs. X Solutions w/(o) OpenStack
-      http://www.meetup.com/OpenStack-X/events/227350763/
-
-- title: OpenStack Overview OpenStack Deployments and the Big Tent
-  location: Toronto, ON
-  speaker: OpenStack Toronto
-  start: 2016-02-24 18:00 UTC
-  end: 2016-02-24 19:00 UTC
-  description: |
-      Toronto, ON, CA
-      OpenStack Overview OpenStack Deployments and the Big Tent
-      http://www.meetup.com/OpenStackTO/events/225706202/
-
-- title: Tosca Engine of Openstack HEAT and Orchestration of Containers
-  location: Pittsburgh, PA
-  speaker: OpenStack Pittsburgh
-  start: 2016-02-24 18:30 UTC
-  end: 2016-02-24 19:30 UTC
-  description: |
-      Pittsburgh, PA, US
-      Tosca Engine of Openstack HEAT and Orchestration of Containers
-      http://www.meetup.com/openstack-pittsburgh/events/228400845/
-
-- title: OpenStack JumpStart!
-  location: Baltimore, MD
-  speaker: OpenStack Baltimore
-  start: 2016-02-24 18:30 UTC
-  end: 2016-02-24 19:30 UTC
-  description: |
-      Baltimore, MD, US
-      OpenStack JumpStart!
-      http://www.meetup.com/OpenStack-Baltimore/events/228811978/
-
-- title: Intro to OpenStack Trove & Database as a Service (DBaaS)
-  location: Boston, MA
-  speaker: Boston Cloud Services - All things Cloud,  SaaS, PaaS, XaaS
-  start: 2016-02-24 18:30 UTC
-  end: 2016-02-24 19:30 UTC
-  description: |
-      Boston, MA, US
-      Intro to OpenStack Trove & Database as a Service (DBaaS)
-      http://www.meetup.com/Boston-cloud-services/events/228694387/
-
-- title: 10º Hangout OpenStack Brasil
-  location: São Paulo, BR
-  speaker: Openstack Brasil
-  start: 2016-02-24 18:00 UTC
-  end: 2016-02-24 19:00 UTC
-  description: |
-      São Paulo, BR
-      10º Hangout OpenStack Brasil
-      http://www.meetup.com/Openstack-Brasil/events/228919495/
-
-- title: OpenStack & Beyond Podcast - Live from Mobile World Congress
-  location: Mountain View, CA
-  speaker: Cloud Online Meetup
-  start: 2016-02-25 05:00 UTC
-  end: 2016-02-25 06:00 UTC
-  description: |
-      Mountain View, CA, US
-      OpenStack & Beyond Podcast - Live from Mobile World Congress
-      http://www.meetup.com/Cloud-Online-Meetup/events/228889610/
-
-- title: Elastic L4-L7 Services for OpenStack
-  location: Herriman, UT
-  speaker: OpenStack Utah
-  start: 2016-02-25 14:00 UTC
-  end: 2016-02-25 15:00 UTC
-  description: |
-      Herriman, UT, US
-      Elastic L4-L7 Services for OpenStack
-      http://www.meetup.com/openstack-utah/events/227593979/
-
-- title: ONLINE OpenStack & Beyond Episode 8 - Live from Mobile World Congress
-  location: Tel Aviv-Yafo, IL
-  speaker: OpenStack-Israel
-  start: 2016-02-25 05:00 UTC
-  end: 2016-02-25 06:00 UTC
-  description: |
-      Tel Aviv-Yafo, IL
-      ONLINE OpenStack & Beyond Episode 8 - Live from Mobile World Congress
-      http://www.meetup.com/OpenStack-Israel/events/228889546/
-
-- title: First Openstack Pakistan Meetup @ Islamabad
-  location: Islamabad, PK
-  speaker: Openstack Pakistan
-  start: 2016-02-25 07:00 UTC
-  end: 2016-02-25 08:00 UTC
-  description: |
-      Islamabad, PK
-      First Openstack Pakistan Meetup @ Islamabad
-      http://www.meetup.com/Openstack-Pakistan/events/228917252/
-
-- title: OpenStack Bucharest Meetup 2016.1
-  location: Bucharest, RO
-  speaker: OpenStack Bucharest, Romania Meetup
-  start: 2016-02-25 11:30 UTC
-  end: 2016-02-25 12:30 UTC
-  description: |
-      Bucharest, RO
-      OpenStack Bucharest Meetup 2016.1
-      http://www.meetup.com/OpenStack-Bucharest-Romania-Meetup/events/228643909/
-
-- title: OpenStack Kolla and Magnum 101
-  location: Fort Collins, CO
-  speaker: Colorado OpenStack
-  start: 2016-02-25 20:30 UTC
-  end: 2016-02-25 21:30 UTC
-  description: |
-      Fort Collins, CO, US
-      OpenStack Kolla and Magnum 101
-      http://www.meetup.com/OpenStack-Colorado/events/228594900/
-
-- title: Deploying OpenStack using Fuel and OpenStack Administration (continued)
-  location: North York, ON
-  speaker: Stacks and Docker Labs Toronto
-  start: 2016-02-25 18:30 UTC
-  end: 2016-02-25 19:30 UTC
-  description: |
-      North York, ON, CA
-      Deploying OpenStack using Fuel and OpenStack Administration (continued)
-      http://www.meetup.com/StackDocker-TO/events/228227934/
-
-- title: Cloudbase solutions and Skylab Startup Development
-  location: Bucharest, RO
-  speaker: Openstack Bucharest UserGroup
-  start: 2016-02-25 11:30 UTC
-  end: 2016-02-25 12:30 UTC
-  description: |
-      Bucharest, RO
-      Cloudbase solutions and Skylab Startup Development
-      http://www.meetup.com/Openstack-Bucharest/events/228722388/
-
-- title: Keep it Fresh with Air-Tight Containers - The February OpenStack L.A. Meetup
-  location: Pasadena, CA
-  speaker: OpenStack LA
-  start: 2016-02-25 22:00 UTC
-  end: 2016-02-25 23:00 UTC
-  description: |
-      Pasadena, CA, US
-      Keep it Fresh with Air-Tight Containers - The February OpenStack L.A. Meetup
-      http://www.meetup.com/OpenStack-LA/events/228811280/
-
-- title: VietOpenStack 8th Meetup
-  location: Ha Noi, VN
-  speaker: VietOpenStack
-  start: 2016-02-26 20:30 UTC
-  end: 2016-02-26 21:30 UTC
-  description: |
-      Ha Noi, VN
-      VietOpenStack 8th Meetup
-      http://www.meetup.com/VietStack/events/228399616/
-
-- title: Openstack Astara Project
-  location: Hyderabad, IN
-  speaker: Beyond Data
-  start: 2016-02-27 00:30 UTC
-  end: 2016-02-27 01:30 UTC
-  description: |
-      Hyderabad, IN
-      Openstack Astara Project
-      http://www.meetup.com/BeyondData/events/229036626/
-
-- title: Australian OpenStack User Group - Quarterly Brisbane Meetup
-  location: Sydney, AU
-  speaker: Australian OpenStack User Group
-  start: 2016-02-29 02:00 UTC
-  end: 2016-02-29 03:00 UTC
-  description: |
-      Sydney, AU
-      Australian OpenStack User Group - Quarterly Brisbane Meetup
-      http://www.meetup.com/Australian-OpenStack-User-Group/events/227450689/
-
 - title: Leap through an OpenStack Networking Session with Mark McClain
   location: Reston, VA
   speaker: OpenStack Northern Virginia
@@ -215,15 +14,15 @@ talks:
       Leap through an OpenStack Networking Session with Mark McClain
       http://www.meetup.com/OpenStack-Nova/events/228578057/
 
-- title: OpenStack & the Hybrid Cloud
-  location: Henrico, VA
-  speaker: OpenStack Richmond
-  start: 2016-03-02 17:45 UTC
-  end: 2016-03-02 18:45 UTC
+- title: Neutron Network Trouble Shooting part 2
+  location: Richardson, TX
+  speaker: OpenStack DFW
+  start: 2016-03-02 19:00 UTC
+  end: 2016-03-02 20:00 UTC
   description: |
-      Henrico, VA, US
-      OpenStack & the Hybrid Cloud
-      http://www.meetup.com/OpenStack-Richmond/events/228552400/
+      Richardson, TX, US
+      Neutron Network Trouble Shooting part 2
+      http://www.meetup.com/OpenStack-DFW/events/228303718/
 
 - title: DNS, VNF, Security & SDN in OpenStack  (#29)
   location: Washington, DC
@@ -245,6 +44,16 @@ talks:
       OpenStack @ SEEBURGER AG
       http://www.meetup.com/OpenStack-Baden-Wuerttemberg/events/228719642/
 
+- title: Monthly SFOUG Meeting
+  location: Fort Lauderdale, FL
+  speaker: South Florida OpenStack Users Group
+  start: 2016-03-03 17:15 UTC
+  end: 2016-03-03 18:15 UTC
+  description: |
+      Fort Lauderdale, FL, US
+      Monthly SFOUG Meeting
+      http://www.meetup.com/South-Florida-OpenStack-Users-Group/events/227725465/
+
 - title: Building Agile Clouds with OpenStack technical event - March
   location: Raleigh, NC
   speaker: Raleigh Building Agile Clouds with OpenStack
@@ -254,16 +63,6 @@ talks:
       Raleigh, NC, US
       Building Agile Clouds with OpenStack technical event - March
       http://www.meetup.com/Raleigh-Triange-Building-Agile-Clouds-with-OpenStack/events/228031643/
-
-- title: SF Bay OpenStack Meetup
-  location: San Francisco, CA
-  speaker: SFBay OpenStack
-  start: 2016-03-03 22:00 UTC
-  end: 2016-03-03 23:00 UTC
-  description: |
-      San Francisco, CA, US
-      SF Bay OpenStack Meetup
-      http://www.meetup.com/openstack/events/224950337/
 
 - title: Wprowadzenie do OpenStacka czyli jak w 5min postawić swoją chmurę
   location: Łódź, PL
@@ -285,6 +84,26 @@ talks:
       Global OpenStack Bug Smash Mitaka NYC
       http://www.meetup.com/OpenStack-New-York-Meetup/events/228642450/
 
+- title: Openstack Bug Smash Mitaka - Bangalore
+  location: Bangalore, IN
+  speaker: Indian OpenStack User Group
+  start: 2016-03-06 22:30 UTC
+  end: 2016-03-06 23:30 UTC
+  description: |
+      Bangalore, IN
+      Openstack Bug Smash Mitaka - Bangalore
+      http://www.meetup.com/Indian-OpenStack-User-Group/events/229100242/
+
+- title: OpenStack Bug Smash Mitaka - Pune
+  location: Bangalore, IN
+  speaker: Indian OpenStack User Group
+  start: 2016-03-06 22:30 UTC
+  end: 2016-03-06 23:30 UTC
+  description: |
+      Bangalore, IN
+      OpenStack Bug Smash Mitaka - Pune
+      http://www.meetup.com/Indian-OpenStack-User-Group/events/229118801/
+
 - title: Sydney Developer Bugs Smash
   location: Sydney, AU
   speaker: Australian OpenStack User Group
@@ -294,4 +113,84 @@ talks:
       Sydney, AU
       Sydney Developer Bugs Smash
       http://www.meetup.com/Australian-OpenStack-User-Group/events/228853685/
+
+- title: Let's talk OpenStack Storage!!
+  location: Chicago, IL
+  speaker: Chicago-land OpenStack Group
+  start: 2016-03-09 19:00 UTC
+  end: 2016-03-09 20:00 UTC
+  description: |
+      Chicago, IL, US
+      Let's talk OpenStack Storage!!
+      http://www.meetup.com/meetup-group-NjZdcegA/events/228796444/
+
+- title: 12th Swiss OpenStack User Group Meetup
+  location: Zürich, CH
+  speaker: openstack-ch
+  start: 2016-03-09 12:00 UTC
+  end: 2016-03-09 13:00 UTC
+  description: |
+      Zürich, CH
+      12th Swiss OpenStack User Group Meetup
+      http://www.meetup.com/openstack-ch/events/228056159/
+
+- title: OpenStack & BSD Certification
+  location: North Vancouver, BC
+  speaker: VanBUG
+  start: 2016-03-09 22:00 UTC
+  end: 2016-03-09 23:00 UTC
+  description: |
+      North Vancouver, BC, CA
+      OpenStack & BSD Certification
+      http://www.meetup.com/BSD-Users-Group/events/229010453/
+
+- title: Bringing in the Heat from OpenStack (in March)
+  location: Houston, TX
+  speaker: OpenStack Houston Meetup
+  start: 2016-03-10 19:00 UTC
+  end: 2016-03-10 20:00 UTC
+  description: |
+      Houston, TX, US
+      Bringing in the Heat from OpenStack (in March)
+      http://www.meetup.com/openstackhoustonmeetup/events/228914829/
+
+- title: War Stories Operating an OpenStack Cloud
+  location: Wellington, NZ
+  speaker: New Zealand OpenStack User Group
+  start: 2016-03-10 00:00 UTC
+  end: 2016-03-10 01:00 UTC
+  description: |
+      Wellington, NZ
+      War Stories Operating an OpenStack Cloud
+      http://www.meetup.com/New-Zealand-OpenStack-User-Group/events/228391052/
+
+- title: OpenStack and Containers
+  location: Pleasanton, CA
+  speaker: EastBay OpenStack
+  start: 2016-03-10 21:00 UTC
+  end: 2016-03-10 22:00 UTC
+  description: |
+      Pleasanton, CA, US
+      OpenStack and Containers
+      http://www.meetup.com/EastBay-OpenStack/events/228615074/
+
+- title: Singapore OpenStack Meetup
+  location: Singapore, SG
+  speaker: OpenStack Singapore
+  start: 2016-03-10 05:30 UTC
+  end: 2016-03-10 06:30 UTC
+  description: |
+      Singapore, SG
+      Singapore OpenStack Meetup
+      http://www.meetup.com/OpenStack-Singapore/events/228717707/
+
+- title: OpenStack India Meetup - Bangalore
+  location: Bangalore, IN
+  speaker: Indian OpenStack User Group
+  start: 2016-03-11 23:15 UTC
+  end: 2016-03-12 00:15 UTC
+  description: |
+      Bangalore, IN
+      OpenStack India Meetup - Bangalore
+      http://www.meetup.com/Indian-OpenStack-User-Group/events/229035796/
 

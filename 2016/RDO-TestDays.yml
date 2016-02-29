@@ -4,15 +4,6 @@ tags: RDO
 
 talks:
 
-- title: Mitaka Milestone 2 Test Day
-  location: rdo channel on Freenode
-  speaker: RDO
-  start: 2016-01-27 00:01 UTC
-  end: 2016-01-28 23:59 UTC
-  description: |
-      Come help make RDO better by testing the Mitaka Milestone 2
-      packages. Details at https://www.rdoproject.org/testday/mitaka/milestone2
-
 - title: Mitaka 3, RC Test Day
   location: rdo channel on Freenode
   speaker: RDO
@@ -22,6 +13,14 @@ talks:
       Come help make RDO better by testing the Mitaka Milestone 3
       packages. Details at https://www.rdoproject.org/testday/mitaka/milestone3
 
+- title: Mitaka 3 on-site test day in Brno
+  location: Red Hat office, Brno
+  start: 2016-03-10 09:00 CET
+  end: 2016-03-11 16:40 CET
+  description: |
+    If you're in the Brno area, please consider attending our on-site
+    test day at the Brno Red Hat office. Details are at
+    https://www.rdoproject.org/testday/mitaka/brno-on-site/
 
 - title: Mitaka GA Test Day
   location: rdo channel on Freenode
