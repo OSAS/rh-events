@@ -10,3 +10,15 @@ description: |
 
   Additional details about the conference are available at
   <https://chemnitzer.linux-tage.de/2016/en>.
+talks:
+- title: Introducing Open Source Virtualization project oVirt
+  speaker: Rene Koch
+  start: 2016-03-20 14:00 CET
+  end: 2016-03-20 15:00 CET
+  description: |
+    Nowadays,virtualization is the foundation of many IT environments in medium and large enterprises. The KVM based Red Hat Enterprise virtualization and its upstream project oVirt, is a high performance and at the same time cost-saving open source solution combined with enterprise management features.
+
+    This presentation will introduce virtualization solution oVirt. In addition to a short description of the particular components and tools, this talk will also cover typical applications scenarios. The second part of this talk will describe on how to contribute (with or without programming knowledge) to oVirt.
+    
+    Additional details about this talk is availabe in German at
+    <https://chemnitzer.linux-tage.de/2016/en/programm/beitrag/346>.
