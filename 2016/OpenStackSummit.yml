@@ -7,3 +7,39 @@ description: |
 
   Additional details about the conference are available at
   <https://www.openstack.org/summit/austin-2016/>.
+talks:
+
+- title: Contributing to the Success of OpenStack
+  speaker: Mark McLoughlin, Alexis Monville 
+  start: 2016-04-25 11:15 CDT
+  end: 2016-04-25 11:55 CDT
+  description: |
+    Mark is a long-time open-source practitioner and advocate. Alexis is a long-time Agile practitioner and advocate. In recent times, they find each other working very closely together, searching for ways to help Red Hat’s OpenStack team continuously improve its way of working.
+
+    Mark will spend some time describing his view of the key abstract ideas and principles that should influence the thinking of those leading, or contributing to, open-source projects. Alexis will spend a similar amount of time talking about the abstract ideas and principles from the Agile, DevOps, Continuous Delivery, and Lean movements that every software project should draw from.
+
+    Together they will draw some conclusions relevant to the OpenStack community in general, but particularly relevant to those who wish to both contribute to and build upon OpenStack. They expect this will contribute to an ongoing conversation to improve the way individuals and companies are contributing to the success of OpenStack.
+
+- title: Introduction to Container Security
+  speaker: Thomas Cameron
+  start: 2016-04-26 14:50 CDT
+  end: 2016-04-26 15:30 CDT
+  description: |
+    Application containerization is one of the coolest technologies in IT. It solves numerous problems, allows for incredible application density, and can really increase flexibility and responsiveness. But not everyone understands what makes up container security - it's a LOT more than what application is in the container.
+
+    In this session, Red Hat’s global solution architect leader, Thomas Cameron, will talk about the basic components of container security. He'll talk about kernel namespaces, Security Enhanced Linux, Linux control groups, the Docker daemon, etc. and how they all work. He'll provide demonstrations of how each of these technologies affect security.
+
+    He'll also talk about tips and tricks for planning a secure container environment, describe some “gotchas” about containers, and debunk some of the security myths about containers.
+
+    Attendees will understand the fundamentals of container security when they leave.
+
+- title: Is that a cloud in your pocket? 
+  speaker: Steven Ellis
+  start: 2016-04-27 11:50 CDT
+  end: 2016-04-27 12:30 CDT
+  description: |
+    Fed up fighting with the public cloud, or running out of space on your laptop next time you want to try our latest and greatest technology out?
+
+    Thanks to technologies like nested virtualisation and thin-lvm you can nowbuild, run and redeploy on your personal laptop a small data-centre's worth of technology. As great as the public cloud and shared lab environments are(n't), sometimes you just want to thrash out a problem quickly. What do you do when you're missing that extra storage or physical compute resource to make it happen?
+
+    As an Operator, Architect or End User - come learn some tips and tricks, or share some of your own.
