@@ -4,4 +4,183 @@ tags: RDO
 
 talks:
 
+- title: Automation in OpenStack
+  location: Harrisburg, PA
+  speaker: OpenStack Harrisburg
+  start: 2016-03-29 18:30 UTC
+  end: 2016-03-29 19:30 UTC
+  description: |
+      Harrisburg, PA, US
+      Automation in OpenStack
+      http://www.meetup.com/OpenStack-Harrisburg/events/228903255/
+
+- title: Introduction to OpenStack
+  location: Chesterfield, MO
+  speaker: OpenStack St. Louis
+  start: 2016-03-29 19:30 UTC
+  end: 2016-03-29 20:30 UTC
+  description: |
+      Chesterfield, MO, US
+      Introduction to OpenStack
+      http://www.meetup.com/OpenStack-STL/events/229344473/
+
+- title: Webinar - What's new in OpenStack "Mitaka"
+  location: Raleigh, NC
+  speaker: Raleigh Red Hat User Group
+  start: 2016-03-30 11:00 UTC
+  end: 2016-03-30 12:00 UTC
+  description: |
+      Raleigh, NC, US
+      Webinar - What's new in OpenStack "Mitaka"
+      http://www.meetup.com/Raleigh-Red-Hat-User-Group/events/229796671/
+
+- title: Introduction to OpenStack Trove & DBaaS
+  location: Toronto, ON
+  speaker: OpenStack Toronto
+  start: 2016-03-30 17:30 UTC
+  end: 2016-03-30 18:30 UTC
+  description: |
+      Toronto, ON, CA
+      Introduction to OpenStack Trove & DBaaS
+      http://www.meetup.com/OpenStackTO/events/228782619/
+
+- title: Chef Dev Ops for OpenStack - Get your Cloud cooking!
+  location: Orlando, FL
+  speaker: OpenStack Central Florida
+  start: 2016-03-30 19:00 UTC
+  end: 2016-03-30 20:00 UTC
+  description: |
+      Orlando, FL, US
+      Chef Dev Ops for OpenStack - Get your Cloud cooking!
+      http://www.meetup.com/Orlando-Central-Florida-OpenStack-Meetup/events/229617921/
+
+- title: 11º Hangout OpenStack Brasil
+  location: São Paulo, BR
+  speaker: Openstack Brasil
+  start: 2016-03-30 19:00 UTC
+  end: 2016-03-30 20:00 UTC
+  description: |
+      São Paulo, BR
+      11º Hangout OpenStack Brasil
+      http://www.meetup.com/Openstack-Brasil/events/229722396/
+
+- title: Discuss and Learn about OpenStack
+  location: Littleton, CO
+  speaker: OpenStack Denver
+  start: 2016-03-31 20:30 UTC
+  end: 2016-03-31 21:30 UTC
+  description: |
+      Littleton, CO, US
+      Discuss and Learn about OpenStack
+      http://www.meetup.com/OpenStack-Denver/events/228588879/
+
+- title: SF Bay OpenStack Meetup Topic CloudSlang (an open source orchestration engine)
+  location: San Francisco, CA
+  speaker: SFBay OpenStack
+  start: 2016-03-31 22:00 UTC
+  end: 2016-03-31 23:00 UTC
+  description: |
+      San Francisco, CA, US
+      SF Bay OpenStack Meetup Topic CloudSlang (an open source orchestration engine)
+      http://www.meetup.com/openstack/events/229614922/
+
+- title: Openstack Pakstan Meetup @ Lahore
+  location: Islamabad, PK
+  speaker: Openstack Pakistan
+  start: 2016-04-01 08:00 UTC
+  end: 2016-04-01 09:00 UTC
+  description: |
+      Islamabad, PK
+      Openstack Pakstan Meetup @ Lahore
+      http://www.meetup.com/Openstack-Pakistan/events/229812824/
+
+- title: OpenStack
+  location: Frederick, MD
+  speaker: Frederick Linux Users Group (KeyLUG)
+  start: 2016-04-02 10:00 UTC
+  end: 2016-04-02 11:00 UTC
+  description: |
+      Frederick, MD, US
+      OpenStack
+      http://www.meetup.com/KeyLUG/events/228808580/
+
+- title: April Sydney Meetup
+  location: Sydney, AU
+  speaker: Australian OpenStack User Group
+  start: 2016-04-05 04:00 UTC
+  end: 2016-04-05 05:00 UTC
+  description: |
+      Sydney, AU
+      April Sydney Meetup
+      http://www.meetup.com/Australian-OpenStack-User-Group/events/229602001/
+
+- title: OpenStack meetup
+  location: Stockholm, SE
+  speaker: OpenStack User Group Sweden
+  start: 2016-04-06 11:30 UTC
+  end: 2016-04-06 12:30 UTC
+  description: |
+      Stockholm, SE
+      OpenStack meetup
+      http://www.meetup.com/OpenStack-User-Group-Sweden/events/229636527/
+
+- title: OpenStack Cloud Federation - Charles Derrick
+  location: Richardson, TX
+  speaker: OpenStack DFW
+  start: 2016-04-06 19:00 UTC
+  end: 2016-04-06 20:00 UTC
+  description: |
+      Richardson, TX, US
+      OpenStack Cloud Federation - Charles Derrick
+      http://www.meetup.com/OpenStack-DFW/events/229817681/
+
+- title: OpenStack Application Catalog 2016
+  location: Amersfoort, NL
+  speaker: OpenStack Netherlands
+  start: 2016-04-07 09:00 UTC
+  end: 2016-04-07 10:00 UTC
+  description: |
+      Amersfoort, NL
+      OpenStack Application Catalog 2016
+      http://www.meetup.com/Openstack-Netherlands/events/226986955/
+
+- title: Raleigh Building Agile Clouds with Openstack - Hands-on Lab Night
+  location: Raleigh, NC
+  speaker: Raleigh Building Agile Clouds with OpenStack
+  start: 2016-04-07 18:15 UTC
+  end: 2016-04-07 19:15 UTC
+  description: |
+      Raleigh, NC, US
+      Raleigh Building Agile Clouds with Openstack - Hands-on Lab Night
+      http://www.meetup.com/Raleigh-Triange-Building-Agile-Clouds-with-OpenStack/events/229334888/
+
+- title: SFBay OpenStack Meetup Topic Intro to Trove & Horizon Plugins
+  location: San Francisco, CA
+  speaker: SFBay OpenStack
+  start: 2016-04-07 21:30 UTC
+  end: 2016-04-07 22:30 UTC
+  description: |
+      San Francisco, CA, US
+      SFBay OpenStack Meetup Topic Intro to Trove & Horizon Plugins
+      http://www.meetup.com/openstack/events/224950342/
+
+- title: OpenStack / RDO Q&A with Perry Myers
+  location: Morgantown, WV
+  speaker: Morgantown Linux User Group
+  start: 2016-04-07 19:00 UTC
+  end: 2016-04-07 20:00 UTC
+  description: |
+      Morgantown, WV, US
+      OpenStack / RDO Q&A with Perry Myers
+      http://www.meetup.com/Morgantown-Linux-User-Group/events/227482742/
+
+- title: 奔跑吧，OpenStack! ——UnitedStack与您⾯对⾯·北京站·DevOps专场
+  location: Beijing, CN
+  speaker: China OpenStack User Group
+  start: 2016-04-10 02:00 UTC
+  end: 2016-04-10 03:00 UTC
+  description: |
+      Beijing, CN
+      奔跑吧，OpenStack! ——UnitedStack与您⾯对⾯·北京站·DevOps专场
+      http://www.meetup.com/China-OpenStack-User-Group/events/229928968/
 
