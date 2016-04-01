@@ -184,3 +184,12 @@ talks:
       奔跑吧，OpenStack! ——UnitedStack与您⾯对⾯·北京站·DevOps专场
       http://www.meetup.com/China-OpenStack-User-Group/events/229928968/
 
+- title: Looking at deploying HA clouds
+  location: Manchester, UK
+  speaker: Manchester OpenStack Meetup
+  start: 2016-04-13 18:30 UTC
+  end: 2016-04-13 21:00 UTC
+  description: |
+      Manchester, UK
+      Looking at deploying HA clouds
+      http://www.meetup.com/Manchester-OpenStack-Meetup/events/229510407/
