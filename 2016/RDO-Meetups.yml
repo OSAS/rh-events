@@ -4,213 +4,294 @@ tags: RDO
 
 talks:
 
-- title: The State of OpenStack Trove
-  location: Chicago, IL
-  speaker: The Chicago Cloud Computing Meetup Group
-  start: 2016-04-12 18:30 UTC
-  end: 2016-04-12 19:30 UTC
-  description: |
-      Chicago, IL, US
-      The State of OpenStack Trove
-      http://www.meetup.com/The-Chicago-Cloud-Computing-Meetup-Group/events/228372604/
 
-- title: Talk about running OpenStack Clouds with Workday
-  location: San Jose, CA
-  speaker: Silicon Valley OpenStack Ops Meetup
-  start: 2016-04-12 21:00 UTC
-  end: 2016-04-12 22:00 UTC
-  description: |
-      San Jose, CA, US
-      Talk about running OpenStack Clouds with Workday
-      http://www.meetup.com/Silicon-Valley-OpenStack-Ops-Meetup/events/229849885/
-
-- title: OpenStack meetup - We are going to the Summit in Austin 2016
-  location: Stockholm, SE
-  speaker: OpenStack User Group Sweden
-  start: 2016-04-13 02:45 UTC
-  end: 2016-04-13 03:45 UTC
-  description: |
-      Stockholm, SE
-      OpenStack meetup - We are going to the Summit in Austin 2016
-      http://www.meetup.com/OpenStack-User-Group-Sweden/events/229782927/
-
-- title: OpenStack Toronto Update on Red Hat's OpenStack Platform 8
-  location: Toronto, ON
-  speaker: OpenStack Toronto
-  start: 2016-04-13 17:30 UTC
-  end: 2016-04-13 18:30 UTC
-  description: |
-      Toronto, ON, CA
-      OpenStack Toronto Update on Red Hat's OpenStack Platform 8
-      http://www.meetup.com/OpenStackTO/events/228783769/
-
-- title: Red Hat OpenStack Platform
-  location: Toronto, ON
-  speaker: Toronto Red Hat Users Group Meetup
-  start: 2016-04-13 17:30 UTC
-  end: 2016-04-13 18:30 UTC
-  description: |
-      Toronto, ON, CA
-      Red Hat OpenStack Platform
-      http://www.meetup.com/Toronto-Red-Hat-Users-Group-Meetup/events/229487674/
-
-- title: Storage in OpenStack
-  location: Pleasanton, CA
-  speaker: EastBay OpenStack
-  start: 2016-04-13 21:00 UTC
-  end: 2016-04-13 22:00 UTC
-  description: |
-      Pleasanton, CA, US
-      Storage in OpenStack
-      http://www.meetup.com/EastBay-OpenStack/events/230125264/
-
-- title: OpenStack Munich - Cloud Resilience & Experiences with OpenStack
-  location: München, DE
-  speaker: OpenStack Munich
-  start: 2016-04-13 12:30 UTC
-  end: 2016-04-13 13:30 UTC
-  description: |
-      München, DE
-      OpenStack Munich - Cloud Resilience & Experiences with OpenStack
-      http://www.meetup.com/OpenStack-Munich/events/230123145/
-
-- title: 日本OpenStackユーザ会 第26回勉強会
-  location: Tokyo, JP
-  speaker: Japan OpenStack User Group
-  start: 2016-04-13 05:30 UTC
-  end: 2016-04-13 06:30 UTC
-  description: |
-      Tokyo, JP
-      日本OpenStackユーザ会 第26回勉強会
-      http://www.meetup.com/Japan-OpenStack-User-Group/events/229956664/
-
-- title: OpenStackFin Group meetup
-  location: Helsinki, FI
-  speaker: OpenStack Finland User Group
-  start: 2016-04-14 09:00 UTC
-  end: 2016-04-14 10:00 UTC
-  description: |
-      Helsinki, FI
-      OpenStackFin Group meetup
-      http://www.meetup.com/OpenStack-Finland-User-Group/events/228942826/
-
-- title: TripleO, Ironic, Heat, Ansible...  HERE WE GO
-  location: Chicago, IL
-  speaker: Chicago-land OpenStack Group
-  start: 2016-04-14 19:00 UTC
-  end: 2016-04-14 20:00 UTC
-  description: |
-      Chicago, IL, US
-      TripleO, Ironic, Heat, Ansible...  HERE WE GO
-      http://www.meetup.com/meetup-group-NjZdcegA/events/229669415/
-
-- title: OpenStack - Introduction to Project Barbican - Sponsored by Talligent
-  location: San Antonio, TX
-  speaker: SA OpenStackers San Antonio Texas
-  start: 2016-04-14 19:15 UTC
-  end: 2016-04-14 20:15 UTC
-  description: |
-      San Antonio, TX, US
-      OpenStack - Introduction to Project Barbican - Sponsored by Talligent
-      http://www.meetup.com/SA-Open-Stackers/events/229434066/
-
-- title: SF Bay OpenStack Meetup Advanced Topic OpenStack Keystone
-  location: San Francisco, CA
-  speaker: SFBay OpenStack
-  start: 2016-04-14 22:00 UTC
-  end: 2016-04-14 23:00 UTC
-  description: |
-      San Francisco, CA, US
-      SF Bay OpenStack Meetup Advanced Topic OpenStack Keystone
-      http://www.meetup.com/openstack/events/229450770/
-
-- title: OpenStack & Mesos Meetup in Apr.2016
-  location: Xian, CN
-  speaker: Xian OpenStack Meetup
-  start: 2016-04-16 02:30 UTC
-  end: 2016-04-16 03:30 UTC
-  description: |
-      Xian, CN
-      OpenStack & Mesos Meetup in Apr.2016
-      http://www.meetup.com/Xian-OpenStack-Meetup/events/230192546/
-
-- title: Because not all clouds are Virtual, let's talk about Ironic
-  location: Guadalajara, MX
-  speaker: OpenStack GDL
-  start: 2016-04-18 20:00 UTC
-  end: 2016-04-18 21:00 UTC
-  description: |
-      Guadalajara, MX
-      Because not all clouds are Virtual, let's talk about Ironic
-      http://www.meetup.com/OpenStack-GDL/events/229404015/
-
-- title: OpenStack, Ansible, Installations, Data protection & backups (#30)
+- title: Online Meetup CSCC Highlights of OpenStack Mitaka and the OpenStack Summit
   location: Washington, DC
-  speaker: OpenStack DC
-  start: 2016-04-20 18:30 UTC
-  end: 2016-04-20 19:30 UTC
+  speaker: Washington DC Cloud Computing Meetup
+  start: 2016-05-05 11:00 UTC
+  end: 2016-05-05 12:00 UTC
   description: |
       Washington, DC, US
-      OpenStack, Ansible, Installations, Data protection & backups (#30)
-      http://www.meetup.com/OpenStackDC/events/228677236/
+      Online Meetup CSCC Highlights of OpenStack Mitaka and the OpenStack Summit
+      http://www.meetup.com/Washington-Cloud-Computing-Meetup/events/230866661/
 
-- title: OpenStack 2016 April
-  location: Budapest, HU
-  speaker: OpenStack Hungary Meetup Group
-  start: 2016-04-20 12:30 UTC
-  end: 2016-04-20 13:30 UTC
+- title: Monthly SFOUG Meeting
+  location: Fort Lauderdale, FL
+  speaker: South Florida OpenStack Users Group
+  start: 2016-05-05 17:15 UTC
+  end: 2016-05-05 18:15 UTC
   description: |
-      Budapest, HU
-      OpenStack 2016 April
-      http://www.meetup.com/OpenStack-Hungary-Meetup-Group/events/229664589/
+      Fort Lauderdale, FL, US
+      Monthly SFOUG Meeting
+      http://www.meetup.com/South-Florida-OpenStack-Users-Group/events/229798395/
 
-- title: Первый OpenStack Meetup в Казани
-  location: Kazan, RU
-  speaker: OpenStack Russia Kazan
-  start: 2016-04-21 06:00 UTC
-  end: 2016-04-21 07:00 UTC
-  description: |
-      Kazan, RU
-      Первый OpenStack Meetup в Казани
-      http://www.meetup.com/OpenStack-Russia-Kazan/events/225176497/
-
-- title: Cloudforms
-  location: Houten, NL
-  speaker: CRI Kennissessies
-  start: 2016-04-21 11:30 UTC
-  end: 2016-04-21 12:30 UTC
-  description: |
-      Houten, NL
-      Cloudforms
-      http://www.meetup.com/CRI-Service-Kennissessies/events/227605806/
-
-- title: What Do you Need To Know About Mitaka, The Newest Release Of OpenStack?
-  location: Philadelphia, PA
-  speaker: OpenStack Philly
-  start: 2016-04-21 18:00 UTC
-  end: 2016-04-21 19:00 UTC
-  description: |
-      Philadelphia, PA, US
-      What Do you Need To Know About Mitaka, The Newest Release Of OpenStack?
-      http://www.meetup.com/Philly-OpenStack-Meetup-Group/events/229850524/
-
-- title: Openstack Pakstan Meetup @ Lahore
-  location: Islamabad, PK
-  speaker: Openstack Pakistan
-  start: 2016-04-22 08:00 UTC
-  end: 2016-04-22 09:00 UTC
-  description: |
-      Islamabad, PK
-      Openstack Pakstan Meetup @ Lahore
-      http://www.meetup.com/Openstack-Pakistan/events/229812824/
-
-- title: OpenStack Summit - Austin, TX
+- title: Beyond the Summit
   location: Houston, TX
   speaker: OpenStack Houston Meetup
-  start: 2016-04-25 09:00 UTC
-  end: 2016-04-25 10:00 UTC
+  start: 2016-05-05 19:00 UTC
+  end: 2016-05-05 20:00 UTC
   description: |
       Houston, TX, US
-      OpenStack Summit - Austin, TX
-      http://www.meetup.com/openstackhoustonmeetup/events/228291316/
+      Beyond the Summit
+      http://www.meetup.com/openstackhoustonmeetup/events/230748926/
+
+- title: VietOpenStack 9th meetup
+  location: Ha Noi, VN
+  speaker: Vietnam OpenStack Official User Group
+  start: 2016-05-06 21:30 UTC
+  end: 2016-05-06 22:30 UTC
+  description: |
+      Ha Noi, VN
+      VietOpenStack 9th meetup
+      http://www.meetup.com/VietOpenStack/events/230654369/
+
+- title: Advanced Hadoop 2.x / Spark / R Practicals
+  location: Hyderabad, IN
+  speaker: OpenStack Hyderabad
+  start: 2016-05-07 10:00 UTC
+  end: 2016-05-07 11:00 UTC
+  description: |
+      Hyderabad, IN
+      Advanced Hadoop 2.x / Spark / R Practicals
+      http://www.meetup.com/OpenStack-Hyderabad/events/230865368/
+
+- title: OpenStack
+  location: Grand Rapids, MI
+  speaker: DevOps West Michigan
+  start: 2016-05-09 18:00 UTC
+  end: 2016-05-09 19:00 UTC
+  description: |
+      Grand Rapids, MI, US
+      OpenStack
+      http://www.meetup.com/DevOps-West-Michigan/events/228714293/
+
+- title: Python and OpenStack (open source cloud computing)
+  location: Tucson, AZ
+  speaker: Tucson Python Meetup
+  start: 2016-05-10 21:00 UTC
+  end: 2016-05-10 22:00 UTC
+  description: |
+      Tucson, AZ, US
+      Python and OpenStack (open source cloud computing)
+      http://www.meetup.com/Tucson-Python-Meetup/events/230771334/
+
+- title: Simplifying the network stack with Romana
+  location: Wellington, NZ
+  speaker: New Zealand OpenStack User Group
+  start: 2016-05-11 01:30 UTC
+  end: 2016-05-11 02:30 UTC
+  description: |
+      Wellington, NZ
+      Simplifying the network stack with Romana
+      http://www.meetup.com/New-Zealand-OpenStack-User-Group/events/230804644/
+
+- title: OpenStack Austin Summit Recap Lightning Talks
+  location: New York, NY
+  speaker: OpenStack New York
+  start: 2016-05-11 18:00 UTC
+  end: 2016-05-11 19:00 UTC
+  description: |
+      New York, NY, US
+      OpenStack Austin Summit Recap Lightning Talks
+      http://www.meetup.com/OpenStack-New-York-Meetup/events/230845505/
+
+- title: Monthly User Group Meeting Intro to OpenStack
+  location: New York, NY
+  speaker: NYRHUG - New York Red Hat Users Group
+  start: 2016-05-11 18:00 UTC
+  end: 2016-05-11 19:00 UTC
+  description: |
+      New York, NY, US
+      Monthly User Group Meeting Intro to OpenStack
+      http://www.meetup.com/NYRHUG-New-York-Red-Hat-Users-Group/events/230693113/
+
+- title: Post Austin Summit Meetup
+  location: London, 17
+  speaker: London OpenStack Meetup
+  start: 2016-05-11 13:30 UTC
+  end: 2016-05-11 14:30 UTC
+  description: |
+      London, 17, GB
+      Post Austin Summit Meetup
+      http://www.meetup.com/Openstack-London/events/230841223/
+
+- title: Meetup#20 Présentation de la version Mitaka, retours d'Austin
+  location: Paris, FR
+  speaker: OpenStackFR Paris
+  start: 2016-05-11 12:45 UTC
+  end: 2016-05-11 13:45 UTC
+  description: |
+      Paris, FR
+      Meetup#20 Présentation de la version Mitaka, retours d'Austin
+      http://www.meetup.com/OpenStack-France/events/230220825/
+
+- title: Learn about Keycloak and a Lenovo/Nutanix/Red Hat answer to OpenStack deployment
+  location: Atlanta, GA
+  speaker: Atlanta Red Hat User Group
+  start: 2016-05-12 16:00 UTC
+  end: 2016-05-12 17:00 UTC
+  description: |
+      Atlanta, GA, US
+      Learn about Keycloak and a Lenovo/Nutanix/Red Hat answer to OpenStack deployment
+      http://www.meetup.com/Atlanta-Red-Hat-User-Group/events/230663871/
+
+- title: Learn about Keycloak and a Lenovo/Nutanix/Red Hat answer to OpenStack deployment
+  location: Atlanta, GA
+  speaker: ATL-JBUG
+  start: 2016-05-12 16:00 UTC
+  end: 2016-05-12 17:00 UTC
+  description: |
+      Atlanta, GA, US
+      Learn about Keycloak and a Lenovo/Nutanix/Red Hat answer to OpenStack deployment
+      http://www.meetup.com/ATL-JBUG/events/230664811/
+
+- title: OpenStack Appliances for Cloud Native Apps
+  location: San Francisco, CA
+  speaker: San Francisco SDN Group
+  start: 2016-05-12 20:00 UTC
+  end: 2016-05-12 21:00 UTC
+  description: |
+      San Francisco, CA, US
+      OpenStack Appliances for Cloud Native Apps
+      http://www.meetup.com/San-Francisco-SDN-Group/events/229946599/
+
+- title: Advanced Network Services in OpenStack Load-Balancing as a Service (LBaaS)
+  location: Pleasanton, CA
+  speaker: EastBay OpenStack
+  start: 2016-05-12 21:00 UTC
+  end: 2016-05-12 22:00 UTC
+  description: |
+      Pleasanton, CA, US
+      Advanced Network Services in OpenStack Load-Balancing as a Service (LBaaS)
+      http://www.meetup.com/EastBay-OpenStack/events/230482401/
+
+- title: What Happened At The OpenStack Summit In Austin?
+  location: Philadelphia, PA
+  speaker: OpenStack Philly
+  start: 2016-05-12 18:00 UTC
+  end: 2016-05-12 19:00 UTC
+  description: |
+      Philadelphia, PA, US
+      What Happened At The OpenStack Summit In Austin?
+      http://www.meetup.com/Philly-OpenStack-Meetup-Group/events/229850598/
+
+- title: Gossip from Austin Summit & OpenStack Australia Day
+  location: Sydney, AU
+  speaker: Australian OpenStack User Group
+  start: 2016-05-12 04:00 UTC
+  end: 2016-05-12 05:00 UTC
+  description: |
+      Sydney, AU
+      Gossip from Austin Summit & OpenStack Australia Day
+      http://www.meetup.com/Australian-OpenStack-User-Group/events/230217761/
+
+- title: OpenStack - Making your first code contribution - Sponsored by Canonical
+  location: San Antonio, TX
+  speaker: SA OpenStackers San Antonio Texas
+  start: 2016-05-12 19:15 UTC
+  end: 2016-05-12 20:15 UTC
+  description: |
+      San Antonio, TX, US
+      OpenStack - Making your first code contribution - Sponsored by Canonical
+      http://www.meetup.com/SA-Open-Stackers/events/230819513/
+
+- title: SF Bay OpenStack Meetup Topic Working with Windows Images in OpenStack
+  location: San Francisco, CA
+  speaker: SFBay OpenStack
+  start: 2016-05-12 22:00 UTC
+  end: 2016-05-12 23:00 UTC
+  description: |
+      San Francisco, CA, US
+      SF Bay OpenStack Meetup Topic Working with Windows Images in OpenStack
+      http://www.meetup.com/openstack/events/226288504/
+
+- title: Want to Loud in puppet,R10k and Private Git to shape your career ?
+  location: Tambaram, IN
+  speaker: CloudnLoud - Openstack,PrivateCloud,Red Hat,Opensource
+  start: 2016-05-15 00:30 UTC
+  end: 2016-05-15 01:30 UTC
+  description: |
+      Tambaram, IN
+      Want to Loud in puppet,R10k and Private Git to shape your career ?
+      http://www.meetup.com/CloudnLoud-Openstack-Cloud-RedHat-Opensource/events/229537252/
+
+- title: Deploying my first OpenStack app
+  location: Guadalajara, MX
+  speaker: OpenStack GDL
+  start: 2016-05-16 20:00 UTC
+  end: 2016-05-16 21:00 UTC
+  description: |
+      Guadalajara, MX
+      Deploying my first OpenStack app
+      http://www.meetup.com/OpenStack-GDL/events/229034031/
+
+- title: Is the fox in the hen house? Using vSphere for your hypervisor in OpenStack
+  location: Seattle, WA
+  speaker: OpenStack Seattle
+  start: 2016-05-17 21:00 UTC
+  end: 2016-05-17 22:00 UTC
+  description: |
+      Seattle, WA, US
+      Is the fox in the hen house? Using vSphere for your hypervisor in OpenStack
+      http://www.meetup.com/OpenStack-Seattle/events/230021120/
+
+- title: Kickoff OpenStack Dresden/Leipzig
+  location: Dresden, DE
+  speaker: OpenStack Dresden/Leipzig
+  start: 2016-05-17 12:00 UTC
+  end: 2016-05-17 13:00 UTC
+  description: |
+      Dresden, DE
+      Kickoff OpenStack Dresden/Leipzig
+      http://www.meetup.com/OpenStack-Dresden-Leipzig/events/230541629/
+
+- title: Google and Intel speak on NFV and SFC service delivery
+  location: San Francisco, CA
+  speaker: SFBay OpenStack
+  start: 2016-05-17 21:30 UTC
+  end: 2016-05-17 22:30 UTC
+  description: |
+      San Francisco, CA, US
+      Google and Intel speak on NFV and SFC service delivery
+      http://www.meetup.com/openstack/events/230849380/
+
+- title: OpenDaylight installathon
+  location: London, 17
+  speaker: London SDN & OpenDaylight User Group
+  start: 2016-05-17 13:30 UTC
+  end: 2016-05-17 14:30 UTC
+  description: |
+      London, 17, GB
+      OpenDaylight installathon
+      http://www.meetup.com/London-SDN-ODLUG/events/230877970/
+
+- title: OpenStack - opensource framework pro celou firemní infrastrukturu
+  location: Prague, CZ
+  speaker: Morning Talks
+  start: 2016-05-18 03:00 UTC
+  end: 2016-05-18 04:00 UTC
+  description: |
+      Prague, CZ
+      OpenStack - opensource framework pro celou firemní infrastrukturu
+      http://www.meetup.com/Morning-Talks/events/230369043/
+
+- title: Application Modeling, Containers, OpenStack, Sahara and Big Data (#31)
+  location: Washington, DC
+  speaker: OpenStack DC
+  start: 2016-05-18 18:30 UTC
+  end: 2016-05-18 19:30 UTC
+  description: |
+      Washington, DC, US
+      Application Modeling, Containers, OpenStack, Sahara and Big Data (#31)
+      http://www.meetup.com/OpenStackDC/events/229742221/
+
+- title: OpenStack Summit Austin - Summary from the developers
+  location: Manchester, 18
+  speaker: Manchester OpenStack Meetup
+  start: 2016-05-18 13:30 UTC
+  end: 2016-05-18 14:30 UTC
+  description: |
+      Manchester, 18, GB
+      OpenStack Summit Austin - Summary from the developers
+      http://www.meetup.com/Manchester-OpenStack-Meetup/events/230857226/
 
