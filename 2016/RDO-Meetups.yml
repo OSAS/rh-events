@@ -193,4 +193,14 @@ talks:
       Bangalore, IN
       OpenStack India Meetup - Bangalore
       http://www.meetup.com/Indian-OpenStack-User-Group/events/229035796/
-
+      
+      
+- title: OpenStack London Meetup - London City
+  location: London UK
+  speaker: Indian OpenStack User Group
+  start: 2016-05-11 18:30 UTC
+  end: 2016-05-11 21:30 UTC
+  description: |
+      Hosted by Fujitsu in London, this is the Post Austin Summit Meetup
+      we will be getting together for another catchup until the next Summit in 6 Months.
+      http://www.meetup.com/Openstack-London/events/230841223/
