@@ -106,12 +106,12 @@ talks:
       http://www.meetup.com/NYRHUG-New-York-Red-Hat-Users-Group/events/230693113/
 
 - title: Post Austin Summit Meetup
-  location: London, 17
+  location: London, UK
   speaker: London OpenStack Meetup
   start: 2016-05-11 13:30 UTC
   end: 2016-05-11 14:30 UTC
   description: |
-      London, 17, GB
+      22 Baker St, W1U 3BW
       Post Austin Summit Meetup
       http://www.meetup.com/Openstack-London/events/230841223/
 
@@ -294,4 +294,3 @@ talks:
       Manchester, 18, GB
       OpenStack Summit Austin - Summary from the developers
       http://www.meetup.com/Manchester-OpenStack-Meetup/events/230857226/
-
