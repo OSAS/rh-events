@@ -4,27 +4,12 @@ tags: RDO
 
 talks:
 
-- title: Mitaka 3, RC Test Day
+- title: Newton Milestone 1 Test Day
   location: rdo channel on Freenode
   speaker: RDO
-  start: 2016-03-10 00:01 UTC
-  end: 2016-03-11 23:59 UTC
+  start: 2016-06-09 00:01 UTC
+  end: 2016-06-10 23:59 UTC
   description: |
-      Come help make RDO better by testing the Mitaka Milestone 3
-      packages. Details at https://www.rdoproject.org/testday/mitaka/milestone3
-
-- title: Mitaka 3 on-site test day in Brno
-  location: Red Hat office, Brno
-  start: 2016-03-10 09:00 CET
-  end: 2016-03-11 16:40 CET
-  description: |
-    If you're in the Brno area, please consider attending our on-site
-    test day at the Brno Red Hat office. Details are at
-    https://www.rdoproject.org/testday/mitaka/brno-on-site/
-
-- title: Mitaka GA Test Day
-  location: rdo channel on Freenode
-  speaker: RDO
-  start: 2016-04-13 00:01 UTC
-  end: 2016-04-14 23:59 UTC
+      Come help make RDO better by testing the Newton Milestone 1
+      packages. Details at https://www.rdoproject.org/testday/newton/milestone1
 
