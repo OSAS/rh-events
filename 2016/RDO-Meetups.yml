@@ -4,125 +4,6 @@ tags: RDO
 
 talks:
 
-- title: Discutons OpenStack et containers
-  location: Paris, FR
-  speaker: Meetup SUSE Linux Paris
-  start: 2016-06-06 13:00 UTC
-  end: 2016-06-06 14:00 UTC
-  description: |
-      Paris, FR
-      Discutons OpenStack et containers
-      http://www.meetup.com/Meetup-SUSE-Linux-Paris/events/231095109/
-
-- title: June Sydney Meetup - SDN 101 and Gnocchi
-  location: Sydney, AU
-  speaker: Australian OpenStack User Group
-  start: 2016-06-07 04:00 UTC
-  end: 2016-06-07 05:00 UTC
-  description: |
-      Sydney, AU
-      June Sydney Meetup - SDN 101 and Gnocchi
-      http://www.meetup.com/Australian-OpenStack-User-Group/events/229602105/
-
-- title: Come and talk about Openstack Project Romana  and Datera Storage
-  location: San Jose, CA
-  speaker: Silicon Valley OpenStack Ops Meetup
-  start: 2016-06-07 21:00 UTC
-  end: 2016-06-07 22:00 UTC
-  description: |
-      San Jose, CA, US
-      Come and talk about Openstack Project Romana  and Datera Storage
-      http://www.meetup.com/Silicon-Valley-OpenStack-Ops-Meetup/events/231210364/
-
-- title: Heat usage
-  location: Fort Collins, CO
-  speaker: Colorado OpenStack
-  start: 2016-06-07 20:30 UTC
-  end: 2016-06-07 21:30 UTC
-  description: |
-      Fort Collins, CO, US
-      Heat usage
-      http://www.meetup.com/OpenStack-Colorado/events/231434361/
-
-- title: OpenStack Day Prague
-  location: Prague, CZ
-  speaker: OpenStack Czech User Group Meetup
-  start: 2016-06-08 03:00 UTC
-  end: 2016-06-08 04:00 UTC
-  description: |
-      Prague, CZ
-      OpenStack Day Prague
-      http://www.meetup.com/OpenStack-Czech-User-Group-Meetup/events/228029462/
-
-- title: OpenStack & Cisco UCS
-  location: Houston, TX
-  speaker: Houston Cisco UCS Meetup
-  start: 2016-06-08 12:00 UTC
-  end: 2016-06-08 13:00 UTC
-  description: |
-      Houston, TX, US
-      OpenStack & Cisco UCS
-      http://www.meetup.com/Houston-Cisco-UCS-Meetup/events/230853127/
-
-- title: Passing the Certified OpenStack Administrator Test Part 1 OpenStack Overview
-  location: San Antonio, TX
-  speaker: SA OpenStackers San Antonio Texas
-  start: 2016-06-09 19:15 UTC
-  end: 2016-06-09 20:15 UTC
-  description: |
-      San Antonio, TX, US
-      Passing the Certified OpenStack Administrator Test Part 1 OpenStack Overview
-      http://www.meetup.com/SA-Open-Stackers/events/231626701/
-
-- title: SF Bay OpenStack Meetup Data-Driven, Cost-Based OpenStack Capacity Management
-  location: San Francisco, CA
-  speaker: SFBay OpenStack
-  start: 2016-06-09 21:30 UTC
-  end: 2016-06-09 22:30 UTC
-  description: |
-      San Francisco, CA, US
-      SF Bay OpenStack Meetup Data-Driven, Cost-Based OpenStack Capacity Management
-      http://www.meetup.com/openstack/events/231297777/
-
-- title: OpenStack LAMP & Load Balancing as a Service
-  location: San Diego, CA
-  speaker: San Diego Cloud Computing Meetup
-  start: 2016-06-09 22:00 UTC
-  end: 2016-06-09 23:00 UTC
-  description: |
-      San Diego, CA, US
-      OpenStack LAMP & Load Balancing as a Service
-      http://www.meetup.com/San-Diego-Cloud-Computing-Meetup/events/231422642/
-
-- title: El 13 no es mala suerte
-  location: Montevideo, UY
-  speaker: OpenStack Uruguay
-  start: 2016-06-09 18:30 UTC
-  end: 2016-06-09 19:30 UTC
-  description: |
-      Montevideo, UY
-      El 13 no es mala suerte
-      http://www.meetup.com/OpenStack-Uruguay/events/231426806/
-
-- title: OpenStack Ireland Day - June 10th 2016
-  location: Dublin, IE
-  speaker: OpenStack Ireland
-  start: 2016-06-10 03:00 UTC
-  end: 2016-06-10 04:00 UTC
-  description: |
-      Dublin, IE
-      OpenStack Ireland Day - June 10th 2016
-      http://www.meetup.com/OpenStack-Ireland/events/229221735/
-
-- title: Arista, Neutron, and Docker Oh My! Did I mention Docker!?
-  location: Houston, TX
-  speaker: OpenStack Houston Meetup
-  start: 2016-06-10 19:00 UTC
-  end: 2016-06-10 20:00 UTC
-  description: |
-      Houston, TX, US
-      Arista, Neutron, and Docker Oh My! Did I mention Docker!?
-      http://www.meetup.com/openstackhoustonmeetup/events/231594293/
 
 - title: Learn How Datera's Elastic Data Fabric Can Accelerate OpenStack and Containers
   location: Seattle, WA
@@ -164,15 +45,15 @@ talks:
       OpenStack Workshop Lyon 2016
       http://www.meetup.com/OpenStack-Rhone-Alpes/events/231387171/
 
-- title: Deploying Commodity Cloud with SUSE OpenStack Demos
-  location: New York, NY
-  speaker: Internet Architecture & Engineering Meetup
-  start: 2016-06-15 18:00 UTC
-  end: 2016-06-15 19:00 UTC
+- title: Openstack Meetup powered by Windcloud
+  location: Hamburg, DE
+  speaker: Openstack Hamburg
+  start: 2016-06-15 12:30 UTC
+  end: 2016-06-15 13:30 UTC
   description: |
-      New York, NY, US
-      Deploying Commodity Cloud with SUSE OpenStack Demos
-      http://www.meetup.com/Internet-Architecture-Engineering-Meetup/events/231226299/
+      Hamburg, DE
+      Openstack Meetup powered by Windcloud
+      http://www.meetup.com/Openstack-Hamburg/events/231713712/
 
 - title: Private PaaS + Kubernetes + OpenStack!
   location: Philadelphia, PA
@@ -214,6 +95,16 @@ talks:
       OpenStack Meetup (Topic TBD)
       http://www.meetup.com/openstack-atlanta/events/230239816/
 
+- title: El 13 no es mala suerte
+  location: Montevideo, UY
+  speaker: OpenStack Uruguay
+  start: 2016-06-16 18:30 UTC
+  end: 2016-06-16 19:30 UTC
+  description: |
+      Montevideo, UY
+      El 13 no es mala suerte
+      http://www.meetup.com/OpenStack-Uruguay/events/231426806/
+
 - title: OpenStack Meetup
   location: Lagos, NG
   speaker: OpenStack User Group Nigeria
@@ -233,4 +124,74 @@ talks:
       Tambaram, IN
       Want to Loud in Linux to shape your career ?
       http://www.meetup.com/CloudnLoud-Openstack-Cloud-RedHat-Opensource/events/231588247/
+
+- title: June OpenStack Meetup - Flexible, simple deployments with OpenStack-Ansible
+  location: Austin, TX
+  speaker: OpenStack Austin Texas
+  start: 2016-06-20 19:15 UTC
+  end: 2016-06-20 20:15 UTC
+  description: |
+      Austin, TX, US
+      June OpenStack Meetup - Flexible, simple deployments with OpenStack-Ansible
+      http://www.meetup.com/OpenStack-Austin/events/231086464/
+
+- title: Container Clusters con Magnum
+  location: Guadalajara, MX
+  speaker: OpenStack GDL
+  start: 2016-06-20 20:00 UTC
+  end: 2016-06-20 21:00 UTC
+  description: |
+      Guadalajara, MX
+      Container Clusters con Magnum
+      http://www.meetup.com/OpenStack-GDL/events/230642160/
+
+- title: June Meetup Hands on with NetApp’s OpenStack Test Drive
+  location: Durham, NC
+  speaker: Triangle OpenStack Meetup
+  start: 2016-06-21 17:15 UTC
+  end: 2016-06-21 18:15 UTC
+  description: |
+      Durham, NC, US
+      June Meetup Hands on with NetApp’s OpenStack Test Drive
+      http://www.meetup.com/Triangle-OpenStack-Meetup/events/231774841/
+
+- title: Openstack & Ceph Amsterdam June Meetup
+  location: Amsterdam, NL
+  speaker: Openstack & Ceph User Group Amsterdam
+  start: 2016-06-22 11:30 UTC
+  end: 2016-06-22 12:30 UTC
+  description: |
+      Amsterdam, NL
+      Openstack & Ceph Amsterdam June Meetup
+      http://www.meetup.com/Openstack-Amsterdam/events/231343709/
+
+- title: Everything You Ever Wanted to Know About OpenStack at Scale
+  location: Herriman, UT
+  speaker: OpenStack Utah
+  start: 2016-06-23 21:00 UTC
+  end: 2016-06-23 22:00 UTC
+  description: |
+      Herriman, UT, US
+      Everything You Ever Wanted to Know About OpenStack at Scale
+      http://www.meetup.com/openstack-utah/events/231587481/
+
+- title: 日本OpenStackユーザ会 第28回勉強会
+  location: Tokyo, JP
+  speaker: Japan OpenStack User Group
+  start: 2016-06-23 06:00 UTC
+  end: 2016-06-23 07:00 UTC
+  description: |
+      Tokyo, JP
+      日本OpenStackユーザ会 第28回勉強会
+      http://www.meetup.com/Japan-OpenStack-User-Group/events/231484581/
+
+- title: Vietnam Official OpenStack Community 10th Common Meetup
+  location: Ha Noi, VN
+  speaker: Vietnam OpenStack Official User Group
+  start: 2016-06-24 21:00 UTC
+  end: 2016-06-24 22:00 UTC
+  description: |
+      Ha Noi, VN
+      Vietnam Official OpenStack Community 10th Common Meetup
+      http://www.meetup.com/VietOpenStack/events/231761232/
 
