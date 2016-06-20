@@ -5,126 +5,6 @@ tags: RDO
 talks:
 
 
-- title: Learn How Datera's Elastic Data Fabric Can Accelerate OpenStack and Containers
-  location: Seattle, WA
-  speaker: OpenStack Seattle
-  start: 2016-06-14 21:00 UTC
-  end: 2016-06-14 22:00 UTC
-  description: |
-      Seattle, WA, US
-      Learn How Datera's Elastic Data Fabric Can Accelerate OpenStack and Containers
-      http://www.meetup.com/OpenStack-Seattle/events/230928689/
-
-- title: SF Bay OpenStack Meetup Cloud Native Networks with Neutron IPAM
-  location: San Francisco, CA
-  speaker: SFBay OpenStack
-  start: 2016-06-14 21:30 UTC
-  end: 2016-06-14 22:30 UTC
-  description: |
-      San Francisco, CA, US
-      SF Bay OpenStack Meetup Cloud Native Networks with Neutron IPAM
-      http://www.meetup.com/openstack/events/231092447/
-
-- title: Network Virtualization in OpenStack
-  location: Baltimore, MD
-  speaker: Software Defined Networking Group - Baltimore/Washington
-  start: 2016-06-14 18:30 UTC
-  end: 2016-06-14 19:30 UTC
-  description: |
-      Baltimore, MD, US
-      Network Virtualization in OpenStack
-      http://www.meetup.com/Software-Defined-Networking-Group-Baltimore-Washington/events/231197887/
-
-- title: OpenStack Workshop Lyon 2016
-  location: Lyon, FR
-  speaker: OpenStack Rhône-Alpes
-  start: 2016-06-15 03:00 UTC
-  end: 2016-06-15 04:00 UTC
-  description: |
-      Lyon, FR
-      OpenStack Workshop Lyon 2016
-      http://www.meetup.com/OpenStack-Rhone-Alpes/events/231387171/
-
-- title: Openstack Meetup powered by Windcloud
-  location: Hamburg, DE
-  speaker: Openstack Hamburg
-  start: 2016-06-15 12:30 UTC
-  end: 2016-06-15 13:30 UTC
-  description: |
-      Hamburg, DE
-      Openstack Meetup powered by Windcloud
-      http://www.meetup.com/Openstack-Hamburg/events/231713712/
-
-- title: Private PaaS + Kubernetes + OpenStack!
-  location: Philadelphia, PA
-  speaker: OpenStack Philly
-  start: 2016-06-16 18:00 UTC
-  end: 2016-06-16 19:00 UTC
-  description: |
-      Philadelphia, PA, US
-      Private PaaS + Kubernetes + OpenStack!
-      http://www.meetup.com/Philly-OpenStack-Meetup-Group/events/231164733/
-
-- title: OpenStack PDX Meetup
-  location: Portland, OR
-  speaker: OpenStack PDX
-  start: 2016-06-16 21:00 UTC
-  end: 2016-06-16 22:00 UTC
-  description: |
-      Portland, OR, US
-      OpenStack PDX Meetup
-      http://www.meetup.com/openstack-pdx/events/230892180/
-
-- title: Exclusive Preview of the First Native Backup and Recovery Solution for OpenStack
-  location: Boston, MA
-  speaker: Openstack Boston
-  start: 2016-06-16 18:45 UTC
-  end: 2016-06-16 19:45 UTC
-  description: |
-      Boston, MA, US
-      Exclusive Preview of the First Native Backup and Recovery Solution for OpenStack
-      http://www.meetup.com/Openstack-Boston/events/231006550/
-
-- title: OpenStack Meetup (Topic TBD)
-  location: Atlanta, GA
-  speaker: Atlanta OpenStack Meetup Group
-  start: 2016-06-16 19:00 UTC
-  end: 2016-06-16 20:00 UTC
-  description: |
-      Atlanta, GA, US
-      OpenStack Meetup (Topic TBD)
-      http://www.meetup.com/openstack-atlanta/events/230239816/
-
-- title: El 13 no es mala suerte
-  location: Montevideo, UY
-  speaker: OpenStack Uruguay
-  start: 2016-06-16 18:30 UTC
-  end: 2016-06-16 19:30 UTC
-  description: |
-      Montevideo, UY
-      El 13 no es mala suerte
-      http://www.meetup.com/OpenStack-Uruguay/events/231426806/
-
-- title: OpenStack Meetup
-  location: Lagos, NG
-  speaker: OpenStack User Group Nigeria
-  start: 2016-06-17 11:15 UTC
-  end: 2016-06-17 12:15 UTC
-  description: |
-      Lagos, NG
-      OpenStack Meetup
-      http://www.meetup.com/OpenStack-User-Group-Nigeria/events/230988956/
-
-- title: Want to Loud in Linux to shape your career ?
-  location: Tambaram, IN
-  speaker: CloudnLoud - Openstack,PrivateCloud,Red Hat,Opensource
-  start: 2016-06-19 00:30 UTC
-  end: 2016-06-19 01:30 UTC
-  description: |
-      Tambaram, IN
-      Want to Loud in Linux to shape your career ?
-      http://www.meetup.com/CloudnLoud-Openstack-Cloud-RedHat-Opensource/events/231588247/
-
 - title: June OpenStack Meetup - Flexible, simple deployments with OpenStack-Ansible
   location: Austin, TX
   speaker: OpenStack Austin Texas
@@ -134,6 +14,16 @@ talks:
       Austin, TX, US
       June OpenStack Meetup - Flexible, simple deployments with OpenStack-Ansible
       http://www.meetup.com/OpenStack-Austin/events/231086464/
+
+- title: oVirt 4.0 beta test hour - install and play together with 4.0 beta
+  location: Boston, MA
+  speaker: Boston oVirt Community
+  start: 2016-06-20 18:30 UTC
+  end: 2016-06-20 19:30 UTC
+  description: |
+      Boston, MA, US
+      oVirt 4.0 beta test hour - install and play together with 4.0 beta
+      http://www.meetup.com/Boston-oVirt-Community/events/231743431/
 
 - title: Container Clusters con Magnum
   location: Guadalajara, MX
@@ -155,6 +45,26 @@ talks:
       June Meetup Hands on with NetApp’s OpenStack Test Drive
       http://www.meetup.com/Triangle-OpenStack-Meetup/events/231774841/
 
+- title: Primer to Cloud Computing
+  location: New York, NY
+  speaker: New York Enterprise Cloud MeetUp
+  start: 2016-06-21 18:30 UTC
+  end: 2016-06-21 19:30 UTC
+  description: |
+      New York, NY, US
+      Primer to Cloud Computing
+      http://www.meetup.com/New-York-Enterprise-Cloud-MeetUp/events/231274246/
+
+- title: Learn what's new in CloudForms 4!
+  location: Atlanta, GA
+  speaker: Atlanta Red Hat User Group
+  start: 2016-06-21 19:00 UTC
+  end: 2016-06-21 20:00 UTC
+  description: |
+      Atlanta, GA, US
+      Learn what's new in CloudForms 4!
+      http://www.meetup.com/Atlanta-Red-Hat-User-Group/events/231775296/
+
 - title: Openstack & Ceph Amsterdam June Meetup
   location: Amsterdam, NL
   speaker: Openstack & Ceph User Group Amsterdam
@@ -164,6 +74,26 @@ talks:
       Amsterdam, NL
       Openstack & Ceph Amsterdam June Meetup
       http://www.meetup.com/Openstack-Amsterdam/events/231343709/
+
+- title: Let's talk about Cloud Platforms
+  location: Karlsruhe, DE
+  speaker: inovex Meetup Karlsruhe
+  start: 2016-06-22 12:00 UTC
+  end: 2016-06-22 13:00 UTC
+  description: |
+      Karlsruhe, DE
+      Let's talk about Cloud Platforms
+      http://www.meetup.com/inovex-karlsruhe/events/231267514/
+
+- title: Squeezing Every Drop of Ink out of Ceph
+  location: Broomfield, CO
+  speaker: Colorado Ceph Meetup
+  start: 2016-06-22 20:30 UTC
+  end: 2016-06-22 21:30 UTC
+  description: |
+      Broomfield, CO, US
+      Squeezing Every Drop of Ink out of Ceph
+      http://www.meetup.com/Colorado-Ceph-Meetup/events/231175241/
 
 - title: Everything You Ever Wanted to Know About OpenStack at Scale
   location: Herriman, UT
@@ -194,4 +124,154 @@ talks:
       Ha Noi, VN
       Vietnam Official OpenStack Community 10th Common Meetup
       http://www.meetup.com/VietOpenStack/events/231761232/
+
+- title: Be Cloud Ready - Introduction to Cloud Computing
+  location: Bangalore, IN
+  speaker: Bangalore Cloud Computing Expert Group
+  start: 2016-06-25 00:30 UTC
+  end: 2016-06-25 01:30 UTC
+  description: |
+      Bangalore, IN
+      Be Cloud Ready - Introduction to Cloud Computing
+      http://www.meetup.com/Bangalore-Cloud-Computing-Expert-Group/events/230704712/
+
+- title: 6月25日 南京，OpenStack开源云计算Meetup
+  location: Nanjing, CN
+  speaker: Cloud Nanjing
+  start: 2016-06-25 02:00 UTC
+  end: 2016-06-25 03:00 UTC
+  description: |
+      Nanjing, CN
+      6月25日 南京，OpenStack开源云计算Meetup
+      http://www.meetup.com/Cloud-Nanjing/events/231928060/
+
+- title: NFVi and OpenStack Changing Telecommunications Infrastructure
+  location: San Francisco, CA
+  speaker: San Francisco/Silicon Valley OpenStack Meetup
+  start: 2016-06-28 21:00 UTC
+  end: 2016-06-28 22:00 UTC
+  description: |
+      San Francisco, CA, US
+      NFVi and OpenStack Changing Telecommunications Infrastructure
+      http://www.meetup.com/San-Francisco-Silicon-Valley-OpenStack-Meetup/events/230988279/
+
+- title: Let's get together and talk about secure Database as a Service with Oracle
+  location: San Jose, CA
+  speaker: Silicon Valley OpenStack Ops Meetup
+  start: 2016-06-28 21:00 UTC
+  end: 2016-06-28 22:00 UTC
+  description: |
+      San Jose, CA, US
+      Let's get together and talk about secure Database as a Service with Oracle
+      http://www.meetup.com/Silicon-Valley-OpenStack-Ops-Meetup/events/231874900/
+
+- title: Deploying Commodity Cloud with SUSE OpenStack Demos
+  location: New York, NY
+  speaker: Internet Architecture & Engineering Meetup
+  start: 2016-06-28 18:00 UTC
+  end: 2016-06-28 19:00 UTC
+  description: |
+      New York, NY, US
+      Deploying Commodity Cloud with SUSE OpenStack Demos
+      http://www.meetup.com/Internet-Architecture-Engineering-Meetup/events/231226299/
+
+- title: OpenStack Fundamentals Workshop & Austin Summit Recap
+  location: Köln, DE
+  speaker: OpenStack Cologne
+  start: 2016-06-29 04:30 UTC
+  end: 2016-06-29 05:30 UTC
+  description: |
+      Köln, DE
+      OpenStack Fundamentals Workshop & Austin Summit Recap
+      http://www.meetup.com/OpenStack-Cologne/events/231698377/
+
+- title: Red Hat Summit Keynote Live Streaming & Roof Terrace Party.
+  location: Oslo, NO
+  speaker: Red Hat User Group Oslo
+  start: 2016-06-29 10:00 UTC
+  end: 2016-06-29 11:00 UTC
+  description: |
+      Oslo, NO
+      Red Hat Summit Keynote Live Streaming & Roof Terrace Party.
+      http://www.meetup.com/RedHatOslo/events/231961637/
+
+- title: Containers and OpenStack
+  location: Palo Alto, CA
+  speaker: Containers 101 meetup
+  start: 2016-06-29 20:30 UTC
+  end: 2016-06-29 21:30 UTC
+  description: |
+      Palo Alto, CA, US
+      Containers and OpenStack
+      http://www.meetup.com/Containers-101-meetup/events/231950756/
+
+- title: How to configure Openstack Swift
+  location: Reston, VA
+  speaker: OpenStack Northern Virginia
+  start: 2016-06-29 18:00 UTC
+  end: 2016-06-29 19:00 UTC
+  description: |
+      Reston, VA, US
+      How to configure Openstack Swift
+      http://www.meetup.com/OpenStack-Nova/events/231919558/
+
+- title: 14º Hangout OpenStack Brasil
+  location: São Paulo, BR
+  speaker: Openstack Brasil
+  start: 2016-06-29 19:00 UTC
+  end: 2016-06-29 20:00 UTC
+  description: |
+      São Paulo, BR
+      14º Hangout OpenStack Brasil
+      http://www.meetup.com/Openstack-Brasil/events/232013709/
+
+- title: Building the Universal Cloud Network
+  location: Melville, NY
+  speaker: The Long Island Arista Networks Meetup
+  start: 2016-06-30 17:00 UTC
+  end: 2016-06-30 18:00 UTC
+  description: |
+      Melville, NY, US
+      Building the Universal Cloud Network
+      http://www.meetup.com/arista-li/events/231097080/
+
+- title: Building Agile Clouds - Docker basic Demo and Mantl container orchestration Lab
+  location: Raleigh, NC
+  speaker: Raleigh Building Agile Clouds with OpenStack
+  start: 2016-06-30 18:15 UTC
+  end: 2016-06-30 19:15 UTC
+  description: |
+      Raleigh, NC, US
+      Building Agile Clouds - Docker basic Demo and Mantl container orchestration Lab
+      http://www.meetup.com/Raleigh-Triange-Building-Agile-Clouds-with-OpenStack/events/230490863/
+
+- title: Discuss and Learn about OpenStack
+  location: Littleton, CO
+  speaker: OpenStack Denver
+  start: 2016-06-30 20:30 UTC
+  end: 2016-06-30 21:30 UTC
+  description: |
+      Littleton, CO, US
+      Discuss and Learn about OpenStack
+      http://www.meetup.com/OpenStack-Denver/events/231437719/
+
+- title: Containers on OpenStack
+  location: Sydney, AU
+  speaker: Australian OpenStack User Group
+  start: 2016-06-30 05:00 UTC
+  end: 2016-06-30 06:00 UTC
+  description: |
+      Sydney, AU
+      Containers on OpenStack
+      http://www.meetup.com/Australian-OpenStack-User-Group/events/229309513/
+
+- title: Project Atomic comment gérer ses conteneurs en toute tranquilité
+  location: Lyon, FR
+  speaker: Lyon Java User Group - LyonJUG
+  start: 2016-06-30 13:00 UTC
+  end: 2016-06-30 14:00 UTC
+  description: |
+      Lyon, FR
+      Project Atomic comment gérer ses conteneurs en toute tranquilité
+      http://www.meetup.com/Lyon-Java-User-Group-LyonJUG/events/231883177/
 
