@@ -4,145 +4,6 @@ tags: RDO
 
 talks:
 
-- title: OpenStack 6th Birthday Celebration cum OpenStackers Meetup
-  location: Hong Kong, HK
-  speaker: Hong Kong OpenStack User Group
-  start: 2016-07-12 03:30 UTC
-  end: 2016-07-12 04:30 UTC
-  description: |
-      Hong Kong, HK
-      OpenStack 6th Birthday Celebration cum OpenStackers Meetup
-      http://www.meetup.com/Hong-Kong-OpenStack-User-Group/events/232273354/
-
-- title: OpenStack 6th Anniversary/ OpenStack for VMware Technologists
-  location: New York, NY
-  speaker: OpenStack New York
-  start: 2016-07-13 18:00 UTC
-  end: 2016-07-13 19:00 UTC
-  description: |
-      New York, NY, US
-      OpenStack 6th Anniversary/ OpenStack for VMware Technologists
-      http://www.meetup.com/OpenStack-New-York-Meetup/events/231945897/
-
-- title: What is Cloud? A standard definition of Cloud Computing.
-  location: San Jose, CA
-  speaker: Cloud Computing Basics
-  start: 2016-07-13 21:00 UTC
-  end: 2016-07-13 22:00 UTC
-  description: |
-      San Jose, CA, US
-      What is Cloud? A standard definition of Cloud Computing.
-      http://www.meetup.com/Cloud-Computing-Basics/events/232180708/
-
-- title: OpenStack 6th Birthday
-  location: Athens, GR
-  speaker: Athens OpenStack User Group
-  start: 2016-07-13 12:00 UTC
-  end: 2016-07-13 13:00 UTC
-  description: |
-      Athens, GR
-      OpenStack 6th Birthday
-      http://www.meetup.com/Athens-OpenStack-User-Group/events/231933779/
-
-- title: OpenStack on Stacki
-  location: Austin, TX
-  speaker: Stacki Austin
-  start: 2016-07-13 20:00 UTC
-  end: 2016-07-13 21:00 UTC
-  description: |
-      Austin, TX, US
-      OpenStack on Stacki
-      http://www.meetup.com/Stacki-Austin/events/229053074/
-
-- title: Passing the Certified OpenStack Administrator Test Part 2 Dashboard and CLI
-  location: San Antonio, TX
-  speaker: SA OpenStackers San Antonio Texas
-  start: 2016-07-14 19:15 UTC
-  end: 2016-07-14 20:15 UTC
-  description: |
-      San Antonio, TX, US
-      Passing the Certified OpenStack Administrator Test Part 2 Dashboard and CLI
-      http://www.meetup.com/SA-Open-Stackers/events/231783794/
-
-- title: OpenStack Bucharest Meetup, 6th OpenStack Birthday Celebration
-  location: Bucharest, RO
-  speaker: OpenStack Bucharest, Romania Meetup
-  start: 2016-07-14 11:30 UTC
-  end: 2016-07-14 12:30 UTC
-  description: |
-      Bucharest, RO
-      OpenStack Bucharest Meetup, 6th OpenStack Birthday Celebration
-      http://www.meetup.com/OpenStack-Bucharest-Romania-Meetup/events/232076291/
-
-- title: OpenStack 6th Birthday Party and Lightning Talks! Fun!
-  location: San Francisco, CA
-  speaker: SFBay OpenStack
-  start: 2016-07-14 21:30 UTC
-  end: 2016-07-14 22:30 UTC
-  description: |
-      San Francisco, CA, US
-      OpenStack 6th Birthday Party and Lightning Talks! Fun!
-      http://www.meetup.com/openstack/events/232268423/
-
-- title: Capacity planning for elastic clouds and Openstack
-  location: Phoenix, AZ
-  speaker: OpenStack Phoenix
-  start: 2016-07-14 21:30 UTC
-  end: 2016-07-14 22:30 UTC
-  description: |
-      Phoenix, AZ, US
-      Capacity planning for elastic clouds and Openstack
-      http://www.meetup.com/OpenStack-Phoenix/events/232142529/
-
-- title: OpenStack Bucharest Meetup, 6th OpenStack Birthday Celebration
-  location: Bucharest, RO
-  speaker: BucharestTech
-  start: 2016-07-14 11:30 UTC
-  end: 2016-07-14 12:30 UTC
-  description: |
-      Bucharest, RO
-      OpenStack Bucharest Meetup, 6th OpenStack Birthday Celebration
-      http://www.meetup.com/BucharestTech/events/232076402/
-
-- title: Capacity planning for elastic clouds and Openstack
-  location: Phoenix, AZ
-  speaker: Phoenix Cloud Entrepreneurs
-  start: 2016-07-14 21:30 UTC
-  end: 2016-07-14 22:30 UTC
-  description: |
-      Phoenix, AZ, US
-      Capacity planning for elastic clouds and Openstack
-      http://www.meetup.com/PhoenixCloudEntrepreneurs/events/232454548/
-
-- title: Celebremos 6 años de OpenStack
-  location: Guadalajara, MX
-  speaker: OpenStack GDL
-  start: 2016-07-15 19:00 UTC
-  end: 2016-07-15 20:00 UTC
-  description: |
-      Guadalajara, MX
-      Celebremos 6 años de OpenStack
-      http://www.meetup.com/OpenStack-GDL/events/232093063/
-
-- title: Openstack 6th Birthday and V Encontro de usuários do Openstack Brasil no FISL
-  location: São Paulo, BR
-  speaker: Openstack Brasil
-  start: 2016-07-16 08:00 UTC
-  end: 2016-07-16 09:00 UTC
-  description: |
-      São Paulo, BR
-      Openstack 6th Birthday and V Encontro de usuários do Openstack Brasil no FISL
-      http://www.meetup.com/Openstack-Brasil/events/232269375/
-
-- title: OpenStack 6th Bday
-  location: Nairobi, KE
-  speaker: OpenStack Nairobi
-  start: 2016-07-16 07:00 UTC
-  end: 2016-07-16 08:00 UTC
-  description: |
-      Nairobi, KE
-      OpenStack 6th Bday
-      http://www.meetup.com/OpenStack-Nairobi/events/232534118/
 
 - title: OpenStack 6th Birthday Party Italy
   location: Roma, RM
@@ -173,6 +34,26 @@ talks:
       Guadalajara, MX
       Desplegando una Nube de OpenStack con Ansible
       http://www.meetup.com/OpenStack-GDL/events/232287872/
+
+- title: How to customize the OpenStack Horizon Dashboard
+  location: Orlando, FL
+  speaker: OpenStack Central Florida
+  start: 2016-07-18 20:00 UTC
+  end: 2016-07-18 21:00 UTC
+  description: |
+      Orlando, FL, US
+      How to customize the OpenStack Horizon Dashboard
+      http://www.meetup.com/Orlando-Central-Florida-OpenStack-Meetup/events/232612876/
+
+- title: OpenShift in a Nutshell - Step 4
+  location: Tehran, IR
+  speaker: Iran OpenStack
+  start: 2016-07-19 09:00 UTC
+  end: 2016-07-19 10:00 UTC
+  description: |
+      Tehran, IR
+      OpenShift in a Nutshell - Step 4
+      http://www.meetup.com/Iran-OpenStack/events/232702743/
 
 - title: UX TV Show Taping Data Visualization Episode
   location: Richardson, TX
@@ -214,16 +95,6 @@ talks:
       OpenStack Birthday #!/Bash/
       http://www.meetup.com/Orlando-Central-Florida-OpenStack-Meetup/events/232291280/
 
-- title: Meetup for Beer + Catchup with new CentOS Project stuff
-  location: London, 17
-  speaker: CentOS Users and Contributers in UK
-  start: 2016-07-19 14:00 UTC
-  end: 2016-07-19 15:00 UTC
-  description: |
-      London, 17, GB
-      Meetup for Beer + Catchup with new CentOS Project stuff
-      http://www.meetup.com/CentOS-UK/events/232484984/
-
 - title: OpenStack Meetup #2 powered by Windcloud
   location: Hamburg, DE
   speaker: Openstack Hamburg
@@ -243,6 +114,16 @@ talks:
       San Francisco, CA, US
       Advanced Network Services in OpenStack Load-Balancing as a Service (LBaaS)
       http://www.meetup.com/openstack/events/231959281/
+
+- title: OpenStack Administration with Ansible
+  location: Orlando, FL
+  speaker: OpenStack Central Florida
+  start: 2016-07-20 20:00 UTC
+  end: 2016-07-20 21:00 UTC
+  description: |
+      Orlando, FL, US
+      OpenStack Administration with Ansible
+      http://www.meetup.com/Orlando-Central-Florida-OpenStack-Meetup/events/232612935/
 
 - title: OpenStack 6th Birthday Party
   location: Durham, NC
@@ -264,6 +145,26 @@ talks:
       SFOUG Presentations
       http://www.meetup.com/South-Florida-OpenStack-Users-Group/events/232450735/
 
+- title: NFV on Intel ONP, Openstack, KVM and Breaking the Terabit Barrier With Sandvine
+  location: Santa Clara, CA
+  speaker: Out Of The Box Network Developers
+  start: 2016-07-21 20:30 UTC
+  end: 2016-07-21 21:30 UTC
+  description: |
+      Santa Clara, CA, US
+      NFV on Intel ONP, Openstack, KVM and Breaking the Terabit Barrier With Sandvine
+      http://www.meetup.com/Out-Of-The-Box-Network-Developers/events/232398910/
+
+- title: NFV on Intel ONP, Openstack, KVM  and Breaking the Terabit Barrier With Sandvine
+  location: Santa Clara, CA
+  speaker: SDN And Switching
+  start: 2016-07-21 20:30 UTC
+  end: 2016-07-21 21:30 UTC
+  description: |
+      Santa Clara, CA, US
+      NFV on Intel ONP, Openstack, KVM  and Breaking the Terabit Barrier With Sandvine
+      http://www.meetup.com/SDN-Switching-Group/events/232568625/
+
 - title: OpenStack PDX Meetup
   location: Portland, OR
   speaker: OpenStack PDX
@@ -273,6 +174,16 @@ talks:
       Portland, OR, US
       OpenStack PDX Meetup
       http://www.meetup.com/openstack-pdx/events/231959323/
+
+- title: Federating Keystone Trust across OpenStack clouds
+  location: Austin, TX
+  speaker: OpenStack Austin Texas
+  start: 2016-07-21 19:15 UTC
+  end: 2016-07-21 20:15 UTC
+  description: |
+      Austin, TX, US
+      Federating Keystone Trust across OpenStack clouds
+      http://www.meetup.com/OpenStack-Austin/events/232587107/
 
 - title: OpenStack 6th birthday Party
   location: Chesterfield, MO
@@ -294,6 +205,16 @@ talks:
       OpenStack 6th Birthday Party
       http://www.meetup.com/openstack-atlanta/events/231925100/
 
+- title: MegaMeetup  Working with OpenSource - OpenDaylight & OpenStack
+  location: Bangalore, IN
+  speaker: Bangalore SDN, NFV and OpenDaylight Meetup
+  start: 2016-07-22 04:30 UTC
+  end: 2016-07-22 05:30 UTC
+  description: |
+      Bangalore, IN
+      MegaMeetup  Working with OpenSource - OpenDaylight & OpenStack
+      http://www.meetup.com/Bangalore-SDN-and-NFV-meetup/events/232660911/
+
 - title: OpenStack PHUG 6th Anniversary
   location: Manila, PH
   speaker: OpenStack Philippines
@@ -304,6 +225,16 @@ talks:
       OpenStack PHUG 6th Anniversary
       http://www.meetup.com/OpenStack-Philippines/events/232055773/
 
+- title: SUSE way of OpenStack
+  location: Istanbul, TR
+  speaker: Turkey OpenStack Meetup
+  start: 2016-07-25 12:00 UTC
+  end: 2016-07-25 13:00 UTC
+  description: |
+      Istanbul, TR
+      SUSE way of OpenStack
+      http://www.meetup.com/Turkey-OpenStack-Meetup/events/232638843/
+
 - title: OpenStack 6th Birthday Celebration!
   location: Saint Paul, MN
   speaker: Minnesota OpenStack Meetup
@@ -313,4 +244,154 @@ talks:
       Saint Paul, MN, US
       OpenStack 6th Birthday Celebration!
       http://www.meetup.com/Minnesota-OpenStack-Meetup/events/232535058/
+
+- title: Celebrating OpenStack 6th Birthday
+  location: Islamabad, PK
+  speaker: Openstack Pakistan
+  start: 2016-07-27 07:30 UTC
+  end: 2016-07-27 08:30 UTC
+  description: |
+      Islamabad, PK
+      Celebrating OpenStack 6th Birthday
+      http://www.meetup.com/Openstack-Pakistan/events/232075494/
+
+- title: 9th OpenStack User Group Berlin
+  location: Berlin, DE
+  speaker: OpenStack User Group Berlin
+  start: 2016-07-27 12:00 UTC
+  end: 2016-07-27 13:00 UTC
+  description: |
+      Berlin, DE
+      9th OpenStack User Group Berlin
+      http://www.meetup.com/OpenStack-User-Group-Berlin/events/232387643/
+
+- title: OpenStack's 6th Birthday - REST and SDN
+  location: Manchester, 18
+  speaker: Manchester OpenStack Meetup
+  start: 2016-07-27 13:30 UTC
+  end: 2016-07-27 14:30 UTC
+  description: |
+      Manchester, 18, GB
+      OpenStack's 6th Birthday - REST and SDN
+      http://www.meetup.com/Manchester-OpenStack-Meetup/events/232048418/
+
+- title: OpenStack Birthday Event
+  location: Lexington, KY
+  speaker: OpenStack-Kentucky
+  start: 2016-07-28 09:00 UTC
+  end: 2016-07-28 10:00 UTC
+  description: |
+      Lexington, KY, US
+      OpenStack Birthday Event
+      http://www.meetup.com/OpenStack-Kentucky/events/232204499/
+
+- title: День рождения OpenStack
+  location: Moscow, RU
+  speaker: OpenStack Russia
+  start: 2016-07-28 04:00 UTC
+  end: 2016-07-28 05:00 UTC
+  description: |
+      Moscow, RU
+      День рождения OpenStack
+      http://www.meetup.com/OpenStack-Russia/events/232540797/
+
+- title: OpenStack 6th Birthday
+  location: Buenos Aires, AR
+  speaker: OpenStack Argentina
+  start: 2016-07-28 15:00 UTC
+  end: 2016-07-28 16:00 UTC
+  description: |
+      Buenos Aires, AR
+      OpenStack 6th Birthday
+      http://www.meetup.com/openstack-argentina/events/232420473/
+
+- title: OpenStack 6th Anniversary/ Using OpenStack Cinder to manage Docker storage
+  location: Philadelphia, PA
+  speaker: OpenStack Philly
+  start: 2016-07-28 18:00 UTC
+  end: 2016-07-28 19:00 UTC
+  description: |
+      Philadelphia, PA, US
+      OpenStack 6th Anniversary/ Using OpenStack Cinder to manage Docker storage
+      http://www.meetup.com/Philly-OpenStack-Meetup-Group/events/231931036/
+
+- title: OpenStack's 6th Birthday Celebration
+  location: Reston, VA
+  speaker: OpenStack Northern Virginia
+  start: 2016-07-28 18:00 UTC
+  end: 2016-07-28 19:00 UTC
+  description: |
+      Reston, VA, US
+      OpenStack's 6th Birthday Celebration
+      http://www.meetup.com/OpenStack-Nova/events/231886422/
+
+- title: Compliance Remediation with Hubblestack - Saltstack
+  location: Phoenix, AZ
+  speaker: OpenStack Phoenix
+  start: 2016-07-28 21:00 UTC
+  end: 2016-07-28 22:00 UTC
+  description: |
+      Phoenix, AZ, US
+      Compliance Remediation with Hubblestack - Saltstack
+      http://www.meetup.com/OpenStack-Phoenix/events/232454120/
+
+- title: OpenStack 6th Birthday and VMware Presentation
+  location: Littleton, CO
+  speaker: OpenStack Denver
+  start: 2016-07-28 20:30 UTC
+  end: 2016-07-28 21:30 UTC
+  description: |
+      Littleton, CO, US
+      OpenStack 6th Birthday and VMware Presentation
+      http://www.meetup.com/OpenStack-Denver/events/231954358/
+
+- title: OpenStack 6th Birthday and ...
+  location: Fort Collins, CO
+  speaker: Colorado OpenStack
+  start: 2016-07-28 20:30 UTC
+  end: 2016-07-28 21:30 UTC
+  description: |
+      Fort Collins, CO, US
+      OpenStack 6th Birthday and ...
+      http://www.meetup.com/OpenStack-Colorado/events/231949941/
+
+- title: Discuss and Learn about OpenStack
+  location: Littleton, CO
+  speaker: OpenStack Denver
+  start: 2016-07-28 20:30 UTC
+  end: 2016-07-28 21:30 UTC
+  description: |
+      Littleton, CO, US
+      Discuss and Learn about OpenStack
+      http://www.meetup.com/OpenStack-Denver/events/231583184/
+
+- title: Datera/OpenStack 6th Birthday Gala. The July 2016 OpenStack L.A. Meetup
+  location: Pasadena, CA
+  speaker: OpenStack LA
+  start: 2016-07-28 22:00 UTC
+  end: 2016-07-28 23:00 UTC
+  description: |
+      Pasadena, CA, US
+      Datera/OpenStack 6th Birthday Gala. The July 2016 OpenStack L.A. Meetup
+      http://www.meetup.com/OpenStack-LA/events/231967524/
+
+- title: OpenStack 6th Birthday Meetup #11
+  location: Ha Noi, VN
+  speaker: Vietnam OpenStack Official User Group
+  start: 2016-07-29 21:30 UTC
+  end: 2016-07-29 22:30 UTC
+  description: |
+      Ha Noi, VN
+      OpenStack 6th Birthday Meetup #11
+      http://www.meetup.com/VietOpenStack/events/231902183/
+
+- title: Treinamento de Instalação Openstack/CliQr/Docker
+  location: São Paulo, BR
+  speaker: São Paulo Cloud Computing Meetup
+  start: 2016-08-01 08:00 UTC
+  end: 2016-08-01 09:00 UTC
+  description: |
+      São Paulo, BR
+      Treinamento de Instalação Openstack/CliQr/Docker
+      http://www.meetup.com/Sao-Paulo-Cloud-Computing-Meetup/events/232111799/
 
