@@ -4,125 +4,6 @@ tags: RDO
 
 talks:
 
-- title: Topic Taming your relational and non-relational databases with OpenStack Trove
-  location: Richardson, TX
-  speaker: OpenStack DFW
-  start: 2016-08-03 19:00 UTC
-  end: 2016-08-03 20:00 UTC
-  description: |
-      Richardson, TX, US
-      Topic Taming your relational and non-relational databases with OpenStack Trove
-      http://www.meetup.com/OpenStack-DFW/events/231162206/
-
-- title: 8 Shenton Way, #10-00 AXA Tower  Red Hat Asia Pacific Pte Ltd, Singapore
-  location: Singapore, SG
-  speaker: OpenStack Singapore
-  start: 2016-08-03 06:30 UTC
-  end: 2016-08-03 07:30 UTC
-  description: |
-      Singapore, SG
-      8 Shenton Way, #10-00 AXA Tower  Red Hat Asia Pacific Pte Ltd, Singapore
-      http://www.meetup.com/OpenStack-Singapore/events/232531940/
-
-- title: Welcome, Stackers!
-  location: Singapore, SG
-  speaker: Singapore OPENSTACK Evangelist Meetup
-  start: 2016-08-03 06:30 UTC
-  end: 2016-08-03 07:30 UTC
-  description: |
-      Singapore, SG
-      Welcome, Stackers!
-      http://www.meetup.com/Singapore-OPENSTACK-Evangelist-Meetup/events/232531579/
-
-- title: Welcome, Stackers!
-  location: Singapore, SG
-  speaker: Singapore OpenStack User Group Meetup
-  start: 2016-08-03 06:30 UTC
-  end: 2016-08-03 07:30 UTC
-  description: |
-      Singapore, SG
-      Welcome, Stackers!
-      http://www.meetup.com/Singapore-OpenStack-User-Group-Meetup/events/232531629/
-
-- title: OpenStack Certified Administrator Exam and Ansible Automation with Rackspace
-  location: Tel Aviv-Yafo, IL
-  speaker: OpenStack-Israel
-  start: 2016-08-03 12:00 UTC
-  end: 2016-08-03 13:00 UTC
-  description: |
-      Tel Aviv-Yafo, IL
-      OpenStack Certified Administrator Exam and Ansible Automation with Rackspace
-      http://www.meetup.com/OpenStack-Israel/events/232840427/
-
-- title: RED HAT STORAGE DAY – Los Angeles
-  location: Los Angeles, CA
-  speaker: Red Hat Los Angeles
-  start: 2016-08-04 16:00 UTC
-  end: 2016-08-04 17:00 UTC
-  description: |
-      Los Angeles, CA, US
-      RED HAT STORAGE DAY – Los Angeles
-      http://www.meetup.com/Red-Hat-Los-Angeles/events/232762414/
-
-- title: SFOUG Presentations
-  location: Fort Lauderdale, FL
-  speaker: South Florida OpenStack Users Group
-  start: 2016-08-04 17:30 UTC
-  end: 2016-08-04 18:30 UTC
-  description: |
-      Fort Lauderdale, FL, US
-      SFOUG Presentations
-      http://www.meetup.com/South-Florida-OpenStack-Users-Group/events/232450735/
-
-- title: Automating in the OpenStack Cloud in Auckland
-  location: Wellington, NZ
-  speaker: New Zealand OpenStack User Group
-  start: 2016-08-04 01:45 UTC
-  end: 2016-08-04 02:45 UTC
-  description: |
-      Wellington, NZ
-      Automating in the OpenStack Cloud in Auckland
-      http://www.meetup.com/New-Zealand-OpenStack-User-Group/events/232796455/
-
-- title: OpenStack Wrocław Meetup #2
-  location: Wroclaw, PL
-  speaker: Wroclaw OpenStack Meetup
-  start: 2016-08-04 12:00 UTC
-  end: 2016-08-04 13:00 UTC
-  description: |
-      Wroclaw, PL
-      OpenStack Wrocław Meetup #2
-      http://www.meetup.com/Wroclaw-OpenStack-Meetup/events/232584503/
-
-- title: Magnum Openstack containers as a service.
-  location: Austin, TX
-  speaker: Docker Austin
-  start: 2016-08-04 19:00 UTC
-  end: 2016-08-04 20:00 UTC
-  description: |
-      Austin, TX, US
-      Magnum Openstack containers as a service.
-      http://www.meetup.com/Docker-Austin/events/232067917/
-
-- title: OpenStack Build Day!
-  location: Orlando, FL
-  speaker: OpenStack Central Florida
-  start: 2016-08-06 10:00 UTC
-  end: 2016-08-06 11:00 UTC
-  description: |
-      Orlando, FL, US
-      OpenStack Build Day!
-      http://www.meetup.com/Orlando-Central-Florida-OpenStack-Meetup/events/232805347/
-
-- title: Swift Storage and its architecture
-  location: Tambaram, IN
-  speaker: CloudnLoud - Openstack,PrivateCloud,Red Hat,Opensource
-  start: 2016-08-07 00:30 UTC
-  end: 2016-08-07 01:30 UTC
-  description: |
-      Tambaram, IN
-      Swift Storage and its architecture
-      http://www.meetup.com/CloudnLoud-Openstack-Cloud-RedHat-Opensource/events/232847173/
 
 - title: First Charlotte Openstack meetup
   location: Charlotte, NC
@@ -143,4 +24,104 @@ talks:
       Shanghai, CN
       OpenStack 技术分享会
       http://www.meetup.com/WWCode-Shanghai/events/232915360/
+
+- title: Containers and OpenStack
+  location: San Francisco, CA
+  speaker: SFBay OpenStack
+  start: 2016-08-17 20:30 UTC
+  end: 2016-08-17 21:30 UTC
+  description: |
+      San Francisco, CA, US
+      Containers and OpenStack
+      http://www.meetup.com/openstack/events/232930556/
+
+- title: Containers and OpenStack
+  location: Palo Alto, CA
+  speaker: Containers 101 meetup
+  start: 2016-08-17 20:30 UTC
+  end: 2016-08-17 21:30 UTC
+  description: |
+      Palo Alto, CA, US
+      Containers and OpenStack
+      http://www.meetup.com/Containers-101-meetup/events/232783000/
+
+- title: Let's meet and discuss Openstack
+  location: Phoenix, AZ
+  speaker: OpenStack Phoenix
+  start: 2016-08-17 21:30 UTC
+  end: 2016-08-17 22:30 UTC
+  description: |
+      Phoenix, AZ, US
+      Let's meet and discuss Openstack
+      http://www.meetup.com/OpenStack-Phoenix/events/232933199/
+
+- title: Zero Downtime True LIVE Migration using OpenStack-Ansible and Ceph
+  location: Houston, TX
+  speaker: OpenStack Houston Meetup
+  start: 2016-08-18 19:00 UTC
+  end: 2016-08-18 20:00 UTC
+  description: |
+      Houston, TX, US
+      Zero Downtime True LIVE Migration using OpenStack-Ansible and Ceph
+      http://www.meetup.com/openstackhoustonmeetup/events/232934004/
+
+- title: OpenStack PDX Meetup
+  location: Portland, OR
+  speaker: OpenStack PDX
+  start: 2016-08-18 21:00 UTC
+  end: 2016-08-18 22:00 UTC
+  description: |
+      Portland, OR, US
+      OpenStack PDX Meetup
+      http://www.meetup.com/openstack-pdx/events/232147831/
+
+- title: How to Become an OpenStack Contributor.
+  location: Chesterfield, MO
+  speaker: OpenStack St. Louis
+  start: 2016-08-18 19:30 UTC
+  end: 2016-08-18 20:30 UTC
+  description: |
+      Chesterfield, MO, US
+      How to Become an OpenStack Contributor.
+      http://www.meetup.com/OpenStack-STL/events/233108872/
+
+- title: OpenStack Meetup (Topic TBD)
+  location: Atlanta, GA
+  speaker: Atlanta OpenStack Meetup Group
+  start: 2016-08-18 19:00 UTC
+  end: 2016-08-18 20:00 UTC
+  description: |
+      Atlanta, GA, US
+      OpenStack Meetup (Topic TBD)
+      http://www.meetup.com/openstack-atlanta/events/232719210/
+
+- title: OpenStack Neutron - Social evening
+  location: Dublin, IE
+  speaker: OpenStack Ireland
+  start: 2016-08-18 15:30 UTC
+  end: 2016-08-18 16:30 UTC
+  description: |
+      Dublin, IE
+      OpenStack Neutron - Social evening
+      http://www.meetup.com/OpenStack-Ireland/events/232533948/
+
+- title: OpenStack Workshop- Install OpenStack cloud
+  location: Bangalore, IN
+  speaker: Cloud Enabled-OpenStack Addicts
+  start: 2016-08-20 23:30 UTC
+  end: 2016-08-21 00:30 UTC
+  description: |
+      Bangalore, IN
+      OpenStack Workshop- Install OpenStack cloud
+      http://www.meetup.com/Cloud-Enabled-OpenStack-Addicts/events/233182505/
+
+- title: Cloud Enabled -OpenStack Summit
+  location: Bangalore, IN
+  speaker: Cloud Enabled -Meetup
+  start: 2016-08-20 23:30 UTC
+  end: 2016-08-21 00:30 UTC
+  description: |
+      Bangalore, IN
+      Cloud Enabled -OpenStack Summit
+      http://www.meetup.com/Cloud-Enabled-Meetup/events/232382026/
 
