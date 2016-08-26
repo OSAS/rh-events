@@ -1,0 +1,36 @@
+name: Reversim Summit 2016 
+location: Rehovot, Israel
+start: 2016-09-19
+end: 2016-09-20
+description: |
+  Reversim Summit is a conference for developers by developers, organized by the people behind the popular local Reversim podcast.
+
+  Additional details about the conference are available
+  [on the conference website](http://summit2016.reversim.com/).
+
+talks:
+
+- title: Farmers Application
+  speaker: Shlomi Zadok
+  start: 2016-09-19 15:10 IST
+  end: 2016-09-19 15:50 IST
+  description: |
+    Introduction to the new (ionic based) Farmers protest application. The application helps connecting farmers who sell directly to the customers. It is built with Rails 5 API as a backend and Ionic framework for Android / iOS apps. (and I need your help !)
+
+- title: Ja-WAT?!
+  speaker: Allon Mureinik
+  start: 2016-09-20 13:40 IST
+  end: 2016-09-20 13:45 IST
+  description: |
+    Java prides itself in not allowing you to shoot yourself in the foot, but doesn't always live up to the hype. Recent editions have introduced powerful new syntactic tools which make development much easier, but can often result in "WAT" moments.
+    This lightening talk, inspired by Gary Bernhardt's famous WAT talk will showcase some of the cases where Java has left me scratching my head and asking "WAT?".
+
+- title: Organizing an open-source conference and living to tell the tale
+  speaker: Tomer Brisker
+  start: 2016-09-20 15:10 IST
+  end: 2016-09-20 15:50 IST
+  description: |
+    August Penguin is the annual gathering of the Israeli Free and Open Source Software community. It has been occurring for most of the past 15 years, and is organized by volunteers in the Hamakor NGO. After several years in attendance and after taking part in similar conferences abroad, this year I decided to take an active part in organizing the event.
+    This talk will go over the story of how we organized the event, what mistakes we made and what lessons we learned. As an open-source, volunteer driven event, we had to handle different issues then those faced by commercial event organizers.
+    Holding events is an important part of maintaining an active open-source community, and I hope to be able to help other organize successful events for their respective communities.
+    The talk will be relevant for people who organize events and wish to learn from our mistakes, as well as people who are part of open source communities, where coordinating with multiple volunteers is crucial.
