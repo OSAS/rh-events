@@ -5,123 +5,143 @@ tags: RDO
 talks:
 
 
-- title: First Charlotte Openstack meetup
-  location: Charlotte, NC
-  speaker: Charlotte OpenStack
-  start: 2016-08-10 19:00 UTC
-  end: 2016-08-10 20:00 UTC
+- title: 日本OpenStackユーザ会 第29回勉強会
+  location: Tokyo, JP
+  speaker: Japan OpenStack User Group
+  start: 2016-08-30 06:00 UTC
+  end: 2016-08-30 07:00 UTC
   description: |
-      Charlotte, NC, US
-      First Charlotte Openstack meetup
-      http://www.meetup.com/Charlotte-OpenStack/events/232543687/
+      Tokyo, JP
+      日本OpenStackユーザ会 第29回勉強会
+      http://www.meetup.com/Japan-OpenStack-User-Group/events/233195506/
 
-- title: OpenStack 技术分享会
-  location: Shanghai, CN
-  speaker: Women Who Code Shanghai
-  start: 2016-08-11 06:30 UTC
-  end: 2016-08-11 07:30 UTC
+- title: Openstack, Open source, and Building Companies with Steve Poitras
+  location: Seattle, WA
+  speaker: Learn@Lunch
+  start: 2016-08-31 14:00 UTC
+  end: 2016-08-31 15:00 UTC
   description: |
-      Shanghai, CN
-      OpenStack 技术分享会
-      http://www.meetup.com/WWCode-Shanghai/events/232915360/
+      Seattle, WA, US
+      Openstack, Open source, and Building Companies with Steve Poitras
+      http://www.meetup.com/learnatlunch/events/229658042/
+
+- title: Openstack & Ceph End-of-Summer meetup
+  location: Amsterdam, NL
+  speaker: Openstack & Ceph User Group Amsterdam
+  start: 2016-08-31 12:30 UTC
+  end: 2016-08-31 13:30 UTC
+  description: |
+      Amsterdam, NL
+      Openstack & Ceph End-of-Summer meetup
+      http://www.meetup.com/Openstack-Amsterdam/events/232800987/
+
+- title: Stackers Cologne Cloud Meetup
+  location: Köln, DE
+  speaker: OpenStack Cologne
+  start: 2016-08-31 13:00 UTC
+  end: 2016-08-31 14:00 UTC
+  description: |
+      Köln, DE
+      Stackers Cologne Cloud Meetup
+      http://www.meetup.com/OpenStack-Cologne/events/233216972/
+
+- title: Monthly SFOUG Meeting
+  location: Fort Lauderdale, FL
+  speaker: South Florida OpenStack Users Group
+  start: 2016-09-01 17:15 UTC
+  end: 2016-09-01 18:15 UTC
+  description: |
+      Fort Lauderdale, FL, US
+      Monthly SFOUG Meeting
+      http://www.meetup.com/South-Florida-OpenStack-Users-Group/events/233134825/
+
+- title: The Rise of the Container The Dev/Ops Technology That Accelerates Ops/Dev
+  location: Pleasanton, CA
+  speaker: EastBay OpenStack
+  start: 2016-09-01 21:00 UTC
+  end: 2016-09-01 22:00 UTC
+  description: |
+      Pleasanton, CA, US
+      The Rise of the Container The Dev/Ops Technology That Accelerates Ops/Dev
+      http://www.meetup.com/EastBay-OpenStack/events/232779623/
+
+- title: OpenStack Cloud (IaaS)
+  location: Eindhoven, NL
+  speaker: Open Source Business Club in Eindhoven
+  start: 2016-09-01 12:00 UTC
+  end: 2016-09-01 13:00 UTC
+  description: |
+      Eindhoven, NL
+      OpenStack Cloud (IaaS)
+      http://www.meetup.com/osbc-eindhoven/events/232221197/
+
+- title: OpenStack Encore
+  location: Frederick, MD
+  speaker: Frederick Linux Users Group (KeyLUG)
+  start: 2016-09-03 10:00 UTC
+  end: 2016-09-03 11:00 UTC
+  description: |
+      Frederick, MD, US
+      OpenStack Encore
+      http://www.meetup.com/KeyLUG/events/230704353/
 
 - title: Containers and OpenStack
   location: San Francisco, CA
-  speaker: SFBay OpenStack
-  start: 2016-08-17 20:30 UTC
-  end: 2016-08-17 21:30 UTC
+  speaker: SF Bay Area OpenStack
+  start: 2016-09-07 22:00 UTC
+  end: 2016-09-07 23:00 UTC
   description: |
       San Francisco, CA, US
       Containers and OpenStack
-      http://www.meetup.com/openstack/events/232930556/
+      http://www.meetup.com/openstack/events/233227736/
 
-- title: Containers and OpenStack
-  location: Palo Alto, CA
-  speaker: Containers 101 meetup
-  start: 2016-08-17 20:30 UTC
-  end: 2016-08-17 21:30 UTC
+- title: The Red Hat OpenStack Platform
+  location: Pittsburgh, PA
+  speaker: Pittsburgh Red Hat User Group
+  start: 2016-09-08 17:00 UTC
+  end: 2016-09-08 18:00 UTC
   description: |
-      Palo Alto, CA, US
-      Containers and OpenStack
-      http://www.meetup.com/Containers-101-meetup/events/232783000/
+      Pittsburgh, PA, US
+      The Red Hat OpenStack Platform
+      http://www.meetup.com/Pittsburgh-Red-Hat-User-Group/events/233282275/
 
-- title: Let's meet and discuss Openstack
-  location: Phoenix, AZ
-  speaker: OpenStack Phoenix
-  start: 2016-08-17 21:30 UTC
-  end: 2016-08-17 22:30 UTC
+- title: OpenStack Meetup!
+  location: Reston, VA
+  speaker: OpenStack Northern Virginia
+  start: 2016-09-08 18:00 UTC
+  end: 2016-09-08 19:00 UTC
   description: |
-      Phoenix, AZ, US
-      Let's meet and discuss Openstack
-      http://www.meetup.com/OpenStack-Phoenix/events/232933199/
+      Reston, VA, US
+      OpenStack Meetup!
+      http://www.meetup.com/OpenStack-Nova/events/232971596/
 
-- title: Zero Downtime True LIVE Migration using OpenStack-Ansible and Ceph
-  location: Houston, TX
-  speaker: OpenStack Houston Meetup
-  start: 2016-08-18 19:00 UTC
-  end: 2016-08-18 20:00 UTC
+- title: Federating Keystone Trust across OpenStack clouds
+  location: San Antonio, TX
+  speaker: SA OpenStackers San Antonio Texas
+  start: 2016-09-08 19:15 UTC
+  end: 2016-09-08 20:15 UTC
   description: |
-      Houston, TX, US
-      Zero Downtime True LIVE Migration using OpenStack-Ansible and Ceph
-      http://www.meetup.com/openstackhoustonmeetup/events/232934004/
+      San Antonio, TX, US
+      Federating Keystone Trust across OpenStack clouds
+      http://www.meetup.com/SA-Open-Stackers/events/233641111/
 
-- title: OpenStack PDX Meetup
-  location: Portland, OR
-  speaker: OpenStack PDX
-  start: 2016-08-18 21:00 UTC
-  end: 2016-08-18 22:00 UTC
+- title: Hackathon de Aplicaciones en OpenStack
+  location: Guadalajara, MX
+  speaker: OpenStack GDL
+  start: 2016-09-09 19:00 UTC
+  end: 2016-09-09 20:00 UTC
   description: |
-      Portland, OR, US
-      OpenStack PDX Meetup
-      http://www.meetup.com/openstack-pdx/events/232147831/
+      Guadalajara, MX
+      Hackathon de Aplicaciones en OpenStack
+      http://www.meetup.com/OpenStack-GDL/events/232288032/
 
-- title: How to Become an OpenStack Contributor.
-  location: Chesterfield, MO
-  speaker: OpenStack St. Louis
-  start: 2016-08-18 19:30 UTC
-  end: 2016-08-18 20:30 UTC
+- title: OpenStack Administration - Success & Failures of the Cloud Adoption
+  location: North York, ON
+  speaker: Stacks and Docker Labs Toronto
+  start: 2016-09-10 09:30 UTC
+  end: 2016-09-10 10:30 UTC
   description: |
-      Chesterfield, MO, US
-      How to Become an OpenStack Contributor.
-      http://www.meetup.com/OpenStack-STL/events/233108872/
-
-- title: OpenStack Meetup (Topic TBD)
-  location: Atlanta, GA
-  speaker: Atlanta OpenStack Meetup Group
-  start: 2016-08-18 19:00 UTC
-  end: 2016-08-18 20:00 UTC
-  description: |
-      Atlanta, GA, US
-      OpenStack Meetup (Topic TBD)
-      http://www.meetup.com/openstack-atlanta/events/232719210/
-
-- title: OpenStack Neutron - Social evening
-  location: Dublin, IE
-  speaker: OpenStack Ireland
-  start: 2016-08-18 15:30 UTC
-  end: 2016-08-18 16:30 UTC
-  description: |
-      Dublin, IE
-      OpenStack Neutron - Social evening
-      http://www.meetup.com/OpenStack-Ireland/events/232533948/
-
-- title: OpenStack Workshop- Install OpenStack cloud
-  location: Bangalore, IN
-  speaker: Cloud Enabled-OpenStack Addicts
-  start: 2016-08-20 23:30 UTC
-  end: 2016-08-21 00:30 UTC
-  description: |
-      Bangalore, IN
-      OpenStack Workshop- Install OpenStack cloud
-      http://www.meetup.com/Cloud-Enabled-OpenStack-Addicts/events/233182505/
-
-- title: Cloud Enabled -OpenStack Summit
-  location: Bangalore, IN
-  speaker: Cloud Enabled -Meetup
-  start: 2016-08-20 23:30 UTC
-  end: 2016-08-21 00:30 UTC
-  description: |
-      Bangalore, IN
-      Cloud Enabled -OpenStack Summit
-      http://www.meetup.com/Cloud-Enabled-Meetup/events/232382026/
+      North York, ON, CA
+      OpenStack Administration - Success & Failures of the Cloud Adoption
+      http://www.meetup.com/StackDocker-TO/events/232473294/
 
