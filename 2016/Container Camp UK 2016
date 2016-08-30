@@ -1,0 +1,20 @@
+name: Container Camp UK 2016
+location: Picturehouse Central, London, UK
+start: 2016-09-09
+end: 2016-09-09
+description: |
+  Container Camp is the community conference on the future of software containers. We bring the best technologists in the world together for one day of incredible original talks.
+  
+  This year we'll have speakers from Google, Docker, CoreOS, Mesosphere and more. We'll also be hosting Europe's biggest community container meetup as a warm-up with our friends Docker London and Kubernetes London on 08/09.
+
+  Additional details about the conference are available
+  [on the conference website](https://container.camp/uk/2016).
+
+talks:
+
+- title: A Security State of Mind: Continuous Security for Containers & DevOps
+  speaker: Chris Van Tuin, Chief Technologist at Red Hat
+  start: 2016-09-09 15:45 BST
+  end: 2016-09-09 16:10 BST
+  description: |
+    With the rise of DevOps, containers are at the brink of becoming a pervasive technology in Enterprise IT to accelerate application delivery for the business. When it comes to adopting containers in the enterprise, Security is the highest adoption barrier. Is your organization ready to address the security risks with containers in a DevOps environment? In this presentation, you'll learn about: - An understanding of the underlying technologies for Containers and how they enable DevOps - The security risks with deploying containers in the enterprise - How to make your Container workflow more secure without slowing down DevOps - The dangers of untrusted content and importance of maintaining container images - Automating vulnerability management, security management, and compliance checking for container images
