@@ -1,0 +1,40 @@
+name: DPDK Meetup
+location: Ra'anana, Israel
+start: 2016-11-06
+end: 2016-11-06
+description: |
+  The first DPDK-related opensource meetup in Israel.
+
+  Additional details about are available
+  [on the meetup website](http://www.meetup.com/Open-Source-Israel/events/233862596/).
+
+talks:
+
+- title: Introduction to DPDK
+  speaker: Lior Betzalel
+  start: 2016-11-06 18:00 IST
+  end: 2016-11-06 18:45 IST
+  description: |
+    Software defined services have increased the demand for high bandwidth and low latency software solutions in physical and virtual environments.
+
+    DPDK is a mature pack of tools that aims to utilize the full power of modern HW and create efficient applications.
+
+    In this talk we will cover userspace packet processing, how it differs from kernel processing and the programming implications.
+
+    We will explore optimization and acceleration techniques for data flow processing, including communication methods in user and kernel space.
+
+- title: DPDK in a virtual environment
+  speaker: Edward Haas
+  start: 2016-11-06 18:45 IST
+  end: 2016-11-06 19:15 IST
+  description: |
+    In a virtual environment, DPDK can be deployed in layers on the host and/or guest.
+
+    In this talk we will cover the available options of deployment, the communication options between the guest, host and external network with examples.
+
+- title: Open vSwitch with DPDK
+  speaker: Irit Goihman
+  start: 2016-11-06 19:15 IST
+  end: 2016-11-06 20:00 IST
+  description: |
+    Starting from v2.4 OVS can use DPDK lib to operate entirely in userspace, a mode that results in major performance enhancements. In this session we will introduce Open vSwitch, dive into OVS architecture and cover the differences between kernel and userspace DPDK implementation. We will also learn how to deploy a setup and debug techniques.
