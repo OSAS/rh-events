@@ -4,95 +4,26 @@ tags: RDO
 
 talks:
 
-- title: ETSI NFV-SEC - best practices
-  location: Richardson, TX
-  speaker: OpenStack DFW
-  start: 2016-09-07 19:00 UTC
-  end: 2016-09-07 20:00 UTC
-  description: |
-      Richardson, TX, US
-      ETSI NFV-SEC - best practices
-      http://www.meetup.com/OpenStack-DFW/events/233744324/
 
-- title: Containers and OpenStack
-  location: San Francisco, CA
-  speaker: SF Bay Area OpenStack
-  start: 2016-09-07 22:00 UTC
-  end: 2016-09-07 23:00 UTC
+- title: 日本OpenStackユーザ会 第29回勉強会
+  location: Tokyo, JP
+  speaker: Japan OpenStack User Group
+  start: 2016-09-13 06:00 UTC
+  end: 2016-09-13 07:00 UTC
   description: |
-      San Francisco, CA, US
-      Containers and OpenStack
-      http://www.meetup.com/openstack/events/233227736/
+      Tokyo, JP
+      日本OpenStackユーザ会 第29回勉強会
+      http://www.meetup.com/Japan-OpenStack-User-Group/events/234055784/
 
-- title: The Red Hat OpenStack Platform
-  location: Pittsburgh, PA
-  speaker: Pittsburgh Red Hat User Group
-  start: 2016-09-08 17:00 UTC
-  end: 2016-09-08 18:00 UTC
+- title: 12th OpenStack Montreal Meeting
+  location: Montreal, CA
+  speaker: Montreal OpenStack User Group
+  start: 2016-09-13 18:00 EST
+  end: 2016-09-13 20:00 EST
   description: |
-      Pittsburgh, PA, US
-      The Red Hat OpenStack Platform
-      http://www.meetup.com/Pittsburgh-Red-Hat-User-Group/events/233282275/
-
-- title: OpenStack meetup on contributions in the OpenStack community!
-  location: Reston, VA
-  speaker: OpenStack Northern Virginia
-  start: 2016-09-08 18:00 UTC
-  end: 2016-09-08 19:00 UTC
-  description: |
-      Reston, VA, US
-      OpenStack meetup on contributions in the OpenStack community!
-      http://www.meetup.com/OpenStack-Nova/events/232971596/
-
-- title: An Overview of Site-to-Site Cisco VPN Technologies
-  location: San Antonio, TX
-  speaker: SA OpenStackers San Antonio Texas
-  start: 2016-09-08 19:15 UTC
-  end: 2016-09-08 20:15 UTC
-  description: |
-      San Antonio, TX, US
-      An Overview of Site-to-Site Cisco VPN Technologies
-      http://www.meetup.com/SA-Open-Stackers/events/233641111/
-
-- title: Hackathon de Aplicaciones en OpenStack
-  location: Guadalajara, MX
-  speaker: OpenStack GDL
-  start: 2016-09-09 19:00 UTC
-  end: 2016-09-09 20:00 UTC
-  description: |
-      Guadalajara, MX
-      Hackathon de Aplicaciones en OpenStack
-      http://www.meetup.com/OpenStack-GDL/events/232288032/
-
-- title: OpenStack Administration - Success & Failures of the Cloud Adoption
-  location: North York, ON
-  speaker: Stacks and Docker Labs Toronto
-  start: 2016-09-10 09:30 UTC
-  end: 2016-09-10 10:30 UTC
-  description: |
-      North York, ON, CA
-      OpenStack Administration - Success & Failures of the Cloud Adoption
-      http://www.meetup.com/StackDocker-TO/events/232473294/
-
-- title: Is there a Cloud in your Future? How to Choose the One that's Right for You.
-  location: San Jose, CA
-  speaker: Cloud Computing Basics
-  start: 2016-09-13 21:00 UTC
-  end: 2016-09-13 22:00 UTC
-  description: |
-      San Jose, CA, US
-      Is there a Cloud in your Future? How to Choose the One that's Right for You.
-      http://www.meetup.com/Cloud-Computing-Basics/events/232793314/
-
-- title: Plug North - OpenStack
-  location: Philadelphia, PA
-  speaker: Philadelphia Linux User Group Meetup
-  start: 2016-09-13 19:00 UTC
-  end: 2016-09-13 20:00 UTC
-  description: |
-      Philadelphia, PA, US
-      Plug North - OpenStack
-      http://www.meetup.com/Philadelphia-Linux-User-Group-Meetup/events/232706113/
+    Montreal, CA
+    Montreal OpenStack User Group 12th meeting
+    https://www.eventbrite.ca/e/12th-openstack-montreal-meeting-tickets-27534202541
 
 - title: Meet [IBM] OpenStack Experts
   location: Stuttgart, DE
@@ -124,6 +55,16 @@ talks:
       OpenStack Forum #4
       http://www.meetup.com/Oslo-OpenStack-Forum/events/231795306/
 
+- title: Containers in OpenStack An Overview
+  location: Boston, MA
+  speaker: Openstack Boston
+  start: 2016-09-15 18:00 UTC
+  end: 2016-09-15 19:00 UTC
+  description: |
+      Boston, MA, US
+      Containers in OpenStack An Overview
+      http://www.meetup.com/Openstack-Boston/events/233939844/
+
 - title: OpenStack PDX Meetup
   location: Portland, OR
   speaker: OpenStack PDX
@@ -134,15 +75,35 @@ talks:
       OpenStack PDX Meetup
       http://www.meetup.com/openstack-pdx/events/232271957/
 
+- title: Dude, where's my control plane?
+  location: Chicago, IL
+  speaker: Chicago-land OpenStack Group
+  start: 2016-09-15 19:00 UTC
+  end: 2016-09-15 20:00 UTC
+  description: |
+      Chicago, IL, US
+      Dude, where's my control plane?
+      http://www.meetup.com/meetup-group-NjZdcegA/events/233952974/
+
+- title: OpenStack and Lean Coffee!!
+  location: Austin, TX
+  speaker: OpenStack Austin Texas
+  start: 2016-09-15 19:15 UTC
+  end: 2016-09-15 20:15 UTC
+  description: |
+      Austin, TX, US
+      OpenStack and Lean Coffee!!
+      http://www.meetup.com/OpenStack-Austin/events/233958722/
+
 - title: Stacki, Ansible, & OpenStack with Flex
-  location: San Jose, CA
-  speaker: Stacki San Jose
+  location: San Francisco, CA
+  speaker: SF Bay Area OpenStack
   start: 2016-09-15 21:30 UTC
   end: 2016-09-15 22:30 UTC
   description: |
-      San Jose, CA, US
+      San Francisco, CA, US
       Stacki, Ansible, & OpenStack with Flex
-      http://www.meetup.com/Stacki-San-Jose/events/226518518/
+      http://www.meetup.com/openstack/events/233946117/
 
 - title: San Jose Meetup Stacki, Ansible, & OpenStack with Flex
   location: San Francisco, CA
@@ -153,6 +114,16 @@ talks:
       San Francisco, CA, US
       San Jose Meetup Stacki, Ansible, & OpenStack with Flex
       http://www.meetup.com/Stacki-San-Francisco/events/233796796/
+
+- title: OpenStack Meetup - Deployment
+  location: Atlanta, GA
+  speaker: Atlanta OpenStack Meetup Group
+  start: 2016-09-15 19:00 UTC
+  end: 2016-09-15 20:00 UTC
+  description: |
+      Atlanta, GA, US
+      OpenStack Meetup - Deployment
+      http://www.meetup.com/openstack-atlanta/events/233303136/
 
 - title: 6th Birthday meetup + Speaker Alan Clark - Chairman of the Openstack Foundation
   location: Antwerpen, BE
@@ -186,11 +157,91 @@ talks:
 
 - title: WebinarWhy OpenStack is better with Rackspace and Red Hat
   location: Raleigh, NC
-  speaker: Raleigh Red Hat User Group
+  speaker: Raleigh Red Hat Meetup
   start: 2016-09-20 11:00 UTC
   end: 2016-09-20 12:00 UTC
   description: |
       Raleigh, NC, US
       WebinarWhy OpenStack is better with Rackspace and Red Hat
       http://www.meetup.com/Raleigh-Red-Hat-User-Group/events/233763649/
+
+- title: Swift Encryption, BotFactory, Tools & Best Practices
+  location: Washington, DC
+  speaker: OpenStack DC
+  start: 2016-09-20 18:30 UTC
+  end: 2016-09-20 19:30 UTC
+  description: |
+      Washington, DC, US
+      Swift Encryption, BotFactory, Tools & Best Practices
+      http://www.meetup.com/OpenStackDC/events/233808380/
+
+- title: Troubleshooting OpenStack Clouds From Detecting Black Holes to Micro-bursts
+  location: San Francisco, CA
+  speaker: SF Bay Area OpenStack
+  start: 2016-09-21 21:00 UTC
+  end: 2016-09-21 22:00 UTC
+  description: |
+      San Francisco, CA, US
+      Troubleshooting OpenStack Clouds From Detecting Black Holes to Micro-bursts
+      http://www.meetup.com/openstack/events/233981912/
+
+- title: Implementing OpenStack for a Production Environment 
+  location: Bentonville, AR
+  speaker: Walmart Tech Bentonville
+  start: 2016-09-21 19:00 UTC
+  end: 2016-09-21 20:00 UTC
+  description: |
+      Bentonville, AR, US
+      Implementing OpenStack for a Production Environment 
+      http://www.meetup.com/Walmart-Tech-Bentonville/events/233479596/
+
+- title: OpenStack Days Nordic
+  location: Stockholm, SE
+  speaker: OpenStack User Group Sweden
+  start: 2016-09-22 02:00 UTC
+  end: 2016-09-22 03:00 UTC
+  description: |
+      Stockholm, SE
+      OpenStack Days Nordic
+      http://www.meetup.com/OpenStack-User-Group-Sweden/events/230564258/
+
+- title: Are you going to OpenStack Days Nordic 22 Sep, in Stockholm?
+  location: Helsinki, FI
+  speaker: OpenStack Finland User Group
+  start: 2016-09-22 01:00 UTC
+  end: 2016-09-22 02:00 UTC
+  description: |
+      Helsinki, FI
+      Are you going to OpenStack Days Nordic 22 Sep, in Stockholm?
+      http://www.meetup.com/OpenStack-Finland-User-Group/events/231710721/
+
+- title: September Meetup Conjure-up and Master to Metal with OpenStack Charms
+  location: Durham, NC
+  speaker: Triangle OpenStack Meetup
+  start: 2016-09-22 18:00 UTC
+  end: 2016-09-22 19:00 UTC
+  description: |
+      Durham, NC, US
+      September Meetup Conjure-up and Master to Metal with OpenStack Charms
+      http://www.meetup.com/Triangle-OpenStack-Meetup/events/233464791/
+
+- title: High Performance Ceph at Adobe
+  location: Herriman, UT
+  speaker: OpenStack Utah
+  start: 2016-09-22 21:00 UTC
+  end: 2016-09-22 22:00 UTC
+  description: |
+      Herriman, UT, US
+      High Performance Ceph at Adobe
+      http://www.meetup.com/openstack-utah/events/233386228/
+
+- title: Want to Loud in cloud to shape your career ?
+  location: Tambaram, IN
+  speaker: CloudnLoud - Openstack,PrivateCloud,Red Hat,Opensource
+  start: 2016-09-24 10:00 UTC
+  end: 2016-09-24 11:00 UTC
+  description: |
+      Tambaram, IN
+      Want to Loud in cloud to shape your career ?
+      http://www.meetup.com/CloudnLoud-Openstack-Cloud-RedHat-Opensource/events/233897589/
 
