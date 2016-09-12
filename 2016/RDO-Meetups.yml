@@ -15,6 +15,16 @@ talks:
       日本OpenStackユーザ会 第29回勉強会
       http://www.meetup.com/Japan-OpenStack-User-Group/events/234055784/
 
+- title: 12th OpenStack Montreal Meeting
+  location: Montreal, CA
+  speaker: Montreal OpenStack User Group
+  start: 2016-09-13 18:00 EST
+  end: 2016-09-13 20:00 EST
+  description: |
+    Montreal, CA
+    Montreal OpenStack User Group 12th meeting
+    https://www.eventbrite.ca/e/12th-openstack-montreal-meeting-tickets-27534202541
+
 - title: Meet [IBM] OpenStack Experts
   location: Stuttgart, DE
   speaker: OpenStack Baden-Württemberg
