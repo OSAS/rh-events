@@ -2,6 +2,7 @@ name: DevConf.CZ
 location: Brno, Czech Republic
 start: 2017-01-27
 end: 2017-01-29
+tags: ovirt
 description: |
   DevConf.cz (Developer Conference) is a free annual conference for all Linux and JBoss Developers, Admins and Linux users organized by Red Hat Czech Republic in cooperation with the Fedora and JBoss communities.
 
