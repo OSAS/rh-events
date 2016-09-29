@@ -2,6 +2,7 @@ name: LinuxCon Europe
 location: Berlin, Germany
 start: 2016-10-04
 end: 2016-10-06
+tags: ovirt
 description: |
   There's simply no other event in Europe where developers, sys admins, architects and all levels of technical talent gather together under one roof for education, collaboration and problem-solving to further the Linux platform.
 

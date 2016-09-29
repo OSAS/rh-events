@@ -1,0 +1,10 @@
+name: Kubecon
+location: Seattle, WA
+start: 2016-11-08
+end: 2016-11-09
+tags: ovirt
+description: |
+     KubeCon (a CNCF event) gathers leading Kubernetes technologists from multiple open source cloud native communities to further the education and advancement of Docker, Kubernetes, and Cloud Native architectures.
+
+     More information is available at
+     <http://events.linuxfoundation.org/events/kubecon>
