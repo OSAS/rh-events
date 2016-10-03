@@ -5,106 +5,6 @@ tags: RDO
 talks:
 
 
-- title: OpenStack Meetup - Fleet Services with Craton
-  location: Fort Collins, CO
-  speaker: Colorado OpenStack
-  start: 2016-09-27 20:00 UTC
-  end: 2016-09-27 21:00 UTC
-  description: |
-      Fort Collins, CO, US
-      OpenStack Meetup - Fleet Services with Craton
-      http://www.meetup.com/OpenStack-Colorado/events/234244742/
-
-- title: מפגש בנושא OpenStack למקבלי החלטות
-  location: Tel Aviv-Yafo, IL
-  speaker: Open Source and Free Software in Israel
-  start: 2016-09-28 01:15 UTC
-  end: 2016-09-28 02:15 UTC
-  description: |
-      Tel Aviv-Yafo, IL
-      מפגש בנושא OpenStack למקבלי החלטות
-      http://www.meetup.com/Open-Source-and-Free-Software-in-Israel/events/232773516/
-
-- title: Containers - Microservices with Spring Cloud, Netflix OSS and Kubernetes
-  location: Phoenix, AZ
-  speaker: OpenStack Phoenix
-  start: 2016-09-28 21:00 UTC
-  end: 2016-09-28 22:00 UTC
-  description: |
-      Phoenix, AZ, US
-      Containers - Microservices with Spring Cloud, Netflix OSS and Kubernetes
-      http://www.meetup.com/OpenStack-Phoenix/events/234120704/
-
-- title: Openstack Meetup #4 powered by Windcloud & Perennial AG
-  location: Hamburg, DE
-  speaker: Openstack Hamburg
-  start: 2016-09-28 12:30 UTC
-  end: 2016-09-28 13:30 UTC
-  description: |
-      Hamburg, DE
-      Openstack Meetup #4 powered by Windcloud & Perennial AG
-      http://www.meetup.com/Openstack-Hamburg/events/233467508/
-
-- title: The September Meetup
-  location: London, 17
-  speaker: London OpenStack Meetup
-  start: 2016-09-28 13:30 UTC
-  end: 2016-09-28 14:30 UTC
-  description: |
-      London, 17, GB
-      The September Meetup
-      http://www.meetup.com/Openstack-London/events/234078693/
-
-- title: Workshop Despliegue de una aplicación sobre OpenShift y OpenStack
-  location: Madrid, ES
-  speaker: Cloud Computing Meetup
-  start: 2016-09-28 13:00 UTC
-  end: 2016-09-28 14:00 UTC
-  description: |
-      Madrid, ES
-      Workshop Despliegue de una aplicación sobre OpenShift y OpenStack
-      http://www.meetup.com/Cloud-Computing-Spain/events/234169233/
-
-- title: OpenStack – Building a world-class community
-  location: Dublin, IE
-  speaker: OpenStack Ireland
-  start: 2016-09-29 02:30 UTC
-  end: 2016-09-29 03:30 UTC
-  description: |
-      Dublin, IE
-      OpenStack – Building a world-class community
-      http://www.meetup.com/OpenStack-Ireland/events/233992147/
-
-- title: מפגש בנושא OpenStack לדרגים הטכניים
-  location: Tel Aviv-Yafo, IL
-  speaker: Open Source and Free Software in Israel
-  start: 2016-09-29 01:15 UTC
-  end: 2016-09-29 02:15 UTC
-  description: |
-      Tel Aviv-Yafo, IL
-      מפגש בנושא OpenStack לדרגים הטכניים
-      http://www.meetup.com/Open-Source-and-Free-Software-in-Israel/events/232773550/
-
-- title: Pickachu got your packet?Secure containers w/out your packets falling into traps
-  location: Seattle, WA
-  speaker: OpenStack Seattle
-  start: 2016-09-29 21:00 UTC
-  end: 2016-09-29 22:00 UTC
-  description: |
-      Seattle, WA, US
-      Pickachu got your packet?Secure containers w/out your packets falling into traps
-      http://www.meetup.com/OpenStack-Seattle/events/233970512/
-
-- title: OpenStack Day Seattle 2016 (http//www.openstackseattle.com/)
-  location: Seattle, WA
-  speaker: OpenStack Seattle
-  start: 2016-09-30 11:00 UTC
-  end: 2016-09-30 12:00 UTC
-  description: |
-      Seattle, WA, US
-      OpenStack Day Seattle 2016 (http//www.openstackseattle.com/)
-      http://www.meetup.com/OpenStack-Seattle/events/232134301/
-
 - title: Informelles Treffen zum Erfahrungsaustausch
   location: Dresden, DE
   speaker: OpenStack Dresden/Leipzig
@@ -114,6 +14,16 @@ talks:
       Dresden, DE
       Informelles Treffen zum Erfahrungsaustausch
       http://www.meetup.com/OpenStack-Dresden-Leipzig/events/234436436/
+
+- title: Advanced Heat Concepts and IaaS Preparedness
+  location: Richardson, TX
+  speaker: OpenStack DFW
+  start: 2016-10-05 19:00 UTC
+  end: 2016-10-05 20:00 UTC
+  description: |
+      Richardson, TX, US
+      Advanced Heat Concepts and IaaS Preparedness
+      http://www.meetup.com/OpenStack-DFW/events/234482894/
 
 - title: Presentation Intro to Openstack
   location: Fort Collins, CO
@@ -155,14 +65,14 @@ talks:
       Distributed Load Balancing for Mesos & OpenStack NFV Service Chaining with OVN
       http://www.meetup.com/openvswitch/events/234101459/
 
-- title: OpenStack Day São Paulo 2016
+- title: OpenStack Days São Paulo 2016
   location: São Paulo, BR
   speaker: Openstack Brasil
   start: 2016-10-08 08:00 UTC
   end: 2016-10-08 09:00 UTC
   description: |
       São Paulo, BR
-      OpenStack Day São Paulo 2016
+      OpenStack Days São Paulo 2016
       http://www.meetup.com/Openstack-Brasil/events/233673323/
 
 - title: Want to Loud in cloud to shape your career ?
@@ -194,4 +104,74 @@ talks:
       Austin, TX, US
       OpenStack Meetup From upstream to the customer continuous delivery chain
       http://www.meetup.com/OpenStack-Austin/events/234319663/
+
+- title: The Unconfrence
+  location: Köln, DE
+  speaker: OpenStack Cologne
+  start: 2016-10-12 04:00 UTC
+  end: 2016-10-12 05:00 UTC
+  description: |
+      Köln, DE
+      The Unconfrence
+      http://www.meetup.com/OpenStack-Cologne/events/234175179/
+
+- title: Key Benefits to Deploying OpenStack Cloud & Alleviating Networking Challenges
+  location: Phoenix, AZ
+  speaker: OpenStack Phoenix
+  start: 2016-10-12 21:00 UTC
+  end: 2016-10-12 22:00 UTC
+  description: |
+      Phoenix, AZ, US
+      Key Benefits to Deploying OpenStack Cloud & Alleviating Networking Challenges
+      http://www.meetup.com/OpenStack-Phoenix/events/234268164/
+
+- title: Get up to speed on the Red Hat OpenShift PaaS Cloud
+  location: Orlando, FL
+  speaker: OpenStack Central Florida
+  start: 2016-10-12 19:00 UTC
+  end: 2016-10-12 20:00 UTC
+  description: |
+      Orlando, FL, US
+      Get up to speed on the Red Hat OpenShift PaaS Cloud
+      http://www.meetup.com/Orlando-Central-Florida-OpenStack-Meetup/events/233976642/
+
+- title: Training on the Shade SDK
+  location: Canberra, AU
+  speaker: Australian OpenStack User Group
+  start: 2016-10-13 02:30 UTC
+  end: 2016-10-13 03:30 UTC
+  description: |
+      Canberra, AU
+      Training on the Shade SDK
+      http://www.meetup.com/Australian-OpenStack-User-Group/events/234491825/
+
+- title: Managing OpenStack with Python
+  location: San Antonio, TX
+  speaker: SA OpenStackers San Antonio Texas
+  start: 2016-10-13 19:15 UTC
+  end: 2016-10-13 20:15 UTC
+  description: |
+      San Antonio, TX, US
+      Managing OpenStack with Python
+      http://www.meetup.com/SA-Open-Stackers/events/234002370/
+
+- title: Monitoring Analytics for OpenStack Environments Hype or Help?
+  location: Sunnyvale, CA
+  speaker: SF Bay Area OpenStack
+  start: 2016-10-13 21:30 UTC
+  end: 2016-10-13 22:30 UTC
+  description: |
+      Sunnyvale, CA, US
+      Monitoring Analytics for OpenStack Environments Hype or Help?
+      http://www.meetup.com/openstack/events/233767316/
+
+- title: OpenStack Projects
+  location: Lagos, NG
+  speaker: OpenStack User Group Nigeria
+  start: 2016-10-14 11:15 UTC
+  end: 2016-10-14 12:15 UTC
+  description: |
+      Lagos, NG
+      OpenStack Projects
+      http://www.meetup.com/OpenStack-User-Group-Nigeria/events/234262810/
 
