@@ -30,7 +30,7 @@ def write_files(filename, data)
 end
 
 def load_data
-  all = {}
+  events_temp = {}
 
   Dir.glob('*/**/*yml').each do |file|
     year = file.split('/').first.to_sym
@@ -40,7 +40,7 @@ def load_data
     next unless year.to_s[/^\d{4}$/]
 
     # Ensure there's a year object
-    all[year] ||= {}
+    events_temp[year] ||= {}
 
     # Load the conference data, as it is on disk
     conf = YAML.load_file(file)
@@ -58,35 +58,35 @@ def load_data
       conf['talks'] = conf['talks'].sort_by { |t| t['start'].to_s }
     end
 
-    # Add (possibly manipulated) conference to the all event
-    all[year][slug] = conf
+    # Add (possibly manipulated) conference to events_temp
+    events_temp[year][slug] = conf
   end
 
   # Sort conferences in each year
-  all.each do |k, v|
-    all[k] = v.sort_by { |_, conf| conf['start'] }.to_h
+  events_temp.each do |k, v|
+    events_temp[k] = v.sort_by { |_, conf| conf['start'] }.to_h
   end
 
   # Sort years too
-  all.sort_by { |label, _| label }.to_h
+  events_temp.sort_by { |label, _| label }.to_h
 end
 
 ########################################################################
 
 # Load all data
-@all = load_data
+events = load_data
 
 # Create output directory
 FileUtils.mkdir_p @out
 
 # Ouput "all" events
-write_files 'all', @all
+write_files 'all', events
 
 # Output events for every year
-@all.each { |year_label, year| write_files year_label, year }
+events.each { |year_label, year| write_files year_label, year }
 
 # Filter upcoming events and talks
-@all.sort_by { |year_label, _year| year_label }.each do |_year_label, year|
+events.sort_by { |year_label, _year| year_label }.each do |_year_label, year|
   year.each do |_conf_label, conf|
     next unless current_conf?(conf)
 
