@@ -13,6 +13,16 @@ talks:
       Come help make RDO better by testing the Newton Milestone 3
       packages. Details at https://www.rdoproject.org/testday/newton/milestone3
 
+- title: Newton Milestone RC Test Day
+  location: rdo channel on Freenode
+  speaker: RDO
+  start: 2016-09-29 00:01 UTC
+  end: 2016-09-30 23:59 UTC
+  description: |
+      Come help make RDO better by testing the Newton Release Candidate
+      packages. Details at https://www.rdoproject.org/testday/newton/rc
+
+
 - title: Newton GA Test Day
   location: rdo channel on Freenode
   speaker: RDO
@@ -20,5 +30,5 @@ talks:
   end: 2016-10-14 23:59 UTC
   description: |
       Come help make RDO better by testing the Newton release
-      packages. Details at https://www.rdoproject.org/testday/newton/ga
+      packages. Details at https://www.rdoproject.org/testday/newton/final
 
