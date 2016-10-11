@@ -5,116 +5,6 @@ tags: RDO
 talks:
 
 
-- title: Informelles Treffen zum Erfahrungsaustausch
-  location: Dresden, DE
-  speaker: OpenStack Dresden/Leipzig
-  start: 2016-10-04 12:00 UTC
-  end: 2016-10-04 13:00 UTC
-  description: |
-      Dresden, DE
-      Informelles Treffen zum Erfahrungsaustausch
-      http://www.meetup.com/OpenStack-Dresden-Leipzig/events/234436436/
-
-- title: Advanced Heat Concepts and IaaS Preparedness
-  location: Richardson, TX
-  speaker: OpenStack DFW
-  start: 2016-10-05 19:00 UTC
-  end: 2016-10-05 20:00 UTC
-  description: |
-      Richardson, TX, US
-      Advanced Heat Concepts and IaaS Preparedness
-      http://www.meetup.com/OpenStack-DFW/events/234482894/
-
-- title: Presentation Intro to Openstack
-  location: Fort Collins, CO
-  speaker: NoCo IT Pros
-  start: 2016-10-05 20:00 UTC
-  end: 2016-10-05 21:00 UTC
-  description: |
-      Fort Collins, CO, US
-      Presentation Intro to Openstack
-      http://www.meetup.com/nocoitpros/events/234032886/
-
-- title: Monthly SFOUG Meeting
-  location: Fort Lauderdale, FL
-  speaker: South Florida OpenStack Users Group
-  start: 2016-10-06 17:15 UTC
-  end: 2016-10-06 18:15 UTC
-  description: |
-      Fort Lauderdale, FL, US
-      Monthly SFOUG Meeting
-      http://www.meetup.com/South-Florida-OpenStack-Users-Group/events/233148640/
-
-- title: The Joining of the Open Source Minds!
-  location: Houston, TX
-  speaker: OpenStack Houston Meetup
-  start: 2016-10-06 19:00 UTC
-  end: 2016-10-06 20:00 UTC
-  description: |
-      Houston, TX, US
-      The Joining of the Open Source Minds!
-      http://www.meetup.com/openstackhoustonmeetup/events/234149124/
-
-- title: Distributed Load Balancing for Mesos & OpenStack NFV Service Chaining with OVN
-  location: San Francisco, CA
-  speaker: Bay Area Full Stack
-  start: 2016-10-06 21:00 UTC
-  end: 2016-10-06 22:00 UTC
-  description: |
-      San Francisco, CA, US
-      Distributed Load Balancing for Mesos & OpenStack NFV Service Chaining with OVN
-      http://www.meetup.com/openvswitch/events/234101459/
-
-- title: OpenStack Days São Paulo 2016
-  location: São Paulo, BR
-  speaker: Openstack Brasil
-  start: 2016-10-08 08:00 UTC
-  end: 2016-10-08 09:00 UTC
-  description: |
-      São Paulo, BR
-      OpenStack Days São Paulo 2016
-      http://www.meetup.com/Openstack-Brasil/events/233673323/
-
-- title: Want to Loud in cloud to shape your career ?
-  location: Tambaram, IN
-  speaker: CloudnLoud - Openstack,PrivateCloud,Red Hat,Opensource
-  start: 2016-10-08 10:00 UTC
-  end: 2016-10-08 11:00 UTC
-  description: |
-      Tambaram, IN
-      Want to Loud in cloud to shape your career ?
-      http://www.meetup.com/CloudnLoud-Openstack-Cloud-RedHat-Opensource/events/233897589/
-
-- title: Docker and Container Deep Dive
-  location: Tambaram, IN
-  speaker: CloudnLoud - Openstack,PrivateCloud,Red Hat,Opensource
-  start: 2016-10-09 00:30 UTC
-  end: 2016-10-09 01:30 UTC
-  description: |
-      Tambaram, IN
-      Docker and Container Deep Dive
-      http://www.meetup.com/CloudnLoud-Openstack-Cloud-RedHat-Opensource/events/234045685/
-
-- title: OpenStack Meetup From upstream to the customer continuous delivery chain
-  location: Austin, TX
-  speaker: OpenStack Austin Texas
-  start: 2016-10-10 19:15 UTC
-  end: 2016-10-10 20:15 UTC
-  description: |
-      Austin, TX, US
-      OpenStack Meetup From upstream to the customer continuous delivery chain
-      http://www.meetup.com/OpenStack-Austin/events/234319663/
-
-- title: The Unconfrence
-  location: Köln, DE
-  speaker: OpenStack Cologne
-  start: 2016-10-12 04:00 UTC
-  end: 2016-10-12 05:00 UTC
-  description: |
-      Köln, DE
-      The Unconfrence
-      http://www.meetup.com/OpenStack-Cologne/events/234175179/
-
 - title: Key Benefits to Deploying OpenStack Cloud & Alleviating Networking Challenges
   location: Phoenix, AZ
   speaker: OpenStack Phoenix
@@ -134,6 +24,16 @@ talks:
       Orlando, FL, US
       Get up to speed on the Red Hat OpenShift PaaS Cloud
       http://www.meetup.com/Orlando-Central-Florida-OpenStack-Meetup/events/233976642/
+
+- title: Monthly SFOUG Meeting
+  location: Fort Lauderdale, FL
+  speaker: South Florida OpenStack Users Group
+  start: 2016-10-13 17:15 UTC
+  end: 2016-10-13 18:15 UTC
+  description: |
+      Fort Lauderdale, FL, US
+      Monthly SFOUG Meeting
+      http://www.meetup.com/South-Florida-OpenStack-Users-Group/events/233148640/
 
 - title: Training on the Shade SDK
   location: Canberra, AU
@@ -155,6 +55,16 @@ talks:
       Managing OpenStack with Python
       http://www.meetup.com/SA-Open-Stackers/events/234002370/
 
+- title: SA OpenStackers - Managing OpenStack with Python 
+  location: San Antonio, TX
+  speaker: The Iron Yard - San Antonio
+  start: 2016-10-13 19:15 UTC
+  end: 2016-10-13 20:15 UTC
+  description: |
+      San Antonio, TX, US
+      SA OpenStackers - Managing OpenStack with Python 
+      http://www.meetup.com/The-Iron-Yard-San-Antonio/events/234619905/
+
 - title: Monitoring Analytics for OpenStack Environments Hype or Help?
   location: Sunnyvale, CA
   speaker: SF Bay Area OpenStack
@@ -174,4 +84,94 @@ talks:
       Lagos, NG
       OpenStack Projects
       http://www.meetup.com/OpenStack-User-Group-Nigeria/events/234262810/
+
+- title: Overview of the Newest OpenStack Release/ Lessons Learned Deploying OpenStack
+  location: New York, NY
+  speaker: OpenStack New York
+  start: 2016-10-19 18:00 UTC
+  end: 2016-10-19 19:00 UTC
+  description: |
+      New York, NY, US
+      Overview of the Newest OpenStack Release/ Lessons Learned Deploying OpenStack
+      http://www.meetup.com/OpenStack-New-York-Meetup/events/234512639/
+
+- title: The Joint OpenStack Kubernetes Environment. Will it Blend?
+  location: Sunnyvale, CA
+  speaker: SF Bay Area OpenStack
+  start: 2016-10-19 21:30 UTC
+  end: 2016-10-19 22:30 UTC
+  description: |
+      Sunnyvale, CA, US
+      The Joint OpenStack Kubernetes Environment. Will it Blend?
+      http://www.meetup.com/openstack/events/234490087/
+
+- title: Building Private Clouds with Azure Pack, Azure Stack, OpenStack & Cloud Foundry
+  location: Charlotte, NC
+  speaker: Charlotte Microsoft Cloud
+  start: 2016-10-19 18:30 UTC
+  end: 2016-10-19 19:30 UTC
+  description: |
+      Charlotte, NC, US
+      Building Private Clouds with Azure Pack, Azure Stack, OpenStack & Cloud Foundry
+      http://www.meetup.com/Charlotte-Microsoft-Cloud/events/233916295/
+
+- title: OpenStack Philly - October Meetup!
+  location: Philadelphia, PA
+  speaker: OpenStack Philly
+  start: 2016-10-20 18:00 UTC
+  end: 2016-10-20 19:00 UTC
+  description: |
+      Philadelphia, PA, US
+      OpenStack Philly - October Meetup!
+      http://www.meetup.com/Philly-OpenStack-Meetup-Group/events/234347413/
+
+- title: OpenStack Meetup - Newton Release
+  location: Atlanta, GA
+  speaker: Atlanta OpenStack Meetup Group
+  start: 2016-10-20 19:00 UTC
+  end: 2016-10-20 20:00 UTC
+  description: |
+      Atlanta, GA, US
+      OpenStack Meetup - Newton Release
+      http://www.meetup.com/openstack-atlanta/events/234286217/
+
+- title: OpenStack Mini-Conf at OSI Days India 2016
+  location: Bangalore, IN
+  speaker: Indian OpenStack User Group
+  start: 2016-10-21 05:30 UTC
+  end: 2016-10-21 06:30 UTC
+  description: |
+      Bangalore, IN
+      OpenStack Mini-Conf at OSI Days India 2016
+      http://www.meetup.com/Indian-OpenStack-User-Group/events/233705568/
+
+- title: AWS Amazon public Cloud
+  location: Tambaram, IN
+  speaker: CloudnLoud - Openstack,PrivateCloud,Red Hat,Opensource
+  start: 2016-10-23 07:00 UTC
+  end: 2016-10-23 08:00 UTC
+  description: |
+      Tambaram, IN
+      AWS Amazon public Cloud
+      http://www.meetup.com/CloudnLoud-Openstack-Cloud-RedHat-Opensource/events/234771635/
+
+- title: VyOS Default Route Barcelona for OpenStack Summit participants!
+  location: Barcelona, ES
+  speaker: VyOS Default Route Barcelona
+  start: 2016-10-24 13:00 UTC
+  end: 2016-10-24 14:00 UTC
+  description: |
+      Barcelona, ES
+      VyOS Default Route Barcelona for OpenStack Summit participants!
+      http://www.meetup.com/VyOS-Default-Route-Barcelona/events/234568899/
+
+- title: OpenStack On ARM
+  location: Knoxville, TN
+  speaker: DevOps Knoxville
+  start: 2016-10-24 19:00 UTC
+  end: 2016-10-24 20:00 UTC
+  description: |
+      Knoxville, TN, US
+      OpenStack On ARM
+      http://www.meetup.com/DevOps-Knoxville/events/233317089/
 
