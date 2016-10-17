@@ -5,85 +5,15 @@ tags: RDO
 talks:
 
 
-- title: Key Benefits to Deploying OpenStack Cloud & Alleviating Networking Challenges
-  location: Phoenix, AZ
-  speaker: OpenStack Phoenix
-  start: 2016-10-12 21:00 UTC
-  end: 2016-10-12 22:00 UTC
+- title: HunterPrice Cloud Aware App con OpenStack
+  location: Guadalajara, MX
+  speaker: OpenStack GDL
+  start: 2016-10-17 20:00 UTC
+  end: 2016-10-17 21:00 UTC
   description: |
-      Phoenix, AZ, US
-      Key Benefits to Deploying OpenStack Cloud & Alleviating Networking Challenges
-      http://www.meetup.com/OpenStack-Phoenix/events/234268164/
-
-- title: Get up to speed on the Red Hat OpenShift PaaS Cloud
-  location: Orlando, FL
-  speaker: OpenStack Central Florida
-  start: 2016-10-12 19:00 UTC
-  end: 2016-10-12 20:00 UTC
-  description: |
-      Orlando, FL, US
-      Get up to speed on the Red Hat OpenShift PaaS Cloud
-      http://www.meetup.com/Orlando-Central-Florida-OpenStack-Meetup/events/233976642/
-
-- title: Monthly SFOUG Meeting
-  location: Fort Lauderdale, FL
-  speaker: South Florida OpenStack Users Group
-  start: 2016-10-13 17:15 UTC
-  end: 2016-10-13 18:15 UTC
-  description: |
-      Fort Lauderdale, FL, US
-      Monthly SFOUG Meeting
-      http://www.meetup.com/South-Florida-OpenStack-Users-Group/events/233148640/
-
-- title: Training on the Shade SDK
-  location: Canberra, AU
-  speaker: Australian OpenStack User Group
-  start: 2016-10-13 02:30 UTC
-  end: 2016-10-13 03:30 UTC
-  description: |
-      Canberra, AU
-      Training on the Shade SDK
-      http://www.meetup.com/Australian-OpenStack-User-Group/events/234491825/
-
-- title: Managing OpenStack with Python
-  location: San Antonio, TX
-  speaker: SA OpenStackers San Antonio Texas
-  start: 2016-10-13 19:15 UTC
-  end: 2016-10-13 20:15 UTC
-  description: |
-      San Antonio, TX, US
-      Managing OpenStack with Python
-      http://www.meetup.com/SA-Open-Stackers/events/234002370/
-
-- title: SA OpenStackers - Managing OpenStack with Python 
-  location: San Antonio, TX
-  speaker: The Iron Yard - San Antonio
-  start: 2016-10-13 19:15 UTC
-  end: 2016-10-13 20:15 UTC
-  description: |
-      San Antonio, TX, US
-      SA OpenStackers - Managing OpenStack with Python 
-      http://www.meetup.com/The-Iron-Yard-San-Antonio/events/234619905/
-
-- title: Monitoring Analytics for OpenStack Environments Hype or Help?
-  location: Sunnyvale, CA
-  speaker: SF Bay Area OpenStack
-  start: 2016-10-13 21:30 UTC
-  end: 2016-10-13 22:30 UTC
-  description: |
-      Sunnyvale, CA, US
-      Monitoring Analytics for OpenStack Environments Hype or Help?
-      http://www.meetup.com/openstack/events/233767316/
-
-- title: OpenStack Projects
-  location: Lagos, NG
-  speaker: OpenStack User Group Nigeria
-  start: 2016-10-14 11:15 UTC
-  end: 2016-10-14 12:15 UTC
-  description: |
-      Lagos, NG
-      OpenStack Projects
-      http://www.meetup.com/OpenStack-User-Group-Nigeria/events/234262810/
+      Guadalajara, MX
+      HunterPrice Cloud Aware App con OpenStack
+      http://www.meetup.com/OpenStack-GDL/events/234832673/
 
 - title: Overview of the Newest OpenStack Release/ Lessons Learned Deploying OpenStack
   location: New York, NY
@@ -174,4 +104,94 @@ talks:
       Knoxville, TN, US
       OpenStack On ARM
       http://www.meetup.com/DevOps-Knoxville/events/233317089/
+
+- title: OpenStack Lunch 'n' Learn
+  location: San Diego, CA
+  speaker: OpenStack San Diego
+  start: 2016-10-26 14:30 UTC
+  end: 2016-10-26 15:30 UTC
+  description: |
+      San Diego, CA, US
+      OpenStack Lunch 'n' Learn
+      http://www.meetup.com/OpenStack-SD/events/234852956/
+
+- title: Pointer to OpenContrail User Group Meeting Barcelona
+  location: Frankfurt, DE
+  speaker: OpenStack MeetUp Frankfurt
+  start: 2016-10-26 11:30 UTC
+  end: 2016-10-26 12:30 UTC
+  description: |
+      Frankfurt, DE
+      Pointer to OpenContrail User Group Meeting Barcelona
+      http://www.meetup.com/OpenStack-MeetUp-Frankfurt/events/234418594/
+
+- title: Openstack Meetup #5 powered by Windcloud & Perennial AG
+  location: Hamburg, DE
+  speaker: Openstack Hamburg
+  start: 2016-10-26 12:30 UTC
+  end: 2016-10-26 13:30 UTC
+  description: |
+      Hamburg, DE
+      Openstack Meetup #5 powered by Windcloud & Perennial AG
+      http://www.meetup.com/Openstack-Hamburg/events/234752723/
+
+- title: OpenStack Online Meetup OpenStack-as-a-Service Deployment Model
+  location: Köln, DE
+  speaker: OpenStack Cologne
+  start: 2016-10-26 14:00 UTC
+  end: 2016-10-26 15:00 UTC
+  description: |
+      Köln, DE
+      OpenStack Online Meetup OpenStack-as-a-Service Deployment Model
+      http://www.meetup.com/OpenStack-Cologne/events/234805119/
+
+- title: Einladung Get-together für die DACH OpenStack Community am Summit in Barcelona
+  location: München, DE
+  speaker: OpenStack Munich
+  start: 2016-10-26 14:00 UTC
+  end: 2016-10-26 15:00 UTC
+  description: |
+      München, DE
+      Einladung Get-together für die DACH OpenStack Community am Summit in Barcelona
+      http://www.meetup.com/OpenStack-Munich/events/234416536/
+
+- title: Pointer Heise/Rackspace Get-together Barcelona Summit 2016
+  location: Berlin, DE
+  speaker: German OpenStack users
+  start: 2016-10-26 14:00 UTC
+  end: 2016-10-26 15:00 UTC
+  description: |
+      Berlin, DE
+      Pointer Heise/Rackspace Get-together Barcelona Summit 2016
+      http://www.meetup.com/openstack-de/events/234416718/
+
+- title: Purpose of this meetup is to discuss OpenStack and technologies around it.
+  location: Copenhagen, DK
+  speaker: Copenhagen OpenStack Meetup
+  start: 2016-10-27 12:00 UTC
+  end: 2016-10-27 13:00 UTC
+  description: |
+      Copenhagen, DK
+      Purpose of this meetup is to discuss OpenStack and technologies around it.
+      http://www.meetup.com/Copenhagen-OpenStack-Meetup/events/234665086/
+
+- title: Discuss and Learn about OpenStack
+  location: Littleton, CO
+  speaker: OpenStack Denver
+  start: 2016-10-27 20:30 UTC
+  end: 2016-10-27 21:30 UTC
+  description: |
+      Littleton, CO, US
+      Discuss and Learn about OpenStack
+      http://www.meetup.com/OpenStack-Denver/events/234425598/
+
+- title: Release Engineering with BOSH on OpenStack
+  location: Herriman, UT
+  speaker: OpenStack Utah
+  start: 2016-10-27 21:00 UTC
+  end: 2016-10-27 22:00 UTC
+  description: |
+      Herriman, UT, US
+      Release Engineering with BOSH on OpenStack
+      http://www.meetup.com/openstack-utah/events/233386230/
 
