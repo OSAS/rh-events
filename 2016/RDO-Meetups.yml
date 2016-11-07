@@ -4,106 +4,6 @@ tags: RDO
 
 talks:
 
-- title: OpenStackFin meetup, OpenStack Operations and Operators
-  location: Helsinki, FI
-  speaker: OpenStack Finland User Group
-  start: 2016-11-02 10:00 UTC
-  end: 2016-11-02 11:00 UTC
-  description: |
-      Helsinki, FI
-      OpenStackFin meetup, OpenStack Operations and Operators
-      http://www.meetup.com/OpenStack-Finland-User-Group/events/234316425/
-
-- title: Advanced Heat Concepts and IaaS Preparedness
-  location: Richardson, TX
-  speaker: OpenStack DFW
-  start: 2016-11-02 19:00 UTC
-  end: 2016-11-02 20:00 UTC
-  description: |
-      Richardson, TX, US
-      Advanced Heat Concepts and IaaS Preparedness
-      http://www.meetup.com/OpenStack-DFW/events/234923515/
-
-- title: OpenStack basics and showcase
-  location: Athens, GR
-  speaker: Athens OpenStack User Group
-  start: 2016-11-02 13:00 UTC
-  end: 2016-11-02 14:00 UTC
-  description: |
-      Athens, GR
-      OpenStack basics and showcase
-      http://www.meetup.com/Athens-OpenStack-User-Group/events/234495962/
-
-- title: OpenStack Open SDN | OpenDaylight 2016
-  location: Amersfoort, NL
-  speaker: OpenStack.nl
-  start: 2016-11-03 10:00 UTC
-  end: 2016-11-03 11:00 UTC
-  description: |
-      Amersfoort, NL
-      OpenStack Open SDN | OpenDaylight 2016
-      http://www.meetup.com/Openstack-nl/events/226986988/
-
-- title: OpenStack Live
-  location: Prague, CZ
-  speaker: OpenStack Czech User Group Meetup
-  start: 2016-11-03 12:30 UTC
-  end: 2016-11-03 13:30 UTC
-  description: |
-      Prague, CZ
-      OpenStack Live
-      http://www.meetup.com/OpenStack-Czech-User-Group-Meetup/events/234989954/
-
-- title: Monthly SFOUG Meeting
-  location: Fort Lauderdale, FL
-  speaker: South Florida OpenStack Users Group
-  start: 2016-11-03 17:30 UTC
-  end: 2016-11-03 18:30 UTC
-  description: |
-      Fort Lauderdale, FL, US
-      Monthly SFOUG Meeting
-      http://www.meetup.com/South-Florida-OpenStack-Users-Group/events/234436913/
-
-- title: Berlin, Berlin, wir fahren nach Berlin zu OpenStack DACH Tag Berlin!
-  location: Köln, DE
-  speaker: OpenStack Cologne
-  start: 2016-11-03 19:00 UTC
-  end: 2016-11-03 20:00 UTC
-  description: |
-      Köln, DE
-      Berlin, Berlin, wir fahren nach Berlin zu OpenStack DACH Tag Berlin!
-      http://www.meetup.com/OpenStack-Cologne/events/234787208/
-
-- title: Berlin, Berlin, wir fahren nach Berlin zu OpenStack DACH Tag Berlin!
-  location: Köln, DE
-  speaker: Cologne-Cloud
-  start: 2016-11-04 06:00 UTC
-  end: 2016-11-04 07:00 UTC
-  description: |
-      Köln, DE
-      Berlin, Berlin, wir fahren nach Berlin zu OpenStack DACH Tag Berlin!
-      http://www.meetup.com/Cologne-Cloud/events/234834632/
-
-- title: OPENSTACK DACH DAY 2016
-  location: Berlin, DE
-  speaker: OpenStack User Group Berlin
-  start: 2016-11-05 05:00 UTC
-  end: 2016-11-05 06:00 UTC
-  description: |
-      Berlin, DE
-      OPENSTACK DACH DAY 2016
-      http://www.meetup.com/OpenStack-User-Group-Berlin/events/234409278/
-
-- title: Cloud RoadMap and RedHat Products
-  location: Tambaram, IN
-  speaker: CloudnLoud - Openstack,PrivateCloud,Red Hat,Opensource
-  start: 2016-11-06 05:30 UTC
-  end: 2016-11-06 06:30 UTC
-  description: |
-      Tambaram, IN
-      Cloud RoadMap and RedHat Products
-      http://www.meetup.com/CloudnLoud-Openstack-Cloud-RedHat-Opensource/events/234809567/
-
 - title: Talk about the Barcelona OpenStack Meetup
   location: Fort Collins, CO
   speaker: Colorado OpenStack
@@ -113,16 +13,6 @@ talks:
       Fort Collins, CO, US
       Talk about the Barcelona OpenStack Meetup
       http://www.meetup.com/OpenStack-Colorado/events/234485140/
-
-- title: Calling all you early risers - join us for a OpenStack breakfast morning
-  location: Dublin, IE
-  speaker: OpenStack Ireland
-  start: 2016-11-09 03:30 UTC
-  end: 2016-11-09 04:30 UTC
-  description: |
-      Dublin, IE
-      Calling all you early risers - join us for a OpenStack breakfast morning
-      http://www.meetup.com/OpenStack-Ireland/events/232288557/
 
 - title: How Oracle is using Puppet with OpenStack
   location: Reston, VA
@@ -144,15 +34,35 @@ talks:
       Openstack Meetup #5 powered by Windcloud & Perennial AG
       http://www.meetup.com/Openstack-Hamburg/events/234752723/
 
-- title: Hackathon Labs
-  location: Prague, CZ
-  speaker: OpenStack Czech User Group Meetup
-  start: 2016-11-10 03:00 UTC
-  end: 2016-11-10 04:00 UTC
+- title: Building a Cloud - Working/Planning Session
+  location: San Diego, CA
+  speaker: OpenStack San Diego
+  start: 2016-11-09 21:30 UTC
+  end: 2016-11-09 22:30 UTC
   description: |
-      Prague, CZ
-      Hackathon Labs
-      http://www.meetup.com/OpenStack-Czech-User-Group-Meetup/events/234755031/
+      San Diego, CA, US
+      Building a Cloud - Working/Planning Session
+      http://www.meetup.com/OpenStack-SD/events/235335095/
+
+- title: User stories
+  location: Charlotte, NC
+  speaker: Charlotte OpenStack
+  start: 2016-11-09 19:00 UTC
+  end: 2016-11-09 20:00 UTC
+  description: |
+      Charlotte, NC, US
+      User stories
+      http://www.meetup.com/Charlotte-OpenStack/events/235252386/
+
+- title: Using Cloud Orchestration and Config Management on AWS and OpenStack
+  location: San Antonio, TX
+  speaker: Cloud Technologies
+  start: 2016-11-10 19:15 UTC
+  end: 2016-11-10 20:15 UTC
+  description: |
+      San Antonio, TX, US
+      Using Cloud Orchestration and Config Management on AWS and OpenStack
+      http://www.meetup.com/Cloud-Technology/events/235328712/
 
 - title: Diskimage-builder & Zero to DevOps with Zuul
   location: Sunnyvale, CA
@@ -184,13 +94,73 @@ talks:
       AWS Amazon public Cloud
       http://www.meetup.com/CloudnLoud-Openstack-Cloud-RedHat-Opensource/events/234771635/
 
-- title: OpenStack Australia Government Day - http//australiaday.openstack.org.au/
+- title: OpenStack Australia Day Government - http//australiaday­­­­­.openstack.org.au­
   location: Canberra, AU
   speaker: Australian OpenStack User Group
   start: 2016-11-13 16:00 UTC
   end: 2016-11-13 17:00 UTC
   description: |
       Canberra, AU
-      OpenStack Australia Government Day - http//australiaday.openstack.org.au/
+      OpenStack Australia Day Government - http//australiaday­­­­­.openstack.org.au­
       http://www.meetup.com/Australian-OpenStack-User-Group/events/232940544/
+
+- title: OpenStack - The Fundamentals
+  location: Dublin, IE
+  speaker: OpenStack Ireland
+  start: 2016-11-15 14:00 UTC
+  end: 2016-11-15 15:00 UTC
+  description: |
+      Dublin, IE
+      OpenStack - The Fundamentals
+      http://www.meetup.com/OpenStack-Ireland/events/234638116/
+
+- title: Delivering Applications Faster with Red Hat OpenStack, PaaS & Containers
+  location: Enfield, 17
+  speaker: TechXperts
+  start: 2016-11-17 04:00 UTC
+  end: 2016-11-17 05:00 UTC
+  description: |
+      Enfield, 17, GB
+      Delivering Applications Faster with Red Hat OpenStack, PaaS & Containers
+      http://www.meetup.com/techxperts/events/235080228/
+
+- title: OpenStack PDX Meetup
+  location: Portland, OR
+  speaker: OpenStack PDX
+  start: 2016-11-17 21:00 UTC
+  end: 2016-11-17 22:00 UTC
+  description: |
+      Portland, OR, US
+      OpenStack PDX Meetup
+      http://www.meetup.com/openstack-pdx/events/232271967/
+
+- title: Recap of OpenStack Barcelona Summit
+  location: Chesterfield, MO
+  speaker: OpenStack St. Louis
+  start: 2016-11-17 19:15 UTC
+  end: 2016-11-17 20:15 UTC
+  description: |
+      Chesterfield, MO, US
+      Recap of OpenStack Barcelona Summit
+      http://www.meetup.com/OpenStack-STL/events/235169028/
+
+- title: Kubernetes - everything you need to know! (well almost) and MORE!
+  location: Austin, TX
+  speaker: OpenStack Austin Texas
+  start: 2016-11-17 19:15 UTC
+  end: 2016-11-17 20:15 UTC
+  description: |
+      Austin, TX, US
+      Kubernetes - everything you need to know! (well almost) and MORE!
+      http://www.meetup.com/OpenStack-Austin/events/234372226/
+
+- title: OpenStack Meetup (Topic TBD)
+  location: Atlanta, GA
+  speaker: Atlanta OpenStack Meetup Group
+  start: 2016-11-17 19:00 UTC
+  end: 2016-11-17 20:00 UTC
+  description: |
+      Atlanta, GA, US
+      OpenStack Meetup (Topic TBD)
+      http://www.meetup.com/openstack-atlanta/events/234519211/
 
