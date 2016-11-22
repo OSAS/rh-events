@@ -4,193 +4,204 @@ tags: RDO
 
 talks:
 
-- title: OpenStackFin meetup, OpenStack Operations and Operators
-  location: Helsinki, FI
-  speaker: OpenStack Finland User Group
-  start: 2016-11-02 10:00 UTC
-  end: 2016-11-02 11:00 UTC
-  description: |
-      Helsinki, FI
-      OpenStackFin meetup, OpenStack Operations and Operators
-      http://www.meetup.com/OpenStack-Finland-User-Group/events/234316425/
 
-- title: Advanced Heat Concepts and IaaS Preparedness
-  location: Richardson, TX
-  speaker: OpenStack DFW
-  start: 2016-11-02 19:00 UTC
-  end: 2016-11-02 20:00 UTC
+- title: OpenStack Day France 2016
+  location: Paris, FR
+  speaker: OpenStackFR Paris
+  start: 2016-11-22 02:30 UTC
+  end: 2016-11-22 03:30 UTC
   description: |
-      Richardson, TX, US
-      Advanced Heat Concepts and IaaS Preparedness
-      http://www.meetup.com/OpenStack-DFW/events/234923515/
+      Paris, FR
+      OpenStack Day France 2016
+      https://www.meetup.com/OpenStack-France/events/233964530/
 
-- title: OpenStack basics and showcase
-  location: Athens, GR
-  speaker: Athens OpenStack User Group
-  start: 2016-11-02 13:00 UTC
-  end: 2016-11-02 14:00 UTC
+- title: OpenStack 2016 November
+  location: Budapest, HU
+  speaker: OpenStack Hungary Meetup Group
+  start: 2016-11-22 12:00 UTC
+  end: 2016-11-22 13:00 UTC
   description: |
-      Athens, GR
-      OpenStack basics and showcase
-      http://www.meetup.com/Athens-OpenStack-User-Group/events/234495962/
+      Budapest, HU
+      OpenStack 2016 November
+      https://www.meetup.com/OpenStack-Hungary-Meetup-Group/events/234963024/
 
-- title: OpenStack Open SDN | OpenDaylight 2016
-  location: Amersfoort, NL
-  speaker: OpenStack.nl
-  start: 2016-11-03 10:00 UTC
-  end: 2016-11-03 11:00 UTC
+- title: Testing with Tempest and Extending traditional routing protocols
+  location: Manchester, 18
+  speaker: Manchester OpenStack Meetup
+  start: 2016-11-22 13:30 UTC
+  end: 2016-11-22 14:30 UTC
   description: |
-      Amersfoort, NL
-      OpenStack Open SDN | OpenDaylight 2016
-      http://www.meetup.com/Openstack-nl/events/226986988/
+      Manchester, 18, GB
+      Testing with Tempest and Extending traditional routing protocols
+      https://www.meetup.com/Manchester-OpenStack-Meetup/events/235130580/
 
-- title: OpenStack Live
-  location: Prague, CZ
-  speaker: OpenStack Czech User Group Meetup
-  start: 2016-11-03 12:30 UTC
-  end: 2016-11-03 13:30 UTC
+- title: Meetup Discussion
+  location: Albuquerque, NM
+  speaker: Albuquerque OpenStack Meetup
+  start: 2016-11-22 20:30 UTC
+  end: 2016-11-22 21:30 UTC
   description: |
-      Prague, CZ
-      OpenStack Live
-      http://www.meetup.com/OpenStack-Czech-User-Group-Meetup/events/234989954/
+      Albuquerque, NM, US
+      Meetup Discussion
+      https://www.meetup.com/Albuquerque-OpenStack-Meetup/events/235492487/
 
-- title: Monthly SFOUG Meeting
-  location: Fort Lauderdale, FL
-  speaker: South Florida OpenStack Users Group
-  start: 2016-11-03 17:30 UTC
-  end: 2016-11-03 18:30 UTC
+- title: Первый OpenStack MeetUp St.Petersburg
+  location: St. Petersburg, RU
+  speaker: OpenStack Russia St. Petersburg
+  start: 2016-11-24 04:00 UTC
+  end: 2016-11-24 05:00 UTC
   description: |
-      Fort Lauderdale, FL, US
-      Monthly SFOUG Meeting
-      http://www.meetup.com/South-Florida-OpenStack-Users-Group/events/234436913/
+      St. Petersburg, RU
+      Первый OpenStack MeetUp St.Petersburg
+      https://www.meetup.com/OpenStack-Russia-St-Petersburg/events/234856388/
 
-- title: Berlin, Berlin, wir fahren nach Berlin zu OpenStack DACH Tag Berlin!
-  location: Köln, DE
-  speaker: OpenStack Cologne
-  start: 2016-11-03 19:00 UTC
-  end: 2016-11-03 20:00 UTC
-  description: |
-      Köln, DE
-      Berlin, Berlin, wir fahren nach Berlin zu OpenStack DACH Tag Berlin!
-      http://www.meetup.com/OpenStack-Cologne/events/234787208/
-
-- title: Berlin, Berlin, wir fahren nach Berlin zu OpenStack DACH Tag Berlin!
-  location: Köln, DE
-  speaker: Cologne-Cloud
-  start: 2016-11-04 06:00 UTC
-  end: 2016-11-04 07:00 UTC
-  description: |
-      Köln, DE
-      Berlin, Berlin, wir fahren nach Berlin zu OpenStack DACH Tag Berlin!
-      http://www.meetup.com/Cologne-Cloud/events/234834632/
-
-- title: OPENSTACK DACH DAY 2016
-  location: Berlin, DE
-  speaker: OpenStack User Group Berlin
-  start: 2016-11-05 05:00 UTC
-  end: 2016-11-05 06:00 UTC
-  description: |
-      Berlin, DE
-      OPENSTACK DACH DAY 2016
-      http://www.meetup.com/OpenStack-User-Group-Berlin/events/234409278/
-
-- title: Cloud RoadMap and RedHat Products
+- title: Wanna Loud in SaltStack
   location: Tambaram, IN
   speaker: CloudnLoud - Openstack,PrivateCloud,Red Hat,Opensource
-  start: 2016-11-06 05:30 UTC
-  end: 2016-11-06 06:30 UTC
+  start: 2016-11-25 23:30 UTC
+  end: 2016-11-26 00:30 UTC
   description: |
       Tambaram, IN
-      Cloud RoadMap and RedHat Products
-      http://www.meetup.com/CloudnLoud-Openstack-Cloud-RedHat-Opensource/events/234809567/
+      Wanna Loud in SaltStack
+      https://www.meetup.com/CloudnLoud-Openstack-Cloud-RedHat-Opensource/events/235515136/
 
-- title: Talk about the Barcelona OpenStack Meetup
-  location: Fort Collins, CO
-  speaker: Colorado OpenStack
-  start: 2016-11-08 20:30 UTC
-  end: 2016-11-08 21:30 UTC
+- title: 北京OpenStack meetup 再次启航
+  location: Beijing, CN
+  speaker: China OpenStack User Group
+  start: 2016-11-26 00:30 UTC
+  end: 2016-11-26 01:30 UTC
   description: |
-      Fort Collins, CO, US
-      Talk about the Barcelona OpenStack Meetup
-      http://www.meetup.com/OpenStack-Colorado/events/234485140/
+      Beijing, CN
+      北京OpenStack meetup 再次启航
+      https://www.meetup.com/China-OpenStack-User-Group/events/235724106/
+
+- title: Wanna Loud in Puppet
+  location: Tambaram, IN
+  speaker: CloudnLoud - Openstack,PrivateCloud,Red Hat,Opensource
+  start: 2016-11-26 23:30 UTC
+  end: 2016-11-27 00:30 UTC
+  description: |
+      Tambaram, IN
+      Wanna Loud in Puppet
+      https://www.meetup.com/CloudnLoud-Openstack-Cloud-RedHat-Opensource/events/235579109/
+
+- title: Australian OpenStack User Group - Quarterly Brisbane Meetup
+  location: Canberra, AU
+  speaker: Australian OpenStack User Group
+  start: 2016-11-28 02:00 UTC
+  end: 2016-11-28 03:00 UTC
+  description: |
+      Canberra, AU
+      Australian OpenStack User Group - Quarterly Brisbane Meetup
+      https://www.meetup.com/Australian-OpenStack-User-Group/events/233702142/
+
+- title: Canberra OpenStack meetup
+  location: Canberra, AU
+  speaker: Australian OpenStack User Group
+  start: 2016-11-29 03:00 UTC
+  end: 2016-11-29 04:00 UTC
+  description: |
+      Canberra, AU
+      Canberra OpenStack meetup
+      https://www.meetup.com/Australian-OpenStack-User-Group/events/235562852/
+
+- title: 日本OpenStackユーザ会　第31回勉強会
+  location: Tokyo, JP
+  speaker: Japan OpenStack User Group
+  start: 2016-11-29 05:00 UTC
+  end: 2016-11-29 06:00 UTC
+  description: |
+      Tokyo, JP
+      日本OpenStackユーザ会　第31回勉強会
+      https://www.meetup.com/Japan-OpenStack-User-Group/events/235593184/
 
 - title: Calling all you early risers - join us for a OpenStack breakfast morning
   location: Dublin, IE
   speaker: OpenStack Ireland
-  start: 2016-11-09 03:30 UTC
-  end: 2016-11-09 04:30 UTC
+  start: 2016-11-30 03:30 UTC
+  end: 2016-11-30 04:30 UTC
   description: |
       Dublin, IE
       Calling all you early risers - join us for a OpenStack breakfast morning
-      http://www.meetup.com/OpenStack-Ireland/events/232288557/
+      https://www.meetup.com/OpenStack-Ireland/events/232288557/
 
-- title: How Oracle is using Puppet with OpenStack
-  location: Reston, VA
-  speaker: OpenStack Northern Virginia
-  start: 2016-11-09 18:00 UTC
-  end: 2016-11-09 19:00 UTC
+- title: 14th Swiss OpenStack User Group Meetup
+  location: Zürich, CH
+  speaker: openstack-ch
+  start: 2016-11-30 12:00 UTC
+  end: 2016-11-30 13:00 UTC
   description: |
-      Reston, VA, US
-      How Oracle is using Puppet with OpenStack
-      http://www.meetup.com/OpenStack-Nova/events/234698075/
+      Zürich, CH
+      14th Swiss OpenStack User Group Meetup
+      https://www.meetup.com/openstack-ch/events/235124491/
 
-- title: Openstack Meetup #5 powered by Windcloud & Perennial AG
-  location: Hamburg, DE
-  speaker: Openstack Hamburg
-  start: 2016-11-09 12:30 UTC
-  end: 2016-11-09 13:30 UTC
+- title: Software Defined Network on OpenStack with PLUMgrid
+  location: San Diego, CA
+  speaker: OpenStack San Diego
+  start: 2016-11-30 21:30 UTC
+  end: 2016-11-30 22:30 UTC
   description: |
-      Hamburg, DE
-      Openstack Meetup #5 powered by Windcloud & Perennial AG
-      http://www.meetup.com/Openstack-Hamburg/events/234752723/
+      San Diego, CA, US
+      Software Defined Network on OpenStack with PLUMgrid
+      https://www.meetup.com/OpenStack-SD/events/233829752/
 
-- title: Hackathon Labs
-  location: Prague, CZ
-  speaker: OpenStack Czech User Group Meetup
-  start: 2016-11-10 03:00 UTC
-  end: 2016-11-10 04:00 UTC
-  description: |
-      Prague, CZ
-      Hackathon Labs
-      http://www.meetup.com/OpenStack-Czech-User-Group-Meetup/events/234755031/
-
-- title: Diskimage-builder & Zero to DevOps with Zuul
+- title: Hands-on Workshop OpenStack and Containers
   location: Sunnyvale, CA
   speaker: SF Bay Area OpenStack
-  start: 2016-11-10 21:30 UTC
-  end: 2016-11-10 22:30 UTC
+  start: 2016-11-30 21:30 UTC
+  end: 2016-11-30 22:30 UTC
   description: |
       Sunnyvale, CA, US
-      Diskimage-builder & Zero to DevOps with Zuul
-      http://www.meetup.com/openstack/events/234949514/
+      Hands-on Workshop OpenStack and Containers
+      https://www.meetup.com/openstack/events/235472541/
 
-- title: Vietnam Official OpenStack Community 12th Technical Meetup
-  location: Ha Noi, VN
-  speaker: Vietnam OpenStack Official User Group
-  start: 2016-11-12 01:30 UTC
-  end: 2016-11-12 02:30 UTC
+- title: CodingBerlin 1.0 - OpenStack + Container Schedulers - see comments 4 Details!
+  location: Berlin, DE
+  speaker: CODING BERLIN
+  start: 2016-12-01 12:00 UTC
+  end: 2016-12-01 13:00 UTC
   description: |
-      Ha Noi, VN
-      Vietnam Official OpenStack Community 12th Technical Meetup
-      http://www.meetup.com/VietOpenStack/events/235216862/
+      Berlin, DE
+      CodingBerlin 1.0 - OpenStack + Container Schedulers - see comments 4 Details!
+      https://www.meetup.com/CODING-BERLIN/events/234917996/
 
-- title: AWS Amazon public Cloud
-  location: Tambaram, IN
-  speaker: CloudnLoud - Openstack,PrivateCloud,Red Hat,Opensource
-  start: 2016-11-12 06:00 UTC
-  end: 2016-11-12 07:00 UTC
+- title: The December Meetup - High Performance Computing
+  location: London, 17
+  speaker: London OpenStack Meetup
+  start: 2016-12-01 13:30 UTC
+  end: 2016-12-01 14:30 UTC
   description: |
-      Tambaram, IN
-      AWS Amazon public Cloud
-      http://www.meetup.com/CloudnLoud-Openstack-Cloud-RedHat-Opensource/events/234771635/
+      London, 17, GB
+      The December Meetup - High Performance Computing
+      https://www.meetup.com/Openstack-London/events/234178394/
 
-- title: OpenStack Australia Government Day - http//australiaday.openstack.org.au/
-  location: Canberra, AU
-  speaker: Australian OpenStack User Group
-  start: 2016-11-13 16:00 UTC
-  end: 2016-11-13 17:00 UTC
+- title: OpenStack Developer Coffee and Code
+  location: Saint Paul, MN
+  speaker: Minnesota OpenStack Meetup
+  start: 2016-12-05 10:00 UTC
+  end: 2016-12-05 11:00 UTC
   description: |
-      Canberra, AU
-      OpenStack Australia Government Day - http//australiaday.openstack.org.au/
-      http://www.meetup.com/Australian-OpenStack-User-Group/events/232940544/
+      Saint Paul, MN, US
+      OpenStack Developer Coffee and Code
+      https://www.meetup.com/Minnesota-OpenStack-Meetup/events/235416638/
+
+- title: Building a case for OpenStack in Pakistan
+  location: Islamabad, PK
+  speaker: Openstack Pakistan
+  start: 2016-12-05 06:30 UTC
+  end: 2016-12-05 07:30 UTC
+  description: |
+      Islamabad, PK
+      Building a case for OpenStack in Pakistan
+      https://www.meetup.com/Openstack-Pakistan/events/235569537/
+
+- title: Taller de OpenStack! La revancha...
+  location: Buenos Aires, AR
+  speaker: OpenStack Argentina
+  start: 2016-12-06 14:00 UTC
+  end: 2016-12-06 15:00 UTC
+  description: |
+      Buenos Aires, AR
+      Taller de OpenStack! La revancha...
+      https://www.meetup.com/openstack-argentina/events/235299832/
 
