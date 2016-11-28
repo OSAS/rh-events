@@ -5,95 +5,26 @@ tags: RDO
 talks:
 
 
-- title: OpenStack Day France 2016
-  location: Paris, FR
-  speaker: OpenStackFR Paris
-  start: 2016-11-22 02:30 UTC
-  end: 2016-11-22 03:30 UTC
-  description: |
-      Paris, FR
-      OpenStack Day France 2016
-      https://www.meetup.com/OpenStack-France/events/233964530/
 
-- title: OpenStack 2016 November
-  location: Budapest, HU
-  speaker: OpenStack Hungary Meetup Group
-  start: 2016-11-22 12:00 UTC
-  end: 2016-11-22 13:00 UTC
+- title: Porqué los desarrolladores de software están adoptando OpenStack
+  location: Guadalajara, MX
+  speaker: OpenStack GDL
+  start: 2016-11-28 20:00 UTC
+  end: 2016-11-28 21:00 UTC
   description: |
-      Budapest, HU
-      OpenStack 2016 November
-      https://www.meetup.com/OpenStack-Hungary-Meetup-Group/events/234963024/
+      Guadalajara, MX
+      Porqué los desarrolladores de software están adoptando OpenStack
+      https://www.meetup.com/OpenStack-GDL/events/235809625/
 
-- title: Testing with Tempest and Extending traditional routing protocols
-  location: Manchester, 18
-  speaker: Manchester OpenStack Meetup
-  start: 2016-11-22 13:30 UTC
-  end: 2016-11-22 14:30 UTC
+- title: OpenStack-Meetup
+  location: Dresden, DE
+  speaker: OpenStack Dresden
+  start: 2016-11-28 13:00 UTC
+  end: 2016-11-28 14:00 UTC
   description: |
-      Manchester, 18, GB
-      Testing with Tempest and Extending traditional routing protocols
-      https://www.meetup.com/Manchester-OpenStack-Meetup/events/235130580/
-
-- title: Meetup Discussion
-  location: Albuquerque, NM
-  speaker: Albuquerque OpenStack Meetup
-  start: 2016-11-22 20:30 UTC
-  end: 2016-11-22 21:30 UTC
-  description: |
-      Albuquerque, NM, US
-      Meetup Discussion
-      https://www.meetup.com/Albuquerque-OpenStack-Meetup/events/235492487/
-
-- title: Первый OpenStack MeetUp St.Petersburg
-  location: St. Petersburg, RU
-  speaker: OpenStack Russia St. Petersburg
-  start: 2016-11-24 04:00 UTC
-  end: 2016-11-24 05:00 UTC
-  description: |
-      St. Petersburg, RU
-      Первый OpenStack MeetUp St.Petersburg
-      https://www.meetup.com/OpenStack-Russia-St-Petersburg/events/234856388/
-
-- title: Wanna Loud in SaltStack
-  location: Tambaram, IN
-  speaker: CloudnLoud - Openstack,PrivateCloud,Red Hat,Opensource
-  start: 2016-11-25 23:30 UTC
-  end: 2016-11-26 00:30 UTC
-  description: |
-      Tambaram, IN
-      Wanna Loud in SaltStack
-      https://www.meetup.com/CloudnLoud-Openstack-Cloud-RedHat-Opensource/events/235515136/
-
-- title: 北京OpenStack meetup 再次启航
-  location: Beijing, CN
-  speaker: China OpenStack User Group
-  start: 2016-11-26 00:30 UTC
-  end: 2016-11-26 01:30 UTC
-  description: |
-      Beijing, CN
-      北京OpenStack meetup 再次启航
-      https://www.meetup.com/China-OpenStack-User-Group/events/235724106/
-
-- title: Wanna Loud in Puppet
-  location: Tambaram, IN
-  speaker: CloudnLoud - Openstack,PrivateCloud,Red Hat,Opensource
-  start: 2016-11-26 23:30 UTC
-  end: 2016-11-27 00:30 UTC
-  description: |
-      Tambaram, IN
-      Wanna Loud in Puppet
-      https://www.meetup.com/CloudnLoud-Openstack-Cloud-RedHat-Opensource/events/235579109/
-
-- title: Australian OpenStack User Group - Quarterly Brisbane Meetup
-  location: Canberra, AU
-  speaker: Australian OpenStack User Group
-  start: 2016-11-28 02:00 UTC
-  end: 2016-11-28 03:00 UTC
-  description: |
-      Canberra, AU
-      Australian OpenStack User Group - Quarterly Brisbane Meetup
-      https://www.meetup.com/Australian-OpenStack-User-Group/events/233702142/
+      Dresden, DE
+      OpenStack-Meetup
+      https://www.meetup.com/OpenStack-Dresden/events/235817240/
 
 - title: Canberra OpenStack meetup
   location: Canberra, AU
@@ -175,6 +106,16 @@ talks:
       The December Meetup - High Performance Computing
       https://www.meetup.com/Openstack-London/events/234178394/
 
+- title: 南京OpenStack开源云计算Meetup 2016/12/03
+  location: Nanjing, CN
+  speaker: Cloud Nanjing
+  start: 2016-12-03 00:30 UTC
+  end: 2016-12-03 01:30 UTC
+  description: |
+      Nanjing, CN
+      南京OpenStack开源云计算Meetup 2016/12/03
+      https://www.meetup.com/Cloud-Nanjing/events/235729698/
+
 - title: OpenStack Developer Coffee and Code
   location: Saint Paul, MN
   speaker: Minnesota OpenStack Meetup
@@ -204,4 +145,84 @@ talks:
       Buenos Aires, AR
       Taller de OpenStack! La revancha...
       https://www.meetup.com/openstack-argentina/events/235299832/
+
+- title: SDN for Containers, OpenStack VMs, and Bare Metal Servers using OpenContrail
+  location: Sunnyvale, CA
+  speaker: OpenContrail Meetup
+  start: 2016-12-06 20:30 UTC
+  end: 2016-12-06 21:30 UTC
+  description: |
+      Sunnyvale, CA, US
+      SDN for Containers, OpenStack VMs, and Bare Metal Servers using OpenContrail
+      https://www.meetup.com/opencontrail-meetup/events/235747925/
+
+- title: OpenStack Days Mountain West 2016
+  location: Herriman, UT
+  speaker: OpenStack Utah
+  start: 2016-12-07 11:00 UTC
+  end: 2016-12-07 12:00 UTC
+  description: |
+      Herriman, UT, US
+      OpenStack Days Mountain West 2016
+      https://www.meetup.com/openstack-utah/events/235588023/
+
+- title: Cultural and organizational change with open source use
+  location: Reston, VA
+  speaker: OpenStack Northern Virginia
+  start: 2016-12-07 18:00 UTC
+  end: 2016-12-07 19:00 UTC
+  description: |
+      Reston, VA, US
+      Cultural and organizational change with open source use
+      https://www.meetup.com/OpenStack-Nova/events/234970486/
+
+- title: The SUSE OpenStack Cloud
+  location: Orlando, FL
+  speaker: OpenStack Central Florida
+  start: 2016-12-07 19:00 UTC
+  end: 2016-12-07 20:00 UTC
+  description: |
+      Orlando, FL, US
+      The SUSE OpenStack Cloud
+      https://www.meetup.com/Orlando-Central-Florida-OpenStack-Meetup/events/235504355/
+
+- title: OpenStack Days Mountain West 2016 Conference
+  location: Salt Lake City, UT
+  speaker: DevOpsUT
+  start: 2016-12-07 23:00 UTC
+  end: 2016-12-08 00:00 UTC
+  description: |
+      Salt Lake City, UT, US
+      OpenStack Days Mountain West 2016 Conference
+      https://www.meetup.com/DevOpsUT/events/235678852/
+
+- title: Openstack Intros 
+  location: Tampa, FL
+  speaker: Tampa Openstack Meetup
+  start: 2016-12-08 17:30 UTC
+  end: 2016-12-08 18:30 UTC
+  description: |
+      Tampa, FL, US
+      Openstack Intros 
+      https://www.meetup.com/Tampa-Openstack-Meetup/events/235151727/
+
+- title: Hybrid Cloud Cost and Capacity Management with Talligent Openbook
+  location: Austin, TX
+  speaker: OpenStack Austin Texas
+  start: 2016-12-08 19:15 UTC
+  end: 2016-12-08 20:15 UTC
+  description: |
+      Austin, TX, US
+      Hybrid Cloud Cost and Capacity Management with Talligent Openbook
+      https://www.meetup.com/OpenStack-Austin/events/235679519/
+
+- title: DevOpsDays Tel Aviv 2016
+  location: Tel Aviv-Yafo, IL
+  speaker: OpenStack-Israel
+  start: 2016-12-12 02:00 UTC
+  end: 2016-12-12 03:00 UTC
+  description: |
+      Tel Aviv-Yafo, IL
+      DevOpsDays Tel Aviv 2016
+      https://www.meetup.com/OpenStack-Israel/events/235098436/
 
