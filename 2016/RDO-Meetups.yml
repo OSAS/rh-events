@@ -5,117 +5,6 @@ tags: RDO
 talks:
 
 
-
-- title: Porqué los desarrolladores de software están adoptando OpenStack
-  location: Guadalajara, MX
-  speaker: OpenStack GDL
-  start: 2016-11-28 20:00 UTC
-  end: 2016-11-28 21:00 UTC
-  description: |
-      Guadalajara, MX
-      Porqué los desarrolladores de software están adoptando OpenStack
-      https://www.meetup.com/OpenStack-GDL/events/235809625/
-
-- title: OpenStack-Meetup
-  location: Dresden, DE
-  speaker: OpenStack Dresden
-  start: 2016-11-28 13:00 UTC
-  end: 2016-11-28 14:00 UTC
-  description: |
-      Dresden, DE
-      OpenStack-Meetup
-      https://www.meetup.com/OpenStack-Dresden/events/235817240/
-
-- title: Canberra OpenStack meetup
-  location: Canberra, AU
-  speaker: Australian OpenStack User Group
-  start: 2016-11-29 03:00 UTC
-  end: 2016-11-29 04:00 UTC
-  description: |
-      Canberra, AU
-      Canberra OpenStack meetup
-      https://www.meetup.com/Australian-OpenStack-User-Group/events/235562852/
-
-- title: 日本OpenStackユーザ会　第31回勉強会
-  location: Tokyo, JP
-  speaker: Japan OpenStack User Group
-  start: 2016-11-29 05:00 UTC
-  end: 2016-11-29 06:00 UTC
-  description: |
-      Tokyo, JP
-      日本OpenStackユーザ会　第31回勉強会
-      https://www.meetup.com/Japan-OpenStack-User-Group/events/235593184/
-
-- title: Calling all you early risers - join us for a OpenStack breakfast morning
-  location: Dublin, IE
-  speaker: OpenStack Ireland
-  start: 2016-11-30 03:30 UTC
-  end: 2016-11-30 04:30 UTC
-  description: |
-      Dublin, IE
-      Calling all you early risers - join us for a OpenStack breakfast morning
-      https://www.meetup.com/OpenStack-Ireland/events/232288557/
-
-- title: 14th Swiss OpenStack User Group Meetup
-  location: Zürich, CH
-  speaker: openstack-ch
-  start: 2016-11-30 12:00 UTC
-  end: 2016-11-30 13:00 UTC
-  description: |
-      Zürich, CH
-      14th Swiss OpenStack User Group Meetup
-      https://www.meetup.com/openstack-ch/events/235124491/
-
-- title: Software Defined Network on OpenStack with PLUMgrid
-  location: San Diego, CA
-  speaker: OpenStack San Diego
-  start: 2016-11-30 21:30 UTC
-  end: 2016-11-30 22:30 UTC
-  description: |
-      San Diego, CA, US
-      Software Defined Network on OpenStack with PLUMgrid
-      https://www.meetup.com/OpenStack-SD/events/233829752/
-
-- title: Hands-on Workshop OpenStack and Containers
-  location: Sunnyvale, CA
-  speaker: SF Bay Area OpenStack
-  start: 2016-11-30 21:30 UTC
-  end: 2016-11-30 22:30 UTC
-  description: |
-      Sunnyvale, CA, US
-      Hands-on Workshop OpenStack and Containers
-      https://www.meetup.com/openstack/events/235472541/
-
-- title: CodingBerlin 1.0 - OpenStack + Container Schedulers - see comments 4 Details!
-  location: Berlin, DE
-  speaker: CODING BERLIN
-  start: 2016-12-01 12:00 UTC
-  end: 2016-12-01 13:00 UTC
-  description: |
-      Berlin, DE
-      CodingBerlin 1.0 - OpenStack + Container Schedulers - see comments 4 Details!
-      https://www.meetup.com/CODING-BERLIN/events/234917996/
-
-- title: The December Meetup - High Performance Computing
-  location: London, 17
-  speaker: London OpenStack Meetup
-  start: 2016-12-01 13:30 UTC
-  end: 2016-12-01 14:30 UTC
-  description: |
-      London, 17, GB
-      The December Meetup - High Performance Computing
-      https://www.meetup.com/Openstack-London/events/234178394/
-
-- title: 南京OpenStack开源云计算Meetup 2016/12/03
-  location: Nanjing, CN
-  speaker: Cloud Nanjing
-  start: 2016-12-03 00:30 UTC
-  end: 2016-12-03 01:30 UTC
-  description: |
-      Nanjing, CN
-      南京OpenStack开源云计算Meetup 2016/12/03
-      https://www.meetup.com/Cloud-Nanjing/events/235729698/
-
 - title: OpenStack Developer Coffee and Code
   location: Saint Paul, MN
   speaker: Minnesota OpenStack Meetup
@@ -125,16 +14,6 @@ talks:
       Saint Paul, MN, US
       OpenStack Developer Coffee and Code
       https://www.meetup.com/Minnesota-OpenStack-Meetup/events/235416638/
-
-- title: Building a case for OpenStack in Pakistan
-  location: Islamabad, PK
-  speaker: Openstack Pakistan
-  start: 2016-12-05 06:30 UTC
-  end: 2016-12-05 07:30 UTC
-  description: |
-      Islamabad, PK
-      Building a case for OpenStack in Pakistan
-      https://www.meetup.com/Openstack-Pakistan/events/235569537/
 
 - title: Taller de OpenStack! La revancha...
   location: Buenos Aires, AR
@@ -155,6 +34,26 @@ talks:
       Sunnyvale, CA, US
       SDN for Containers, OpenStack VMs, and Bare Metal Servers using OpenContrail
       https://www.meetup.com/opencontrail-meetup/events/235747925/
+
+- title: OpenStack Days Mountain West – Reception hosted by Juniper Networks
+  location: Herriman, UT
+  speaker: OpenStack Utah
+  start: 2016-12-06 20:00 UTC
+  end: 2016-12-06 21:00 UTC
+  description: |
+      Herriman, UT, US
+      OpenStack Days Mountain West – Reception hosted by Juniper Networks
+      https://www.meetup.com/openstack-utah/events/235923626/
+
+- title: OpenStack Days Mountain West - SLC, Utah
+  location: Phoenix, AZ
+  speaker: OpenStack Phoenix
+  start: 2016-12-07 09:00 UTC
+  end: 2016-12-07 10:00 UTC
+  description: |
+      Phoenix, AZ, US
+      OpenStack Days Mountain West - SLC, Utah
+      https://www.meetup.com/OpenStack-Phoenix/events/233454673/
 
 - title: OpenStack Days Mountain West 2016
   location: Herriman, UT
@@ -206,6 +105,16 @@ talks:
       Openstack Intros 
       https://www.meetup.com/Tampa-Openstack-Meetup/events/235151727/
 
+- title: Network virtualization with OpenContrail
+  location: Boston, MA
+  speaker: Openstack Boston
+  start: 2016-12-08 18:00 UTC
+  end: 2016-12-08 19:00 UTC
+  description: |
+      Boston, MA, US
+      Network virtualization with OpenContrail
+      https://www.meetup.com/Openstack-Boston/events/235904656/
+
 - title: Hybrid Cloud Cost and Capacity Management with Talligent Openbook
   location: Austin, TX
   speaker: OpenStack Austin Texas
@@ -216,6 +125,16 @@ talks:
       Hybrid Cloud Cost and Capacity Management with Talligent Openbook
       https://www.meetup.com/OpenStack-Austin/events/235679519/
 
+- title: Live Webinar on  Learn Apache pig with Practical kit
+  location: Hyderabad, IN
+  speaker: OpenStack Hyderabad
+  start: 2016-12-08 10:00 UTC
+  end: 2016-12-08 11:00 UTC
+  description: |
+      Hyderabad, IN
+      Live Webinar on  Learn Apache pig with Practical kit
+      https://www.meetup.com/OpenStack-Hyderabad/events/235980919/
+
 - title: DevOpsDays Tel Aviv 2016
   location: Tel Aviv-Yafo, IL
   speaker: OpenStack-Israel
@@ -225,4 +144,114 @@ talks:
       Tel Aviv-Yafo, IL
       DevOpsDays Tel Aviv 2016
       https://www.meetup.com/OpenStack-Israel/events/235098436/
+
+- title: OpenStack Wrocław Meetup #4
+  location: Wroclaw, PL
+  speaker: Wroclaw OpenStack Meetup
+  start: 2016-12-12 11:30 UTC
+  end: 2016-12-12 12:30 UTC
+  description: |
+      Wroclaw, PL
+      OpenStack Wrocław Meetup #4
+      https://www.meetup.com/Wroclaw-OpenStack-Meetup/events/235620920/
+
+- title: MN Cloud Computing -- OpenStack Discussion
+  location: Minneapolis, MN
+  speaker: Minnesota Cloud Computing
+  start: 2016-12-12 19:00 UTC
+  end: 2016-12-12 20:00 UTC
+  description: |
+      Minneapolis, MN, US
+      MN Cloud Computing -- OpenStack Discussion
+      https://www.meetup.com/MNCloudComputing/events/235452882/
+
+- title: Auto Scaling & Sentinel
+  location: Fort Collins, CO
+  speaker: Colorado OpenStack
+  start: 2016-12-13 20:00 UTC
+  end: 2016-12-13 21:00 UTC
+  description: |
+      Fort Collins, CO, US
+      Auto Scaling & Sentinel
+      https://www.meetup.com/OpenStack-Colorado/events/235919158/
+
+- title: OpenStack Meetup #6 powered by Windcloud & Perennial AG
+  location: Hamburg, DE
+  speaker: Openstack Hamburg
+  start: 2016-12-13 12:30 UTC
+  end: 2016-12-13 13:30 UTC
+  description: |
+      Hamburg, DE
+      OpenStack Meetup #6 powered by Windcloud & Perennial AG
+      https://www.meetup.com/Openstack-Hamburg/events/235729028/
+
+- title: Let's install DevStack on an Intel NUC and raffle it off!
+  location: Vancouver, BC
+  speaker: Vancouver OpenStack Meetup
+  start: 2016-12-14 21:00 UTC
+  end: 2016-12-14 22:00 UTC
+  description: |
+      Vancouver, BC, CA
+      Let's install DevStack on an Intel NUC and raffle it off!
+      https://www.meetup.com/Vancouver-OpenStack-Meetup/events/235606629/
+
+- title: Open Source Network Virtualization with MidoNet
+  location: San Diego, CA
+  speaker: OpenStack San Diego
+  start: 2016-12-14 21:30 UTC
+  end: 2016-12-14 22:30 UTC
+  description: |
+      San Diego, CA, US
+      Open Source Network Virtualization with MidoNet
+      https://www.meetup.com/OpenStack-SD/events/234275780/
+
+- title: From Newton to Ocata
+  location: Milano, MI
+  speaker: OpenStack Milano
+  start: 2016-12-14 13:00 UTC
+  end: 2016-12-14 14:00 UTC
+  description: |
+      Milano, MI, IT
+      From Newton to Ocata
+      https://www.meetup.com/Meetup-OpenStack-Milano/events/234800766/
+
+- title: OpenStack
+  location: Murcia, ES
+  speaker: Murcia DevOps
+  start: 2016-12-14 13:00 UTC
+  end: 2016-12-14 14:00 UTC
+  description: |
+      Murcia, ES
+      OpenStack
+      https://www.meetup.com/murciadevops/events/235953741/
+
+- title: Let's install DevStack on an Intel NUC and raffle it off!
+  location: Calgary, AB
+  speaker: Calgary OpenStack Meetup
+  start: 2016-12-15 20:00 UTC
+  end: 2016-12-15 21:00 UTC
+  description: |
+      Calgary, AB, CA
+      Let's install DevStack on an Intel NUC and raffle it off!
+      https://www.meetup.com/Calgary-OpenStack-Meetup/events/235761870/
+
+- title: BotFactory Automation for Cloud Infrastructure & Ansible All-In-One on AWS
+  location: Washington, DC
+  speaker: OpenStack DC
+  start: 2016-12-15 18:30 UTC
+  end: 2016-12-15 19:30 UTC
+  description: |
+      Washington, DC, US
+      BotFactory Automation for Cloud Infrastructure & Ansible All-In-One on AWS
+      https://www.meetup.com/OpenStackDC/events/235107128/
+
+- title: OpenStack & OpenContrail in Production Best Practices from a SaaS leader
+  location: Santa Clara, CA
+  speaker: Container Networking and Application Services
+  start: 2016-12-15 21:30 UTC
+  end: 2016-12-15 22:30 UTC
+  description: |
+      Santa Clara, CA, US
+      OpenStack & OpenContrail in Production Best Practices from a SaaS leader
+      https://www.meetup.com/ContainerNetworking/events/235738113/
 
