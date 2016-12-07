@@ -2,6 +2,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     json (1.8.3)
+    kramdown (1.12.0)
     kwalify (0.7.2)
 
 PLATFORMS
@@ -9,6 +10,7 @@ PLATFORMS
 
 DEPENDENCIES
   json
+  kramdown
   kwalify
 
 BUNDLED WITH
