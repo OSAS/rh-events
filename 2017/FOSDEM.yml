@@ -1,10 +1,120 @@
 name: FOSDEM
-location: Brussels, Belgium
-start: 2017-02-04
-end: 2017-02-05
-tags: ovirt
 description: |
-  FOSDEM is a free event for software developers to meet, share ideas and collaborate. Every year, thousands of developers of free and open source software from all over the world gather at the event in Brussels.
+  FOSDEM is a free event for software developers to meet, share ideas
+  and collaborate. Every year, thousands of developers of free and
+  open source software from all over the world gather at the event in
+  Brussels.
 
   Additional details about the conference are available at
   <https://fosdem.org/2017/>.
+location: Brussels, Belgium
+tags: oVirt
+start: 2017-02-04
+end: 2017-02-05
+talks:
+
+- title: 'Fortification vs memcheck: making GCc/glibc fortification and Valgrind memcheck
+    work better together'
+  speaker: Mark Wielaard
+  start: 2017-02-04 15:00 CET
+  end: 2017-02-04 16:00 CET
+  room: AW1.124
+  track: Valgrind
+  description: |
+    gcc/glibc support fortification of some functions by defining
+    _FORTIFY_SOURCE. This inserts some compile and runtime buffer overflow
+    checks for selected glibc functions. These checks have no or very
+    little runtime overhead and work on the object level (the compiler
+    provides/proofs the size of the object buffer size). valgrind memcheck
+    provides similar memory buffer overflow checks. These checks don't need
+    any compiler help (you won't have to rebuild your code). But they have
+    a much higher runtime overhead. They also work on a different level.
+    valgrind memcheck doesn't know anything about the objects the user is
+    manipulation but has knowledge of all memory blocks allocated. Lets
+    explore how these different mechanisms work and how we can make them
+    work better together.
+
+- title: Managing container infrastructure
+  speaker: Piotr Kliczewski
+  start: 2017-02-04 10:00 CET
+  end: 2017-02-04 10:25 CET
+  room: UB2.252A / Lameere
+  track: Virtualisation and IaaS
+  description: |
+    During this presentation we will see how to manage infrastructure which
+    is used to run containers. We will see how to use reliable vms
+    provisioned by ovirt and run openshift containers on them by using
+    single management UI (manageiq) with ansible modules.
+
+- title: Pet-VMs and containers united?
+  speaker: Roman Mohr
+  start: 2017-02-04 11:00 CET
+  end: 2017-02-04 11:40 CET
+  room: UB2.252A / Lameere
+  track: Virtualisation and IaaS
+  description: |
+    How do you integrate containers in your IaaS? In a VM based IaaS
+    environment, introducing containers can be a painful experience. Most
+    likely you end up running containers inside VMs to reuse existing
+    infrastructure, or you start dividing your data-center into a
+    container- and a VM-world. Either way, you have two management
+    solutions and non optimal resource management. But what if we put VMs
+    inside containers? Would such a copernican revolution give us some
+    benefits? This talk covers our research around using Kubernetes as a
+    virtual machines cluster manager.
+
+- title: 'VM: hey VM, can i share a host with you? (affinity rules in a virtual cluster)'
+  speaker: Martin Sivák
+  start: 2017-02-04 15:30 CET
+  end: 2017-02-04 16:10 CET
+  room: UB2.252A / Lameere
+  track: Virtualisation and IaaS
+  description: |
+    The workloads and scenarios for virtual machines grow more complex
+    every year. So do the interactions, availability, and performance
+    requirements. All that requires the administrators to carefully plan
+    where to start the VMs that depend on each other and/or specific hosts.
+
+    This talk will present the concepts that allow the administrator to
+    express the rules for affinity between virtual machines and between
+    virtual machines and hosts to form complex relationships that will
+    cover for example:
+
+    - licensing rules - limiting group of VMs to only use certain hosts
+    - overhead - web + database VMs running together
+    - performance - eg. storage VMs running on hosts with better IO
+    performance
+    - failover recovery - VMs returning to “their” hosts
+    - reservation - There is place for only one of us!
+
+    oVirt is an open source project for managing virtual data centers that
+    will now help the administrator with exactly the above tasks. We have
+    introduced the virtual machine affinity feature in the past and a huge
+    improvement in that area is coming right now.
+
+    And the best part is that all this works in a fully dynamic environment
+    with automatic conflict resolution and no manual management of host
+    pinning rules, saving the administrator his precious time.
+
+- title: 'Using nvdimm under KVM: applications of persistent memory in virtualization'
+  speaker: Stefan Hajnoczi
+  start: 2017-02-04 16:15 CET
+  end: 2017-02-04 16:55 CET
+  room: UB2.252A / Lameere
+  track: Virtualisation and IaaS
+  description: |
+    The introduction of non-volatile memory changes how applications,
+    databases, and virtual machines will work in the future. NVDIMM is not
+    simply a faster block device. Programs can avoid block I/O entirely and
+    use byte-addressable NVDIMM to benefit from the performance
+    characteristics of RAM. This requires new storage APIs that
+    applications must use instead of traditional block I/O.
+
+    These new programs run successfully inside KVM virtual machines thanks
+    to the vNVDIMM support already available in QEMU. Virtualization offers
+    additional options for managing and using NVDIMM beyond what is
+    available on bare metal.
+
+    This talk covers the NVDIMM programming model and how KVM virtual
+    machines can use NVDIMM for faster I/O, reduced memory footprint, and
+    faster boot times.
