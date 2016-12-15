@@ -13,6 +13,21 @@ start: 2017-02-04
 end: 2017-02-05
 talks:
 
+- title: 'A discussion of Fedora''s legal state: this is why i drink.'
+  speaker: Tom Callaway
+  start: 2017-02-04 17:05 CET
+  end: 2017-02-04 17:30 CET
+  room: H.1301 / Cornil
+  track: Legal and Policy Issues
+  description: |
+    Tom Callaway, the Fedora Legal chair, will talk about the past,
+    present, and future of licensing and legal issues in the Fedora
+    community. Tom is not a lawyer, nor does he play one on TV, but he does
+    consult with lawyers, and occasionally, go drinking with them. Bring
+    your questions, and he'll do his best to answer them. I am not a
+    lawyer, so nothing in my presentation should be (or could be) construed
+    as legal advice.
+
 - title: 'Fortification vs memcheck: making GCc/glibc fortification and Valgrind memcheck
     work better together'
   speaker: Mark Wielaard
@@ -34,10 +49,22 @@ talks:
     explore how these different mechanisms work and how we can make them
     work better together.
 
+- title: 'Modularity & generational core: the future of Fedora?'
+  speaker: Petr Šabata, Adam Samalik
+  start: 2017-02-04 14:30 CET
+  end: 2017-02-04 15:20 CET
+  room: K.4.601
+  track: Distributions
+  description: |
+    Following the progress of the Modularity initiative and Factory 2.0
+    developments in Fedora, it's about time we define what the next,
+    modular operating system should look like, focusing on the developer’s
+    point of view.
+
 - title: Managing container infrastructure
   speaker: Piotr Kliczewski
-  start: 2017-02-04 10:00 CET
-  end: 2017-02-04 10:25 CET
+  start: 2017-02-04 10:30 CET
+  end: 2017-02-04 10:55 CET
   room: UB2.252A / Lameere
   track: Virtualisation and IaaS
   description: |
@@ -46,10 +73,33 @@ talks:
     provisioned by ovirt and run openshift containers on them by using
     single management UI (manageiq) with ansible modules.
 
+- title: 'The next generation: certainty in shared storage environments'
+  speaker: Adam Litke
+  start: 2017-02-04 12:00 CET
+  end: 2017-02-04 12:25 CET
+  room: UB2.252A / Lameere
+  track: Virtualisation and IaaS
+  description: |
+    In oVirt datacenter virtualization environments, a manager directs
+    hosts to initiate operations to shared storage. These operations create
+    or remove volumes, copy data between volumes, create or merge
+    snapshots, and various other actions related to virtual machine
+    storage. For efficiency and balance these operations should be
+    distributed across multiple hosts and run in parallel when possible.
+    Maintaining reliability under real world conditions requires careful
+    management and resilient algorithms. This talk will introduce some of
+    the problems that can arise including: dropped communications,
+    scheduling conflicts, and host or storage array failure. Next, a
+    solution to these problems using shared storage locking, atomic
+    operations, volume generations, and forensic analysis of the storage
+    will be presented. Through step by step examples, the audience will
+    understand how the proposed solution can solve all of the outlined
+    problems.
+
 - title: Pet-VMs and containers united?
   speaker: Roman Mohr
-  start: 2017-02-04 11:00 CET
-  end: 2017-02-04 11:40 CET
+  start: 2017-02-04 12:30 CET
+  end: 2017-02-04 13:10 CET
   room: UB2.252A / Lameere
   track: Virtualisation and IaaS
   description: |
@@ -63,10 +113,56 @@ talks:
     benefits? This talk covers our research around using Kubernetes as a
     virtual machines cluster manager.
 
-- title: 'VM: hey VM, can i share a host with you? (affinity rules in a virtual cluster)'
-  speaker: Martin Sivák
+- title: 'QEMU: internal APIs and conflicting world views (how abstractions indide
+    QEMU (don''t) work together)'
+  speaker: Eduardo Habkost
+  start: 2017-02-04 13:15 CET
+  end: 2017-02-04 13:55 CET
+  room: UB2.252A / Lameere
+  track: Virtualisation and IaaS
+  description: |
+    QEMU is an open source machine emulator and virtualizer written in C.
+    Over time it has evolved multiple interfaces to interact with the
+    outside world, and multiple internal APIs and abstractions to model and
+    keep track of data. The talk will be a review of some of the challenges
+    and trade-offs involved in making those abstractions work together.
+
+- title: Improving your virtualization development workflow with lago
+  speaker: Rafael Martins
   start: 2017-02-04 15:30 CET
   end: 2017-02-04 16:10 CET
+  room: UB2.252A / Lameere
+  track: Virtualisation and IaaS
+  description: |
+    Lago is an ad-hoc virtual framework which helps you build virtualized
+    environments on your server or laptop for various use cases. It creates
+    and orchestrates virtual machines that can be used to run test suites
+    and allow a developer to quickly test his code change on non-trivial
+    flows such as live migration even before starting the CI process. In
+    this session, we will walk through the usage of Lago in the oVirt
+    project and how it can be extended to assist virtualization developers.
+
+- title: '20 years of Linux virtual memory: from simple server workloads to cloud
+    virtualization'
+  speaker: Andrea Arcangeli
+  start: 2017-02-04 16:15 CET
+  end: 2017-02-04 16:55 CET
+  room: UB2.252A / Lameere
+  track: Virtualisation and IaaS
+  description: |
+    Andrea will provide a high level perspective of the most notable
+    milestones in the long term evolution of the Linux Virtual Memory and
+    Virtualization subsystems. In addition, Andrea will explore recent
+    advances in Memory Management related to the KVM Virtualization
+    Hypervisor, such as NUMA balancing, THP, KSM and userfaultfd/postcopy
+    live migration. Andrea will cover best practices, providing the
+    audience with an understanding of when and how to leverage these
+    features in their environments.
+
+- title: 'VM: hey VM, can i share a host with you? (affinity rules in a virtual cluster)'
+  speaker: Martin Sivák
+  start: 2017-02-04 17:00 CET
+  end: 2017-02-04 17:40 CET
   room: UB2.252A / Lameere
   track: Virtualisation and IaaS
   description: |
@@ -98,8 +194,8 @@ talks:
 
 - title: 'Using nvdimm under KVM: applications of persistent memory in virtualization'
   speaker: Stefan Hajnoczi
-  start: 2017-02-04 16:15 CET
-  end: 2017-02-04 16:55 CET
+  start: 2017-02-04 17:45 CET
+  end: 2017-02-04 18:10 CET
   room: UB2.252A / Lameere
   track: Virtualisation and IaaS
   description: |
