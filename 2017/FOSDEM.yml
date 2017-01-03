@@ -13,6 +13,39 @@ start: 2017-02-04
 end: 2017-02-05
 talks:
 
+- title: 'User session recording for the enterprise: an open-source effort by Red
+    Hat'
+  speaker: Nikolai Kondrashov
+  start: 2017-02-04 12:00 CET
+  end: 2017-02-04 12:50 CET
+  room: K.1.105 / La Fontaine
+  track: Miscellaneous
+  description: |
+    Now, when many IT-related services are delegated to external parties,
+    government, medical, financial, and other organizations need tight
+    tracking of what users and administrators do on their critical systems.
+    Up to recording everything they see on the screen, the commands they
+    execute, and files they access.
+
+    In this presentation Nikolai Kondrashov will review available solutions
+    for user session recording, open-source and otherwise, their benefits
+    and shortcomings, and will present a new effort to create an integrated
+    Open-Source solution.
+
+    While there are many capable solutions for session recording, which can
+    centrally collect, search and playback sessions, there is no such
+    open-source code. The best we have is jump servers with script(1), or
+    sudo I/O logging, all manually set up. This presentation will show an
+    approach that would meet the needs of the modern enterprise.
+
+    The presentation will include a demo of a user session and accompanying
+    data being recorded, stored centrally, inspected and played back.
+
+    The intended audience is developers of security, identity and policy
+    management systems, as well as system administrators and security
+    officers responsible for maintaining critical systems and preventing
+    insider attacks.
+
 - title: 'A discussion of Fedora''s legal state: this is why i drink.'
   speaker: Tom Callaway
   start: 2017-02-04 17:05 CET
@@ -28,11 +61,112 @@ talks:
     lawyer, so nothing in my presentation should be (or could be) construed
     as legal advice.
 
+- title: Welcome!
+  speaker: Mario Torre
+  start: 2017-02-04 10:55 CET
+  end: 2017-02-04 11:00 CET
+  room: H.1302 / Depage
+  track: Free Java
+  description: Welcome to the Free Java DevRoom!
+
+- title: Diagnosing issues in Java apps using Thermostat and byteman.
+  speaker: Severin Gehwolf
+  start: 2017-02-04 12:30 CET
+  end: 2017-02-04 12:55 CET
+  room: H.1302 / Depage
+  track: Free Java
+  description: |
+    Thermostat is a monitoring and management tool for Java deployments,
+    allowing users to measure and monitor a host of different performance
+    aspects of their Java applications. Available metrics range from raw
+    CPU and memory usage to operation of the Garbage Collector and JIT
+    compiler through to thread activity and method call/heap profiles.
+    Thermostat provides a GUI view of activity of local and distributed
+    JVMs in a live-view or, alternatively, offline for after-the-fact
+    analysis.
+
+    What Thermostat cannot do on its own is track events and record
+    statistics that are specific to a given Java application, at least not
+    unless the application co-operates with it, for example by publishing
+    JMX statistics that Thermostat can read, persist and display in its
+    GUI. However, that's about to change thanks to work Thermostat
+    developers have been doing to integrate Byteman into Thermostat.
+
+    Byteman is a tool which can be used to modify the behaviour of Java
+    programs by injecting extra Java code almost anywhere in the program.
+    You don't need to recompile your program or even prepare it in advance
+    in order for this to work. You can specify changes to the program on
+    the command line but, what is more amazing, you can actually use
+    Byteman to change the way a program runs after startup while it is
+    still running.
+
+    In this talk we will show how Thermostat can collect and visualize
+    metrics with Byteman's help in order to better understand a specific
+    performance issue in a Java application.
+
+- title: 'Shenandoah: why do we need yet another garbage collector'
+  speaker: Christine H Flood, Roman Kennke
+  start: 2017-02-04 14:00 CET
+  end: 2017-02-04 14:25 CET
+  room: H.1302 / Depage
+  track: Free Java
+  description: |
+    Garbage Collection (GC) liberates the programmer from having to call
+    malloc and free. More importantly GC saves the programmer from having
+    to debug their mistakes when using malloc and free. Unfortunately the
+    details of how GC works are often a black box. This talk will start
+    with a tour of all of the GC algorithms currently available in OpenJDK.
+    We'll discuss how they work, their strengths and weaknesses, and which
+    class of applications they were developed for. We'll work our way
+    through serial gc, parallel gc, concurrent mark and sweep, and g1.
+    We'll make the case for why we need all of them and just one more GC
+    algorithm, Shenandoah.
+
+    Shenandoah is a parallel and concurrent GC algorithm designed for
+    applications with 100gb+ heaps and tight pause time constraints. It's
+    the first GC algorithm targeting OpenJDK which compacts the live
+    objects while the Java threads are running. We'll describe the
+    algorithm itself, the implementation details, and the optimizations
+    needed to achieve good performance. We'll present performance numbers
+    and give a demo that visualizes Shenandoah.
+
+- title: Ruby's strings and what Java can learn from them
+  speaker: Charles Nutter
+  start: 2017-02-04 15:30 CET
+  end: 2017-02-04 15:55 CET
+  room: H.1302 / Depage
+  track: Free Java
+  description: |
+    Ruby's Strings aggregate a collection of bytes and an encoding,
+    allowing for IO to avoid transcoding, regular expressions to execute
+    against raw bytes, and 7-bit strings to be compactly represented. Only
+    the last item has been adopted by Java. To make matters worse, most
+    Java APIs depend on Java's string representation, making them
+    incompatible with alternative languages like Ruby. We'll explore the
+    advantages of Ruby's string compared to Java's and discuss options for
+    improving Java's string support in the future.
+
+- title: Helping Linux and Java play well together
+  speaker: Christine H Flood
+  start: 2017-02-04 17:00 CET
+  end: 2017-02-04 17:25 CET
+  room: H.1302 / Depage
+  track: Free Java
+  description: ''
+
+- title: OpenJDK governing board Q&A
+  speaker: Mark Reinhold, Mario Torre, Andrew Haley, Georges Saab, Doug Lea
+  start: 2017-02-04 18:00 CET
+  end: 2017-02-04 18:30 CET
+  room: H.1302 / Depage
+  track: Free Java
+  description: An open Q&A session with members of the OpenJDK Governing Board
+
 - title: 'Fortification vs memcheck: making GCc/glibc fortification and Valgrind memcheck
     work better together'
   speaker: Mark Wielaard
-  start: 2017-02-04 15:00 CET
-  end: 2017-02-04 16:00 CET
+  start: 2017-02-04 13:30 CET
+  end: 2017-02-04 14:30 CET
   room: AW1.124
   track: Valgrind
   description: |
@@ -49,6 +183,83 @@ talks:
     explore how these different mechanisms work and how we can make them
     work better together.
 
+- title: 'Does your coffee machine speaks bocce: teach your iot thing to speak modbus
+    and it will not stop talking'
+  speaker: Yaacov Zamir
+  start: 2017-02-04 10:30 CET
+  end: 2017-02-04 10:55 CET
+  room: AW1.126
+  track: Internet of Things
+  description: |
+    There are many IoT dashboards out on the web, most will require network
+    connection to a server far far away, and use non standard protocols. We
+    will show how to combine free software tools and protocols from the
+    worlds of IT monitoring, Industrial control and IoT to create simple
+    yet robust dashboards.
+
+    Modbus [1] is a serial communication protocol developed in 1979 for use
+    with programmable logic controllers (PLCs). In simple terms, it is a
+    method used for transmitting information over serial lines between
+    electronic devices., it’s openly published, royalty-free, simple and
+    robust.
+
+    Many industrial controllers can speak Modbus, we can also teach “hobby”
+    devices like Arduino boards and ESP8266 to speak Modbus [2]. Reliable,
+    robust and simple free software Modbus client [3] will be used to
+    acquire the metrics from our device, then the metrics will be collected
+    [6][7] and sent to Hawkular and Grafana [8] to store and visualize our
+    data.
+
+    (\*) http://starwars.wikia.com/wiki/Bocce
+
+    [1] https://en.wikipedia.org/wiki/Modbus [2]
+    https://github.com/yaacov/ArduinoModbusSlave [3]
+    https://github.com/yaacov/node-modbus-serial [6]
+    https://github.com/hawkular/hawkular-client-python [7]
+    https://github.com/yaacov/hawkular-client-cli [8]
+    https://github.com/hawkular/hawkular-grafana-datasource
+
+- title: 'JRuby in 2017: rails 5, Ruby 2.4, performance (we''ll survey the work going
+    on to make JRuby more compatible and faster in 2017)'
+  speaker: Charles Nutter
+  start: 2017-02-04 13:45 CET
+  end: 2017-02-04 14:35 CET
+  room: K.4.201
+  track: Ruby
+  description: ''
+
+- title: 'Extensions: ugly toupee or hipster hairdo?'
+  speaker: Stephan Bergmann
+  start: 2017-02-04 12:50 CET
+  end: 2017-02-04 13:10 CET
+  room: K.4.401
+  track: Open Document Editors
+  description: |
+    "But what about the extensions?" can be the death knell for whatever
+    cool new feature somebody tries to implement in LibreOffice, as
+    extensions naturally ask for interface stability. But what about them,
+    anyway? Are they the saviour that brings diversity to our desktops, or
+    are they just a ghostly phantom that stifles innovation? Lets take a
+    look at the extension landscape out there.
+
+- title: LibreOffice on Wayland via gtk3
+  speaker: Caolán McNamara
+  start: 2017-02-04 14:10 CET
+  end: 2017-02-04 14:30 CET
+  room: K.4.401
+  track: Open Document Editors
+  description: ''
+
+- title: What the cell?! (unexpected things happening under the grid.)
+  speaker: Eike Rathke
+  start: 2017-02-04 16:10 CET
+  end: 2017-02-04 16:30 CET
+  room: K.4.401
+  track: Open Document Editors
+  description: |
+    Some examples of weird behavior encountered while developing / bug
+    fixing the LibreOffice Calc spreadsheet application.
+
 - title: 'Modularity & generational core: the future of Fedora?'
   speaker: Petr Šabata, Adam Samalik
   start: 2017-02-04 14:30 CET
@@ -60,6 +271,34 @@ talks:
     developments in Fedora, it's about time we define what the next,
     modular operating system should look like, focusing on the developer’s
     point of view.
+
+- title: 'Next generation config mgmt: autonomous systems'
+  speaker: James Shubin
+  start: 2017-02-04 15:00 CET
+  end: 2017-02-04 15:50 CET
+  room: UA2.220 / Guillissen
+  track: Config management
+  description: |
+    Next Generation Config Mgmt
+
+    A presentation about a next gen config management tool, and the
+    specific problems this project solves.
+
+    Three of the main design features of the tool include: \* Parallel
+    execution \* Event driven mechanism \* Distributed architecture
+
+    This talk will demo a prototype I've built that implements these ideas
+    and which is written in golang. I will start by presenting an
+    introduction to the tool. I will then demo the new features that were
+    added since the project was introduced. This will include the automatic
+    grouping, automatic elastic etcd clustering and remote execution
+    features. I will finally share some of the future planned designs for
+    the tool.
+
+    An introductory blog post on the subject is available.
+    https://ttboj.wordpress.com/2016/01/18/next-generation-configuration-mgmt/
+    Attendees are encouraged to read it before the talk if they are
+    interested!
 
 - title: Managing container infrastructure
   speaker: Piotr Kliczewski
@@ -214,3 +453,214 @@ talks:
     This talk covers the NVDIMM programming model and how KVM virtual
     machines can use NVDIMM for faster I/O, reduced memory footprint, and
     faster boot times.
+
+- title: Creating the open connected car with genivi
+  speaker: Zeeshan Ali (Khattak)
+  start: 2017-02-04 12:00 CET
+  end: 2017-02-04 12:30 CET
+  room: UD2.120 / Chavanne
+  track: Embedded, mobile and automotive
+  description: |
+    A number of new components have matured in GENIVI to provide a true
+    connected car experience. A couple of them are key connectivity
+    components; namely SOTA (Software Over the Air) and RVI (Remote Vehicle
+    Interface). This talk will discuss both these components, how they work
+    together, the security work done on them and their integration into the
+    GENIVI Development Platform.
+
+    This talk will also run down the overall status of GENIVI's development
+    platform and how it can enable an automotive stack to speak not just
+    with the cloud, but with IoT devices via Iotivity interface. The new
+    GENIVI Development Platform (GDP) technical lead, Zeeshan Ali, will
+    give the talk.
+
+- title: 'Securing automated decryption: new cryptography and techniques'
+  speaker: Nathaniel McCallum
+  start: 2017-02-05 13:00 CET
+  end: 2017-02-05 13:50 CET
+  room: Janson
+  track: Security and Encryption
+  description: |
+    This talk covers an alternative to key escrows using new cryptographic
+    techniques implemented by the Clevis (client) and Tang (server)
+    projects.
+
+- title: 'Write a better fm: read the f* manual? maybe you need to write a better
+    f* manual'
+  speaker: Rich Bowen
+  start: 2017-02-05 10:00 CET
+  end: 2017-02-05 10:50 CET
+  room: K.1.105 / La Fontaine
+  track: Documentation
+  description: |
+    Project documentation is so much more than just the formal manual. It's
+    how you present yourself in all the forums where users may ask for help
+    - IRC, mailing lists, StackOverflow, and in-person events. If you want
+    people to use your project, and if you want people to join your
+    project, you must be willing to listen to their needs, and be welcoming
+    of their contributions.
+
+- title: Bridging the gap between legacy docs and modular content
+  speaker: Robert Kratky
+  start: 2017-02-05 11:00 CET
+  end: 2017-02-05 11:50 CET
+  room: K.1.105 / La Fontaine
+  track: Documentation
+  description: |
+    How to turn legacy docs into user-story-based, modular content to
+    better serve users while reducing maintenance load and overall amount
+    of docs.
+
+- title: Do you want to retry? (handling and testing network failures)
+  speaker: Anton Marchukov
+  start: 2017-02-05 13:35 CET
+  end: 2017-02-05 14:20 CET
+  room: H.2213
+  track: Testing and Automation
+  description: |
+    The world is not perfect and network failures do happen. Complaining
+    about instability might not always be enough. Especially when your
+    system depends on multiple networked services and each of them is on a
+    critical path to the final result.
+
+    This talk will follow a real story of an attempt to implement network
+    errors handling by retries functionality that is inside urllib3 and
+    requests Python libraries. More importantly we will simulate poor
+    network conditions on a local machine using Linux Network Emulator and
+    then will reason on how effective the attempt was and what can be
+    further improved.
+
+    This is a proper treatment the networked systems should get when they
+    are designed, developed and tested. And it is great that all the tools
+    necessary are already there in most popular Linux distributions.
+
+- title: 'Interviews as user research: how i built a public transportation UI using
+    interviews'
+  speaker: Andreas Nilsson
+  start: 2017-02-05 14:30 CET
+  end: 2017-02-05 14:50 CET
+  room: AW1.121
+  track: Open Source Design
+  description: |
+    An important aspect of humane interfaces is meeting the needs of a
+    variety of people. They all have different skills, restrictions and
+    whims. How do you figure out what exactly those are?
+
+    In this presentation I’ll talk about how I used user interviews and
+    personas for that purpose, using them as tools for discussions and
+    implementation of Public Transportation in GNOME Maps. I'll talk about
+    how I interviewed people from both cities and countryside, from both
+    Brazil and Sweden, and how their insights challanged my own perceptions
+    about what people need from a public transportation UI.
+
+- title: Getting your issues fixed
+  speaker: Tomer Brisker
+  start: 2017-02-05 10:10 CET
+  end: 2017-02-05 10:45 CET
+  room: AW1.124
+  track: Community
+  description: |
+    You think you hit a bug in open source project. Now what? In this talk
+    we will go over everything from where to get support when you hit an
+    issue, through submitting a useful bug report, to how to contribute a
+    fix that will get accepted quickly. I will also talk a bit about my
+    work as a maintainer.
+
+- title: 'Mentoring 101: how to be a great community mentor'
+  speaker: Brian Proffitt
+  start: 2017-02-05 11:20 CET
+  end: 2017-02-05 11:55 CET
+  room: AW1.124
+  track: Community
+  description: |
+    In this presentation, Brian Proffitt will explain best practices for
+    being a good community mentor, setting up scope-appropriate projects,
+    and troubleshooting when things start going off the plan.
+
+- title: Overcoming culture clash
+  speaker: Dave Neary
+  start: 2017-02-05 12:30 CET
+  end: 2017-02-05 13:05 CET
+  room: AW1.124
+  track: Community
+  description: |
+    We are all a product of our experiences. Different communities around
+    the world have different core assumptions about behaviour, how
+    decisions are made, the role of the individual in a group, and more.
+    What makes up culture, and can we have better community experiences by
+    understanding it?
+
+- title: 'LLVM at Red Hat: how and where is LLVM used in the Red Hat ecosystem'
+  speaker: Dodji Seketeli
+  start: 2017-02-05 16:10 CET
+  end: 2017-02-05 16:15 CET
+  room: K.3.201
+  track: LLVM Toolchain
+  description: ''
+
+- title: 'Web vr: create vr content with a-frame and firefox'
+  speaker: Sumantro Mukherjee
+  start: 2017-02-05 15:10 CET
+  end: 2017-02-05 15:40 CET
+  room: K.4.401
+  track: Desktops
+  description: |
+    Virtual Reality (VR) is the use of computer technology to create a
+    simulated 3D world where the users are immersed. Having a pretty
+    dynamic coverage, the VR can be either on Web - where the app can run
+    on a browser or it can be used as package.
+
+- title: Taking containers from development to production
+  speaker: Ratnadeep Debnath
+  start: 2017-02-05 09:50 CET
+  end: 2017-02-05 10:35 CET
+  room: UA2.220 / Guillissen
+  track: Linux Containers and Microservices
+  description: |
+    Containers are great in terms of application packaging and delivery,
+    but there’s a lot of noise in the space. But when it comes to
+    multi-container applications, most production setups use advanced
+    container orchestration technologies like Kubernetes, Openshift,
+    Mesos/Marathon, which are not that developer friendly.
+
+    Developers prefer docker-compose for its simplicity. This talk will
+    showcase our ongoing efforts at Red Hat, Skippbox and Google to bridge
+    this gap between deploying containers in development to production, and
+    the need to standardize a multiple container definition spec which
+    works seamlessly across different environments and container
+    orchestration platforms.
+
+- title: The easiest way to start developing with OpenShift
+  speaker: Lalatendu Mohanty
+  start: 2017-02-05 12:45 CET
+  end: 2017-02-05 12:50 CET
+  room: UA2.220 / Guillissen
+  track: Linux Containers and Microservices
+  description: |
+    OpenShift version 3 is an open-source Platform-as-a-Service (PaaS)
+    based on docker-formatted container images and the Kubernetes project.
+    Kubernetes is an open-source project for orchestration, deployment
+    automation, auto-scaling, and management of containerized applications.
+    OpenShift combines all of the benefits of docker and Kubernetes and
+    adds features like automatic image building, a local docker registry,
+    storage integration, networking, and Continous Integration (CI) tools
+    such as Jenkins, to deliver a platform for Continuous Delivery (CD).
+    Simply put, just bring your application code and OpenShift will build
+    the required Docker images and run the application on OpenShift with
+    Kubernetes. OpenShift is also ideal for deploying the microservices
+    that containers make so easy to implement.
+
+- title: 'Cloud native Java development: patterns and principles for designing Java
+    applications to run on kubernetes'
+  speaker: Bilgin Ibryam
+  start: 2017-02-05 12:55 CET
+  end: 2017-02-05 13:05 CET
+  room: UA2.220 / Guillissen
+  track: Linux Containers and Microservices
+  description: |
+    Kubernetes is awesome. But what does it takes for a Java developer to
+    design, implement and run Cloud Native applications? In this session we
+    will look at Kubernetes from a user point of view and demonstrate how
+    to consume it effectively. We will discover which concerns Kubernetes
+    addresses and how it helps to develop highly scalable and resilient
+    Java applications.
