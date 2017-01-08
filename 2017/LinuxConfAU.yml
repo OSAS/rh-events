@@ -9,3 +9,94 @@ description: |
   Additional details about the conference are available at
   <http://http://hobart.lca2017.org/>.
 talks:
+
+- title: Almost Open - Just close the door behind you 
+  speaker: Steven Ellis
+  start: 2017-16-01 11:30 AEDT
+  end: 2017-16-01 12:20 AEDT
+  room:  Tasman Hall B/C
+  track: Open Knowledge Mini-Conf
+  description: |
+    We are potentially at an interesting tipping point in the future of Free and Open Source software as more of our interactions are managed by services rather than applications. Does Open Source have a future or are we pivoting towards a services based ecosystem where the best we can hope for is some degree of Open Standards? These open standards have no specific entity tasked with defining each of them, yet every day we hear about Open Hardware, Open Government, Open APIs.
+    What does Open mean within the ecosystem you operate within, and how can we continue to be a catalyst for the journey and grow the Open Source movement when so many closed outcomes are being produced from the Open Source ecosystem?
+    This is a collaborative session to look unpack the issue and formulate some actions that can be used by the attendees within their communities, businesses and organisations.
+
+- title: Turtles all the way down - Thin LVM + KVM tips and Tricks
+  speaker: Steven Ellis
+  start: 2017-16-01 15:50 AEDT
+  end: 2017-16-01 16:10 AEDT
+  room:  Plenary Hall
+  track: Sysadmin Mini-Conf
+  description: |
+    Tips and tricks for both operators and developers to get the most out of ThinLVM and KVM when building demo environments, or optimising real world business solutions.
+
+- title: FreeIPA project update (turbo talk)
+  speaker: Fraser Tweedale 
+  start: 2017-17-01 16:50 AEDT
+  end: 2017-17-01 17:00 AEDT
+  room:  Plenary Hall
+  track: Security and Privacy Mini-Conf
+  description: |
+    This turbo talk will cover advances in FreeIPA over the past two years
+
+- title: A Layperson's Guide for Talking about Free Software Law
+  speaker: Rikki Endsley
+  start: 2017-17-01 16:50 AEDT
+  end: 2017-17-01 17:15 AEDT
+  room:  Tasman Hall A
+  track: Law and Policy Mini-Conf
+  description: |
+    Whether you're a layperson talking about free software law, or a lawyer speaking to a layperson, how you deliver your message determines how well your audience understands it. In this talk we'll look at common mistakes laypeople make when interpreting legal issues, and tips for legal experts for condensing and explaining complicated topics to the layperson. We'll also take a quick look at hot free software law and policy topics, the kinds of people writing about them (e.g., lawyers vs. programmers), and what's missing (i.e., the topics community members want to learn more about).
+
+
+- title: Why haven't you licensed your project?
+  speaker: Richard Fontana
+  start: 2017-18-01 13:20 AEDT
+  end: 2017-18-01 14:05 AEDT
+  room:  Wellington Room 1
+  track: 
+  description: |
+    During the past few years, some have argued that we are living in a "post-open source software" ("POSS") era, characterized by a new generation of developers who work on public software projects without any effort to indicate licensing or any regard to project governance. One view is that this represents an increase in carelessness or legal misunderstanding among developers. However, others have suggested that this behavior may be a deliberate reaction against the "permission culture" inherent in traditional approaches to open source. GitHub has been blamed for this phenomenon and it has taken some measures to address it.  This talk will explore some legal and policy issues surrounding the tendency (real or supposed) for developers to fail to explicitly license their code
+
+- title: "Drink from the firehose: release-monitoring.org"
+  speaker: Nick Coghlan
+  start: 2017-18-01 15:40 AEDT
+  end: 2017-18-01 16:25 AEDT
+  room:  Tasman Hall B/C
+  track: 
+  description: |
+    For a long time, the preferred approach to network service security has been the hardened bunker: define a system, deploy it, and patch it promptly when security vulnerabilities in the components used are reported and fixed.
+    However, continuous integration services and automated deployments have opened up a new model: the moving target that grabs new releases of dependencies almost as soon as they are available, runs them through the CI process like any other software change, and then deploys them to production. Even if a new security flaw slips through testing, that's considered better than being exposed to the flaws that were classified as normal bug fixes, but actually represented security issues.
+    release-monitoring.org is a shared community service born out of the Fedora Infrastructure team that monitors for new upstream releases, and emits structured events that can be used to automatically trigger appropriate follow-on action.
+    So if you'd like to learn how to drink from the firehose, this talk's for you!
+
+
+- title: The Vulkan Graphics API - what it means for Linux
+  speaker: David Airlie
+  start: 2017-19-01 10:40 AEDT
+  end: 2017-19-01 11:25 AEDT
+  room:  Wellington Room 1
+  track: 
+  description: |
+    OpenGL has long been the 3D API used on the Linux platform. However recently the Khronos group released the Vulkan 1.0 standard which covers a new closer to the metal API for 3D graphics programming across multiple operating systems. This talk will provide a brief introduction to the API and how supported the API is under Linux. The speaker will also discuss possible future uses for this new API and the advantages it brings.
+
+- title: Designing a Race Car with Open Source Tools
+  speaker: David Chinner
+  start: 2017-20-01 14:15 AEDT
+  end: 2017-20-01 15:00 AEDT
+  room:  Plenary
+  track: 
+  description: |
+    After I ran out of talent and had a high speed encounter with an immovable object in May 2016, I needed to build a new race car. The car I crashed is somewhat unique for many reasons - it's a Locost Clubman. The car has a space frame chassis, based on the original 1957 Lotus 7 designed by Colin Chapman. In the early 1990s, Ron Champion published a Haynes manual titled "Build your own sports car for as little as £250" which was a step by step guide to fabricating and building the entire car. Essentially, it was the source code for the car.
+    Are the open source 3D cad tools capable of building a complex space frame chassis? Can I get an open source finite element analysis software to perform strength and failure analysis and get sane results? Can I design all the parts I need and send them to 3rd parties to get them laser cut, bent, fabricated and delivered to my door? Can I integrate my little CNC milling machine into these tools (i.e. CAM) so I can rapidly fabricate prototypes and iterate designs? If the open source tools exist, is it even possible to make them work together in a sane way? What tools have I had to write myself? What landmines will I step on?
+
+- title: The proper care and feeding of communities and carnivorous plants
+  speaker: Rikki Endsley
+  start: 2017-20-01 14:15 AEDT
+  end: 2017-20-01 15:00 AEDT
+  room:  Boardwalk Gallery
+  track: 
+  description: |
+    In 2016, I adopted my first carnivorous plant, a Venus Fly Trap, which I named Gordon. I quickly discovered that, in addition to his ability to catch the occasional bug and get energy from the sun, Gordon's health was closely connected to the environment and care I provided. In this talk, I'll draw from more than a decade of experience working with open source communities (and a few months of experience keeping Gordon alive) to explain how caring for a Venus Fly Trap is much like caring for a community. Like carnivorous plants, communities can't be left alone to fend for themselves, and they won't explicitly tell you when there is a problem. Communities and carnivorous plants need an energy source, healthy environments, pest control, and occasional maintenance. Whether you're a seasoned community gardener, or just starting to develop your carnivorous plant green thumb, you'll learn practical tips for nurturing healthy roots that grow thriving communities (... or Venus Fly Traps).
+
+
