@@ -1,0 +1,96 @@
+name: RDO Meetups
+type: series
+tags: RDO
+
+talks:
+
+- title: OpenStack Developer Coffee and Code
+  location: Saint Paul, MN
+  speaker: Minnesota OpenStack Meetup
+  start: 2017-01-09 10:00 UTC
+  end: 2017-01-09 11:00 UTC
+  description: |
+      Saint Paul, MN, US
+      OpenStack Developer Coffee and Code
+      https://www.meetup.com/Minnesota-OpenStack-Meetup/events/235416654/
+
+- title: What is OpenStack and how to leverage it by James Mackenzie from OVH
+  location: San Francisco, CA
+  speaker: Holberton School
+  start: 2017-01-10 21:00 UTC
+  end: 2017-01-10 22:00 UTC
+  description: |
+      San Francisco, CA, US
+      What is OpenStack and how to leverage it by James Mackenzie from OVH
+      https://www.meetup.com/Holberton-School/events/236387949/
+
+- title: Alle ins en outs van OpenStack
+  location: Utrecht, NL
+  speaker: AT Computing TechTracks
+  start: 2017-01-11 12:00 UTC
+  end: 2017-01-11 13:00 UTC
+  description: |
+      Utrecht, NL
+      Alle ins en outs van OpenStack
+      https://www.meetup.com/AT-Computing-TechTracks/events/234462120/
+
+- title: OpenStack - Why and How?
+  location: Copenhagen, DK
+  speaker: OpenStack Meetup Denmark
+  start: 2017-01-13 07:30 UTC
+  end: 2017-01-13 08:30 UTC
+  description: |
+      Copenhagen, DK
+      OpenStack - Why and How?
+      https://www.meetup.com/openstackdk/events/234910298/
+
+- title: BeagleBone i OpenStack
+  location: Zielona Góra, PL
+  speaker: DEV@ZG
+  start: 2017-01-17 12:45 UTC
+  end: 2017-01-17 13:45 UTC
+  description: |
+      Zielona Góra, PL
+      BeagleBone i OpenStack
+      https://www.meetup.com/DEV-ZG/events/236618835/
+
+- title: First Meetup of 2017 - Let's talk about Cultural Adoption of OpenStack
+  location: Phoenix, AZ
+  speaker: OpenStack Phoenix
+  start: 2017-01-18 20:00 UTC
+  end: 2017-01-18 21:00 UTC
+  description: |
+      Phoenix, AZ, US
+      First Meetup of 2017 - Let's talk about Cultural Adoption of OpenStack
+      https://www.meetup.com/OpenStack-Phoenix/events/236693028/
+
+- title: What is OpenStack and Python extensions in Nim
+  location: Cluj-Napoca, RO
+  speaker: RoPython-Cluj
+  start: 2017-01-18 11:00 UTC
+  end: 2017-01-18 12:00 UTC
+  description: |
+      Cluj-Napoca, RO
+      What is OpenStack and Python extensions in Nim
+      https://www.meetup.com/RoPython-Cluj/events/236771431/
+
+- title: OpenStack Meetup (Topic TBD)
+  location: Atlanta, GA
+  speaker: Atlanta OpenStack Meetup Group
+  start: 2017-01-19 19:00 UTC
+  end: 2017-01-19 20:00 UTC
+  description: |
+      Atlanta, GA, US
+      OpenStack Meetup (Topic TBD)
+      https://www.meetup.com/openstack-atlanta/events/236259146/
+
+- title: Using OpenStack Orchestration (Heat) for Big Data
+  location: Durham, NC
+  speaker: Triangle OpenStack Meetup
+  start: 2017-01-23 17:30 UTC
+  end: 2017-01-23 18:30 UTC
+  description: |
+      Durham, NC, US
+      Using OpenStack Orchestration (Heat) for Big Data
+      https://www.meetup.com/Triangle-OpenStack-Meetup/events/236338425/
+
