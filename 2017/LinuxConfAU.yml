@@ -12,8 +12,8 @@ talks:
 
 - title: Almost Open - Just close the door behind you 
   speaker: Steven Ellis
-  start: 2017-16-01 11:30 AEDT
-  end: 2017-16-01 12:20 AEDT
+  start: 2017-01-16 11:30 AEDT
+  end: 2017-01-16 12:20 AEDT
   room:  Tasman Hall B/C
   track: Open Knowledge Mini-Conf
   description: |
@@ -23,8 +23,8 @@ talks:
 
 - title: Turtles all the way down - Thin LVM + KVM tips and Tricks
   speaker: Steven Ellis
-  start: 2017-16-01 15:50 AEDT
-  end: 2017-16-01 16:10 AEDT
+  start: 2017-01-16 15:50 AEDT
+  end: 2017-01-16 16:10 AEDT
   room:  Plenary Hall
   track: Sysadmin Mini-Conf
   description: |
@@ -32,8 +32,8 @@ talks:
 
 - title: FreeIPA project update (turbo talk)
   speaker: Fraser Tweedale 
-  start: 2017-17-01 16:50 AEDT
-  end: 2017-17-01 17:00 AEDT
+  start: 2017-01-17 16:50 AEDT
+  end: 2017-01-17 17:00 AEDT
   room:  Plenary Hall
   track: Security and Privacy Mini-Conf
   description: |
@@ -41,8 +41,8 @@ talks:
 
 - title: A Layperson's Guide for Talking about Free Software Law
   speaker: Rikki Endsley
-  start: 2017-17-01 16:50 AEDT
-  end: 2017-17-01 17:15 AEDT
+  start: 2017-01-17 16:50 AEDT
+  end: 2017-01-17 17:15 AEDT
   room:  Tasman Hall A
   track: Law and Policy Mini-Conf
   description: |
@@ -51,8 +51,8 @@ talks:
 
 - title: Why haven't you licensed your project?
   speaker: Richard Fontana
-  start: 2017-18-01 13:20 AEDT
-  end: 2017-18-01 14:05 AEDT
+  start: 2017-01-18 13:20 AEDT
+  end: 2017-01-18 14:05 AEDT
   room:  Wellington Room 1
   track: 
   description: |
@@ -60,8 +60,8 @@ talks:
 
 - title: "Drink from the firehose: release-monitoring.org"
   speaker: Nick Coghlan
-  start: 2017-18-01 15:40 AEDT
-  end: 2017-18-01 16:25 AEDT
+  start: 2017-01-18 15:40 AEDT
+  end: 2017-01-18 16:25 AEDT
   room:  Tasman Hall B/C
   track: 
   description: |
@@ -82,8 +82,8 @@ talks:
 
 - title: Designing a Race Car with Open Source Tools
   speaker: David Chinner
-  start: 2017-20-01 14:15 AEDT
-  end: 2017-20-01 15:00 AEDT
+  start: 2017-01-20 14:15 AEDT
+  end: 2017-01-20 15:00 AEDT
   room:  Plenary
   track: 
   description: |
@@ -92,8 +92,8 @@ talks:
 
 - title: The proper care and feeding of communities and carnivorous plants
   speaker: Rikki Endsley
-  start: 2017-20-01 14:15 AEDT
-  end: 2017-20-01 15:00 AEDT
+  start: 2017-01-20 14:15 AEDT
+  end: 2017-01-20 15:00 AEDT
   room:  Boardwalk Gallery
   track: 
   description: |
