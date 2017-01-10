@@ -22,6 +22,27 @@ Dir.glob('20*/*.yml').sort.each do |file|
       end
     end
 
+    if doc['talks']
+      doc['talks'].each do |talk|
+        begin
+          if talk['start']
+            date_type = 'start'
+            DateTime.parse(talk['start'])
+          end
+
+          if talk['end']
+            date_type = 'end'
+            DateTime.parse(talk['start'])
+          end
+
+        rescue StandardError
+          valid = false
+          puts "Error: #{file}: Invalid #{date_type} time: " \
+            "'#{talk[date_type]}' in '#{talk['title']}'"
+        end
+      end
+    end
+
   rescue StandardError => err
     valid = false
 
