@@ -8,7 +8,7 @@ validator = Kwalify::Validator.new(schema)
 
 valid = true
 
-Dir.glob('*/*.yml').each do |file|
+Dir.glob('20*/*.yml').sort.each do |file|
   begin
     yaml_file = YAML.load_file(file)
     doc = yaml_file
@@ -19,6 +19,27 @@ Dir.glob('*/*.yml').each do |file|
 
       errors.each do |err|
         puts "Error: #{file}: [#{err.path}] #{err.message}"
+      end
+    end
+
+    if doc['talks']
+      doc['talks'].each do |talk|
+        begin
+          if talk['start']
+            date_type = 'start'
+            DateTime.parse(talk['start'])
+          end
+
+          if talk['end']
+            date_type = 'end'
+            DateTime.parse(talk['start'])
+          end
+
+        rescue StandardError
+          valid = false
+          puts "Error: #{file}: Invalid #{date_type} time: " \
+            "'#{talk[date_type]}' in '#{talk['title']}'"
+        end
       end
     end
 
