@@ -21,6 +21,15 @@ talks:
     What does Open mean within the ecosystem you operate within, and how can we continue to be a catalyst for the journey and grow the Open Source movement when so many closed outcomes are being produced from the Open Source ecosystem?
     This is a collaborative session to look unpack the issue and formulate some actions that can be used by the attendees within their communities, businesses and organisations.
 
+- title: Building My Own Little World with Open Data
+  speaker: Steven Pousty
+  start: 2017-16-01 14:10 AEDT
+  end: 2017-16-01 15:00 AEDT
+  room:  Tasman Hall B/C
+  track: Open Knowledge Mini-Conf
+  description: |
+    Everybody cares about the place (they live, they grew up in, they had a great vacation, in the news….). With the rise of open data, big data tooling, and new visualisation technology, we can actually now build applications that give people new ways to explore beyond “where is the closest Starbucks”. I have collected Open Data from my home town (Santa Cruz, CA) and compiled it into the beginnings of a visualization and analysis platform. The goal of this talk is to show the process of collecting open data from disparate sources, some of the caveats on being able to put them together, general lessons learned, and some fun visualizations. I want to move past thinking about sources for open data and moving on to tools and lessons so you can get cracking! I want to show how we can enable people to gather open data and turn it to open knowledge. Data sources will be from Government (e.g. United States Geologic Survey) and Non-Government sources (e.g Audubon Society eBird Data) while some of the tools covered will be Apache Spark, PostGIS, Leaflet, and various others.
+
 - title: Turtles all the way down - Thin LVM + KVM tips and Tricks
   speaker: Steven Ellis
   start: 2017-01-16 15:50 AEDT
@@ -29,6 +38,30 @@ talks:
   track: Sysadmin Mini-Conf
   description: |
     Tips and tricks for both operators and developers to get the most out of ThinLVM and KVM when building demo environments, or optimising real world business solutions.
+
+- title: Mamas Don't Let Your Babies Grow Up to Be Rock Star Developers
+  speaker: Rikki Endsley
+  start: 2017-16-01 16:35 AEDT
+  end: 2017-16-01 17:20 AEDT
+  room:  Tasman Hall A
+  track: WOOTConf
+  description: |
+    Are you sick of seeing job listings calling for "rock star developers"? What does that even mean? Developers who get the glory, while the band, agent, road crew, and sound engineers do the work? Instead of being a one-hit wonder who crashes and burns by 27, look to Willie Nelson for inspiration. Willie's 60+ years in the music business offer plenty of lessons developers can apply to their own careers. Attend this fun talk to see how collaborating with a diverse mix of peo ple, learning new skills, choosing the best tool for the job (and then improving on it), contributing to a range of communities, and not being afraid to fail have benefited Willie's career. The talk will be fun, but the lessons are practical for developers--and people who work with them--of all experience levels.
+
+- title: Preventing Deserialization attacks in Java applications
+  speaker: Jason Shepherd
+  start: 2017-17-01 11:15 AEDT
+  end: 2017-17-01 11:45 AEDT
+  room:  Plenary Hall
+  track: Security and Privacy Mini-Conf
+  description: |
+    Recent research by Chris Frohoff and Gabriel Lawrence has exposed gadget chains in various libraries that allow code to be executed during object deserialization in Java. They've done some excellent research, including publishing some code that allows anyone to serialize a malicious payload that when deserialized runs the operating system command of their choice, as the user which started the Java Virtual Machine (JVM). The vulnerabilities are not with the gadget chains themselves but with the code that deserializes them.
+    There are couple of ways in which this type of attack on the JVM can be mitigated:
+    - not deserializing untrusted objects;
+    - not having the classes used in the 'gadget chain' in the classpath;
+    - running the JVM as a non-root operating system user, with reduced privileges;
+    - egress filtering not allowing any outbound traffic other than that matching a connection for which the firewall already has an existing state table entry.
+    In this talk we'll explore each of these in detail, using JBoss EAP as a example of how these mitigations can be introduced.
 
 - title: FreeIPA project update (turbo talk)
   speaker: Fraser Tweedale 
@@ -70,7 +103,6 @@ talks:
     release-monitoring.org is a shared community service born out of the Fedora Infrastructure team that monitors for new upstream releases, and emits structured events that can be used to automatically trigger appropriate follow-on action.
     So if you'd like to learn how to drink from the firehose, this talk's for you!
 
-
 - title: The Vulkan Graphics API - what it means for Linux
   speaker: David Airlie
   start: 2017-01-19 10:40 AEDT
@@ -79,6 +111,17 @@ talks:
   track: 
   description: |
     OpenGL has long been the 3D API used on the Linux platform. However recently the Khronos group released the Vulkan 1.0 standard which covers a new closer to the metal API for 3D graphics programming across multiple operating systems. This talk will provide a brief introduction to the API and how supported the API is under Linux. The speaker will also discuss possible future uses for this new API and the advantages it brings.
+
+- title: Getting into the Rusty Bucket - Lessons from Integrating Rust with Existing C
+  speaker: William Brown
+  start: 2017-20-01 13:20 AEDT
+  end: 2017-20-01 14:05 AEDT
+  room:  Tasman Hall B/C
+  track: 
+  description: |
+    Rust is a modern language developed by Mozilla pursuing the trifecta: Safety, Speed, and Concurrency. With such promise for the future, how can we use this now? We are not always in the beautiful open green fields; we must contend with our existing grunty applications!
+    389 Directory Server is based on code now more than 20 years old. We cannot throw this out and replace it, but we want the benefits Rust gives us - especially for authentication and security critical code.
+    We will explore the challenges of security in engineering, and behaviours of the modern programmer. I will discuss why we have spiraled down a mountain of failure as an engineering discipline - and why we need tools like Rust to validate our work. I will show faults in Directory Server that could have been prevented with safe language techniques. Finally, I will explore the Directory Server plugin interface, where we have the ability to provide pure Rust plugins, allowing safe, fast extensibility to a core piece of systems authentication. This will explore the challenges to build it, and the design patterns needed to make sure that the rewrite of the application in Rust is possible, today.
 
 - title: Designing a Race Car with Open Source Tools
   speaker: David Chinner
