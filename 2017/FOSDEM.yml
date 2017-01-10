@@ -202,7 +202,7 @@ talks:
 
 - title: 'JRuby in 2017: rails 5, Ruby 2.4, performance (we''ll survey the work going
     on to make JRuby more compatible and faster in 2017)'
-  speaker: Charles Nutter
+  speaker: Charles Nutter, Thomas Enebo
   start: 2017-02-04 13:45 CET
   end: 2017-02-04 14:35 CET
   room: K.4.201
@@ -247,6 +247,18 @@ talks:
     Some examples of weird behavior encountered while developing / bug
     fixing the LibreOffice Calc spreadsheet application.
 
+- title: 'Rdo''s continuous packaging platform: how to continuously package OpenStack
+    (or other things) for CentOS'
+  speaker: Matthieu Huin
+  start: 2017-02-04 14:00 CET
+  end: 2017-02-04 14:25 CET
+  room: K.4.601
+  track: Distributions
+  description: |
+    This presentation shows the workflow currently followed by RDO to
+    ensure the quality of OpenStack packaging, and the specificities of the
+    tools implementing this workflow.
+
 - title: 'Modularity & generational core: the future of Fedora?'
   speaker: Petr Šabata, Adam Samalik
   start: 2017-02-04 14:30 CET
@@ -258,6 +270,20 @@ talks:
     developments in Fedora, it's about time we define what the next,
     modular operating system should look like, focusing on the developer’s
     point of view.
+
+- title: Using a generic distro to redefine iot
+  speaker: Peter Robinson
+  start: 2017-02-04 18:30 CET
+  end: 2017-02-04 18:55 CET
+  room: K.4.601
+  track: Distributions
+  description: |
+    Generic distributions such as Fedora, CentOS, RHEL and others have well
+    defined update and security mechanisms as well as other processes that
+    have been established and proven to work over a multiple decades. How
+    can we make use of these positives of distributions along with modern
+    tools and technologies to produce a secure, stable, scaleable OS for
+    IoT products?
 
 - title: 'Next generation config mgmt: autonomous systems'
   speaker: James Shubin
@@ -441,26 +467,6 @@ talks:
     machines can use NVDIMM for faster I/O, reduced memory footprint, and
     faster boot times.
 
-- title: Creating the open connected car with genivi
-  speaker: Zeeshan Ali (Khattak)
-  start: 2017-02-04 12:00 CET
-  end: 2017-02-04 12:30 CET
-  room: UD2.120 / Chavanne
-  track: Embedded, mobile and automotive
-  description: |
-    A number of new components have matured in GENIVI to provide a true
-    connected car experience. A couple of them are key connectivity
-    components; namely SOTA (Software Over the Air) and RVI (Remote Vehicle
-    Interface). This talk will discuss both these components, how they work
-    together, the security work done on them and their integration into the
-    GENIVI Development Platform.
-
-    This talk will also run down the overall status of GENIVI's development
-    platform and how it can enable an automotive stack to speak not just
-    with the cloud, but with IoT devices via Iotivity interface. The new
-    GENIVI Development Platform (GDP) technical lead, Zeeshan Ali, will
-    give the talk.
-
 - title: 'Securing automated decryption: new cryptography and techniques'
   speaker: Nathaniel McCallum
   start: 2017-02-05 13:00 CET
@@ -558,6 +564,37 @@ talks:
     testing system can be implemented for a such a project through the
     combination of Patchwork, the web-based patch tracking system, and open
     source CI tools such as Jenkins.
+
+- title: Smart card forwarding
+  speaker: Daiki Ueno
+  start: 2017-02-05 14:00 CET
+  end: 2017-02-05 14:25 CET
+  room: H.1308 / Rolin
+  track: Security
+  description: |
+    On a cloud computing environment it is often required to use a user's
+    smart card on a remote server. That is, insert a smart card locally
+    (windows or linux client), ssh to a server, and then utilize the smart
+    card to 'sudo' application or to a TLS application, or to 'kinit' to
+    obtain a kerberos ticket. Other operating systems such as windows
+    provide this functionality via USB-pass-through. The purpose of this
+    talk, is to describe where we are, and what we provide for that problem.
+
+- title: Tls test framework
+  speaker: Hubert Kario
+  start: 2017-02-05 14:30 CET
+  end: 2017-02-05 14:55 CET
+  room: H.1308 / Rolin
+  track: Security
+  description: |
+    The Transport Layer Protocol is becoming more and more complex. With
+    more than 4 versions deployed side-by-side, the complexity of servers
+    is increasing even faster.
+
+    To fight this, we've started to work on TLS test framework that
+    hopefully we'll later be able to turn into a dedicated TLS protocol
+    fuzzer. Currently we have a battery of tests for obscure and not so
+    obscure bugs as well as general RFC compliance.
 
 - title: 'Usable cryptography with josé: c and command-line json object SIGning and
     encryption'
@@ -714,7 +751,7 @@ talks:
     reliable, shared storage for critical applications in a cloud
     environment.
 
-- title: Ceph RADOSgw weather report
+- title: Ceph weather report
   speaker: Orit Wasserman
   start: 2017-02-05 16:30 CET
   end: 2017-02-05 17:00 CET
