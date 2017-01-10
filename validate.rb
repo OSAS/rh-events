@@ -8,7 +8,7 @@ validator = Kwalify::Validator.new(schema)
 
 valid = true
 
-Dir.glob('20*/*.yml').each do |file|
+Dir.glob('20*/*.yml').sort.each do |file|
   begin
     yaml_file = YAML.load_file(file)
     doc = yaml_file
