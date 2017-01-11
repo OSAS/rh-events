@@ -1,0 +1,27 @@
+name: DPDK Meetup
+location: Ra'anana, Israel
+start: 2016-01-17
+end: 2016-01-17
+description: |
+  DPDK and network related meetup hosted by Red Hat Israel.
+
+  Additional details about are available
+  [on the meetup website](https://www.meetup.com/Open-Source-Israel/events/236765418/)
+
+talks:
+
+- title: Can VMs benefit from Virtio and DPDK?
+  speaker: Maxime Coquelin and Victor Kaplansky
+  start: 2016-01-17 18:30 IST
+  end: 2016-01-17 19:30 IST
+  description: |
+    The goal of this session is to introduce DPDK and its Vhost-user and Virtio implementations, highlighting the main challenges to tackle. New and upcoming features aimed at addressing these challenges will be discussed, such as indirect descriptors, IOTLB or Virtio 1.1. 
+
+    Reference benchmark initiative will be presented, whose goal is to obtain reproducible and reference results, but which also helps attuning and debugging in a simplified environment.
+
+- title:  How OpenStack NFV uses DPDK
+  speaker: Yariv Rachmani
+  start: 2016-01-17 19:30 IST
+  end: 2016-01-17 20:00 IST
+  description: |
+    This session describes OpenStack components, and explains compute topology and tuning considerations for Hosts/Guests with DPDK library.
