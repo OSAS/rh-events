@@ -365,7 +365,7 @@ talks:
     benefits? This talk covers our research around using Kubernetes as a
     virtual machines cluster manager.
 
-- title: 'QEMU: internal APIs and conflicting world views (how abstractions indide
+- title: 'QEMU: internal APIs and conflicting world views (how abstractions inside
     QEMU (don''t) work together)'
   speaker: Eduardo Habkost
   start: 2017-02-04 13:15 CET
@@ -731,25 +731,18 @@ talks:
     Ceph implementation of cloud object storage (Radosgw). This talk will
     also present the newest features and our plans for the future.
 
-- title: Gluster as a persistent datastore for containers
-  speaker: Humble Chirammal
+- title: Hyper-converged, persistent storage for containers with GlusterFS
+  speaker: Jose Rivera, Mohamed Ashiq
   start: 2017-02-05 15:45 CET
   end: 2017-02-05 16:30 CET
   room: UA2.114 / Baudoux
   track: Software Defined Storage
   description: |
-    With container technologies featuring prominently in next generation
-    data center planning, many IT professionals are focusing on containers
-    and container platforms (kubernetes/openshift..etc), which provides
-    users with a simple, elegant system to manage, deploy, and provision
-    their containerized applications at a massive scale. But, as containers
-    are stateless and all the enterprise application want data persistence,
-    it need storage. Gluster is a distributed scale out filesystem which
-    can provide persistent data store for containers. The beauty is that
-    the gluster storage is conternarized which make it a best fit to
-    deliver hyperconvergence in a cloud setup. Gluster Storage offer
-    reliable, shared storage for critical applications in a cloud
-    environment.
+    While containers themselves are stateless many applications still have
+    requirements on storage that should persist across containers and
+    instances of containers. Many such storage solutions require an
+    administrator to set up a storage solution on hardware outside their
+    existing container platforms. GlusterFS changes all that.
 
 - title: Ceph weather report
   speaker: Orit Wasserman
@@ -830,6 +823,22 @@ talks:
     to consume it effectively. We will discover which concerns Kubernetes
     addresses and how it helps to develop highly scalable and resilient
     Java applications.
+
+- title: 'Storing metrics at scale with gnocchi: the Python based time series database'
+  speaker: Julien Danjou
+  start: 2017-02-05 10:00 CET
+  end: 2017-02-05 10:30 CET
+  room: UD2.120 / Chavanne
+  track: Python
+  description: |
+    Gnocchi is a time series database written in Python, that has been
+    created in the context of the OpenStack cloud computing project. It
+    offers highly-scalable data storage for measurements and provides
+    access to its data via a REST API. In this lecture, we'll discuss the
+    features the project is offering to its users, and how they can easily
+    be leveraged in any application. In a second part, we'll see how the
+    project has been built to scale, how Python was leveraged and made
+    scalable.
 
 - title: Debugging hung Python processes with GDB
   speaker: Brian Bouterse
