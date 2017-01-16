@@ -150,6 +150,25 @@ talks:
     explore how these different mechanisms work and how we can make them
     work better together.
 
+- title: 'Valgrind BoF and hackaton: open discussion of IDEas for Valgrind - and then
+    we hack!'
+  speaker: Mark Wielaard
+  start: 2017-02-04 17:30 CET
+  end: 2017-02-04 19:00 CET
+  room: AW1.124
+  track: Valgrind
+  description: |
+    Come and hack on Valgrind together. Open discussion about small (or
+    big) ideas to improve or change Valgrind.
+
+    Valgrind developers and users are encouraged to participate either by
+    submitting ideas/suggestions or by joining the discussion. And of
+    course by kindly (or bitterly) complain about bugs you find important
+    that are _still_ _Not_ _YET_ solved for _that_ many years!?@!!!
+
+    Afterwards we will sit together and try to fix or implement some of the
+    things discussed.
+
 - title: 'Does your coffee machine speaks bocce: teach your iot thing to speak modbus
     and it will not stop talking'
   speaker: Yaacov Zamir
@@ -809,20 +828,20 @@ talks:
     Kubernetes. OpenShift is also ideal for deploying the microservices
     that containers make so easy to implement.
 
-- title: 'Cloud native Java development: patterns and principles for designing Java
-    applications to run on kubernetes'
+- title: 'Cloud native Java development: patterns and principles for designing kubernetes
+    applications'
   speaker: Bilgin Ibryam
   start: 2017-02-05 12:55 CET
   end: 2017-02-05 13:05 CET
   room: UA2.220 / Guillissen
   track: Linux Containers and Microservices
   description: |
-    Kubernetes is awesome. But what does it takes for a Java developer to
-    design, implement and run Cloud Native applications? In this session we
-    will look at Kubernetes from a user point of view and demonstrate how
-    to consume it effectively. We will discover which concerns Kubernetes
-    addresses and how it helps to develop highly scalable and resilient
-    Java applications.
+    Kubernetes is awesome! But what does it takes for a Java developer to
+    design, implement and run Cloud Native applications? In this session,
+    we will look at Kubernetes from a user point of view and demonstrate
+    how to consume it effectively. We will discover which concerns
+    Kubernetes addresses and how it helps to develop highly scalable and
+    resilient Java applications.
 
 - title: 'Storing metrics at scale with gnocchi: the Python based time series database'
   speaker: Julien Danjou
