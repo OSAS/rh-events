@@ -1,0 +1,15 @@
+name: Ceph Days
+type: series
+tags: ceph
+
+talks:
+
+- title: Ceph Day San Jose
+  location: San Jose, CA
+  speaker: Ceph Day speakers
+  start: 2017-03-17 12:00 UTC
+  end: 2017-03-17 21:00 UTC
+  description: |
+      San Jose, CA, USA
+      Ceph Day San Jose
+      http://ceph.com/cephdays/sanjose2017/
