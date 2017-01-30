@@ -5,236 +5,6 @@ tags: RDO
 talks:
 
 
-- title: Using OpenStack Orchestration (Heat) for Big Data
-  location: Durham, NC
-  speaker: Triangle OpenStack Meetup
-  start: 2017-01-23 17:30 UTC
-  end: 2017-01-23 18:30 UTC
-  description: |
-      Durham, NC, US
-      Using OpenStack Orchestration (Heat) for Big Data
-      https://www.meetup.com/Triangle-OpenStack-Meetup/events/236338425/
-
-- title: Microservices and a Happy Hour
-  location: Phoenix, AZ
-  speaker: OpenStack Phoenix
-  start: 2017-01-24 16:00 UTC
-  end: 2017-01-24 17:00 UTC
-  description: |
-      Phoenix, AZ, US
-      Microservices and a Happy Hour
-      https://www.meetup.com/OpenStack-Phoenix/events/236805307/
-
-- title: F5 Networks and recent Nova Changes
-  location: Fort Collins, CO
-  speaker: Colorado OpenStack
-  start: 2017-01-24 20:30 UTC
-  end: 2017-01-24 21:30 UTC
-  description: |
-      Fort Collins, CO, US
-      F5 Networks and recent Nova Changes
-      https://www.meetup.com/OpenStack-Colorado/events/236828606/
-
-- title: OpenStack 101 - what is it and why do I need it ?
-  location: London, 17
-  speaker: UK Cloud Infrastructure User Group
-  start: 2017-01-24 13:30 UTC
-  end: 2017-01-24 14:30 UTC
-  description: |
-      London, 17, GB
-      OpenStack 101 - what is it and why do I need it ?
-      https://www.meetup.com/UK-Cloud-Infrastructure-User-Group/events/236355900/
-
-- title: OpenStack Budapest 2017 January
-  location: Budapest, HU
-  speaker: OpenStack Hungary Meetup Group
-  start: 2017-01-25 11:00 UTC
-  end: 2017-01-25 12:00 UTC
-  description: |
-      Budapest, HU
-      OpenStack Budapest 2017 January
-      https://www.meetup.com/OpenStack-Hungary-Meetup-Group/events/236111268/
-
-- title: OpenStack User Group Berlin Meetup - "Bring your own network!"
-  location: Berlin, DE
-  speaker: OpenStack User Group Berlin
-  start: 2017-01-25 12:00 UTC
-  end: 2017-01-25 13:00 UTC
-  description: |
-      Berlin, DE
-      OpenStack User Group Berlin Meetup - "Bring your own network!"
-      https://www.meetup.com/OpenStack-User-Group-Berlin/events/236604256/
-
-- title: OpenStack Ansible All-In-One (AIO) on AWS QuickStart
-  location: Reston, VA
-  speaker: OpenStack Northern Virginia
-  start: 2017-01-25 18:00 UTC
-  end: 2017-01-25 19:00 UTC
-  description: |
-      Reston, VA, US
-      OpenStack Ansible All-In-One (AIO) on AWS QuickStart
-      https://www.meetup.com/OpenStack-Nova/events/236876829/
-
-- title: SDSC - Petabyte Storage on OpenStack
-  location: San Diego, CA
-  speaker: OpenStack San Diego
-  start: 2017-01-25 21:30 UTC
-  end: 2017-01-25 22:30 UTC
-  description: |
-      San Diego, CA, US
-      SDSC - Petabyte Storage on OpenStack
-      https://www.meetup.com/OpenStackSanDiego/events/234653960/
-
-- title: A Hitchhiker's Guide to Developing and Running your own OpenStack using DevStack
-  location: Cork, IE
-  speaker: OpenStack Cork
-  start: 2017-01-25 14:00 UTC
-  end: 2017-01-25 15:00 UTC
-  description: |
-      Cork, IE
-      A Hitchhiker's Guide to Developing and Running your own OpenStack using DevStack
-      https://www.meetup.com/OpenStack-Cork/events/235903038/
-
-- title: Data Science Madrid 4 OpenStack
-  location: Madrid, ES
-  speaker: MAD for OpenStack
-  start: 2017-01-25 13:00 UTC
-  end: 2017-01-25 14:00 UTC
-  description: |
-      Madrid, ES
-      Data Science Madrid 4 OpenStack
-      https://www.meetup.com/MAD-for-OpenStack/events/237131857/
-
-- title: OpenStackOperators Finland Video Call
-  location: Helsinki, FI
-  speaker: OpenStack Finland User Group
-  start: 2017-01-26 06:00 UTC
-  end: 2017-01-26 07:00 UTC
-  description: |
-      Helsinki, FI
-      OpenStackOperators Finland Video Call
-      https://www.meetup.com/OpenStack-Finland-User-Group/events/237069677/
-
-- title: Второй OpenStack Meetup St.Petersburg
-  location: St. Petersburg, RU
-  speaker: OpenStack Russia St. Petersburg
-  start: 2017-01-26 10:00 UTC
-  end: 2017-01-26 11:00 UTC
-  description: |
-      St. Petersburg, RU
-      Второй OpenStack Meetup St.Petersburg
-      https://www.meetup.com/OpenStack-Russia-St-Petersburg/events/236405808/
-
-- title: Kubernetes+OpenStack 101
-  location: Santa Monica, CA
-  speaker: OpenStack Meetup - South Bay, Los Angeles
-  start: 2017-01-26 21:00 UTC
-  end: 2017-01-26 22:00 UTC
-  description: |
-      Santa Monica, CA, US
-      Kubernetes+OpenStack 101
-      https://www.meetup.com/OpenStack-Meetup-South-Bay-Los-Angeles/events/236650457/
-
-- title: Containerized OpenStack control plane
-  location: Chesterfield, MO
-  speaker: OpenStack St. Louis
-  start: 2017-01-26 19:30 UTC
-  end: 2017-01-26 20:30 UTC
-  description: |
-      Chesterfield, MO, US
-      Containerized OpenStack control plane
-      https://www.meetup.com/OpenStack-STL/events/236809478/
-
-- title: Kubernetes with Terraform, Ansible and OpenShift on OpenStack and Anywhere
-  location: Köln, DE
-  speaker: OpenStack Cologne
-  start: 2017-01-26 13:00 UTC
-  end: 2017-01-26 14:00 UTC
-  description: |
-      Köln, DE
-      Kubernetes with Terraform, Ansible and OpenShift on OpenStack and Anywhere
-      https://www.meetup.com/OpenStack-Cologne/events/234806240/
-
-- title: Using OpenStack Orchestration for Big Data - January 2017 OpenStack L.A.
-  location: Pasadena, CA
-  speaker: OpenStack LA
-  start: 2017-01-26 22:00 UTC
-  end: 2017-01-26 23:00 UTC
-  description: |
-      Pasadena, CA, US
-      Using OpenStack Orchestration for Big Data - January 2017 OpenStack L.A.
-      https://www.meetup.com/OpenStack-LA/events/236338967/
-
-- title: Primera reunión OpenStack Mexico City - Save the date!
-  location: México City, MX
-  speaker: OpenstackMexicoCity
-  start: 2017-01-26 20:00 UTC
-  end: 2017-01-26 21:00 UTC
-  description: |
-      México City, MX
-      Primera reunión OpenStack Mexico City - Save the date!
-      https://www.meetup.com/OpenstackMexicoCity/events/236857573/
-
-- title: Introducing BOSH and CloudFoundry
-  location: Lehi, UT
-  speaker: OpenStack Utah
-  start: 2017-01-26 21:00 UTC
-  end: 2017-01-26 22:00 UTC
-  description: |
-      Lehi, UT, US
-      Introducing BOSH and CloudFoundry
-      https://www.meetup.com/openstack-utah/events/236431017/
-
-- title: Best And Worst Openstack Experience
-  location: Tampa, FL
-  speaker: Tampa Openstack Meetup
-  start: 2017-01-26 19:00 UTC
-  end: 2017-01-26 20:00 UTC
-  description: |
-      Tampa, FL, US
-      Best And Worst Openstack Experience
-      https://www.meetup.com/Tampa-Openstack-Meetup/events/236599593/
-
-- title: Erfarenheter av OpenStack med IP-Solutions
-  location: Stockholm, SE
-  speaker: OpenStack User Group Sweden
-  start: 2017-01-27 10:00 UTC
-  end: 2017-01-27 11:00 UTC
-  description: |
-      Stockholm, SE
-      Erfarenheter av OpenStack med IP-Solutions
-      https://www.meetup.com/OpenStack-User-Group-Sweden/events/236720621/
-
-- title: OpenStack & oVirt beer
-  location: Milano, MI
-  speaker: OpenStack Milano
-  start: 2017-01-27 13:30 UTC
-  end: 2017-01-27 14:30 UTC
-  description: |
-      Milano, MI, IT
-      OpenStack & oVirt beer
-      https://www.meetup.com/Meetup-OpenStack-Milano/events/236414454/
-
-- title: Cloud/Devops RoadMap and Ansible Automation
-  location: Tambaram, IN
-  speaker: CloudnLoud - Openstack,PrivateCloud,Red Hat,Opensource
-  start: 2017-01-28 23:30 UTC
-  end: 2017-01-29 00:30 UTC
-  description: |
-      Tambaram, IN
-      Cloud/Devops RoadMap and Ansible Automation
-      https://www.meetup.com/CloudnLoud-Openstack-Cloud-RedHat-Opensource/events/236721208/
-
-- title: Calling all you early risers - join us for a OpenStack breakfast morning
-  location: Dublin, IE
-  speaker: OpenStack Ireland
-  start: 2017-01-31 03:30 UTC
-  end: 2017-01-31 04:30 UTC
-  description: |
-      Dublin, IE
-      Calling all you early risers - join us for a OpenStack breakfast morning
-      https://www.meetup.com/OpenStack-Ireland/events/232288557/
-
 - title: OpenStack and Tactical Clouds
   location: Richmond, VA
   speaker: RVaLUG - Richmond VA Linux Users Group
@@ -284,4 +54,44 @@ talks:
       London, 17, GB
       February London Openstack Meetup
       https://www.meetup.com/Openstack-London/events/236849194/
+
+- title: Cloud Native Computing Foundation (CNCF) Training Event
+  location: Portland, OR
+  speaker: OpenStack PDX
+  start: 2017-02-07 17:00 UTC
+  end: 2017-02-07 18:00 UTC
+  description: |
+      Portland, OR, US
+      Cloud Native Computing Foundation (CNCF) Training Event
+      https://www.meetup.com/openstack-pdx/events/237073308/
+
+- title: Learn how to use Nagios & StackStorm to automate recovery of OpenStack services
+  location: Tel Aviv-Yafo, IL
+  speaker: OpenStack-Israel
+  start: 2017-02-07 11:00 UTC
+  end: 2017-02-07 12:00 UTC
+  description: |
+      Tel Aviv-Yafo, IL
+      Learn how to use Nagios & StackStorm to automate recovery of OpenStack services
+      https://www.meetup.com/OpenStack-Israel/events/237133822/
+
+- title: OpenStack at Scale GoDaddy's journey through OpenStack and Containers
+  location: Sunnyvale, CA
+  speaker: SF Bay Area OpenStack
+  start: 2017-02-09 21:30 UTC
+  end: 2017-02-09 22:30 UTC
+  description: |
+      Sunnyvale, CA, US
+      OpenStack at Scale GoDaddy's journey through OpenStack and Containers
+      https://www.meetup.com/openstack/events/236906794/
+
+- title: Cloud/Devops RoadMap and Ansible Automation
+  location: Tambaram, IN
+  speaker: CloudnLoud - Openstack,PrivateCloud,Red Hat,Opensource
+  start: 2017-02-11 23:30 UTC
+  end: 2017-02-12 00:30 UTC
+  description: |
+      Tambaram, IN
+      Cloud/Devops RoadMap and Ansible Automation
+      https://www.meetup.com/CloudnLoud-Openstack-Cloud-RedHat-Opensource/events/237248786/
 
