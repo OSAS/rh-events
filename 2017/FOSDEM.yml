@@ -304,10 +304,10 @@ talks:
     tools and technologies to produce a secure, stable, scaleable OS for
     IoT products?
 
-- title: 'Next generation config mgmt: autonomous systems'
+- title: 'Next generation config management: autonomous systems'
   speaker: James Shubin
-  start: 2017-02-04 15:00 CET
-  end: 2017-02-04 15:50 CET
+  start: 2017-02-04 11:00 CET
+  end: 2017-02-04 11:50 CET
   room: UA2.220 / Guillissen
   track: Config management
   description: |
@@ -331,6 +331,10 @@ talks:
     https://ttboj.wordpress.com/2016/01/18/next-generation-configuration-mgmt/
     Attendees are encouraged to read it before the talk if they are
     interested!
+
+    Please note that this talk was originally scheduled to be given at
+    15:00. The talk originally in this slot, "Puppet Catalog Diffs in
+    TheForeman" by Greg Sutcliffe will now take place at 15:00.
 
 - title: Managing container infrastructure
   speaker: Piotr Kliczewski
