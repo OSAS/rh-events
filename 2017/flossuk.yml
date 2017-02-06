@@ -1,0 +1,31 @@
+name: FLOSSUK Spring
+location: MANCHESTER, UNITED KINGDOM
+start: 2017-03-14
+end: 2017-03-16
+tags: oVirt
+description: |
+  FLOSSUK have evolved into the UK’s primary support organisation for
+  Free/Libre Open Source Systems (FLOSS) supporting Free and Open Technology.
+
+  The Spring Conference is the UK’s longest running event supporting
+  open networks, software, hardware and data.
+
+  Additional details about the conference are available
+  [on the conference website](https://www.flossuk.org/events/floss-spring-2017/).
+
+talks:
+
+- title: Open your Data Center - An Introduction to Open Source Virtualization with oVirt
+  speaker: Freddy Rolland
+  start: 2017-03-15 16:00 GMT
+  end: 2017-03-15 16:45 GMT
+  description: |
+    The oVirt Project is an open virtualization project providing a feature-rich
+    server and desktop virtualization management platform with advanced capabilities
+    for hosts and guests, including high availability, live migration, storage
+    management, system scheduler, and more.
+
+    oVirt provides an integration point for several open source virtualization
+    technologies, including kvm, libvirt, spice and oVirt node.
+
+    The session will provide an intro to the project components and features.
