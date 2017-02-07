@@ -4,56 +4,6 @@ tags: RDO
 
 talks:
 
-- title: OpenStack and Tactical Clouds
-  location: Richmond, VA
-  speaker: RVaLUG - Richmond VA Linux Users Group
-  start: 2017-01-31 18:00 UTC
-  end: 2017-01-31 19:00 UTC
-  description: |
-      Richmond, VA, US
-      OpenStack and Tactical Clouds
-      https://www.meetup.com/RVaLUG/events/236858288/
-
-- title: Kubernetes containers - Presenter - Walter Bentley of Rackspace
-  location: Richardson, TX
-  speaker: OpenStack DFW
-  start: 2017-02-01 19:00 UTC
-  end: 2017-02-01 20:00 UTC
-  description: |
-      Richardson, TX, US
-      Kubernetes containers - Presenter - Walter Bentley of Rackspace
-      https://www.meetup.com/OpenStack-DFW/events/236079767/
-
-- title: Monthly SFOUG Meeting
-  location: Fort Lauderdale, FL
-  speaker: South Florida OpenStack Users Group
-  start: 2017-02-02 17:15 UTC
-  end: 2017-02-02 18:15 UTC
-  description: |
-      Fort Lauderdale, FL, US
-      Monthly SFOUG Meeting
-      https://www.meetup.com/South-Florida-OpenStack-Users-Group/events/236724672/
-
-- title: Lessons Learned Deploying/Operating OpenContrail & OpenStack in SaaS Environment
-  location: San Jose, CA
-  speaker: Bay Area Network Operators Group (BANOG)
-  start: 2017-02-02 21:00 UTC
-  end: 2017-02-02 22:00 UTC
-  description: |
-      San Jose, CA, US
-      Lessons Learned Deploying/Operating OpenContrail & OpenStack in SaaS Environment
-      https://www.meetup.com/BA-NOG/events/235454981/
-
-- title: February London Openstack Meetup
-  location: London, 17
-  speaker: London OpenStack Meetup
-  start: 2017-02-02 13:30 UTC
-  end: 2017-02-02 14:30 UTC
-  description: |
-      London, 17, GB
-      February London Openstack Meetup
-      https://www.meetup.com/Openstack-London/events/236849194/
-
 - title: Cloud Native Computing Foundation (CNCF) Training Event
   location: Portland, OR
   speaker: OpenStack PDX
@@ -63,16 +13,6 @@ talks:
       Portland, OR, US
       Cloud Native Computing Foundation (CNCF) Training Event
       https://www.meetup.com/openstack-pdx/events/237073308/
-
-- title: Learn how to use Nagios & StackStorm to automate recovery of OpenStack services
-  location: Tel Aviv-Yafo, IL
-  speaker: OpenStack-Israel
-  start: 2017-02-07 11:00 UTC
-  end: 2017-02-07 12:00 UTC
-  description: |
-      Tel Aviv-Yafo, IL
-      Learn how to use Nagios & StackStorm to automate recovery of OpenStack services
-      https://www.meetup.com/OpenStack-Israel/events/237133822/
 
 - title: OpenStack at Scale GoDaddy's journey through OpenStack and Containers
   location: Sunnyvale, CA
@@ -93,4 +33,64 @@ talks:
       Tambaram, IN
       Cloud/Devops RoadMap and Ansible Automation
       https://www.meetup.com/CloudnLoud-Openstack-Cloud-RedHat-Opensource/events/237248786/
+
+- title: Easing Your Cloud Challenges and Happy Hour
+  location: Phoenix, AZ
+  speaker: OpenStack Phoenix
+  start: 2017-02-15 16:00 UTC
+  end: 2017-02-15 17:00 UTC
+  description: |
+      Phoenix, AZ, US
+      Easing Your Cloud Challenges and Happy Hour
+      https://www.meetup.com/OpenStack-Phoenix/events/237219457/
+
+- title: Митап #1 2017
+  location: Moscow, RU
+  speaker: OpenStack Russia Moscow
+  start: 2017-02-16 06:00 UTC
+  end: 2017-02-16 07:00 UTC
+  description: |
+      Moscow, RU
+      Митап #1 2017
+      https://www.meetup.com/OpenStack-Russia/events/237051495/
+
+- title: OpenStack Newton release | Bare Metal | Containers | Kubernetes | 2017
+  location: Amersfoort, NL
+  speaker: OpenStack.nl
+  start: 2017-02-16 09:00 UTC
+  end: 2017-02-16 10:00 UTC
+  description: |
+      Amersfoort, NL
+      OpenStack Newton release | Bare Metal | Containers | Kubernetes | 2017
+      https://www.meetup.com/Openstack-nl/events/235320525/
+
+- title: Deep diving for pearls of wisdom in setting up policy and permissions
+  location: Cork, IE
+  speaker: OpenStack Cork
+  start: 2017-02-16 14:00 UTC
+  end: 2017-02-16 15:00 UTC
+  description: |
+      Cork, IE
+      Deep diving for pearls of wisdom in setting up policy and permissions
+      https://www.meetup.com/OpenStack-Cork/events/236354580/
+
+- title: OpenStack Meetup - Octavia
+  location: Atlanta, GA
+  speaker: Atlanta OpenStack Meetup Group
+  start: 2017-02-16 19:00 UTC
+  end: 2017-02-16 20:00 UTC
+  description: |
+      Atlanta, GA, US
+      OpenStack Meetup - Octavia
+      https://www.meetup.com/openstack-atlanta/events/237189297/
+
+- title: OpenStack Neutron Upgrade Path
+  location: Guadalajara, MX
+  speaker: OpenStack GDL
+  start: 2017-02-20 20:00 UTC
+  end: 2017-02-20 21:00 UTC
+  description: |
+      Guadalajara, MX
+      OpenStack Neutron Upgrade Path
+      https://www.meetup.com/OpenStack-GDL/events/237412412/
 
