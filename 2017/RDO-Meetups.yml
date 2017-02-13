@@ -4,35 +4,6 @@ tags: RDO
 
 talks:
 
-- title: Cloud Native Computing Foundation (CNCF) Training Event
-  location: Portland, OR
-  speaker: OpenStack PDX
-  start: 2017-02-07 17:00 UTC
-  end: 2017-02-07 18:00 UTC
-  description: |
-      Portland, OR, US
-      Cloud Native Computing Foundation (CNCF) Training Event
-      https://www.meetup.com/openstack-pdx/events/237073308/
-
-- title: OpenStack at Scale GoDaddy's journey through OpenStack and Containers
-  location: Sunnyvale, CA
-  speaker: SF Bay Area OpenStack
-  start: 2017-02-09 21:30 UTC
-  end: 2017-02-09 22:30 UTC
-  description: |
-      Sunnyvale, CA, US
-      OpenStack at Scale GoDaddy's journey through OpenStack and Containers
-      https://www.meetup.com/openstack/events/236906794/
-
-- title: Cloud/Devops RoadMap and Ansible Automation
-  location: Tambaram, IN
-  speaker: CloudnLoud - Openstack,PrivateCloud,Red Hat,Opensource
-  start: 2017-02-11 23:30 UTC
-  end: 2017-02-12 00:30 UTC
-  description: |
-      Tambaram, IN
-      Cloud/Devops RoadMap and Ansible Automation
-      https://www.meetup.com/CloudnLoud-Openstack-Cloud-RedHat-Opensource/events/237248786/
 
 - title: Easing Your Cloud Challenges and Happy Hour
   location: Phoenix, AZ
@@ -64,6 +35,16 @@ talks:
       OpenStack Newton release | Bare Metal | Containers | Kubernetes | 2017
       https://www.meetup.com/Openstack-nl/events/235320525/
 
+- title: Nuage Networks Integration with OpenStack
+  location: Chesterfield, MO
+  speaker: OpenStack St. Louis
+  start: 2017-02-16 19:30 UTC
+  end: 2017-02-16 20:30 UTC
+  description: |
+      Chesterfield, MO, US
+      Nuage Networks Integration with OpenStack
+      https://www.meetup.com/OpenStack-STL/events/237476000/
+
 - title: Deep diving for pearls of wisdom in setting up policy and permissions
   location: Cork, IE
   speaker: OpenStack Cork
@@ -84,6 +65,16 @@ talks:
       OpenStack Meetup - Octavia
       https://www.meetup.com/openstack-atlanta/events/237189297/
 
+- title: Workshop de Instalación de OpenStack
+  location: México City, MX
+  speaker: OpenstackMexicoCity
+  start: 2017-02-18 11:00 UTC
+  end: 2017-02-18 12:00 UTC
+  description: |
+      México City, MX
+      Workshop de Instalación de OpenStack
+      https://www.meetup.com/OpenstackMexicoCity/events/237611790/
+
 - title: OpenStack Neutron Upgrade Path
   location: Guadalajara, MX
   speaker: OpenStack GDL
@@ -93,4 +84,94 @@ talks:
       Guadalajara, MX
       OpenStack Neutron Upgrade Path
       https://www.meetup.com/OpenStack-GDL/events/237412412/
+
+- title: Q1 MeetUp - State of OpenStack and user stories
+  location: Montréal, QC
+  speaker: Montréal OpenStack
+  start: 2017-02-22 18:00 UTC
+  end: 2017-02-22 19:00 UTC
+  description: |
+      Montréal, QC, CA
+      Q1 MeetUp - State of OpenStack and user stories
+      https://www.meetup.com/Montreal-OpenStack/events/237022849/
+
+- title: OpenStack Wrocław Meetup #5
+  location: Wroclaw, PL
+  speaker: Wroclaw OpenStack Meetup
+  start: 2017-02-22 12:00 UTC
+  end: 2017-02-22 13:00 UTC
+  description: |
+      Wroclaw, PL
+      OpenStack Wrocław Meetup #5
+      https://www.meetup.com/Wroclaw-OpenStack-Meetup/events/237190855/
+
+- title: Lessons Learned Deploying/Operating OpenContrail & OpenStack in SaaS Environment
+  location: San Jose, CA
+  speaker: Bay Area Network Operators Group (BANOG)
+  start: 2017-02-22 21:00 UTC
+  end: 2017-02-22 22:00 UTC
+  description: |
+      San Jose, CA, US
+      Lessons Learned Deploying/Operating OpenContrail & OpenStack in SaaS Environment
+      https://www.meetup.com/BA-NOG/events/235454981/
+
+- title: OpenStack Wizardry Night - IoT
+  location: San Diego, CA
+  speaker: OpenStack San Diego
+  start: 2017-02-22 21:30 UTC
+  end: 2017-02-22 22:30 UTC
+  description: |
+      San Diego, CA, US
+      OpenStack Wizardry Night - IoT
+      https://www.meetup.com/OpenStackSanDiego/events/237027836/
+
+- title: Virtual Machine High Availability and Lease Management in OpenStack
+  location: Sunnyvale, CA
+  speaker: SF Bay Area OpenStack
+  start: 2017-02-22 21:30 UTC
+  end: 2017-02-22 22:30 UTC
+  description: |
+      Sunnyvale, CA, US
+      Virtual Machine High Availability and Lease Management in OpenStack
+      https://www.meetup.com/openstack/events/237621777/
+
+- title: OpenStack Wizardry Night - IoT Challenge
+  location: San Diego, CA
+  speaker: Cloud Computing San Diego
+  start: 2017-02-22 21:30 UTC
+  end: 2017-02-22 22:30 UTC
+  description: |
+      San Diego, CA, US
+      OpenStack Wizardry Night - IoT Challenge
+      https://www.meetup.com/SDCloud/events/237501086/
+
+- title: OpenStackOperators Finland Video Call
+  location: Helsinki, FI
+  speaker: OpenStack Finland User Group
+  start: 2017-02-23 06:00 UTC
+  end: 2017-02-23 07:00 UTC
+  description: |
+      Helsinki, FI
+      OpenStackOperators Finland Video Call
+      https://www.meetup.com/OpenStack-Finland-User-Group/events/237261104/
+
+- title: Let's talk Ansible and OpenStack
+  location: Raleigh, NC
+  speaker: RDU TechTalks
+  start: 2017-02-23 16:30 UTC
+  end: 2017-02-23 17:30 UTC
+  description: |
+      Raleigh, NC, US
+      Let's talk Ansible and OpenStack
+      https://www.meetup.com/RDU-TechTalks/events/237228479/
+
+- title: Discuss and Learn about OpenStack
+  location: Littleton, CO
+  speaker: OpenStack Denver
+  start: 2017-02-23 20:30 UTC
+  end: 2017-02-23 21:30 UTC
+  description: |
+      Littleton, CO, US
+      Discuss and Learn about OpenStack
+      https://www.meetup.com/OpenStack-Denver/events/237137250/
 
