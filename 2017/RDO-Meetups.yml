@@ -5,75 +5,6 @@ tags: RDO
 talks:
 
 
-- title: Easing Your Cloud Challenges and Happy Hour
-  location: Phoenix, AZ
-  speaker: OpenStack Phoenix
-  start: 2017-02-15 16:00 UTC
-  end: 2017-02-15 17:00 UTC
-  description: |
-      Phoenix, AZ, US
-      Easing Your Cloud Challenges and Happy Hour
-      https://www.meetup.com/OpenStack-Phoenix/events/237219457/
-
-- title: Митап #1 2017
-  location: Moscow, RU
-  speaker: OpenStack Russia Moscow
-  start: 2017-02-16 06:00 UTC
-  end: 2017-02-16 07:00 UTC
-  description: |
-      Moscow, RU
-      Митап #1 2017
-      https://www.meetup.com/OpenStack-Russia/events/237051495/
-
-- title: OpenStack Newton release | Bare Metal | Containers | Kubernetes | 2017
-  location: Amersfoort, NL
-  speaker: OpenStack.nl
-  start: 2017-02-16 09:00 UTC
-  end: 2017-02-16 10:00 UTC
-  description: |
-      Amersfoort, NL
-      OpenStack Newton release | Bare Metal | Containers | Kubernetes | 2017
-      https://www.meetup.com/Openstack-nl/events/235320525/
-
-- title: Nuage Networks Integration with OpenStack
-  location: Chesterfield, MO
-  speaker: OpenStack St. Louis
-  start: 2017-02-16 19:30 UTC
-  end: 2017-02-16 20:30 UTC
-  description: |
-      Chesterfield, MO, US
-      Nuage Networks Integration with OpenStack
-      https://www.meetup.com/OpenStack-STL/events/237476000/
-
-- title: Deep diving for pearls of wisdom in setting up policy and permissions
-  location: Cork, IE
-  speaker: OpenStack Cork
-  start: 2017-02-16 14:00 UTC
-  end: 2017-02-16 15:00 UTC
-  description: |
-      Cork, IE
-      Deep diving for pearls of wisdom in setting up policy and permissions
-      https://www.meetup.com/OpenStack-Cork/events/236354580/
-
-- title: OpenStack Meetup - Octavia
-  location: Atlanta, GA
-  speaker: Atlanta OpenStack Meetup Group
-  start: 2017-02-16 19:00 UTC
-  end: 2017-02-16 20:00 UTC
-  description: |
-      Atlanta, GA, US
-      OpenStack Meetup - Octavia
-      https://www.meetup.com/openstack-atlanta/events/237189297/
-
-- title: Workshop de Instalación de OpenStack
-  location: México City, MX
-  speaker: OpenstackMexicoCity
-  start: 2017-02-18 11:00 UTC
-  end: 2017-02-18 12:00 UTC
-  description: |
-      México City, MX
-      Workshop de Instalación de OpenStack
-      https://www.meetup.com/OpenstackMexicoCity/events/237611790/
 
 - title: OpenStack Neutron Upgrade Path
   location: Guadalajara, MX
@@ -165,13 +96,93 @@ talks:
       Let's talk Ansible and OpenStack
       https://www.meetup.com/RDU-TechTalks/events/237228479/
 
-- title: Discuss and Learn about OpenStack
-  location: Littleton, CO
-  speaker: OpenStack Denver
-  start: 2017-02-23 20:30 UTC
-  end: 2017-02-23 21:30 UTC
+- title: DC/OS, K8s, OpenStack - In person meet and greet!
+  location: Sunnyvale, CA
+  speaker: SF Bay Area OpenStack
+  start: 2017-02-23 21:00 UTC
+  end: 2017-02-23 22:00 UTC
   description: |
-      Littleton, CO, US
-      Discuss and Learn about OpenStack
-      https://www.meetup.com/OpenStack-Denver/events/237137250/
+      Sunnyvale, CA, US
+      DC/OS, K8s, OpenStack - In person meet and greet!
+      https://www.meetup.com/openstack/events/237798067/
+
+- title: Panel Discussion DC/OS, K8s, OpenStack - In person meet and greet!
+  location: San Francisco, CA
+  speaker: DC/OS Online Meetup
+  start: 2017-02-23 21:00 UTC
+  end: 2017-02-23 22:00 UTC
+  description: |
+      San Francisco, CA, US
+      Panel Discussion DC/OS, K8s, OpenStack - In person meet and greet!
+      https://www.meetup.com/DC-OS-Online-Meetup/events/237534764/
+
+- title: Productive cloud development environment with teracy-dev
+  location: Ha Noi, VN
+  speaker: Vietnam OpenStack Official User Group
+  start: 2017-02-23 06:30 UTC
+  end: 2017-02-23 07:30 UTC
+  description: |
+      Ha Noi, VN
+      Productive cloud development environment with teracy-dev
+      https://www.meetup.com/VietOpenStack/events/237779735/
+
+- title: OpenStack and the Growth of the Container Ecosystem How One Affects Another
+  location: Pasadena, CA
+  speaker: OpenStack LA
+  start: 2017-02-23 22:00 UTC
+  end: 2017-02-23 23:00 UTC
+  description: |
+      Pasadena, CA, US
+      OpenStack and the Growth of the Container Ecosystem How One Affects Another
+      https://www.meetup.com/OpenStack-LA/events/237686102/
+
+- title: Australian OpenStack User Group - Quarterly Brisbane Meetup
+  location: Perth, AU
+  speaker: Australian OpenStack User Group
+  start: 2017-02-27 02:00 UTC
+  end: 2017-02-27 03:00 UTC
+  description: |
+      Perth, AU
+      Australian OpenStack User Group - Quarterly Brisbane Meetup
+      https://www.meetup.com/Australian-OpenStack-User-Group/events/230367371/
+
+- title: Talk about Cinder
+  location: Fort Collins, CO
+  speaker: Colorado OpenStack
+  start: 2017-02-28 20:00 UTC
+  end: 2017-02-28 21:00 UTC
+  description: |
+      Fort Collins, CO, US
+      Talk about Cinder
+      https://www.meetup.com/OpenStack-Colorado/events/237372008/
+
+- title: Containers avec OpenStack + Assemblée Générale OpenStackFR
+  location: Paris, FR
+  speaker: OpenStackFR Paris
+  start: 2017-02-28 12:45 UTC
+  end: 2017-02-28 13:45 UTC
+  description: |
+      Paris, FR
+      Containers avec OpenStack + Assemblée Générale OpenStackFR
+      https://www.meetup.com/OpenStack-France/events/237544811/
+
+- title: Meetup 2 OpenStackCDMX - América Móvil Nube Privada, el reto en la organización
+  location: México City, MX
+  speaker: OpenstackMexicoCity
+  start: 2017-02-28 20:30 UTC
+  end: 2017-02-28 21:30 UTC
+  description: |
+      México City, MX
+      Meetup 2 OpenStackCDMX - América Móvil Nube Privada, el reto en la organización
+      https://www.meetup.com/OpenstackMexicoCity/events/237678471/
+
+- title: A Comparison of Amazon Web Services vs OpenStack
+  location: Richardson, TX
+  speaker: OpenStack DFW
+  start: 2017-03-01 19:00 UTC
+  end: 2017-03-01 20:00 UTC
+  description: |
+      Richardson, TX, US
+      A Comparison of Amazon Web Services vs OpenStack
+      https://www.meetup.com/OpenStack-DFW/events/237764770/
 
