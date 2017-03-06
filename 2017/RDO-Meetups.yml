@@ -5,75 +5,15 @@ tags: RDO
 talks:
 
 
-- title: Talk about Cinder
-  location: Fort Collins, CO
-  speaker: Colorado OpenStack
-  start: 2017-02-28 20:00 UTC
-  end: 2017-02-28 21:00 UTC
+- title: Open Compute Project
+  location: Wellington, NZ
+  speaker: New Zealand OpenStack User Group
+  start: 2017-03-06 18:00 UTC
+  end: 2017-03-06 19:00 UTC
   description: |
-      Fort Collins, CO, US
-      Talk about Cinder
-      https://www.meetup.com/OpenStack-Colorado/events/237372008/
-
-- title: Meetup#22 Containers avec OpenStack + Assemblée Générale OpenStackFR
-  location: Paris, FR
-  speaker: OpenStackFR Paris
-  start: 2017-02-28 12:45 UTC
-  end: 2017-02-28 13:45 UTC
-  description: |
-      Paris, FR
-      Meetup#22 Containers avec OpenStack + Assemblée Générale OpenStackFR
-      https://www.meetup.com/OpenStack-France/events/237544811/
-
-- title: Meetup 2 OpenStackCDMX - América Móvil Nube Privada, el reto en la organización
-  location: México City, MX
-  speaker: OpenstackMexicoCity
-  start: 2017-02-28 20:30 UTC
-  end: 2017-02-28 21:30 UTC
-  description: |
-      México City, MX
-      Meetup 2 OpenStackCDMX - América Móvil Nube Privada, el reto en la organización
-      https://www.meetup.com/OpenstackMexicoCity/events/237678471/
-
-- title: A Comparison of Amazon Web Services vs OpenStack
-  location: Richardson, TX
-  speaker: OpenStack DFW
-  start: 2017-03-01 19:00 UTC
-  end: 2017-03-01 20:00 UTC
-  description: |
-      Richardson, TX, US
-      A Comparison of Amazon Web Services vs OpenStack
-      https://www.meetup.com/OpenStack-DFW/events/237764770/
-
-- title: Free Seminar Managing and Deploying Instances on OpenStack Cloud
-  location: Dubai, AE
-  speaker: Innosoft Gulf - Linux and OpenStack Administration
-  start: 2017-03-02 07:00 UTC
-  end: 2017-03-02 08:00 UTC
-  description: |
-      Dubai, AE
-      Free Seminar Managing and Deploying Instances on OpenStack Cloud
-      https://www.meetup.com/Innosoft-Gulf-Linux-and-OpenStack-Administratioin/events/237987404/
-
-- title: Monthly SFOUG Meeting
-  location: Fort Lauderdale, FL
-  speaker: South Florida OpenStack Users Group
-  start: 2017-03-02 17:15 UTC
-  end: 2017-03-02 18:15 UTC
-  description: |
-      Fort Lauderdale, FL, US
-      Monthly SFOUG Meeting
-      https://www.meetup.com/South-Florida-OpenStack-Users-Group/events/237877323/
-
-- title: What it takes to have a successful Openstack deployment
-  location: Charlotte, NC
-  speaker: Charlotte OpenStack
-  start: 2017-03-07 19:00 UTC
-  end: 2017-03-07 20:00 UTC
-  description: |
-      Charlotte, NC, US
-      What it takes to have a successful Openstack deployment
-      https://www.meetup.com/Charlotte-OpenStack/events/237582090/
+      Wellington, NZ
+      Open Compute Project
+      https://www.meetup.com/New-Zealand-OpenStack-User-Group/events/238090385/
 
 - title: State of OpenStack / Neutron, A Fast Deep Dive / AMA Panel
   location: Toronto, ON
@@ -84,4 +24,44 @@ talks:
       Toronto, ON, CA
       State of OpenStack / Neutron, A Fast Deep Dive / AMA Panel
       https://www.meetup.com/OpenStackTO/events/237427641/
+
+- title: Free Seminar Managing and Deploying Instances on OpenStack Cloud
+  location: Dubai, AE
+  speaker: Innosoft Gulf - Linux and OpenStack Administration
+  start: 2017-03-08 09:30 UTC
+  end: 2017-03-08 10:30 UTC
+  description: |
+      Dubai, AE
+      Free Seminar Managing and Deploying Instances on OpenStack Cloud
+      https://www.meetup.com/Innosoft-Gulf-Linux-and-OpenStack-Administratioin/events/238123803/
+
+- title: OpenStack & RedHat (OSP, OpenShift, and more!)
+  location: Vancouver, BC
+  speaker: Vancouver OpenStack Meetup
+  start: 2017-03-15 21:00 UTC
+  end: 2017-03-15 22:00 UTC
+  description: |
+      Vancouver, BC, CA
+      OpenStack & RedHat (OSP, OpenShift, and more!)
+      https://www.meetup.com/Vancouver-OpenStack-Meetup/events/237855860/
+
+- title: OpenStack and RedHat
+  location: Calgary, AB
+  speaker: Calgary OpenStack Meetup
+  start: 2017-03-16 20:00 UTC
+  end: 2017-03-16 21:00 UTC
+  description: |
+      Calgary, AB, CA
+      OpenStack and RedHat
+      https://www.meetup.com/Calgary-OpenStack-Meetup/events/237855919/
+
+- title: OpenStack on Kubernetes - automated!
+  location: Austin, TX
+  speaker: OpenStack Austin Texas
+  start: 2017-03-16 19:15 UTC
+  end: 2017-03-16 20:15 UTC
+  description: |
+      Austin, TX, US
+      OpenStack on Kubernetes - automated!
+      https://www.meetup.com/OpenStack-Austin/events/237903052/
 
