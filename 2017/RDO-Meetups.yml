@@ -5,44 +5,14 @@ tags: RDO
 talks:
 
 
-- title: Open Compute Project
-  location: Wellington, NZ
-  speaker: New Zealand OpenStack User Group
-  start: 2017-03-06 18:00 UTC
-  end: 2017-03-06 19:00 UTC
-  description: |
-      Wellington, NZ
-      Open Compute Project
-      https://www.meetup.com/New-Zealand-OpenStack-User-Group/events/238090385/
-
-- title: State of OpenStack / Neutron, A Fast Deep Dive / AMA Panel
-  location: Toronto, ON
-  speaker: OpenStack Toronto
-  start: 2017-03-08 17:30 UTC
-  end: 2017-03-08 18:30 UTC
-  description: |
-      Toronto, ON, CA
-      State of OpenStack / Neutron, A Fast Deep Dive / AMA Panel
-      https://www.meetup.com/OpenStackTO/events/237427641/
-
-- title: Free Seminar Managing and Deploying Instances on OpenStack Cloud
-  location: Dubai, AE
-  speaker: Innosoft Gulf - Linux and OpenStack Administration
-  start: 2017-03-08 09:30 UTC
-  end: 2017-03-08 10:30 UTC
-  description: |
-      Dubai, AE
-      Free Seminar Managing and Deploying Instances on OpenStack Cloud
-      https://www.meetup.com/Innosoft-Gulf-Linux-and-OpenStack-Administratioin/events/238123803/
-
-- title: OpenStack & RedHat (OSP, OpenShift, and more!)
+- title: OpenStack & RedHat
   location: Vancouver, BC
   speaker: Vancouver OpenStack Meetup
   start: 2017-03-15 21:00 UTC
   end: 2017-03-15 22:00 UTC
   description: |
       Vancouver, BC, CA
-      OpenStack & RedHat (OSP, OpenShift, and more!)
+      OpenStack & RedHat
       https://www.meetup.com/Vancouver-OpenStack-Meetup/events/237855860/
 
 - title: OpenStack and RedHat
@@ -55,6 +25,26 @@ talks:
       OpenStack and RedHat
       https://www.meetup.com/Calgary-OpenStack-Meetup/events/237855919/
 
+- title: OpenStack Boston - Performance of Hyper-V in OpenStack
+  location: Boston, MA
+  speaker: Openstack Boston
+  start: 2017-03-16 18:00 UTC
+  end: 2017-03-16 19:00 UTC
+  description: |
+      Boston, MA, US
+      OpenStack Boston - Performance of Hyper-V in OpenStack
+      https://www.meetup.com/Openstack-Boston/events/238308352/
+
+- title: OpenStack and OpenDaylight an integrated IaaS for SDN/NFV
+  location: Tel Aviv-Yafo, IL
+  speaker: OpenStack-Israel
+  start: 2017-03-16 12:00 UTC
+  end: 2017-03-16 13:00 UTC
+  description: |
+      Tel Aviv-Yafo, IL
+      OpenStack and OpenDaylight an integrated IaaS for SDN/NFV
+      https://www.meetup.com/OpenStack-Israel/events/238263001/
+
 - title: OpenStack on Kubernetes - automated!
   location: Austin, TX
   speaker: OpenStack Austin Texas
@@ -64,4 +54,154 @@ talks:
       Austin, TX, US
       OpenStack on Kubernetes - automated!
       https://www.meetup.com/OpenStack-Austin/events/237903052/
+
+- title: OpenStack Meetup (Topic TBD)
+  location: Atlanta, GA
+  speaker: Atlanta OpenStack Meetup Group
+  start: 2017-03-16 19:00 UTC
+  end: 2017-03-16 20:00 UTC
+  description: |
+      Atlanta, GA, US
+      OpenStack Meetup (Topic TBD)
+      https://www.meetup.com/openstack-atlanta/events/237787309/
+
+- title: OpenStack en production, le cloud open source en datacenter
+  location: Rennes, FR
+  speaker: OpenStackFR Rennes
+  start: 2017-03-20 13:45 UTC
+  end: 2017-03-20 14:45 UTC
+  description: |
+      Rennes, FR
+      OpenStack en production, le cloud open source en datacenter
+      https://www.meetup.com/OpenStack-Rennes/events/237844135/
+
+- title: OpenStack Architecture Discussion
+  location: Fort Collins, CO
+  speaker: Colorado OpenStack
+  start: 2017-03-21 20:00 UTC
+  end: 2017-03-21 21:00 UTC
+  description: |
+      Fort Collins, CO, US
+      OpenStack Architecture Discussion
+      https://www.meetup.com/OpenStack-Colorado/events/238221589/
+
+- title: 15th Swiss OpenStack User Group Meetup
+  location: Zürich, CH
+  speaker: openstack-ch
+  start: 2017-03-21 13:00 UTC
+  end: 2017-03-21 14:00 UTC
+  description: |
+      Zürich, CH
+      15th Swiss OpenStack User Group Meetup
+      https://www.meetup.com/openstack-ch/events/237677326/
+
+- title: A Platform for Driving Mobile Cloud Computing on OpenStack
+  location: Cork, IE
+  speaker: OpenStack Cork
+  start: 2017-03-21 15:00 UTC
+  end: 2017-03-21 16:00 UTC
+  description: |
+      Cork, IE
+      A Platform for Driving Mobile Cloud Computing on OpenStack
+      https://www.meetup.com/OpenStack-Cork/events/237577542/
+
+- title: What it takes to have a successful Openstack deployment
+  location: Charlotte, NC
+  speaker: Charlotte OpenStack
+  start: 2017-03-21 19:00 UTC
+  end: 2017-03-21 20:00 UTC
+  description: |
+      Charlotte, NC, US
+      What it takes to have a successful Openstack deployment
+      https://www.meetup.com/Charlotte-OpenStack/events/237582090/
+
+- title: OpenStack Day Poland 2017
+  location: Warsaw, PL
+  speaker: OpenStack Warsaw Meetup
+  start: 2017-03-22 03:00 UTC
+  end: 2017-03-22 04:00 UTC
+  description: |
+      Warsaw, PL
+      OpenStack Day Poland 2017
+      https://www.meetup.com/OpenStack-Warsaw-Meetup/events/236631723/
+
+- title: Devops Cloud Management Workshop
+  location: San Diego, CA
+  speaker: OpenStack San Diego
+  start: 2017-03-22 21:30 UTC
+  end: 2017-03-22 22:30 UTC
+  description: |
+      San Diego, CA, US
+      Devops Cloud Management Workshop
+      https://www.meetup.com/OpenStackSanDiego/events/236079244/
+
+- title: OpenStackOperators Finland Video Call
+  location: Helsinki, FI
+  speaker: OpenStack Finland User Group
+  start: 2017-03-23 07:00 UTC
+  end: 2017-03-23 08:00 UTC
+  description: |
+      Helsinki, FI
+      OpenStackOperators Finland Video Call
+      https://www.meetup.com/OpenStack-Finland-User-Group/events/237973760/
+
+- title: OpenStack & the Growth of the Container Ecosystem - MAR '17 OpenStack LA Meetup
+  location: Pasadena, CA
+  speaker: OpenStack LA
+  start: 2017-03-23 22:00 UTC
+  end: 2017-03-23 23:00 UTC
+  description: |
+      Pasadena, CA, US
+      OpenStack & the Growth of the Container Ecosystem - MAR '17 OpenStack LA Meetup
+      https://www.meetup.com/OpenStack-LA/events/237882689/
+
+- title: OpenStack + Kubernetes 101
+  location: Lehi, UT
+  speaker: OpenStack Utah
+  start: 2017-03-23 21:00 UTC
+  end: 2017-03-23 22:00 UTC
+  description: |
+      Lehi, UT, US
+      OpenStack + Kubernetes 101
+      https://www.meetup.com/openstack-utah/events/237942091/
+
+- title: Red Hat @ TransUnion HQ - OpenStack, Cloud Management, Storage and Containers
+  location: Chicago, IL
+  speaker: RHUG - Chicago
+  start: 2017-03-23 20:00 UTC
+  end: 2017-03-23 21:00 UTC
+  description: |
+      Chicago, IL, US
+      Red Hat @ TransUnion HQ - OpenStack, Cloud Management, Storage and Containers
+      https://www.meetup.com/RHUG-Chicago/events/238252391/
+
+- title: OpenStack Bangalore Meetup
+  location: Bangalore, IN
+  speaker: Indian OpenStack User Group
+  start: 2017-03-25 04:30 UTC
+  end: 2017-03-25 05:30 UTC
+  description: |
+      Bangalore, IN
+      OpenStack Bangalore Meetup
+      https://www.meetup.com/Indian-OpenStack-User-Group/events/238260255/
+
+- title: OpenStack TechnicalMetup#13 - VietOpenStack
+  location: Ha Noi, VN
+  speaker: Vietnam OpenStack Official User Group
+  start: 2017-03-25 08:00 UTC
+  end: 2017-03-25 09:00 UTC
+  description: |
+      Ha Noi, VN
+      OpenStack TechnicalMetup#13 - VietOpenStack
+      https://www.meetup.com/VietOpenStack/events/238336571/
+
+- title: Hands On OpenStack Ocata Online Deployment
+  location: Köln, DE
+  speaker: OpenStack Cologne
+  start: 2017-03-25 14:00 UTC
+  end: 2017-03-25 15:00 UTC
+  description: |
+      Köln, DE
+      Hands On OpenStack Ocata Online Deployment
+      https://www.meetup.com/OpenStack-Cologne/events/237537376/
 
