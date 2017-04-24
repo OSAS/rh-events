@@ -4,145 +4,103 @@ tags: RDO
 
 talks:
 
-
-- title: SUSE Open Source Meet Up
-  location: Buenos Aires, AR
-  speaker: OpenStack Argentina
-  start: 2017-04-11 17:00 UTC
-  end: 2017-04-11 18:00 UTC
+- title: RackSpace Running and Managing Kubernetes on OpenStack #15
+  location: Morrisville, NC
+  speaker: Triangle Kubernetes and OpenShift Meetup
+  start: 2017-04-24 18:00 UTC
+  end: 2017-04-24 19:00 UTC
   description: |
-      Buenos Aires, AR
-      SUSE Open Source Meet Up
-      https://www.meetup.com/openstack-argentina/events/238966419/
+      Morrisville, NC, US
+      RackSpace Running and Managing Kubernetes on OpenStack #15
+      https://www.meetup.com/Triangle-Kubernetes-Meetup/events/239136540/
 
-- title: KuberNETes  (see what we did there? )
-  location: Sunnyvale, CA
-  speaker: SF Bay Area OpenStack
-  start: 2017-04-12 21:30 UTC
-  end: 2017-04-12 22:30 UTC
+- title: The April London Openstack Meetup
+  location: London, 17
+  speaker: London OpenStack Meetup
+  start: 2017-04-25 14:00 UTC
+  end: 2017-04-25 15:00 UTC
   description: |
-      Sunnyvale, CA, US
-      KuberNETes  (see what we did there? )
-      https://www.meetup.com/openstack/events/238785015/
+      London, 17, GB
+      The April London Openstack Meetup
+      https://www.meetup.com/Openstack-London/events/238584164/
 
-- title: OpenStack Meetup with Alan Clark
-  location: Santiago, CL
-  speaker: OpenStackSCL
-  start: 2017-04-12 18:30 UTC
-  end: 2017-04-12 19:30 UTC
-  description: |
-      Santiago, CL
-      OpenStack Meetup with Alan Clark
-      https://www.meetup.com/OpenStackSCL/events/239039793/
-
-- title: DCUG Meeting Getting Started with OpenStack in a Datacenter Environment
-  location: Brussels, BE
-  speaker: Cisco Data Center User Group Brussels
-  start: 2017-04-13 12:00 UTC
-  end: 2017-04-13 13:00 UTC
-  description: |
-      Brussels, BE
-      DCUG Meeting Getting Started with OpenStack in a Datacenter Environment
-      https://www.meetup.com/Cisco-Data-Center-User-Group-Brussels/events/238794444/
-
-- title: Pune, Let's OpenStack 2017
-  location: Bangalore, IN
-  speaker: Indian OpenStack User Group
-  start: 2017-04-16 00:30 UTC
-  end: 2017-04-16 01:30 UTC
-  description: |
-      Bangalore, IN
-      Pune, Let's OpenStack 2017
-      https://www.meetup.com/Indian-OpenStack-User-Group/events/238458999/
-
-- title: OpenStack Hungary April
-  location: Budapest, HU
-  speaker: OpenStack Hungary Meetup Group
-  start: 2017-04-18 11:30 UTC
-  end: 2017-04-18 12:30 UTC
-  description: |
-      Budapest, HU
-      OpenStack Hungary April
-      https://www.meetup.com/OpenStack-Hungary-Meetup-Group/events/238832314/
-
-- title: Openstack Meetup #7 @Windcloud
-  location: Hamburg, DE
-  speaker: Openstack Hamburg
-  start: 2017-04-19 12:30 UTC
-  end: 2017-04-19 13:30 UTC
-  description: |
-      Hamburg, DE
-      Openstack Meetup #7 @Windcloud
-      https://www.meetup.com/Openstack-Hamburg/events/238439007/
-
-- title: OpenStack and Containers, Better Together!
-  location: Phoenix, AZ
-  speaker: OpenStack Phoenix
-  start: 2017-04-19 21:30 UTC
-  end: 2017-04-19 22:30 UTC
-  description: |
-      Phoenix, AZ, US
-      OpenStack and Containers, Better Together!
-      https://www.meetup.com/OpenStack-Phoenix/events/237914765/
-
-- title: 1st OpenStack meetup in Belarus
-  location: Minsk, BY
-  speaker: OpenStack Belarus
-  start: 2017-04-20 08:00 UTC
-  end: 2017-04-20 09:00 UTC
-  description: |
-      Minsk, BY
-      1st OpenStack meetup in Belarus
-      https://www.meetup.com/OpenStack_Belarus/events/237823802/
-
-- title: Cloud Wizardry Night - IoT - The Sequel!
+- title: Kubernetes+OpenStack 101
   location: San Diego, CA
   speaker: OpenStack San Diego
-  start: 2017-04-20 19:00 UTC
-  end: 2017-04-20 20:00 UTC
+  start: 2017-04-26 21:30 UTC
+  end: 2017-04-26 22:30 UTC
   description: |
       San Diego, CA, US
-      Cloud Wizardry Night - IoT - The Sequel!
-      https://www.meetup.com/OpenStackSanDiego/events/238867741/
+      Kubernetes+OpenStack 101
+      https://www.meetup.com/OpenStackSanDiego/events/237026794/
 
-- title: OpenStack & Containers Better Together
-  location: Fort Collins, CO
-  speaker: Colorado OpenStack
-  start: 2017-04-20 20:00 UTC
-  end: 2017-04-20 21:00 UTC
+- title: OpenStack and Ansible (we changed the date to April 26)
+  location: Orlando, FL
+  speaker: OpenStack Central Florida
+  start: 2017-04-26 19:00 UTC
+  end: 2017-04-26 20:00 UTC
   description: |
-      Fort Collins, CO, US
-      OpenStack & Containers Better Together
-      https://www.meetup.com/OpenStack-Colorado/events/238291103/
+      Orlando, FL, US
+      OpenStack and Ansible (we changed the date to April 26)
+      https://www.meetup.com/Orlando-Central-Florida-OpenStack-Meetup/events/239141057/
 
-- title: OpenStack and Containers Better Together
-  location: Littleton, CO
-  speaker: OpenStack Denver
-  start: 2017-04-20 20:00 UTC
-  end: 2017-04-20 21:00 UTC
+- title: OpenStackOperators Finland Video Call
+  location: Helsinki, FI
+  speaker: OpenStack Finland User Group
+  start: 2017-04-27 06:00 UTC
+  end: 2017-04-27 07:00 UTC
   description: |
-      Littleton, CO, US
-      OpenStack and Containers Better Together
-      https://www.meetup.com/OpenStack-Denver/events/238278919/
+      Helsinki, FI
+      OpenStackOperators Finland Video Call
+      https://www.meetup.com/OpenStack-Finland-User-Group/events/238428792/
 
-- title: State of OpenStack - data from Barcelona survey  & first ever AMA panel!
-  location: Boston, MA
-  speaker: Openstack Boston
-  start: 2017-04-20 18:15 UTC
-  end: 2017-04-20 19:15 UTC
+- title: Need for Speed - using DPDK and SR-IOV
+  location: Chesterfield, MO
+  speaker: OpenStack St. Louis
+  start: 2017-04-27 19:30 UTC
+  end: 2017-04-27 20:30 UTC
   description: |
-      Boston, MA, US
-      State of OpenStack - data from Barcelona survey  & first ever AMA panel!
-      https://www.meetup.com/Openstack-Boston/events/238925379/
+      Chesterfield, MO, US
+      Need for Speed - using DPDK and SR-IOV
+      https://www.meetup.com/OpenStack-STL/events/239421362/
 
-- title: OpenStack Meetup (Topic TBD)
-  location: Atlanta, GA
-  speaker: Atlanta OpenStack Meetup Group
-  start: 2017-04-20 19:00 UTC
-  end: 2017-04-20 20:00 UTC
+- title: OpenStack L.A. April Meetup - OpenStack Use Cases
+  location: Pasadena, CA
+  speaker: OpenStack LA
+  start: 2017-04-27 22:00 UTC
+  end: 2017-04-27 23:00 UTC
   description: |
-      Atlanta, GA, US
-      OpenStack Meetup (Topic TBD)
-      https://www.meetup.com/openstack-atlanta/events/238302578/
+      Pasadena, CA, US
+      OpenStack L.A. April Meetup - OpenStack Use Cases
+      https://www.meetup.com/OpenStack-LA/events/238906254/
 
+- title: 16º Hangout OpenStack Brasil - O que preciso saber para criar minha cloud
+  location: São Paulo, BR
+  speaker: Openstack Brasil
+  start: 2017-04-27 19:00 UTC
+  end: 2017-04-27 20:00 UTC
+  description: |
+      São Paulo, BR
+      16º Hangout OpenStack Brasil - O que preciso saber para criar minha cloud
+      https://www.meetup.com/Openstack-Brasil/events/239407506/
+
+- title: Presentacion del Grupo Openstack.
+  location: Lima, PE
+  speaker: Openstack Perú
+  start: 2017-04-29 20:00 UTC
+  end: 2017-04-29 21:00 UTC
+  description: |
+      Lima, PE
+      Presentacion del Grupo Openstack.
+      https://www.meetup.com/Openstack-Peru/events/238954877/
+
+- title: NFV Performance Improvements
+  location: Richardson, TX
+  speaker: OpenStack DFW
+  start: 2017-05-03 19:00 UTC
+  end: 2017-05-03 20:00 UTC
+  description: |
+      Richardson, TX, US
+      NFV Performance Improvements
+      https://www.meetup.com/OpenStack-DFW/events/237764596/
 
