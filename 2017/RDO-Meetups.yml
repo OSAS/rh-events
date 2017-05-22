@@ -4,103 +4,203 @@ tags: RDO
 
 talks:
 
-- title: RackSpace Running and Managing Kubernetes on OpenStack #15
-  location: Morrisville, NC
-  speaker: Triangle Kubernetes and OpenShift Meetup
-  start: 2017-04-24 18:00 UTC
-  end: 2017-04-24 19:00 UTC
+- title: Come join us for an evening of "OpenStack in the Wild"
+  location: Dublin, IE
+  speaker: OpenStack Ireland
+  start: 2017-05-22 13:00 UTC
+  end: 2017-05-22 14:00 UTC
   description: |
-      Morrisville, NC, US
-      RackSpace Running and Managing Kubernetes on OpenStack #15
-      https://www.meetup.com/Triangle-Kubernetes-Meetup/events/239136540/
+      Dublin, IE
+      Come join us for an evening of "OpenStack in the Wild"
+      https://www.meetup.com/OpenStack-Ireland/events/238806182/
 
-- title: The April London Openstack Meetup
-  location: London, 17
-  speaker: London OpenStack Meetup
-  start: 2017-04-25 14:00 UTC
-  end: 2017-04-25 15:00 UTC
+- title: Live Migration and Advanced LBaaS
+  location: Manchester, 18
+  speaker: Manchester OpenStack Meetup
+  start: 2017-05-22 13:30 UTC
+  end: 2017-05-22 14:30 UTC
   description: |
-      London, 17, GB
-      The April London Openstack Meetup
-      https://www.meetup.com/Openstack-London/events/238584164/
+      Manchester, 18, GB
+      Live Migration and Advanced LBaaS
+      https://www.meetup.com/Manchester-OpenStack-Meetup/events/239507652/
 
-- title: Kubernetes+OpenStack 101
+- title: Boston OpenStack Summit Rewind
+  location: Fort Collins, CO
+  speaker: Colorado OpenStack
+  start: 2017-05-23 20:00 UTC
+  end: 2017-05-23 21:00 UTC
+  description: |
+      Fort Collins, CO, US
+      Boston OpenStack Summit Rewind
+      https://www.meetup.com/OpenStack-Colorado/events/240013373/
+
+- title: Containers and OpenStack
   location: San Diego, CA
   speaker: OpenStack San Diego
-  start: 2017-04-26 21:30 UTC
-  end: 2017-04-26 22:30 UTC
+  start: 2017-05-24 21:00 UTC
+  end: 2017-05-24 22:00 UTC
   description: |
       San Diego, CA, US
-      Kubernetes+OpenStack 101
-      https://www.meetup.com/OpenStackSanDiego/events/237026794/
+      Containers and OpenStack
+      https://www.meetup.com/OpenStackSanDiego/events/237028817/
 
-- title: OpenStack and Ansible (we changed the date to April 26)
-  location: Orlando, FL
-  speaker: OpenStack Central Florida
-  start: 2017-04-26 19:00 UTC
-  end: 2017-04-26 20:00 UTC
+- title: OpenStack Meetup #8 @Windcloud
+  location: Hamburg, DE
+  speaker: Openstack Hamburg
+  start: 2017-05-24 12:30 UTC
+  end: 2017-05-24 13:30 UTC
   description: |
-      Orlando, FL, US
-      OpenStack and Ansible (we changed the date to April 26)
-      https://www.meetup.com/Orlando-Central-Florida-OpenStack-Meetup/events/239141057/
+      Hamburg, DE
+      OpenStack Meetup #8 @Windcloud
+      https://www.meetup.com/Openstack-Hamburg/events/239690056/
 
-- title: OpenStackOperators Finland Video Call
-  location: Helsinki, FI
-  speaker: OpenStack Finland User Group
-  start: 2017-04-27 06:00 UTC
-  end: 2017-04-27 07:00 UTC
+- title: Discuss and Learn about OpenStack
+  location: Littleton, CO
+  speaker: OpenStack Denver
+  start: 2017-05-25 20:30 UTC
+  end: 2017-05-25 21:30 UTC
   description: |
-      Helsinki, FI
-      OpenStackOperators Finland Video Call
-      https://www.meetup.com/OpenStack-Finland-User-Group/events/238428792/
+      Littleton, CO, US
+      Discuss and Learn about OpenStack
+      https://www.meetup.com/OpenStack-Denver/events/239162213/
 
-- title: Need for Speed - using DPDK and SR-IOV
-  location: Chesterfield, MO
-  speaker: OpenStack St. Louis
-  start: 2017-04-27 19:30 UTC
-  end: 2017-04-27 20:30 UTC
-  description: |
-      Chesterfield, MO, US
-      Need for Speed - using DPDK and SR-IOV
-      https://www.meetup.com/OpenStack-STL/events/239421362/
-
-- title: OpenStack L.A. April Meetup - OpenStack Use Cases
+- title: Containers and OpenStack - The May 2017 OpenStack L.A. Meetup
   location: Pasadena, CA
   speaker: OpenStack LA
-  start: 2017-04-27 22:00 UTC
-  end: 2017-04-27 23:00 UTC
+  start: 2017-05-25 22:00 UTC
+  end: 2017-05-25 23:00 UTC
   description: |
       Pasadena, CA, US
-      OpenStack L.A. April Meetup - OpenStack Use Cases
-      https://www.meetup.com/OpenStack-LA/events/238906254/
+      Containers and OpenStack - The May 2017 OpenStack L.A. Meetup
+      https://www.meetup.com/OpenStack-LA/events/239964385/
 
-- title: 16º Hangout OpenStack Brasil - O que preciso saber para criar minha cloud
-  location: São Paulo, BR
-  speaker: Openstack Brasil
-  start: 2017-04-27 19:00 UTC
-  end: 2017-04-27 20:00 UTC
+- title: Open Stack Monthly Meetup
+  location: Lehi, UT
+  speaker: OpenStack Utah
+  start: 2017-05-25 21:00 UTC
+  end: 2017-05-25 22:00 UTC
   description: |
-      São Paulo, BR
-      16º Hangout OpenStack Brasil - O que preciso saber para criar minha cloud
-      https://www.meetup.com/Openstack-Brasil/events/239407506/
+      Lehi, UT, US
+      Open Stack Monthly Meetup
+      https://www.meetup.com/openstack-utah/events/240128506/
 
-- title: Presentacion del Grupo Openstack.
-  location: Lima, PE
-  speaker: Openstack Perú
-  start: 2017-04-29 20:00 UTC
-  end: 2017-04-29 21:00 UTC
+- title: Dissecting Stack
+  location: Bangalore, IN
+  speaker: Indian OpenStack User Group
+  start: 2017-05-27 01:00 UTC
+  end: 2017-05-27 02:00 UTC
   description: |
-      Lima, PE
-      Presentacion del Grupo Openstack.
-      https://www.meetup.com/Openstack-Peru/events/238954877/
+      Bangalore, IN
+      Dissecting Stack
+      https://www.meetup.com/Indian-OpenStack-User-Group/events/239721343/
 
-- title: NFV Performance Improvements
-  location: Richardson, TX
-  speaker: OpenStack DFW
-  start: 2017-05-03 19:00 UTC
-  end: 2017-05-03 20:00 UTC
+- title: Australian OpenStack User Group - Quarterly Brisbane Meetup
+  location: Melbourne, AU
+  speaker: Australian OpenStack User Group
+  start: 2017-05-29 06:00 UTC
+  end: 2017-05-29 07:00 UTC
   description: |
-      Richardson, TX, US
-      NFV Performance Improvements
-      https://www.meetup.com/OpenStack-DFW/events/237764596/
+      Melbourne, AU
+      Australian OpenStack User Group - Quarterly Brisbane Meetup
+      https://www.meetup.com/Australian-OpenStack-User-Group/events/238019483/
+
+- title: OpenStackFin meetup 30.5.2017
+  location: Helsinki, FI
+  speaker: OpenStack Finland User Group
+  start: 2017-05-30 10:00 UTC
+  end: 2017-05-30 11:00 UTC
+  description: |
+      Helsinki, FI
+      OpenStackFin meetup 30.5.2017
+      https://www.meetup.com/OpenStack-Finland-User-Group/events/239688756/
+
+- title: Networking + Neutron on OpenStack + ONOS live setup + Azure Stack
+  location: Hillsboro, OR
+  speaker: Out Of The Box Network Developers Portland
+  start: 2017-05-30 20:30 UTC
+  end: 2017-05-30 21:30 UTC
+  description: |
+      Hillsboro, OR, US
+      Networking + Neutron on OpenStack + ONOS live setup + Azure Stack
+      https://www.meetup.com/Out-Of-The-Box-Network-Developers-PDX/events/238791874/
+
+- title: Q2 MeetUp - Operational War Stories and Let's Talk About Ceph!
+  location: Montréal, QC
+  speaker: Montréal OpenStack
+  start: 2017-05-30 17:45 UTC
+  end: 2017-05-30 18:45 UTC
+  description: |
+      Montréal, QC, CA
+      Q2 MeetUp - Operational War Stories and Let's Talk About Ceph!
+      https://www.meetup.com/Montreal-OpenStack/events/239325304/
+
+- title: 30 Maggio 2017 - OpenStack Meetup&Beer
+  location: Milano, MI
+  speaker: OpenStack Milano
+  start: 2017-05-30 12:00 UTC
+  end: 2017-05-30 13:00 UTC
+  description: |
+      Milano, MI, IT
+      30 Maggio 2017 - OpenStack Meetup&Beer
+      https://www.meetup.com/Meetup-OpenStack-Milano/events/239899999/
+
+- title: Q2 MeetUp - Operational War Stories and Let's Talk OpenContrail!
+  location: Ottawa, ON
+  speaker: OpenStack Ottawa
+  start: 2017-05-31 17:30 UTC
+  end: 2017-05-31 18:30 UTC
+  description: |
+      Ottawa, ON, CA
+      Q2 MeetUp - Operational War Stories and Let's Talk OpenContrail!
+      https://www.meetup.com/OpenStack-Ottawa/events/239327874/
+
+- title: OpenStack deployment on IP Fabrics Network and Storage possibilities.
+  location: Sunnyvale, CA
+  speaker: SF Bay Area OpenStack
+  start: 2017-05-31 21:30 UTC
+  end: 2017-05-31 22:30 UTC
+  description: |
+      Sunnyvale, CA, US
+      OpenStack deployment on IP Fabrics Network and Storage possibilities.
+      https://www.meetup.com/openstack/events/239889735/
+
+- title: OpenStack Australia Day Melbourne - http//australiaday­­­­­.openstack.org.au­
+  location: Melbourne, AU
+  speaker: Australian OpenStack User Group
+  start: 2017-05-31 20:00 UTC
+  end: 2017-05-31 21:00 UTC
+  description: |
+      Melbourne, AU
+      OpenStack Australia Day Melbourne - http//australiaday­­­­­.openstack.org.au­
+      https://www.meetup.com/Australian-OpenStack-User-Group/events/238405898/
+
+- title: Q2 MeetUp - Operational War Stories and Let's Talk OpenContrail!
+  location: Toronto, ON
+  speaker: OpenStack Toronto
+  start: 2017-06-01 17:45 UTC
+  end: 2017-06-01 18:45 UTC
+  description: |
+      Toronto, ON, CA
+      Q2 MeetUp - Operational War Stories and Let's Talk OpenContrail!
+      https://www.meetup.com/OpenStackTO/events/239328141/
+
+- title: OpenStack Day Israel 2017!
+  location: Tel Aviv-Yafo, IL
+  speaker: OpenStack-Israel
+  start: 2017-06-05 02:00 UTC
+  end: 2017-06-05 03:00 UTC
+  description: |
+      Tel Aviv-Yafo, IL
+      OpenStack Day Israel 2017!
+      https://www.meetup.com/OpenStack-Israel/events/237575308/
+
+- title: OpenStack Day Israel Event
+  location: Tel Aviv-Yafo, IL
+  speaker: IGTCloud
+  start: 2017-06-05 02:00 UTC
+  end: 2017-06-05 03:00 UTC
+  description: |
+      Tel Aviv-Yafo, IL
+      OpenStack Day Israel Event
+      https://www.meetup.com/IGTCloud/events/236415357/
 
