@@ -1,0 +1,48 @@
+name: The Open Source Model meetup
+location: Red Hat offices, Yerushalaim Rd 34 , Ra'anana, Israel
+start: 2017-06-21
+end: 2017-06-21
+description: |
+  
+    During this meetup we will be hosting Jeffrey R. Kaufman, one of Red Hat's
+    lawyers specializing in Open Source intellectual property. 
+
+    Jeffrey R. Kaufman is an Open Source IP Attorney for Red Hat, Inc., the world's
+    leading provider of open source software solutions. Jeffrey also serves as an
+    adjunct professor at the Thomas Jefferson School of Law. Previous to Red Hat,
+    Jeffrey served as Sr. Legal Counsel at Qualcomm Incorporated providing
+    commercial licensing and open source counsel to Qualcomm CDMA Technologies.
+    Jeffrey holds multiple patents in RFID, barcoding, image processing, and
+    printing technologies. 
+
+    Additional details about the meetup are available
+    [on Meetup.com](https://www.meetup.com/Open-Source-Israel/events/240054460/).
+
+talks:
+
+- title: Open Source Fundamentals & Contemporary Issues
+  speaker: Jeffrey R. Kaufman
+  start: 2017-06-21 18:30 IST
+  end: 2017-06-21 19:00 IST
+  description: |
+    * Securing your IP when developing with Open Source
+    * The basics of copyleft and non-copyleft licenses
+    * Reach of the GPL
+    * RHEL development & the use of the GPL and LGPL code
+    * Advantages of using an upstream development model
+    * GPL in the world of Containers
+
+- title: An Exploration of Fair Use - In Light of Oracle v. Google
+  speaker: Jeffrey R. Kaufman
+  start: 2017-06-21 19:15 IST
+  end: 2017-06-21 19:45 IST
+  description: |
+    The current state of litigation between Oracle and Google provides a
+    fascinating perspective on fair use in the context of U.S. software
+    copyright law. During this session, the audience will be put in the jury box
+    to obtain an important and unique perspective on why the trial returned a
+    unanimous verdict in favor of Google, essentially concluding that the
+    copyright fair use doctrine allowed Google to use JAVA SE APIs in its
+    implementation of Android. Extensive synthesis of jury instructions, CAFC,
+    and district court documents were used in the preparation of this talk. A
+    brief background on the case will also be provided.  
