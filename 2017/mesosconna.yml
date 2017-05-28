@@ -1,9 +1,11 @@
-name: MesosCon
+name: MesosCon North America 2017
 location: Los Angeles, CA
-start: 2017-09-14
+start: 2017-09-13
 end: 2017-09-15
 description: |
   MesosCon North America is an annual conference organized by the Apache Mesos community, bringing together users and developers to share and learn about the project and its growing ecosystem.
+
+  The conference will feature two days of sessions to learn more about the Apache Mesos core, an ecosystem developed around the project, and related technologies. The program will include workshops to get started with Apache Mesos, keynote speakers from industry leaders, and sessions led by adopters and contributors.
 
   Additional details about the conference are available at
   <http://events.linuxfoundation.org/events/mesoscon-north-america>.
