@@ -4,156 +4,6 @@ tags: RDO
 
 talks:
 
-- title: OpenStackFin meetup 30.5.2017
-  location: Helsinki, FI
-  speaker: OpenStack Finland User Group
-  start: 2017-05-30 08:00 UTC
-  end: 2017-05-30 09:00 UTC
-  description: |
-      Helsinki, FI
-      OpenStackFin meetup 30.5.2017
-      https://www.meetup.com/OpenStack-Finland-User-Group/events/239688756/
-
-- title: Networking + Neutron on OpenStack + ONOS live setup + Azure Stack
-  location: Hillsboro, OR
-  speaker: Out Of The Box Network Developers Portland
-  start: 2017-05-30 20:30 UTC
-  end: 2017-05-30 21:30 UTC
-  description: |
-      Hillsboro, OR, US
-      Networking + Neutron on OpenStack + ONOS live setup + Azure Stack
-      https://www.meetup.com/Out-Of-The-Box-Network-Developers-PDX/events/238791874/
-
-- title: Q2 MeetUp - Operational War Stories and Let's Talk About Ceph!
-  location: Montréal, QC
-  speaker: Montréal OpenStack
-  start: 2017-05-30 17:45 UTC
-  end: 2017-05-30 18:45 UTC
-  description: |
-      Montréal, QC, CA
-      Q2 MeetUp - Operational War Stories and Let's Talk About Ceph!
-      https://www.meetup.com/Montreal-OpenStack/events/239325304/
-
-- title: 30 Maggio 2017 - OpenStack Meetup&Beer
-  location: Milano, MI
-  speaker: OpenStack Milano
-  start: 2017-05-30 12:00 UTC
-  end: 2017-05-30 13:00 UTC
-  description: |
-      Milano, MI, IT
-      30 Maggio 2017 - OpenStack Meetup&Beer
-      https://www.meetup.com/Meetup-OpenStack-Milano/events/239899999/
-
-- title: OpenStack Meetup Milano
-  location: Roma, RM
-  speaker: OpenStack User Group Italia
-  start: 2017-05-30 12:00 UTC
-  end: 2017-05-30 13:00 UTC
-  description: |
-      Roma, RM, IT
-      OpenStack Meetup Milano
-      https://www.meetup.com/OpenStack-User-Group-Italia/events/240203270/
-
-- title: Q2 MeetUp - Operational War Stories and Let's Talk OpenContrail!
-  location: Ottawa, ON
-  speaker: OpenStack Ottawa
-  start: 2017-05-31 17:00 UTC
-  end: 2017-05-31 18:00 UTC
-  description: |
-      Ottawa, ON, CA
-      Q2 MeetUp - Operational War Stories and Let's Talk OpenContrail!
-      https://www.meetup.com/OpenStack-Ottawa/events/239327874/
-
-- title: OpenStack deployment on IP Fabrics Network and Storage possibilities.
-  location: Sunnyvale, CA
-  speaker: SF Bay Area OpenStack
-  start: 2017-05-31 21:30 UTC
-  end: 2017-05-31 22:30 UTC
-  description: |
-      Sunnyvale, CA, US
-      OpenStack deployment on IP Fabrics Network and Storage possibilities.
-      https://www.meetup.com/openstack/events/239889735/
-
-- title: Recap of the OpenStack Summit Boston 2017
-  location: Orlando, FL
-  speaker: OpenStack Central Florida
-  start: 2017-05-31 19:00 UTC
-  end: 2017-05-31 20:00 UTC
-  description: |
-      Orlando, FL, US
-      Recap of the OpenStack Summit Boston 2017
-      https://www.meetup.com/Orlando-Central-Florida-OpenStack-Meetup/events/240238660/
-
-- title: Ironic, RDO Cloud and OpenShift
-  location: Barcelona, ES
-  speaker: OpenStack Barcelona
-  start: 2017-05-31 13:00 UTC
-  end: 2017-05-31 14:00 UTC
-  description: |
-      Barcelona, ES
-      Ironic, RDO Cloud and OpenShift
-      https://www.meetup.com/OpenStack-Barcelona/events/240192894/
-
-- title: OpenStack Australia Day Melbourne - http//australiaday­­­­­.openstack.org.au­
-  location: Melbourne, AU
-  speaker: Australian OpenStack User Group
-  start: 2017-05-31 18:00 UTC
-  end: 2017-05-31 19:00 UTC
-  description: |
-      Melbourne, AU
-      OpenStack Australia Day Melbourne - http//australiaday­­­­­.openstack.org.au­
-      https://www.meetup.com/Australian-OpenStack-User-Group/events/238405898/
-
-- title: OpenStack Australia Day Melbourne - Innovation Track
-  location: Melbourne, AU
-  speaker: Big Data (Next Gen Hadoop) Ingest & Transform, Melbourne
-  start: 2017-05-31 18:00 UTC
-  end: 2017-05-31 19:00 UTC
-  description: |
-      Melbourne, AU
-      OpenStack Australia Day Melbourne - Innovation Track
-      https://www.meetup.com/Big-Data-Next-Gen-Hadoop-Ingest-Transform-Melbourne/events/240279231/
-
-- title: Q2 MeetUp - Operational War Stories and Let's Talk OpenContrail!
-  location: Toronto, ON
-  speaker: OpenStack Toronto
-  start: 2017-06-01 17:45 UTC
-  end: 2017-06-01 18:45 UTC
-  description: |
-      Toronto, ON, CA
-      Q2 MeetUp - Operational War Stories and Let's Talk OpenContrail!
-      https://www.meetup.com/OpenStackTO/events/239328141/
-
-- title: OpenStack Day Israel 2017!
-  location: Tel Aviv-Yafo, IL
-  speaker: OpenStack-Israel
-  start: 2017-06-05 02:00 UTC
-  end: 2017-06-05 03:00 UTC
-  description: |
-      Tel Aviv-Yafo, IL
-      OpenStack Day Israel 2017!
-      https://www.meetup.com/OpenStack-Israel/events/237575308/
-
-- title: OpenStack Day Israel Event
-  location: Tel Aviv-Yafo, IL
-  speaker: IGTCloud
-  start: 2017-06-05 02:00 UTC
-  end: 2017-06-05 03:00 UTC
-  description: |
-      Tel Aviv-Yafo, IL
-      OpenStack Day Israel Event
-      https://www.meetup.com/IGTCloud/events/236415357/
-
-- title: Openstack for Architects
-  location: Sydney, AU
-  speaker: Sydney Software Engineering Book Club
-  start: 2017-06-05 04:00 UTC
-  end: 2017-06-05 05:00 UTC
-  description: |
-      Sydney, AU
-      Openstack for Architects
-      https://www.meetup.com/Sydney-Software-Engineering-Book-Club/events/240176697/
-
 - title: Recap of the Melbourne June 1st 2017, OpenStack Australia Day.
   location: Perth, AU
   speaker: Perth OpenStack Meetup
@@ -174,6 +24,36 @@ talks:
       OpenStack Ocata release | Service Modelling | AWS | 2017
       https://www.meetup.com/Openstack-nl/events/235320846/
 
+- title: OpenStack-Helm Container Innovation - Deploying OpenStack on Kubernetes #17
+  location: Morrisville, NC
+  speaker: Triangle Kubernetes and OpenShift Meetup
+  start: 2017-06-08 18:00 UTC
+  end: 2017-06-08 19:00 UTC
+  description: |
+      Morrisville, NC, US
+      OpenStack-Helm Container Innovation - Deploying OpenStack on Kubernetes #17
+      https://www.meetup.com/Triangle-Kubernetes-Meetup/events/240456908/
+
+- title: Ansible, Containers and OpenStack Clouds. What's there? What works?
+  location: México City, MX
+  speaker: OpenstackMexicoCity
+  start: 2017-06-09 20:00 UTC
+  end: 2017-06-09 21:00 UTC
+  description: |
+      México City, MX
+      Ansible, Containers and OpenStack Clouds. What's there? What works?
+      https://www.meetup.com/OpenstackMexicoCity/events/240380964/
+
+- title: PyDelhi + LinuxChix India + ILUGD + Openstack Delhi + PyData Delhi Remix Meetup
+  location: Delhi, IN
+  speaker: PyData Delhi
+  start: 2017-06-10 01:30 UTC
+  end: 2017-06-10 02:30 UTC
+  description: |
+      Delhi, IN
+      PyDelhi + LinuxChix India + ILUGD + Openstack Delhi + PyData Delhi Remix Meetup
+      https://www.meetup.com/PyDataDelhi/events/240501111/
+
 - title: ILUGD + Linux Chix India + PyDelhi + OpenStack Delhi Meetup
   location: Ni Dilli, IN
   speaker: ILUGD
@@ -184,13 +64,93 @@ talks:
       ILUGD + Linux Chix India + PyDelhi + OpenStack Delhi Meetup
       https://www.meetup.com/ILUGDelhi/events/238711979/
 
-- title: PyDelhi + LinuxChix India + ILUGD + Openstack Delhi + PyData Delhi Remix Meetup
-  location: Delhi, IN
-  speaker: PyDelhi - Python Delhi User Group
-  start: 2017-06-10 01:30 UTC
-  end: 2017-06-10 02:30 UTC
+- title: OPNFV Summit BeiJing
+  location: Beijing, CN
+  speaker: China OpenStack User Group
+  start: 2017-06-11 20:00 UTC
+  end: 2017-06-11 21:00 UTC
   description: |
-      Delhi, IN
-      PyDelhi + LinuxChix India + ILUGD + Openstack Delhi + PyData Delhi Remix Meetup
-      https://www.meetup.com/pydelhi/events/238176679/
+      Beijing, CN
+      OPNFV Summit BeiJing
+      https://www.meetup.com/China-OpenStack-User-Group/events/240478051/
+
+- title: Intel® Developer Zone SDN/NFV Dev Lab (Must Apply)
+  location: Sunnyvale, CA
+  speaker: SF Bay Area OpenStack
+  start: 2017-06-13 11:00 UTC
+  end: 2017-06-13 12:00 UTC
+  description: |
+      Sunnyvale, CA, US
+      Intel® Developer Zone SDN/NFV Dev Lab (Must Apply)
+      https://www.meetup.com/openstack/events/240396622/
+
+- title: OpenStack 7th Birthday
+  location: Lagos, NG
+  speaker: OpenStack User Group Nigeria
+  start: 2017-06-13 11:15 UTC
+  end: 2017-06-13 12:15 UTC
+  description: |
+      Lagos, NG
+      OpenStack 7th Birthday
+      https://www.meetup.com/OpenStack-User-Group-Nigeria/events/238617176/
+
+- title: OpenStack Meetup - Boston Summit updates & more
+  location: Bucharest, RO
+  speaker: OpenStack Bucharest, Romania Meetup
+  start: 2017-06-14 11:00 UTC
+  end: 2017-06-14 12:00 UTC
+  description: |
+      Bucharest, RO
+      OpenStack Meetup - Boston Summit updates & more
+      https://www.meetup.com/OpenStack-Bucharest-Romania-Meetup/events/240207541/
+
+- title: OpenStack Meetup (Topic TBD)
+  location: Atlanta, GA
+  speaker: Atlanta OpenStack Meetup Group
+  start: 2017-06-15 19:00 UTC
+  end: 2017-06-15 20:00 UTC
+  description: |
+      Atlanta, GA, US
+      OpenStack Meetup (Topic TBD)
+      https://www.meetup.com/openstack-atlanta/events/239333436/
+
+- title: Meetup на DevConf
+  location: Moscow, RU
+  speaker: OpenStack Russia Moscow
+  start: 2017-06-17 10:00 UTC
+  end: 2017-06-17 11:00 UTC
+  description: |
+      Moscow, RU
+      Meetup на DevConf
+      https://www.meetup.com/OpenStack-Russia/events/240178502/
+
+- title: LinuxCon + ContainerCon + CloudOpen大会
+  location: Beijing, CN
+  speaker: China OpenStack User Group
+  start: 2017-06-18 19:00 UTC
+  end: 2017-06-18 20:00 UTC
+  description: |
+      Beijing, CN
+      LinuxCon + ContainerCon + CloudOpen大会
+      https://www.meetup.com/China-OpenStack-User-Group/events/239993841/
+
+- title: Openstack for Architects
+  location: Sydney, AU
+  speaker: Sydney Software Engineering Book Club
+  start: 2017-06-19 04:00 UTC
+  end: 2017-06-19 05:00 UTC
+  description: |
+      Sydney, AU
+      Openstack for Architects
+      https://www.meetup.com/Sydney-Software-Engineering-Book-Club/events/240176710/
+
+- title: OpenStack Board of Directors Q&A - CERN & Canonical
+  location: Manchester, 18
+  speaker: Manchester OpenStack Meetup
+  start: 2017-06-19 13:30 UTC
+  end: 2017-06-19 14:30 UTC
+  description: |
+      Manchester, 18, GB
+      OpenStack Board of Directors Q&A - CERN & Canonical
+      https://www.meetup.com/Manchester-OpenStack-Meetup/events/240478270/
 
