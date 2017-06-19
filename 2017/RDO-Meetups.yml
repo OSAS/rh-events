@@ -4,86 +4,6 @@ tags: RDO
 
 talks:
 
-- title: 日本OpenStackユーザ会 第35回勉強会【申し込みはConpassから】
-  location: Tokyo, JP
-  speaker: Japan OpenStack User Group
-  start: 2017-06-12 06:00 UTC
-  end: 2017-06-12 07:00 UTC
-  description: |
-      Tokyo, JP
-      日本OpenStackユーザ会 第35回勉強会【申し込みはConpassから】
-      https://www.meetup.com/Japan-OpenStack-User-Group/events/240444480/
-
-- title: Intel® Developer Zone SDN/NFV Dev Lab (Must Apply)
-  location: Sunnyvale, CA
-  speaker: SF Bay Area OpenStack
-  start: 2017-06-13 11:00 UTC
-  end: 2017-06-13 12:00 UTC
-  description: |
-      Sunnyvale, CA, US
-      Intel® Developer Zone SDN/NFV Dev Lab (Must Apply)
-      https://www.meetup.com/openstack/events/240396622/
-
-- title: OpenStack Meetup - Boston Summit updates & more
-  location: Bucharest, RO
-  speaker: OpenStack Bucharest, Romania Meetup
-  start: 2017-06-14 11:00 UTC
-  end: 2017-06-14 12:00 UTC
-  description: |
-      Bucharest, RO
-      OpenStack Meetup - Boston Summit updates & more
-      https://www.meetup.com/OpenStack-Bucharest-Romania-Meetup/events/240207541/
-
-- title: Openstack Networking with Arista
-  location: New York, NY
-  speaker: Arista Networks NYC Area Group
-  start: 2017-06-15 13:00 UTC
-  end: 2017-06-15 14:00 UTC
-  description: |
-      New York, NY, US
-      Openstack Networking with Arista
-      https://www.meetup.com/Arista-Networks-NYC-Area-Group/events/240664263/
-
-- title: OpenStack Meetup (Topic TBD)
-  location: Atlanta, GA
-  speaker: Atlanta OpenStack Meetup Group
-  start: 2017-06-15 19:00 UTC
-  end: 2017-06-15 20:00 UTC
-  description: |
-      Atlanta, GA, US
-      OpenStack Meetup (Topic TBD)
-      https://www.meetup.com/openstack-atlanta/events/239333436/
-
-- title: Meetup на DevConf
-  location: Moscow, RU
-  speaker: OpenStack Russia Moscow
-  start: 2017-06-17 11:00 UTC
-  end: 2017-06-17 12:00 UTC
-  description: |
-      Moscow, RU
-      Meetup на DevConf
-      https://www.meetup.com/OpenStack-Russia/events/240178502/
-
-- title: June openstack meetup
-  location: Bangalore, IN
-  speaker: Indian OpenStack User Group
-  start: 2017-06-18 01:00 UTC
-  end: 2017-06-18 02:00 UTC
-  description: |
-      Bangalore, IN
-      June openstack meetup
-      https://www.meetup.com/Indian-OpenStack-User-Group/events/240576334/
-
-- title: LinuxCon + ContainerCon + CloudOpen大会
-  location: Beijing, CN
-  speaker: China OpenStack User Group
-  start: 2017-06-18 19:00 UTC
-  end: 2017-06-18 20:00 UTC
-  description: |
-      Beijing, CN
-      LinuxCon + ContainerCon + CloudOpen大会
-      https://www.meetup.com/China-OpenStack-User-Group/events/239993841/
-
 - title: Openstack for Architects
   location: Sydney, AU
   speaker: Sydney Software Engineering Book Club
@@ -144,13 +64,73 @@ talks:
       OpenStackOperators Finland Video Call
       https://www.meetup.com/OpenStack-Finland-User-Group/events/240293261/
 
-- title: PyDelhi + LinuxChix India + ILUGD + Openstack Delhi + PyData Delhi Remix Meetup
-  location: Delhi, IN
-  speaker: PyDelhi - Python Delhi User Group
-  start: 2017-06-24 01:30 UTC
-  end: 2017-06-24 02:30 UTC
+- title: Boston OpenStack Summit Highlights
+  location: Lehi, UT
+  speaker: OpenStack Utah
+  start: 2017-06-22 20:30 UTC
+  end: 2017-06-22 21:30 UTC
   description: |
-      Delhi, IN
-      PyDelhi + LinuxChix India + ILUGD + Openstack Delhi + PyData Delhi Remix Meetup
-      https://www.meetup.com/pydelhi/events/238176680/
+      Lehi, UT, US
+      Boston OpenStack Summit Highlights
+      https://www.meetup.com/openstack-utah/events/240196973/
+
+- title: OpenStack TechnicalMetup#14 - VietOpenStack
+  location: Ha Noi, VN
+  speaker: Vietnam OpenStack Official User Group
+  start: 2017-06-24 03:00 UTC
+  end: 2017-06-24 04:00 UTC
+  description: |
+      Ha Noi, VN
+      OpenStack TechnicalMetup#14 - VietOpenStack
+      https://www.meetup.com/VietOpenStack/events/240785582/
+
+- title: Openstack for Architects
+  location: Sydney, AU
+  speaker: Sydney Software Engineering Book Club
+  start: 2017-06-26 04:00 UTC
+  end: 2017-06-26 05:00 UTC
+  description: |
+      Sydney, AU
+      Openstack for Architects
+      https://www.meetup.com/Sydney-Software-Engineering-Book-Club/events/240176714/
+
+- title: OpenStack Boston Recap
+  location: Seattle, WA
+  speaker: OpenStack Seattle
+  start: 2017-06-28 21:00 UTC
+  end: 2017-06-28 22:00 UTC
+  description: |
+      Seattle, WA, US
+      OpenStack Boston Recap
+      https://www.meetup.com/OpenStack-Seattle/events/240594882/
+
+- title: Build a Cloud Workshop
+  location: San Diego, CA
+  speaker: OpenStack San Diego
+  start: 2017-06-28 21:30 UTC
+  end: 2017-06-28 22:30 UTC
+  description: |
+      San Diego, CA, US
+      Build a Cloud Workshop
+      https://www.meetup.com/OpenStackSanDiego/events/238229598/
+
+- title: Discuss and Learn about OpenStack
+  location: Littleton, CO
+  speaker: OpenStack Denver
+  start: 2017-06-29 20:30 UTC
+  end: 2017-06-29 21:30 UTC
+  description: |
+      Littleton, CO, US
+      Discuss and Learn about OpenStack
+      https://www.meetup.com/OpenStack-Denver/events/240182866/
+
+- title: Ansible with Docker and OpenStack
+  location: Philadelphia, PA
+  speaker: Ansible Philadelphia
+  start: 2017-06-29 18:30 UTC
+  end: 2017-06-29 19:30 UTC
+  description: |
+      Philadelphia, PA, US
+      Ansible with Docker and OpenStack
+      https://www.meetup.com/Ansible-Philadelphia/events/240430064/
 
