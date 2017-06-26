@@ -4,95 +4,15 @@ tags: RDO
 
 talks:
 
-- title: Openstack for Architects
-  location: Sydney, AU
-  speaker: Sydney Software Engineering Book Club
-  start: 2017-06-19 04:00 UTC
-  end: 2017-06-19 05:00 UTC
+- title: Seminar Unleashing the Power of Big Data and Hadoop
+  location: Dubai, AE
+  speaker: Innosoft Gulf - Linux and Open Source Technologies
+  start: 2017-06-26 11:00 UTC
+  end: 2017-06-26 12:00 UTC
   description: |
-      Sydney, AU
-      Openstack for Architects
-      https://www.meetup.com/Sydney-Software-Engineering-Book-Club/events/240176710/
-
-- title: OpenStack Board of Directors Q&A - CERN & Canonical
-  location: Manchester, 18
-  speaker: Manchester OpenStack Meetup
-  start: 2017-06-19 13:30 UTC
-  end: 2017-06-19 14:30 UTC
-  description: |
-      Manchester, 18, GB
-      OpenStack Board of Directors Q&A - CERN & Canonical
-      https://www.meetup.com/Manchester-OpenStack-Meetup/events/240478270/
-
-- title: IBM Open Network Automation Platform
-  location: Chesterfield, MO
-  speaker: OpenStack St. Louis
-  start: 2017-06-20 19:30 UTC
-  end: 2017-06-20 20:30 UTC
-  description: |
-      Chesterfield, MO, US
-      IBM Open Network Automation Platform
-      https://www.meetup.com/OpenStack-STL/events/240300666/
-
-- title: OpenStack The Next Generation
-  location: Cork, IE
-  speaker: OpenStack Cork
-  start: 2017-06-20 14:00 UTC
-  end: 2017-06-20 15:00 UTC
-  description: |
-      Cork, IE
-      OpenStack The Next Generation
-      https://www.meetup.com/OpenStack-Cork/events/240275519/
-
-- title: Author Ben Silverman joins us to talk "OpenStack for Architects"
-  location: Phoenix, AZ
-  speaker: OpenStack Phoenix
-  start: 2017-06-21 21:00 UTC
-  end: 2017-06-21 22:00 UTC
-  description: |
-      Phoenix, AZ, US
-      Author Ben Silverman joins us to talk "OpenStack for Architects"
-      https://www.meetup.com/OpenStack-Phoenix/events/238241532/
-
-- title: OpenStackOperators Finland Video Call
-  location: Helsinki, FI
-  speaker: OpenStack Finland User Group
-  start: 2017-06-22 06:00 UTC
-  end: 2017-06-22 07:00 UTC
-  description: |
-      Helsinki, FI
-      OpenStackOperators Finland Video Call
-      https://www.meetup.com/OpenStack-Finland-User-Group/events/240293261/
-
-- title: Boston OpenStack Summit Highlights
-  location: Lehi, UT
-  speaker: OpenStack Utah
-  start: 2017-06-22 20:30 UTC
-  end: 2017-06-22 21:30 UTC
-  description: |
-      Lehi, UT, US
-      Boston OpenStack Summit Highlights
-      https://www.meetup.com/openstack-utah/events/240196973/
-
-- title: OpenStack TechnicalMetup#14 - VietOpenStack
-  location: Ha Noi, VN
-  speaker: Vietnam OpenStack Official User Group
-  start: 2017-06-24 03:00 UTC
-  end: 2017-06-24 04:00 UTC
-  description: |
-      Ha Noi, VN
-      OpenStack TechnicalMetup#14 - VietOpenStack
-      https://www.meetup.com/VietOpenStack/events/240785582/
-
-- title: Openstack for Architects
-  location: Sydney, AU
-  speaker: Sydney Software Engineering Book Club
-  start: 2017-06-26 04:00 UTC
-  end: 2017-06-26 05:00 UTC
-  description: |
-      Sydney, AU
-      Openstack for Architects
-      https://www.meetup.com/Sydney-Software-Engineering-Book-Club/events/240176714/
+      Dubai, AE
+      Seminar Unleashing the Power of Big Data and Hadoop
+      https://www.meetup.com/Innosoft-Gulf-Linux-and-OpenStack-Administratioin/events/241052376/
 
 - title: OpenStack Boston Recap
   location: Seattle, WA
@@ -114,16 +34,6 @@ talks:
       Build a Cloud Workshop
       https://www.meetup.com/OpenStackSanDiego/events/238229598/
 
-- title: Discuss and Learn about OpenStack
-  location: Littleton, CO
-  speaker: OpenStack Denver
-  start: 2017-06-29 20:30 UTC
-  end: 2017-06-29 21:30 UTC
-  description: |
-      Littleton, CO, US
-      Discuss and Learn about OpenStack
-      https://www.meetup.com/OpenStack-Denver/events/240182866/
-
 - title: Ansible with Docker and OpenStack
   location: Philadelphia, PA
   speaker: Ansible Philadelphia
@@ -133,4 +43,54 @@ talks:
       Philadelphia, PA, US
       Ansible with Docker and OpenStack
       https://www.meetup.com/Ansible-Philadelphia/events/240430064/
+
+- title: OpenStack Re-Birth Meetup #14 - VietOpenStack
+  location: Ha Noi, VN
+  speaker: Vietnam OpenStack Official User Group
+  start: 2017-07-01 03:00 UTC
+  end: 2017-07-01 04:00 UTC
+  description: |
+      Ha Noi, VN
+      OpenStack Re-Birth Meetup #14 - VietOpenStack
+      https://www.meetup.com/VietOpenStack/events/240785582/
+
+- title: Let's Celebrate the 7th Birthday of OpenStack!
+  location: Stockholm, SE
+  speaker: OpenStack User Group Sweden
+  start: 2017-07-03 11:15 UTC
+  end: 2017-07-03 12:15 UTC
+  description: |
+      Stockholm, SE
+      Let's Celebrate the 7th Birthday of OpenStack!
+      https://www.meetup.com/OpenStack-User-Group-Sweden/events/241072902/
+
+- title: OpenStack 7th Birthday
+  location: Lagos, NG
+  speaker: OpenStack User Group Nigeria
+  start: 2017-07-04 10:30 UTC
+  end: 2017-07-04 11:30 UTC
+  description: |
+      Lagos, NG
+      OpenStack 7th Birthday
+      https://www.meetup.com/OpenStack-User-Group-Nigeria/events/238617176/
+
+- title: OpenStack - Why and How?
+  location: Copenhagen, DK
+  speaker: OpenStack Meetup Denmark
+  start: 2017-07-06 07:30 UTC
+  end: 2017-07-06 08:30 UTC
+  description: |
+      Copenhagen, DK
+      OpenStack - Why and How?
+      https://www.meetup.com/openstackdk/events/237010731/
+
+- title: 16th Swiss OpenStack User Group Meetup
+  location: Zürich, CH
+  speaker: openstack-ch
+  start: 2017-07-06 12:30 UTC
+  end: 2017-07-06 13:30 UTC
+  description: |
+      Zürich, CH
+      16th Swiss OpenStack User Group Meetup
+      https://www.meetup.com/openstack-ch/events/240577972/
 
