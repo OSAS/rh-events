@@ -4,66 +4,6 @@ tags: RDO
 
 talks:
 
-- title: Seminar Unleashing the Power of Big Data and Hadoop
-  location: Dubai, AE
-  speaker: Innosoft Gulf - Linux and Open Source Technologies
-  start: 2017-06-26 11:00 UTC
-  end: 2017-06-26 12:00 UTC
-  description: |
-      Dubai, AE
-      Seminar Unleashing the Power of Big Data and Hadoop
-      https://www.meetup.com/Innosoft-Gulf-Linux-and-OpenStack-Administratioin/events/241052376/
-
-- title: OpenStack Boston Recap
-  location: Seattle, WA
-  speaker: OpenStack Seattle
-  start: 2017-06-28 21:00 UTC
-  end: 2017-06-28 22:00 UTC
-  description: |
-      Seattle, WA, US
-      OpenStack Boston Recap
-      https://www.meetup.com/OpenStack-Seattle/events/240594882/
-
-- title: Build a Cloud Workshop
-  location: San Diego, CA
-  speaker: OpenStack San Diego
-  start: 2017-06-28 21:30 UTC
-  end: 2017-06-28 22:30 UTC
-  description: |
-      San Diego, CA, US
-      Build a Cloud Workshop
-      https://www.meetup.com/OpenStackSanDiego/events/238229598/
-
-- title: Ansible with Docker and OpenStack
-  location: Philadelphia, PA
-  speaker: Ansible Philadelphia
-  start: 2017-06-29 18:30 UTC
-  end: 2017-06-29 19:30 UTC
-  description: |
-      Philadelphia, PA, US
-      Ansible with Docker and OpenStack
-      https://www.meetup.com/Ansible-Philadelphia/events/240430064/
-
-- title: OpenStack Re-Birth Meetup #14 - VietOpenStack
-  location: Ha Noi, VN
-  speaker: Vietnam OpenStack Official User Group
-  start: 2017-07-01 03:00 UTC
-  end: 2017-07-01 04:00 UTC
-  description: |
-      Ha Noi, VN
-      OpenStack Re-Birth Meetup #14 - VietOpenStack
-      https://www.meetup.com/VietOpenStack/events/240785582/
-
-- title: Let's Celebrate the 7th Birthday of OpenStack!
-  location: Stockholm, SE
-  speaker: OpenStack User Group Sweden
-  start: 2017-07-03 11:15 UTC
-  end: 2017-07-03 12:15 UTC
-  description: |
-      Stockholm, SE
-      Let's Celebrate the 7th Birthday of OpenStack!
-      https://www.meetup.com/OpenStack-User-Group-Sweden/events/241072902/
-
 - title: OpenStack 7th Birthday
   location: Lagos, NG
   speaker: OpenStack User Group Nigeria
@@ -84,6 +24,16 @@ talks:
       OpenStack - Why and How?
       https://www.meetup.com/openstackdk/events/237010731/
 
+- title: Monthly SFOUG Meeting
+  location: Fort Lauderdale, FL
+  speaker: South Florida OpenStack Users Group
+  start: 2017-07-06 17:15 UTC
+  end: 2017-07-06 18:15 UTC
+  description: |
+      Fort Lauderdale, FL, US
+      Monthly SFOUG Meeting
+      https://www.meetup.com/South-Florida-OpenStack-Users-Group/events/241162929/
+
 - title: 16th Swiss OpenStack User Group Meetup
   location: Zürich, CH
   speaker: openstack-ch
@@ -93,4 +43,84 @@ talks:
       Zürich, CH
       16th Swiss OpenStack User Group Meetup
       https://www.meetup.com/openstack-ch/events/240577972/
+
+- title: Meetup#23 Anniversaire 7 ans OpenStack, NFV haute-performance
+  location: Paris, FR
+  speaker: OpenStackFR Paris
+  start: 2017-07-06 12:45 UTC
+  end: 2017-07-06 13:45 UTC
+  description: |
+      Paris, FR
+      Meetup#23 Anniversaire 7 ans OpenStack, NFV haute-performance
+      https://www.meetup.com/OpenStack-France/events/241124969/
+
+- title: Cloud Security, managing & monitoring
+  location: Fort Collins, CO
+  speaker: Colorado OpenStack
+  start: 2017-07-10 20:00 UTC
+  end: 2017-07-10 21:00 UTC
+  description: |
+      Fort Collins, CO, US
+      Cloud Security, managing & monitoring
+      https://www.meetup.com/OpenStack-Colorado/events/240675613/
+
+- title: 1° Meetup OpenStack Rio de Janeiro no Parque Tecnológico UFRJ
+  location: São Paulo, BR
+  speaker: Openstack Brasil
+  start: 2017-07-12 16:00 UTC
+  end: 2017-07-12 17:00 UTC
+  description: |
+      São Paulo, BR
+      1° Meetup OpenStack Rio de Janeiro no Parque Tecnológico UFRJ
+      https://www.meetup.com/Openstack-Brasil/events/241193204/
+
+- title: It's party time! OpenStack is turning 7
+  location: Edmonton, AB
+  speaker: OpenStack Edmonton
+  start: 2017-07-12 19:00 UTC
+  end: 2017-07-12 20:00 UTC
+  description: |
+      Edmonton, AB, CA
+      It's party time! OpenStack is turning 7
+      https://www.meetup.com/OpenStack-Edmonton/events/240647051/
+
+- title: OpenStack @ Pawsey Supercomputing Centre
+  location: Perth, AU
+  speaker: Perth OpenStack Meetup
+  start: 2017-07-12 05:30 UTC
+  end: 2017-07-12 06:30 UTC
+  description: |
+      Perth, AU
+      OpenStack @ Pawsey Supercomputing Centre
+      https://www.meetup.com/Perth-OpenStack-Meetup/events/241197865/
+
+- title: 7η επέτειος OpenStack project
+  location: Athens, GR
+  speaker: Athens OpenStack User Group
+  start: 2017-07-12 12:00 UTC
+  end: 2017-07-12 13:00 UTC
+  description: |
+      Athens, GR
+      7η επέτειος OpenStack project
+      https://www.meetup.com/Athens-OpenStack-User-Group/events/240728736/
+
+- title: It's party time! OpenStack is turning 7
+  location: Ottawa, ON
+  speaker: OpenStack Ottawa
+  start: 2017-07-13 17:15 UTC
+  end: 2017-07-13 18:15 UTC
+  description: |
+      Ottawa, ON, CA
+      It's party time! OpenStack is turning 7
+      https://www.meetup.com/OpenStack-Ottawa/events/240646956/
+
+- title: OpenStack Day São Paulo 2017
+  location: São Paulo, BR
+  speaker: Openstack Brasil
+  start: 2017-07-15 07:30 UTC
+  end: 2017-07-15 08:30 UTC
+  description: |
+      São Paulo, BR
+      OpenStack Day São Paulo 2017
+      https://www.meetup.com/Openstack-Brasil/events/239812022/
 
