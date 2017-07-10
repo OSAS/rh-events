@@ -4,56 +4,6 @@ tags: RDO
 
 talks:
 
-- title: OpenStack 7th Birthday
-  location: Lagos, NG
-  speaker: OpenStack User Group Nigeria
-  start: 2017-07-04 10:30 UTC
-  end: 2017-07-04 11:30 UTC
-  description: |
-      Lagos, NG
-      OpenStack 7th Birthday
-      https://www.meetup.com/OpenStack-User-Group-Nigeria/events/238617176/
-
-- title: OpenStack - Why and How?
-  location: Copenhagen, DK
-  speaker: OpenStack Meetup Denmark
-  start: 2017-07-06 07:30 UTC
-  end: 2017-07-06 08:30 UTC
-  description: |
-      Copenhagen, DK
-      OpenStack - Why and How?
-      https://www.meetup.com/openstackdk/events/237010731/
-
-- title: Monthly SFOUG Meeting
-  location: Fort Lauderdale, FL
-  speaker: South Florida OpenStack Users Group
-  start: 2017-07-06 17:15 UTC
-  end: 2017-07-06 18:15 UTC
-  description: |
-      Fort Lauderdale, FL, US
-      Monthly SFOUG Meeting
-      https://www.meetup.com/South-Florida-OpenStack-Users-Group/events/241162929/
-
-- title: 16th Swiss OpenStack User Group Meetup
-  location: Zürich, CH
-  speaker: openstack-ch
-  start: 2017-07-06 12:30 UTC
-  end: 2017-07-06 13:30 UTC
-  description: |
-      Zürich, CH
-      16th Swiss OpenStack User Group Meetup
-      https://www.meetup.com/openstack-ch/events/240577972/
-
-- title: Meetup#23 Anniversaire 7 ans OpenStack, NFV haute-performance
-  location: Paris, FR
-  speaker: OpenStackFR Paris
-  start: 2017-07-06 12:45 UTC
-  end: 2017-07-06 13:45 UTC
-  description: |
-      Paris, FR
-      Meetup#23 Anniversaire 7 ans OpenStack, NFV haute-performance
-      https://www.meetup.com/OpenStack-France/events/241124969/
-
 - title: Cloud Security, managing & monitoring
   location: Fort Collins, CO
   speaker: Colorado OpenStack
@@ -63,6 +13,16 @@ talks:
       Fort Collins, CO, US
       Cloud Security, managing & monitoring
       https://www.meetup.com/OpenStack-Colorado/events/240675613/
+
+- title: It's party time! OpenStack is turning 7
+  location: Ottawa, ON
+  speaker: OpenStack Ottawa
+  start: 2017-07-11 17:15 UTC
+  end: 2017-07-11 18:15 UTC
+  description: |
+      Ottawa, ON, CA
+      It's party time! OpenStack is turning 7
+      https://www.meetup.com/OpenStack-Ottawa/events/240646956/
 
 - title: 1° Meetup OpenStack Rio de Janeiro no Parque Tecnológico UFRJ
   location: São Paulo, BR
@@ -104,15 +64,15 @@ talks:
       7η επέτειος OpenStack project
       https://www.meetup.com/Athens-OpenStack-User-Group/events/240728736/
 
-- title: It's party time! OpenStack is turning 7
-  location: Ottawa, ON
-  speaker: OpenStack Ottawa
-  start: 2017-07-13 17:15 UTC
-  end: 2017-07-13 18:15 UTC
+- title: Introduction - OpenStack powered by EasyStack
+  location: Singapore, SG
+  speaker: OpenStack powered by EasyStack
+  start: 2017-07-14 07:30 UTC
+  end: 2017-07-14 08:30 UTC
   description: |
-      Ottawa, ON, CA
-      It's party time! OpenStack is turning 7
-      https://www.meetup.com/OpenStack-Ottawa/events/240646956/
+      Singapore, SG
+      Introduction - OpenStack powered by EasyStack
+      https://www.meetup.com/OpenStack-powered-by-EasyStack/events/241333537/
 
 - title: OpenStack Day São Paulo 2017
   location: São Paulo, BR
@@ -123,4 +83,114 @@ talks:
       São Paulo, BR
       OpenStack Day São Paulo 2017
       https://www.meetup.com/Openstack-Brasil/events/239812022/
+
+- title: Let's Celebrate OpenStack’s 7th Birthday
+  location: Cork, IE
+  speaker: OpenStack Cork
+  start: 2017-07-18 13:30 UTC
+  end: 2017-07-18 14:30 UTC
+  description: |
+      Cork, IE
+      Let's Celebrate OpenStack’s 7th Birthday
+      https://www.meetup.com/OpenStack-Cork/events/240637189/
+
+- title: Welcome, Stackers!
+  location: Singapore, SG
+  speaker: Singapore OPENSTACK Evangelist Meetup
+  start: 2017-07-18 06:30 UTC
+  end: 2017-07-18 07:30 UTC
+  description: |
+      Singapore, SG
+      Welcome, Stackers!
+      https://www.meetup.com/Singapore-OPENSTACK-Evangelist-Meetup/events/241242077/
+
+- title: Full stack troubleshooting and monitoring in OpenStack environments
+  location: Singapore, SG
+  speaker: Digital Performance Meetup SG
+  start: 2017-07-18 06:30 UTC
+  end: 2017-07-18 07:30 UTC
+  description: |
+      Singapore, SG
+      Full stack troubleshooting and monitoring in OpenStack environments
+      https://www.meetup.com/APM-Meetup/events/240655763/
+
+- title: 7 ans d'OpenStack  Hype, Maturité ou déclin ?
+  location: Toulouse, FR
+  speaker: Toulouse OpenStack User Group
+  start: 2017-07-18 13:00 UTC
+  end: 2017-07-18 14:00 UTC
+  description: |
+      Toulouse, FR
+      7 ans d'OpenStack  Hype, Maturité ou déclin ?
+      https://www.meetup.com/Toulouse-OpenStack-User-Group/events/241356108/
+
+- title: OpenStack 7th Birthday - Bangalore Chapter
+  location: Bangalore, IN
+  speaker: Indian OpenStack User Group
+  start: 2017-07-19 01:30 UTC
+  end: 2017-07-19 02:30 UTC
+  description: |
+      Bangalore, IN
+      OpenStack 7th Birthday - Bangalore Chapter
+      https://www.meetup.com/Indian-OpenStack-User-Group/events/241332478/
+
+- title: Social OpenStack's 7th Birthday
+  location: Chesterfield, MO
+  speaker: OpenStack St. Louis
+  start: 2017-07-19 19:00 UTC
+  end: 2017-07-19 20:00 UTC
+  description: |
+      Chesterfield, MO, US
+      Social OpenStack's 7th Birthday
+      https://www.meetup.com/OpenStack-STL/events/241360985/
+
+- title: OpenStack Meetup - 7th Birthday Party
+  location: Atlanta, GA
+  speaker: Atlanta OpenStack Meetup Group
+  start: 2017-07-20 19:00 UTC
+  end: 2017-07-20 20:00 UTC
+  description: |
+      Atlanta, GA, US
+      OpenStack Meetup - 7th Birthday Party
+      https://www.meetup.com/openstack-atlanta/events/241050824/
+
+- title: OpenStack is turning 7 ! Let's celebrate !
+  location: Barcelona, ES
+  speaker: OpenStack Barcelona
+  start: 2017-07-20 13:00 UTC
+  end: 2017-07-20 14:00 UTC
+  description: |
+      Barcelona, ES
+      OpenStack is turning 7 ! Let's celebrate !
+      https://www.meetup.com/OpenStack-Barcelona/events/241264594/
+
+- title: Celebremos 7 años de OpenStack
+  location: Guadalajara, MX
+  speaker: OpenStack GDL
+  start: 2017-07-21 19:00 UTC
+  end: 2017-07-21 20:00 UTC
+  description: |
+      Guadalajara, MX
+      Celebremos 7 años de OpenStack
+      https://www.meetup.com/OpenStack-GDL/events/241177632/
+
+- title: OpenStack PHUG 7th Anniversary
+  location: Manila, PH
+  speaker: OpenStack Philippines
+  start: 2017-07-21 07:00 UTC
+  end: 2017-07-21 08:00 UTC
+  description: |
+      Manila, PH
+      OpenStack PHUG 7th Anniversary
+      https://www.meetup.com/OpenStack-Philippines/events/241301962/
+
+- title: 2017 OpenStack Days China 7月24-25日在北京举行
+  location: Beijing, CN
+  speaker: China OpenStack User Group
+  start: 2017-07-23 20:00 UTC
+  end: 2017-07-23 21:00 UTC
+  description: |
+      Beijing, CN
+      2017 OpenStack Days China 7月24-25日在北京举行
+      https://www.meetup.com/China-OpenStack-User-Group/events/239817932/
 
