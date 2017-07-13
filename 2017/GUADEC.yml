@@ -1,0 +1,150 @@
+name: GUADEC
+description: |
+  GUADEC is the main conference for GNOME users, developers,
+  foundation leaders, individuals, governments, and businesses
+  worldwide.
+
+  Additional details about the conference are available at
+  <http://guadec.org/>.
+location: Manchester, England
+tags: GNOME
+start: 2017-07-28
+end: 2017-08-02
+talks:
+
+- title: State of the builder
+  speaker: Christian Hergert
+  start: 2017-07-28 12:15 CET
+  end: 2017-07-28 13:00 CET
+  room: Turing - G29
+  description: |
+    Another yearly update on what Builder can do for you, what has been
+    added, and how your contribution workflow can be simplified.
+
+    Some topics include:
+
+     - Making your development setup quick & easy w/ Flatpak
+     - Profiling your project to find performance issues
+     - New build systems and integration points for plugin authors
+     - Debugging your project
+     - How to quickly start contributing to an existing project
+
+- title: Flatpak status update and future plans
+  speaker: Alexander Larsson
+  start: 2017-07-28 11:30 CET
+  end: 2017-07-28 12:15 CET
+  room: Turing - G29
+  description: |
+    Flatpak is an application distribution and runtime system that brings
+    sandboxed linux desktop apps to the masses.
+
+    This talk will give a status update of the flatpak project and what has
+    happened in this year. It will also talk about new and interesting
+    things happening in the echosystem around flatpak and where we're going
+    in the future.
+
+- title: Atomic workstation
+  speaker: Kalev Lember
+  start: 2017-07-28 16:45 CET
+  end: 2017-07-28 17:15 CET
+  room: Turing - G29
+  description: |
+    Linux distributions have been traditionally put together from
+    individual packages. In case of Fedora it's RPM packages. They have
+    served us well, but they also have a number of shortcomings: with small
+    individual components the testing matrix explodes when we have to
+    consider different package versions, and upgrading such systems is
+    often irreversable.
+
+    In this talk I will lay out a plan how we are going to put together an
+    atomic base system in Fedora Workstation with flatpaks for individual
+    applications. I will demo the latest progress we've made and show a
+    great many screenshots.
+
+- title: The GNOME way
+  speaker: Allan Day
+  start: 2017-07-28 10:30 CET
+  end: 2017-07-28 11:00 CET
+  room: Hopper - G44
+  description: |
+    This year, GNOME turns 20. Over the course of its history, the project
+    has pioneered new ways of working and has set out a powerful mission
+    for itself: from championing usability and accessibility, to
+    establishing the six month release cycle, GNOME has been at the
+    forefront of Free Software development. However, there are also risks
+    for a project that has been running this long: collective knowledge can
+    be forgotten, and it is easy to lose touch with the beliefs that give a
+    project purpose.
+
+    In this talk, I'll ask the question: what is it that defines the GNOME
+    project? In attempting to provide my own answer, I'll describe the
+    principles that I think make GNOME so important. I'll also recount
+    stories from GNOME's history, and in so doing make a case for what
+    constitutes the project's folklore. Finally, I'll ask the question: how
+    do we ensure that, as GNOME looks to the future, the project continues
+    to nurture these traditions?
+
+- title: Recipes - lessons learned from creating a new app
+  speaker: Matthias Clasen, Emel Elvin Yildiz
+  start: 2017-07-30 11:30 CET
+  end: 2017-07-30 12:15 CET
+  room: Turing - G29
+  description: |
+    Cooking and recipes is not a new topic for the GNOME community.
+    All the way back to 2007, the idea of a GNOME cook book was already
+    around (https://wiki.gnome.org/GnomeCookbook). For one reason or
+    another, we never quite got there - but the idea has stuck around, and
+    after Guadec last year, the two of us got together to finally make
+    GNOME recipes a reality.
+
+    Our talk will cover the original design goals and the evolution of the
+    design from paper mock-ups and ideas, to refining a raw prototype and
+    to the complete application that we have to today. We will touch on the
+    interaction between design and development and how you can be
+    successful in this even when you have to bridge a 7 hour time
+    differential.
+
+    We will take a look ahead at whats coming in 3.26, and how the original
+    design goals are evolving and expanding as we build out the
+    application.
+
+    On the technical side, we will explore some of the challenges and
+    lessons learned during the development of recipes, and we will explain
+    how writing this application was useful for developing and refining new
+    technologies such as sandboxes, portals and new build systems. There
+    may be an aside about portability.
+
+    Of course, there will be a demo of recipes.
+
+- title: The inbetweens — why transitions matter.
+  speaker: Jakub Steiner
+  start: 2017-07-30 10:00 CET
+  end: 2017-07-30 10:30 CET
+  room: Hopper - G44
+  description: |
+    After spending considerable amount of time prototyping designs for
+    GNOME, over and over again I've met with resistance to transitions as
+    being a "waste of CPU/GPU time" and not enjoying a wide acceptance
+    among developers.
+
+    I'll present my case as to why transitions are helpful conveying
+    meaning and spatial awareness.
+
+- title: Flatpak and KDE, and the state of qt integration in GNOME
+  speaker: Jan Grulich, Martin Bříza
+  start: 2017-07-30 14:00 CET
+  end: 2017-07-30 14:45 CET
+  room: Hopper - G44
+  description: |
+    Flatpak is a tool providing new and easy way how to distribute desktop
+    applications. While it is pretty well supported in Gnome, we in KDE
+    have been trying to catch up and offer same experience. In this talk,
+    Jan Grulich will share with you what KDE has been lately up to and what
+    has been accomplished during last year.
+
+     Martin Bříza will also cover how we advanced with how well are Qt
+    applications integrated into the overall GNOME experience.
+
+     Topics covered will include the state of the Adwaita and Highcontrast
+    themes, new QGnomePlatform (abstract platform theme backend for GNOME)
+    features and Wayland support.
