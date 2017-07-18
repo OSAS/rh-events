@@ -13,3 +13,20 @@ talks:
     OpenStack Days Tokyo, at the Toranomon Hills Forum. More details
     at http://openstackdays.com/en/
 
+- title: OpenStack Days China
+  location: Beijing, CN
+  speaker: OpenStack China
+  start: 2017-07-24 08:00 CST
+  end: 2017-07-25 17:00 CST
+  description: |
+    July 24th and 25th at the Chinal National Convention Center,
+    Beijing.  More details at http://openstackdaychina.org/
+ 
+- title: OpenStack Days Benelux
+  location: Bussum, NL
+  speaker: OpenStack Benelux
+  start: 2017-09-14 09:00 WET
+  end: 2017-09-14 18:00 WET
+  description: |
+    Details at http://www.openstack.nl/en/events/
+
