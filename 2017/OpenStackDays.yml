@@ -62,4 +62,12 @@ talks:
   description: |
     Details at http://openstacknordic.org/copenhagen2017/
 
+- title: OpenStack Days Canada
+  location: Ottawa, CA
+  speaker: OpenStack Canada
+  start: 2017-10-19 09:00 EST
+  end: 2017-10-19 18:00 EST
+  description: |
+    Details at http://www.openstackcanada.com/
+
 
