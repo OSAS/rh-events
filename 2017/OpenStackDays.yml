@@ -62,4 +62,28 @@ talks:
   description: |
     Details at http://openstacknordic.org/copenhagen2017/
 
+- title: OpenStack Days Canada
+  location: Ottawa, CA
+  speaker: OpenStack Canada
+  start: 2017-10-19 09:00 EST
+  end: 2017-10-19 18:00 EST
+  description: |
+    Details at http://www.openstackcanada.com/
+
+- title: OpenStack Days France
+  location: Paris, FR
+  speaker: OpenStack France
+  start: 2017-11-21 09:00 WET
+  end: 2017-11-21 18:00 WET
+  description: |
+    Details at http://www.openstackdayfrance.fr/ 
+
+- title: OpenStack Days Germany
+  location: Potsdam, DE
+  speaker: OpenStack Germany
+  start: 2017-12-08 09:00 EST
+  end: 2017-12-09 18:00 EST
+  description: |
+    Details at https://www.openstack-dach.org/
+
 
