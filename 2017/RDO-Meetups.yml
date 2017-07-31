@@ -4,235 +4,15 @@ tags: RDO
 
 talks:
 
-- title: 11th OpenStack User Group Berlin
-  location: Berlin, DE
-  speaker: OpenStack User Group Berlin
-  start: 2017-07-26 12:00 UTC
-  end: 2017-07-26 13:00 UTC
+- title: NFV Service Function Chaining - presenter Charles Derrick
+  location: Richardson, TX
+  speaker: OpenStack DFW
+  start: 2017-08-02 19:00 UTC
+  end: 2017-08-02 20:00 UTC
   description: |
-      Berlin, DE
-      11th OpenStack User Group Berlin
-      https://www.meetup.com/OpenStack-User-Group-Berlin/events/240726499/
-
-- title: OpenStack Bucharest Meetup, 7th OpenStack Birthday Celebration
-  location: Bucharest, RO
-  speaker: OpenStack Bucharest, Romania Meetup
-  start: 2017-07-26 11:30 UTC
-  end: 2017-07-26 12:30 UTC
-  description: |
-      Bucharest, RO
-      OpenStack Bucharest Meetup, 7th OpenStack Birthday Celebration
-      https://www.meetup.com/OpenStack-Bucharest-Romania-Meetup/events/241111048/
-
-- title: Kubernetes+OpenStac­­­k & OpenStack 7th Birthday Celebration
-  location: San Diego, CA
-  speaker: OpenStack San Diego
-  start: 2017-07-26 21:30 UTC
-  end: 2017-07-26 22:30 UTC
-  description: |
-      San Diego, CA, US
-      Kubernetes+OpenStac­­­k & OpenStack 7th Birthday Celebration
-      https://www.meetup.com/OpenStackSanDiego/events/240013281/
-
-- title: July OpenStack London Meetup
-  location: London, 17
-  speaker: London OpenStack Meetup
-  start: 2017-07-26 13:30 UTC
-  end: 2017-07-26 14:30 UTC
-  description: |
-      London, 17, GB
-      July OpenStack London Meetup
-      https://www.meetup.com/Openstack-London/events/241639232/
-
-- title: Celebrate OpenStack's 7th Birthday!
-  location: Phoenix, AZ
-  speaker: OpenStack Phoenix
-  start: 2017-07-26 21:30 UTC
-  end: 2017-07-26 22:30 UTC
-  description: |
-      Phoenix, AZ, US
-      Celebrate OpenStack's 7th Birthday!
-      https://www.meetup.com/OpenStack-Phoenix/events/241080718/
-
-- title: Kubernetes+OpenStac­­­­k & OpenStack 7th Birthday Celebration
-  location: San Diego, CA
-  speaker: San Diego Cloud Computing Meetup
-  start: 2017-07-26 21:30 UTC
-  end: 2017-07-26 22:30 UTC
-  description: |
-      San Diego, CA, US
-      Kubernetes+OpenStac­­­­k & OpenStack 7th Birthday Celebration
-      https://www.meetup.com/San-Diego-Cloud-Computing-Meetup/events/240013226/
-
-- title: Kubernetes+OpenStac­­­­­k & OpenStack 7th Birthday Celebration
-  location: San Diego, CA
-  speaker: RefreshSD Meetup Group
-  start: 2017-07-26 21:30 UTC
-  end: 2017-07-26 22:30 UTC
-  description: |
-      San Diego, CA, US
-      Kubernetes+OpenStac­­­­­k & OpenStack 7th Birthday Celebration
-      https://www.meetup.com/RefreshSD/events/240013240/
-
-- title: Червёртый OpenStack Meetup St.Petersburg
-  location: St. Petersburg, RU
-  speaker: OpenStack Russia St. Petersburg
-  start: 2017-07-26 12:00 UTC
-  end: 2017-07-26 13:00 UTC
-  description: |
-      St. Petersburg, RU
-      Червёртый OpenStack Meetup St.Petersburg
-      https://www.meetup.com/OpenStack-Russia-St-Petersburg/events/241112848/
-
-- title: 🎂 OpenStack 7th Birthday Celebration 🎂 (& Hands-on Labs and Lightning Talks!)
-  location: Sunnyvale, CA
-  speaker: SF Bay Area OpenStack
-  start: 2017-07-27 16:00 UTC
-  end: 2017-07-27 17:00 UTC
-  description: |
-      Sunnyvale, CA, US
-      🎂 OpenStack 7th Birthday Celebration 🎂 (& Hands-on Labs and Lightning Talks!)
-      https://www.meetup.com/openstack/events/241747881/
-
-- title: OpenStackOperators Finland Video Call
-  location: Helsinki, FI
-  speaker: OpenStack Finland User Group
-  start: 2017-07-27 06:00 UTC
-  end: 2017-07-27 07:00 UTC
-  description: |
-      Helsinki, FI
-      OpenStackOperators Finland Video Call
-      https://www.meetup.com/OpenStack-Finland-User-Group/events/241355667/
-
-- title: Out of the Box Network Developers Celebrate OpenStack’s 7th Birthday!
-  location: Santa Clara, CA
-  speaker: Out Of The Box Network Developers
-  start: 2017-07-27 16:00 UTC
-  end: 2017-07-27 17:00 UTC
-  description: |
-      Santa Clara, CA, US
-      Out of the Box Network Developers Celebrate OpenStack’s 7th Birthday!
-      https://www.meetup.com/Out-Of-The-Box-Network-Developers/events/240461138/
-
-- title: OpenStack 7th birthday party joint with Colorado Openstack Meetup
-  location: Littleton, CO
-  speaker: OpenStack Denver
-  start: 2017-07-27 20:00 UTC
-  end: 2017-07-27 21:00 UTC
-  description: |
-      Littleton, CO, US
-      OpenStack 7th birthday party joint with Colorado Openstack Meetup
-      https://www.meetup.com/OpenStack-Denver/events/241336649/
-
-- title: OpenStack 7th Birthday and Virtual Development Environment
-  location: Fort Collins, CO
-  speaker: Colorado OpenStack
-  start: 2017-07-27 20:00 UTC
-  end: 2017-07-27 21:00 UTC
-  description: |
-      Fort Collins, CO, US
-      OpenStack 7th Birthday and Virtual Development Environment
-      https://www.meetup.com/OpenStack-Colorado/events/241336107/
-
-- title: Intro to OpenStack Services
-  location: Lehi, UT
-  speaker: OpenStack Utah
-  start: 2017-07-27 20:30 UTC
-  end: 2017-07-27 21:30 UTC
-  description: |
-      Lehi, UT, US
-      Intro to OpenStack Services
-      https://www.meetup.com/openstack-utah/events/241586306/
-
-- title: Juniper Networks The challenge of networking in a multi-cloud world
-  location: Chesterfield, MO
-  speaker: OpenStack St. Louis
-  start: 2017-07-27 19:30 UTC
-  end: 2017-07-27 20:30 UTC
-  description: |
-      Chesterfield, MO, US
-      Juniper Networks The challenge of networking in a multi-cloud world
-      https://www.meetup.com/OpenStack-STL/events/240300501/
-
-- title: OpenStack L.A. July Meetup/OpenStack 7th Birthday Celebration!
-  location: Pasadena, CA
-  speaker: OpenStack LA
-  start: 2017-07-27 22:00 UTC
-  end: 2017-07-27 23:00 UTC
-  description: |
-      Pasadena, CA, US
-      OpenStack L.A. July Meetup/OpenStack 7th Birthday Celebration!
-      https://www.meetup.com/OpenStack-LA/events/240821216/
-
-- title: Openstack 7th Birthday - Côte D'ivoire
-  location: Abidjan, CI
-  speaker: Openstack Côte d'Ivoire
-  start: 2017-07-28 10:30 UTC
-  end: 2017-07-28 11:30 UTC
-  description: |
-      Abidjan, CI
-      Openstack 7th Birthday - Côte D'ivoire
-      https://www.meetup.com/Openstack-Cote-divoire/events/239103378/
-
-- title: 7th OpenStack Birthday
-  location: Tehran, IR
-  speaker: Iran OpenStack
-  start: 2017-07-28 10:30 UTC
-  end: 2017-07-28 11:30 UTC
-  description: |
-      Tehran, IR
-      7th OpenStack Birthday
-      https://www.meetup.com/Iran-OpenStack/events/241317494/
-
-- title: July OpenStack Pune meetup 2017
-  location: Bangalore, IN
-  speaker: Indian OpenStack User Group
-  start: 2017-07-29 00:30 UTC
-  end: 2017-07-29 01:30 UTC
-  description: |
-      Bangalore, IN
-      July OpenStack Pune meetup 2017
-      https://www.meetup.com/Indian-OpenStack-User-Group/events/241332193/
-
-- title: OpenStack 7th Birthday - Delhi Chapter
-  location: Bangalore, IN
-  speaker: Indian OpenStack User Group
-  start: 2017-07-29 01:45 UTC
-  end: 2017-07-29 02:45 UTC
-  description: |
-      Bangalore, IN
-      OpenStack 7th Birthday - Delhi Chapter
-      https://www.meetup.com/Indian-OpenStack-User-Group/events/241332082/
-
-- title: Cloud and Container Meetup
-  location: Ha Noi, VN
-  speaker: Vietnam OpenStack Official User Group
-  start: 2017-07-29 02:30 UTC
-  end: 2017-07-29 03:30 UTC
-  description: |
-      Ha Noi, VN
-      Cloud and Container Meetup
-      https://www.meetup.com/VietOpenStack/events/241814676/
-
-- title: OpenStack 7th Birthday - Bangalore Chapter
-  location: Bangalore, IN
-  speaker: Indian OpenStack User Group
-  start: 2017-07-30 01:30 UTC
-  end: 2017-07-30 02:30 UTC
-  description: |
-      Bangalore, IN
-      OpenStack 7th Birthday - Bangalore Chapter
-      https://www.meetup.com/Indian-OpenStack-User-Group/events/241332478/
-
-- title: OpenStack 7th Birthday - Mumbai Chapter
-  location: Bangalore, IN
-  speaker: Indian OpenStack User Group
-  start: 2017-07-30 01:45 UTC
-  end: 2017-07-30 02:45 UTC
-  description: |
-      Bangalore, IN
-      OpenStack 7th Birthday - Mumbai Chapter
-      https://www.meetup.com/Indian-OpenStack-User-Group/events/241332157/
+      Richardson, TX, US
+      NFV Service Function Chaining - presenter Charles Derrick
+      https://www.meetup.com/OpenStack-DFW/events/241975957/
 
 - title: Monthly SFOUG Meeting
   location: Fort Lauderdale, FL
@@ -244,6 +24,16 @@ talks:
       Monthly SFOUG Meeting
       https://www.meetup.com/South-Florida-OpenStack-Users-Group/events/241382722/
 
+- title: 7th OpenStack Birthday
+  location: Tehran, IR
+  speaker: Iran OpenStack
+  start: 2017-08-04 10:30 UTC
+  end: 2017-08-04 11:30 UTC
+  description: |
+      Tehran, IR
+      7th OpenStack Birthday
+      https://www.meetup.com/Iran-OpenStack/events/241317494/
+
 - title: OpenStack Developer Coffee and Code
   location: Saint Paul, MN
   speaker: Minnesota OpenStack Meetup
@@ -253,4 +43,34 @@ talks:
       Saint Paul, MN, US
       OpenStack Developer Coffee and Code
       https://www.meetup.com/Minnesota-OpenStack-Meetup/events/241181159/
+
+- title: Mexico City OpenStack Operators Meetup
+  location: México City, MX
+  speaker: OpenstackMexicoCity
+  start: 2017-08-09 11:00 UTC
+  end: 2017-08-09 12:00 UTC
+  description: |
+      México City, MX
+      Mexico City OpenStack Operators Meetup
+      https://www.meetup.com/OpenstackMexicoCity/events/242041637/
+
+- title: OpenStack 7th Birthday - Bangalore Chapter
+  location: Bangalore, IN
+  speaker: Indian OpenStack User Group
+  start: 2017-08-12 01:30 UTC
+  end: 2017-08-12 02:30 UTC
+  description: |
+      Bangalore, IN
+      OpenStack 7th Birthday - Bangalore Chapter
+      https://www.meetup.com/Indian-OpenStack-User-Group/events/241332478/
+
+- title: OpenStack 7th Birthday - Delhi Chapter
+  location: Bangalore, IN
+  speaker: Indian OpenStack User Group
+  start: 2017-08-12 01:45 UTC
+  end: 2017-08-12 02:45 UTC
+  description: |
+      Bangalore, IN
+      OpenStack 7th Birthday - Delhi Chapter
+      https://www.meetup.com/Indian-OpenStack-User-Group/events/241332082/
 
