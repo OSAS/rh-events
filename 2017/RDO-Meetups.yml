@@ -4,73 +4,143 @@ tags: RDO
 
 talks:
 
-- title: NFV Service Function Chaining - presenter Charles Derrick
-  location: Richardson, TX
-  speaker: OpenStack DFW
-  start: 2017-08-02 19:00 UTC
-  end: 2017-08-02 20:00 UTC
+- title: The Evolution of a SDN/NFV Network with Aptira
+  location: Tel Aviv-Yafo, IL
+  speaker: OpenStack-Israel
+  start: 2017-08-15 03:00 UTC
+  end: 2017-08-15 04:00 UTC
   description: |
-      Richardson, TX, US
-      NFV Service Function Chaining - presenter Charles Derrick
-      https://www.meetup.com/OpenStack-DFW/events/241975957/
+      Tel Aviv-Yafo, IL
+      The Evolution of a SDN/NFV Network with Aptira
+      https://www.meetup.com/OpenStack-Israel/events/242379171/
 
-- title: Monthly SFOUG Meeting
-  location: Fort Lauderdale, FL
-  speaker: South Florida OpenStack Users Group
-  start: 2017-08-03 17:15 UTC
-  end: 2017-08-03 18:15 UTC
+- title: The Evolution of a SDN/NFV Network with Aptira and Cloudify
+  location: Melbourne, AU
+  speaker: Australian OpenStack User Group
+  start: 2017-08-15 03:00 UTC
+  end: 2017-08-15 04:00 UTC
   description: |
-      Fort Lauderdale, FL, US
-      Monthly SFOUG Meeting
-      https://www.meetup.com/South-Florida-OpenStack-Users-Group/events/241382722/
+      Melbourne, AU
+      The Evolution of a SDN/NFV Network with Aptira and Cloudify
+      https://www.meetup.com/Australian-OpenStack-User-Group/events/242403359/
 
-- title: 7th OpenStack Birthday
-  location: Tehran, IR
-  speaker: Iran OpenStack
-  start: 2017-08-04 10:30 UTC
-  end: 2017-08-04 11:30 UTC
+- title: OpenStack 7th Birthday
+  location: Porto Alegre, BR
+  speaker: OpenStack Brasil
+  start: 2017-08-16 18:00 UTC
+  end: 2017-08-16 19:00 UTC
   description: |
-      Tehran, IR
-      7th OpenStack Birthday
-      https://www.meetup.com/Iran-OpenStack/events/241317494/
+      Porto Alegre, BR
+      OpenStack 7th Birthday
+      https://www.meetup.com/Openstack-Brasil/events/242054894/
 
-- title: OpenStack Developer Coffee and Code
-  location: Saint Paul, MN
-  speaker: Minnesota OpenStack Meetup
-  start: 2017-08-07 10:00 UTC
-  end: 2017-08-07 11:00 UTC
+- title: OpenStack Meetup Austin August session.
+  location: Austin, TX
+  speaker: OpenStack Austin Texas
+  start: 2017-08-17 19:45 UTC
+  end: 2017-08-17 20:45 UTC
   description: |
-      Saint Paul, MN, US
-      OpenStack Developer Coffee and Code
-      https://www.meetup.com/Minnesota-OpenStack-Meetup/events/241181159/
+      Austin, TX, US
+      OpenStack Meetup Austin August session.
+      https://www.meetup.com/OpenStack-Austin/events/241908089/
 
-- title: Mexico City OpenStack Operators Meetup
-  location: México City, MX
-  speaker: OpenstackMexicoCity
-  start: 2017-08-09 11:00 UTC
-  end: 2017-08-09 12:00 UTC
+- title: OpenStack Meetup (Topic TBD)
+  location: Atlanta, GA
+  speaker: Atlanta OpenStack Meetup Group
+  start: 2017-08-17 19:00 UTC
+  end: 2017-08-17 20:00 UTC
   description: |
-      México City, MX
-      Mexico City OpenStack Operators Meetup
-      https://www.meetup.com/OpenstackMexicoCity/events/242041637/
+      Atlanta, GA, US
+      OpenStack Meetup (Topic TBD)
+      https://www.meetup.com/openstack-atlanta/events/241914747/
 
-- title: OpenStack 7th Birthday - Bangalore Chapter
+- title: OpenStack 7th Birthday - Mumbai  & Pune
   location: Bangalore, IN
   speaker: Indian OpenStack User Group
-  start: 2017-08-12 01:30 UTC
-  end: 2017-08-12 02:30 UTC
+  start: 2017-08-19 01:45 UTC
+  end: 2017-08-19 02:45 UTC
   description: |
       Bangalore, IN
-      OpenStack 7th Birthday - Bangalore Chapter
-      https://www.meetup.com/Indian-OpenStack-User-Group/events/241332478/
+      OpenStack 7th Birthday - Mumbai  & Pune
+      https://www.meetup.com/Indian-OpenStack-User-Group/events/241332157/
 
-- title: OpenStack 7th Birthday - Delhi Chapter
-  location: Bangalore, IN
-  speaker: Indian OpenStack User Group
-  start: 2017-08-12 01:45 UTC
-  end: 2017-08-12 02:45 UTC
+- title: Let's talk OpenShift on OpenStack
+  location: Chicago, IL
+  speaker: RHUG - Chicago
+  start: 2017-08-23 18:00 UTC
+  end: 2017-08-23 19:00 UTC
   description: |
-      Bangalore, IN
-      OpenStack 7th Birthday - Delhi Chapter
-      https://www.meetup.com/Indian-OpenStack-User-Group/events/241332082/
+      Chicago, IL, US
+      Let's talk OpenShift on OpenStack
+      https://www.meetup.com/RHUG-Chicago/events/242455041/
+
+- title: Kubernetes-as-a-Service on Platform9
+  location: Phoenix, AZ
+  speaker: OpenStack Phoenix
+  start: 2017-08-23 21:00 UTC
+  end: 2017-08-23 22:00 UTC
+  description: |
+      Phoenix, AZ, US
+      Kubernetes-as-a-Service on Platform9
+      https://www.meetup.com/OpenStack-Phoenix/events/242388603/
+
+- title: Demystifying Cloud Storage - Hands On - AWS & OpenStack
+  location: San Diego, CA
+  speaker: OpenStack San Diego
+  start: 2017-08-24 21:30 UTC
+  end: 2017-08-24 22:30 UTC
+  description: |
+      San Diego, CA, US
+      Demystifying Cloud Storage - Hands On - AWS & OpenStack
+      https://www.meetup.com/OpenStackSanDiego/events/240761052/
+
+- title: Monthly meeting for OpenStack Utah
+  location: Lehi, UT
+  speaker: OpenStack Utah
+  start: 2017-08-24 20:30 UTC
+  end: 2017-08-24 21:30 UTC
+  description: |
+      Lehi, UT, US
+      Monthly meeting for OpenStack Utah
+      https://www.meetup.com/openstack-utah/events/242044261/
+
+- title: Mirantis To Containerize or Not to  Containerize… That is the Question!
+  location: Chesterfield, MO
+  speaker: OpenStack St. Louis
+  start: 2017-08-24 19:30 UTC
+  end: 2017-08-24 20:30 UTC
+  description: |
+      Chesterfield, MO, US
+      Mirantis To Containerize or Not to  Containerize… That is the Question!
+      https://www.meetup.com/OpenStack-STL/events/240300715/
+
+- title: OpenStack L.A. Meetup - August 2017
+  location: Pasadena, CA
+  speaker: OpenStack LA
+  start: 2017-08-24 22:00 UTC
+  end: 2017-08-24 23:00 UTC
+  description: |
+      Pasadena, CA, US
+      OpenStack L.A. Meetup - August 2017
+      https://www.meetup.com/OpenStack-LA/events/242204505/
+
+- title: Reality of SDN, Openstack EPA and  Containers
+  location: Hillsboro, OR
+  speaker: Out Of The Box Network Developers Portland
+  start: 2017-08-28 20:30 UTC
+  end: 2017-08-28 21:30 UTC
+  description: |
+      Hillsboro, OR, US
+      Reality of SDN, Openstack EPA and  Containers
+      https://www.meetup.com/Out-Of-The-Box-Network-Developers-PDX/events/242225584/
+
+- title: Australian OpenStack User Group - Quarterly Brisbane Meetup
+  location: Melbourne, AU
+  speaker: Australian OpenStack User Group
+  start: 2017-08-28 06:00 UTC
+  end: 2017-08-28 07:00 UTC
+  description: |
+      Melbourne, AU
+      Australian OpenStack User Group - Quarterly Brisbane Meetup
+      https://www.meetup.com/Australian-OpenStack-User-Group/events/238019493/
 
