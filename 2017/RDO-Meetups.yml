@@ -4,96 +4,6 @@ tags: RDO
 
 talks:
 
-- title: OpenShift on OpenStack PB&J in the Cloud Application Platform Sandwich
-  location: Chicago, IL
-  speaker: RHUG - Chicago
-  start: 2017-08-23 18:00 UTC
-  end: 2017-08-23 19:00 UTC
-  description: |
-      Chicago, IL, US
-      OpenShift on OpenStack PB&J in the Cloud Application Platform Sandwich
-      https://www.meetup.com/RHUG-Chicago/events/242455041/
-
-- title: Kubernetes-as-a-Service on Platform9
-  location: Phoenix, AZ
-  speaker: OpenStack Phoenix
-  start: 2017-08-23 21:00 UTC
-  end: 2017-08-23 22:00 UTC
-  description: |
-      Phoenix, AZ, US
-      Kubernetes-as-a-Service on Platform9
-      https://www.meetup.com/OpenStack-Phoenix/events/242388603/
-
-- title: OpenStackOperators Finland Video Call
-  location: Helsinki, FI
-  speaker: OpenStack Finland User Group
-  start: 2017-08-24 06:00 UTC
-  end: 2017-08-24 07:00 UTC
-  description: |
-      Helsinki, FI
-      OpenStackOperators Finland Video Call
-      https://www.meetup.com/OpenStack-Finland-User-Group/events/242277170/
-
-- title: 2° Meetup OpenStack Rio de Janeiro no Parque Tecnológico UFRJ
-  location: Porto Alegre, BR
-  speaker: OpenStack Brasil
-  start: 2017-08-24 14:00 UTC
-  end: 2017-08-24 15:00 UTC
-  description: |
-      Porto Alegre, BR
-      2° Meetup OpenStack Rio de Janeiro no Parque Tecnológico UFRJ
-      https://www.meetup.com/Openstack-Brasil/events/242578786/
-
-- title: Demystifying Cloud Storage - Hands On - AWS & OpenStack
-  location: San Diego, CA
-  speaker: OpenStack San Diego
-  start: 2017-08-24 21:30 UTC
-  end: 2017-08-24 22:30 UTC
-  description: |
-      San Diego, CA, US
-      Demystifying Cloud Storage - Hands On - AWS & OpenStack
-      https://www.meetup.com/OpenStackSanDiego/events/240761052/
-
-- title: Mirantis To Containerize or Not to  Containerize… That is the Question!
-  location: Chesterfield, MO
-  speaker: OpenStack St. Louis
-  start: 2017-08-24 19:30 UTC
-  end: 2017-08-24 20:30 UTC
-  description: |
-      Chesterfield, MO, US
-      Mirantis To Containerize or Not to  Containerize… That is the Question!
-      https://www.meetup.com/OpenStack-STL/events/240300715/
-
-- title: Containers - real world lessons learned - Boston OpenStack Meetup
-  location: Boston, MA
-  speaker: Openstack Boston
-  start: 2017-08-24 18:45 UTC
-  end: 2017-08-24 19:45 UTC
-  description: |
-      Boston, MA, US
-      Containers - real world lessons learned - Boston OpenStack Meetup
-      https://www.meetup.com/Openstack-Boston/events/242596568/
-
-- title: OpenStack L.A. Meetup - August 2017
-  location: Pasadena, CA
-  speaker: OpenStack LA
-  start: 2017-08-24 22:00 UTC
-  end: 2017-08-24 23:00 UTC
-  description: |
-      Pasadena, CA, US
-      OpenStack L.A. Meetup - August 2017
-      https://www.meetup.com/OpenStack-LA/events/242204505/
-
-- title: OpenStack 7th Birthday - Bangalore Chapter at RedHat
-  location: Bangalore, IN
-  speaker: Indian OpenStack User Group
-  start: 2017-08-27 01:30 UTC
-  end: 2017-08-27 02:30 UTC
-  description: |
-      Bangalore, IN
-      OpenStack 7th Birthday - Bangalore Chapter at RedHat
-      https://www.meetup.com/Indian-OpenStack-User-Group/events/242587916/
-
 - title: Virtual Class #2 Kubernetes on Bare Metal w/ Kubespray for OpenStack
   location: Berlin, DE
   speaker: Kubernauts Worldwide Meetup
@@ -114,13 +24,63 @@ talks:
       Discuss and Learn about OpenStack
       https://www.meetup.com/OpenStack-Denver/events/241844203/
 
-- title: August OpenStack Pune meetup 2017
+- title: Kolla-Ansible Workshop Kaohsiung-NSYSU
+  location: Taipei, TW
+  speaker: OpenStack Taiwan User Group
+  start: 2017-09-02 03:00 UTC
+  end: 2017-09-02 04:00 UTC
+  description: |
+      Taipei, TW
+      Kolla-Ansible Workshop Kaohsiung-NSYSU
+      https://www.meetup.com/OpenStack-Taiwan-User-Group/events/242729909/
+
+- title: September OpenStack Pune meetup 2017
   location: Bangalore, IN
   speaker: Indian OpenStack User Group
   start: 2017-09-03 00:30 UTC
   end: 2017-09-03 01:30 UTC
   description: |
       Bangalore, IN
-      August OpenStack Pune meetup 2017
+      September OpenStack Pune meetup 2017
       https://www.meetup.com/Indian-OpenStack-User-Group/events/242582061/
+
+- title: ONAP - Demonstration - Presenter Chris Reece, Award Solutions
+  location: Richardson, TX
+  speaker: OpenStack DFW
+  start: 2017-09-06 19:00 UTC
+  end: 2017-09-06 20:00 UTC
+  description: |
+      Richardson, TX, US
+      ONAP - Demonstration - Presenter Chris Reece, Award Solutions
+      https://www.meetup.com/OpenStack-DFW/events/242232736/
+
+- title: Kolla-Ansible Workshop Hsinchu-NCTU
+  location: Taipei, TW
+  speaker: OpenStack Taiwan User Group
+  start: 2017-09-09 01:30 UTC
+  end: 2017-09-09 02:30 UTC
+  description: |
+      Taipei, TW
+      Kolla-Ansible Workshop Hsinchu-NCTU
+      https://www.meetup.com/OpenStack-Taiwan-User-Group/events/242606941/
+
+- title: OpenStack Fundamentals - Build & Manage a Public or Private Cloud Environment
+  location: Herzeliyya, IL
+  speaker: CloudZone Academy
+  start: 2017-09-10 02:00 UTC
+  end: 2017-09-10 03:00 UTC
+  description: |
+      Herzeliyya, IL
+      OpenStack Fundamentals - Build & Manage a Public or Private Cloud Environment
+      https://www.meetup.com/cloudzone-academy/events/242793751/
+
+- title: OpenStack 7th Birthday @Directi, Mumbai
+  location: Bangalore, IN
+  speaker: Indian OpenStack User Group
+  start: 2017-09-10 01:45 UTC
+  end: 2017-09-10 02:45 UTC
+  description: |
+      Bangalore, IN
+      OpenStack 7th Birthday @Directi, Mumbai
+      https://www.meetup.com/Indian-OpenStack-User-Group/events/241332157/
 
