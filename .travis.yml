@@ -6,3 +6,4 @@ install:
 - sudo apt-get install rubygems
 - bundle install
 script: bundle exec ./validate.rb
+dist: precise
