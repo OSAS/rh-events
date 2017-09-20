@@ -4,83 +4,193 @@ tags: RDO
 
 talks:
 
-- title: Virtual Class #2 Kubernetes on Bare Metal w/ Kubespray for OpenStack
-  location: Berlin, DE
-  speaker: Kubernauts Worldwide Meetup
-  start: 2017-08-28 13:00 UTC
-  end: 2017-08-28 14:00 UTC
+- title: Boston OpenStack Meetup - Networks, Security, App traffic and Contrail!
+  location: Boston, MA
+  speaker: Openstack Boston
+  start: 2017-09-21 18:15 UTC
+  end: 2017-09-21 19:15 UTC
   description: |
-      Berlin, DE
-      Virtual Class #2 Kubernetes on Bare Metal w/ Kubespray for OpenStack
-      https://www.meetup.com/kubernauts/events/242494778/
+      Boston, MA, US
+      Boston OpenStack Meetup - Networks, Security, App traffic and Contrail!
+      https://www.meetup.com/Openstack-Boston/events/242597218/
+
+- title: OpenContrail Community  What and how to build an SDN platform for the masses
+  location: Chesterfield, MO
+  speaker: OpenStack St. Louis
+  start: 2017-09-21 19:30 UTC
+  end: 2017-09-21 20:30 UTC
+  description: |
+      Chesterfield, MO, US
+      OpenContrail Community  What and how to build an SDN platform for the masses
+      https://www.meetup.com/OpenStack-STL/events/243373080/
+
+- title: OpenStack Meetup - Inside Neutron Routing Architectures
+  location: Atlanta, GA
+  speaker: Atlanta OpenStack Meetup Group
+  start: 2017-09-21 19:00 UTC
+  end: 2017-09-21 20:00 UTC
+  description: |
+      Atlanta, GA, US
+      OpenStack Meetup - Inside Neutron Routing Architectures
+      https://www.meetup.com/openstack-atlanta/events/242636067/
+
+- title: Kubernetes and Networking - Austin OpenStack Meetup
+  location: Austin, TX
+  speaker: OpenStack Austin Texas
+  start: 2017-09-21 20:00 UTC
+  end: 2017-09-21 21:00 UTC
+  description: |
+      Austin, TX, US
+      Kubernetes and Networking - Austin OpenStack Meetup
+      https://www.meetup.com/OpenStack-Austin/events/242596349/
+
+- title: Platform Transformation for SDN and NFV
+  location: Dublin, IE
+  speaker: OpenStack Ireland
+  start: 2017-09-25 13:30 UTC
+  end: 2017-09-25 14:30 UTC
+  description: |
+      Dublin, IE
+      Platform Transformation for SDN and NFV
+      https://www.meetup.com/OpenStack-Ireland/events/242601528/
+
+- title: OpenStack Days UK London
+  location: Manchester, 18
+  speaker: Manchester OpenStack Meetup
+  start: 2017-09-26 04:00 UTC
+  end: 2017-09-26 05:00 UTC
+  description: |
+      Manchester, 18, GB
+      OpenStack Days UK London
+      https://www.meetup.com/Manchester-OpenStack-Meetup/events/243143338/
+
+- title: OpenStack Days UK, London
+  location: London, 17
+  speaker: London OpenStack Meetup
+  start: 2017-09-26 04:00 UTC
+  end: 2017-09-26 05:00 UTC
+  description: |
+      London, 17, GB
+      OpenStack Days UK, London
+      https://www.meetup.com/Openstack-London/events/243186524/
+
+- title: Q3 MeetUp - Day 2 Operations talks and Life of an Upstreamer!
+  location: Ottawa, ON
+  speaker: OpenStack Ottawa
+  start: 2017-09-26 17:00 UTC
+  end: 2017-09-26 18:00 UTC
+  description: |
+      Ottawa, ON, CA
+      Q3 MeetUp - Day 2 Operations talks and Life of an Upstreamer!
+      https://www.meetup.com/OpenStack-Ottawa/events/242569492/
+
+- title: OpenStack Cloud im Eigenbau
+  location: Köln, DE
+  speaker: Treffpunkt Semicolon
+  start: 2017-09-26 12:00 UTC
+  end: 2017-09-26 13:00 UTC
+  description: |
+      Köln, DE
+      OpenStack Cloud im Eigenbau
+      https://www.meetup.com/Treffpunkt-Semicolon/events/242795438/
+
+- title: Q3 MeetUp - Kolla and Day 2 Operations talks!
+  location: Montréal, QC
+  speaker: Montréal OpenStack
+  start: 2017-09-27 17:30 UTC
+  end: 2017-09-27 18:30 UTC
+  description: |
+      Montréal, QC, CA
+      Q3 MeetUp - Kolla and Day 2 Operations talks!
+      https://www.meetup.com/Montreal-OpenStack/events/242569141/
+
+- title: Introducción a Neutron OpenStack
+  location: México City, MX
+  speaker: OpenstackMexicoCity
+  start: 2017-09-27 20:00 UTC
+  end: 2017-09-27 21:00 UTC
+  description: |
+      México City, MX
+      Introducción a Neutron OpenStack
+      https://www.meetup.com/OpenstackMexicoCity/events/243291195/
+
+- title: OpenStack Day Italia
+  location: Roma, RM
+  speaker: OpenStack User Group Italia
+  start: 2017-09-28 03:00 UTC
+  end: 2017-09-28 04:00 UTC
+  description: |
+      Roma, RM, IT
+      OpenStack Day Italia
+      https://www.meetup.com/OpenStack-User-Group-Italia/events/242924402/
+
+- title: OpenStak Day Italia
+  location: Milano, MI
+  speaker: OpenStack Milano
+  start: 2017-09-28 03:00 UTC
+  end: 2017-09-28 04:00 UTC
+  description: |
+      Milano, MI, IT
+      OpenStak Day Italia
+      https://www.meetup.com/Meetup-OpenStack-Milano/events/242923903/
+
+- title: Q3 MeetUp - OpenStack and Ceph in production at OICR and Day 2 Operations talks
+  location: Toronto, ON
+  speaker: OpenStack Toronto
+  start: 2017-09-28 17:45 UTC
+  end: 2017-09-28 18:45 UTC
+  description: |
+      Toronto, ON, CA
+      Q3 MeetUp - OpenStack and Ceph in production at OICR and Day 2 Operations talks
+      https://www.meetup.com/OpenStackTO/events/242570077/
 
 - title: Discuss and Learn about OpenStack
   location: Littleton, CO
   speaker: OpenStack Denver
-  start: 2017-08-31 20:30 UTC
-  end: 2017-08-31 21:30 UTC
+  start: 2017-09-28 20:30 UTC
+  end: 2017-09-28 21:30 UTC
   description: |
       Littleton, CO, US
       Discuss and Learn about OpenStack
-      https://www.meetup.com/OpenStack-Denver/events/241844203/
+      https://www.meetup.com/OpenStack-Denver/events/242906901/
 
-- title: Kolla-Ansible Workshop Kaohsiung-NSYSU
-  location: Taipei, TW
-  speaker: OpenStack Taiwan User Group
-  start: 2017-09-02 03:00 UTC
-  end: 2017-09-02 04:00 UTC
+- title: OpenStack 7th Birthday
+  location: Lyon, FR
+  speaker: OpenStack Rhône-Alpes
+  start: 2017-09-28 13:00 UTC
+  end: 2017-09-28 14:00 UTC
   description: |
-      Taipei, TW
-      Kolla-Ansible Workshop Kaohsiung-NSYSU
-      https://www.meetup.com/OpenStack-Taiwan-User-Group/events/242729909/
+      Lyon, FR
+      OpenStack 7th Birthday
+      https://www.meetup.com/OpenStack-Rhone-Alpes/events/241083111/
 
-- title: September OpenStack Pune meetup 2017
-  location: Bangalore, IN
-  speaker: Indian OpenStack User Group
-  start: 2017-09-03 00:30 UTC
-  end: 2017-09-03 01:30 UTC
+- title: OpenStack L.A. Meetup - September 2017 - Internap and OpenStack
+  location: Pasadena, CA
+  speaker: OpenStack LA
+  start: 2017-09-28 22:00 UTC
+  end: 2017-09-28 23:00 UTC
   description: |
-      Bangalore, IN
-      September OpenStack Pune meetup 2017
-      https://www.meetup.com/Indian-OpenStack-User-Group/events/242582061/
+      Pasadena, CA, US
+      OpenStack L.A. Meetup - September 2017 - Internap and OpenStack
+      https://www.meetup.com/OpenStack-LA/events/243256087/
 
-- title: ONAP - Demonstration - Presenter Chris Reece, Award Solutions
-  location: Richardson, TX
-  speaker: OpenStack DFW
-  start: 2017-09-06 19:00 UTC
-  end: 2017-09-06 20:00 UTC
+- title: Reality of SDN, Openstack EPA and  Containers
+  location: Hillsboro, OR
+  speaker: Out Of The Box Network Developers Portland
+  start: 2017-10-03 20:30 UTC
+  end: 2017-10-03 21:30 UTC
   description: |
-      Richardson, TX, US
-      ONAP - Demonstration - Presenter Chris Reece, Award Solutions
-      https://www.meetup.com/OpenStack-DFW/events/242232736/
+      Hillsboro, OR, US
+      Reality of SDN, Openstack EPA and  Containers
+      https://www.meetup.com/Out-Of-The-Box-Network-Developers-PDX/events/242225584/
 
-- title: Kolla-Ansible Workshop Hsinchu-NCTU
-  location: Taipei, TW
-  speaker: OpenStack Taiwan User Group
-  start: 2017-09-09 01:30 UTC
-  end: 2017-09-09 02:30 UTC
+- title: OpenStack - Zkušenosti s implementacemi a provozem
+  location: Prague, CZ
+  speaker: OpenStack Czech User Group Meetup
+  start: 2017-10-04 04:00 UTC
+  end: 2017-10-04 05:00 UTC
   description: |
-      Taipei, TW
-      Kolla-Ansible Workshop Hsinchu-NCTU
-      https://www.meetup.com/OpenStack-Taiwan-User-Group/events/242606941/
-
-- title: OpenStack Fundamentals - Build & Manage a Public or Private Cloud Environment
-  location: Herzeliyya, IL
-  speaker: CloudZone Academy
-  start: 2017-09-10 02:00 UTC
-  end: 2017-09-10 03:00 UTC
-  description: |
-      Herzeliyya, IL
-      OpenStack Fundamentals - Build & Manage a Public or Private Cloud Environment
-      https://www.meetup.com/cloudzone-academy/events/242793751/
-
-- title: OpenStack 7th Birthday @Directi, Mumbai
-  location: Bangalore, IN
-  speaker: Indian OpenStack User Group
-  start: 2017-09-10 01:45 UTC
-  end: 2017-09-10 02:45 UTC
-  description: |
-      Bangalore, IN
-      OpenStack 7th Birthday @Directi, Mumbai
-      https://www.meetup.com/Indian-OpenStack-User-Group/events/241332157/
+      Prague, CZ
+      OpenStack - Zkušenosti s implementacemi a provozem
+      https://www.meetup.com/OpenStack-Czech-User-Group-Meetup/events/240756834/
 
