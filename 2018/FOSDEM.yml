@@ -1,0 +1,13 @@
+name: FOSDEM
+location: Brussels, Belgium
+tags: oVirt fedora rdo
+start: 2018-02-03
+end: 2018-02-04
+description: |
+  FOSDEM is a free event for software developers to meet, share ideas
+  and collaborate. Every year, thousands of developers of free and
+  open source software from all over the world gather at the event in
+  Brussels.
+
+  Additional details about the conference are available at
+  <https://fosdem.org/2018/>.
