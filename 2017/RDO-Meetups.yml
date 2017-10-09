@@ -4,66 +4,6 @@ tags: RDO
 
 talks:
 
-- title: Ankara 12. Meetup - Ceph ve OpenStack
-  location: Istanbul, TR
-  speaker: Turkey OpenStack Meetup
-  start: 2017-10-02 12:00 UTC
-  end: 2017-10-02 13:00 UTC
-  description: |
-      Istanbul, TR
-      Ankara 12. Meetup - Ceph ve OpenStack
-      https://www.meetup.com/Turkey-OpenStack-Meetup/events/243543715/
-
-- title: OpenStack Pike Release Update & Redefining Protection in the Cloud
-  location: Sunnyvale, CA
-  speaker: SF Bay Area OpenStack
-  start: 2017-10-03 11:00 UTC
-  end: 2017-10-03 12:00 UTC
-  description: |
-      Sunnyvale, CA, US
-      OpenStack Pike Release Update & Redefining Protection in the Cloud
-      https://www.meetup.com/openstack/events/243811056/
-
-- title: OpenStack - Zkušenosti s implementacemi a provozem
-  location: Prague, CZ
-  speaker: OpenStack Czech User Group Meetup
-  start: 2017-10-04 04:00 UTC
-  end: 2017-10-04 05:00 UTC
-  description: |
-      Prague, CZ
-      OpenStack - Zkušenosti s implementacemi a provozem
-      https://www.meetup.com/OpenStack-Czech-User-Group-Meetup/events/240756834/
-
-- title: OpenStackOperators Finland Video Call
-  location: Helsinki, FI
-  speaker: OpenStack Finland User Group
-  start: 2017-10-04 06:00 UTC
-  end: 2017-10-04 07:00 UTC
-  description: |
-      Helsinki, FI
-      OpenStackOperators Finland Video Call
-      https://www.meetup.com/OpenStack-Finland-User-Group/events/243462697/
-
-- title: OpenStack by David Willson 10-07-2017
-  location: Littleton, CO
-  speaker: Software Freedom School in Denver
-  start: 2017-10-07 11:00 UTC
-  end: 2017-10-07 12:00 UTC
-  description: |
-      Littleton, CO, US
-      OpenStack by David Willson 10-07-2017
-      https://www.meetup.com/sofreeus/events/243043418/
-
-- title: OpenStack PTG Denver Recap Meetup #16 - VietOpenStack
-  location: Ha Noi, VN
-  speaker: Vietnam OpenStack Official User Group
-  start: 2017-10-07 02:30 UTC
-  end: 2017-10-07 03:30 UTC
-  description: |
-      Ha Noi, VN
-      OpenStack PTG Denver Recap Meetup #16 - VietOpenStack
-      https://www.meetup.com/VietOpenStack/events/243769562/
-
 - title: Canberra OpenStack meetup
   location: Sydney, AU
   speaker: Australian OpenStack User Group
@@ -94,6 +34,26 @@ talks:
       From the Experts Cloud Computing - A Panel Discussion
       https://www.meetup.com/OpenStackSanDiego/events/242450015/
 
+- title: Cloud Foundry PaaS and OpenStack
+  location: Orlando, FL
+  speaker: OpenStack Central Florida
+  start: 2017-10-12 19:00 UTC
+  end: 2017-10-12 20:00 UTC
+  description: |
+      Orlando, FL, US
+      Cloud Foundry PaaS and OpenStack
+      https://www.meetup.com/Orlando-Central-Florida-OpenStack-Meetup/events/243971049/
+
+- title: OpenStack Boston Meetup - Massachusetts Open Cloud
+  location: Boston, MA
+  speaker: Openstack Boston
+  start: 2017-10-12 19:00 UTC
+  end: 2017-10-12 20:00 UTC
+  description: |
+      Boston, MA, US
+      OpenStack Boston Meetup - Massachusetts Open Cloud
+      https://www.meetup.com/Openstack-Boston/events/243883198/
+
 - title: Learn OpenStack
   location: Denver, CO
   speaker: IT for Non-Traditional Learners (North Denver)
@@ -103,6 +63,16 @@ talks:
       Denver, CO, US
       Learn OpenStack
       https://www.meetup.com/it-ntl/events/243488239/
+
+- title: 10月 meetup -- OpenStack 基礎操作
+  location: Taipei, TW
+  speaker: OpenStack User Group Taiwan
+  start: 2017-10-14 01:15 UTC
+  end: 2017-10-14 02:15 UTC
+  description: |
+      Taipei, TW
+      10月 meetup -- OpenStack 基礎操作
+      https://www.meetup.com/OpenStack-User-Group-Taiwan/events/243932085/
 
 - title: OpenStack Mini-Conf at OSI Days India 2017
   location: Bangalore, IN
@@ -123,4 +93,94 @@ talks:
       Tel Aviv-Yafo, IL
       ONAP VNF Onboarding Hack Day
       https://www.meetup.com/OpenStack-Israel/events/243488892/
+
+- title: Openstack Days 2017
+  location: Istanbul, TR
+  speaker: Turkey OpenStack Meetup
+  start: 2017-10-17 02:00 UTC
+  end: 2017-10-17 03:00 UTC
+  description: |
+      Istanbul, TR
+      Openstack Days 2017
+      https://www.meetup.com/Turkey-OpenStack-Meetup/events/243535231/
+
+- title: Leveraging Apache Kafka for Web Crawling and Data Processing
+  location: Cork, IE
+  speaker: OpenStack Cork
+  start: 2017-10-17 13:00 UTC
+  end: 2017-10-17 14:00 UTC
+  description: |
+      Cork, IE
+      Leveraging Apache Kafka for Web Crawling and Data Processing
+      https://www.meetup.com/OpenStack-Cork/events/243678867/
+
+- title: Administración de Redes en ambiente de nube con OpenStack
+  location: Guadalajara, MX
+  speaker: OpenStack GDL
+  start: 2017-10-17 20:00 UTC
+  end: 2017-10-17 21:00 UTC
+  description: |
+      Guadalajara, MX
+      Administración de Redes en ambiente de nube con OpenStack
+      https://www.meetup.com/OpenStack-GDL/events/243661445/
+
+- title: OpenStack Days Nordic - Copenhagen 2017
+  location: Copenhagen, DK
+  speaker: OpenStack Meetup Denmark
+  start: 2017-10-18 02:00 UTC
+  end: 2017-10-18 03:00 UTC
+  description: |
+      Copenhagen, DK
+      OpenStack Days Nordic - Copenhagen 2017
+      https://www.meetup.com/openstackdk/events/241302507/
+
+- title: Ericsson as Proud Sponsor of OpenStack Days Nordic!
+  location: Copenhagen, DK
+  speaker: Ericsson Meetup Denmark
+  start: 2017-10-18 02:00 UTC
+  end: 2017-10-18 03:00 UTC
+  description: |
+      Copenhagen, DK
+      Ericsson as Proud Sponsor of OpenStack Days Nordic!
+      https://www.meetup.com/EricssonDenmark/events/243550623/
+
+- title: Второй OpenStack Meetup в Казани
+  location: Kazan, RU
+  speaker: OpenStack Russia Kazan
+  start: 2017-10-19 07:00 UTC
+  end: 2017-10-19 08:00 UTC
+  description: |
+      Kazan, RU
+      Второй OpenStack Meetup в Казани
+      https://www.meetup.com/OpenStack-Russia-Kazan/events/243518457/
+
+- title: OpenTechThoughts TechExperience & TechTalk
+  location: Köln, DE
+  speaker: OpenStack Meetup Cologne
+  start: 2017-10-19 10:00 UTC
+  end: 2017-10-19 11:00 UTC
+  description: |
+      Köln, DE
+      OpenTechThoughts TechExperience & TechTalk
+      https://www.meetup.com/OpenStack-Cologne/events/243821271/
+
+- title: Cloud Instance Bootstrapping
+  location: Portland, OR
+  speaker: OpenStack PDX
+  start: 2017-10-19 21:00 UTC
+  end: 2017-10-19 22:00 UTC
+  description: |
+      Portland, OR, US
+      Cloud Instance Bootstrapping
+      https://www.meetup.com/openstack-pdx/events/244035380/
+
+- title: SUSE Cloud strategy for VMs and Containers
+  location: Chesterfield, MO
+  speaker: OpenStack St. Louis
+  start: 2017-10-19 19:30 UTC
+  end: 2017-10-19 20:30 UTC
+  description: |
+      Chesterfield, MO, US
+      SUSE Cloud strategy for VMs and Containers
+      https://www.meetup.com/OpenStack-STL/events/240759508/
 
