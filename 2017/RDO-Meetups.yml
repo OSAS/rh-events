@@ -4,96 +4,6 @@ tags: RDO
 
 talks:
 
-- title: Canberra OpenStack meetup
-  location: Sydney, AU
-  speaker: Australian OpenStack User Group
-  start: 2017-10-10 04:00 UTC
-  end: 2017-10-10 05:00 UTC
-  description: |
-      Sydney, AU
-      Canberra OpenStack meetup
-      https://www.meetup.com/Australian-OpenStack-User-Group/events/243693862/
-
-- title: İstanbul 13. Meetup, Konu Ceph Yapıtaşları, OpenStack Entegrasyonu
-  location: Istanbul, TR
-  speaker: Turkey OpenStack Meetup
-  start: 2017-10-11 12:30 UTC
-  end: 2017-10-11 13:30 UTC
-  description: |
-      Istanbul, TR
-      İstanbul 13. Meetup, Konu Ceph Yapıtaşları, OpenStack Entegrasyonu
-      https://www.meetup.com/Turkey-OpenStack-Meetup/events/243543951/
-
-- title: From the Experts Cloud Computing - A Panel Discussion
-  location: San Diego, CA
-  speaker: OpenStack San Diego
-  start: 2017-10-12 21:00 UTC
-  end: 2017-10-12 22:00 UTC
-  description: |
-      San Diego, CA, US
-      From the Experts Cloud Computing - A Panel Discussion
-      https://www.meetup.com/OpenStackSanDiego/events/242450015/
-
-- title: Cloud Foundry PaaS and OpenStack
-  location: Orlando, FL
-  speaker: OpenStack Central Florida
-  start: 2017-10-12 19:00 UTC
-  end: 2017-10-12 20:00 UTC
-  description: |
-      Orlando, FL, US
-      Cloud Foundry PaaS and OpenStack
-      https://www.meetup.com/Orlando-Central-Florida-OpenStack-Meetup/events/243971049/
-
-- title: OpenStack Boston Meetup - Massachusetts Open Cloud
-  location: Boston, MA
-  speaker: Openstack Boston
-  start: 2017-10-12 19:00 UTC
-  end: 2017-10-12 20:00 UTC
-  description: |
-      Boston, MA, US
-      OpenStack Boston Meetup - Massachusetts Open Cloud
-      https://www.meetup.com/Openstack-Boston/events/243883198/
-
-- title: Learn OpenStack
-  location: Denver, CO
-  speaker: IT for Non-Traditional Learners (North Denver)
-  start: 2017-10-14 11:00 UTC
-  end: 2017-10-14 12:00 UTC
-  description: |
-      Denver, CO, US
-      Learn OpenStack
-      https://www.meetup.com/it-ntl/events/243488239/
-
-- title: 10月 meetup -- OpenStack 基礎操作
-  location: Taipei, TW
-  speaker: OpenStack User Group Taiwan
-  start: 2017-10-14 01:15 UTC
-  end: 2017-10-14 02:15 UTC
-  description: |
-      Taipei, TW
-      10月 meetup -- OpenStack 基礎操作
-      https://www.meetup.com/OpenStack-User-Group-Taiwan/events/243932085/
-
-- title: OpenStack Mini-Conf at OSI Days India 2017
-  location: Bangalore, IN
-  speaker: Indian OpenStack User Group
-  start: 2017-10-14 05:30 UTC
-  end: 2017-10-14 06:30 UTC
-  description: |
-      Bangalore, IN
-      OpenStack Mini-Conf at OSI Days India 2017
-      https://www.meetup.com/Indian-OpenStack-User-Group/events/243384587/
-
-- title: ONAP VNF Onboarding Hack Day
-  location: Tel Aviv-Yafo, IL
-  speaker: OpenStack and Open Networking Israel
-  start: 2017-10-16 02:00 UTC
-  end: 2017-10-16 03:00 UTC
-  description: |
-      Tel Aviv-Yafo, IL
-      ONAP VNF Onboarding Hack Day
-      https://www.meetup.com/OpenStack-Israel/events/243488892/
-
 - title: Openstack Days 2017
   location: Istanbul, TR
   speaker: Turkey OpenStack Meetup
@@ -103,16 +13,6 @@ talks:
       Istanbul, TR
       Openstack Days 2017
       https://www.meetup.com/Turkey-OpenStack-Meetup/events/243535231/
-
-- title: Leveraging Apache Kafka for Web Crawling and Data Processing
-  location: Cork, IE
-  speaker: OpenStack Cork
-  start: 2017-10-17 13:00 UTC
-  end: 2017-10-17 14:00 UTC
-  description: |
-      Cork, IE
-      Leveraging Apache Kafka for Web Crawling and Data Processing
-      https://www.meetup.com/OpenStack-Cork/events/243678867/
 
 - title: Administración de Redes en ambiente de nube con OpenStack
   location: Guadalajara, MX
@@ -135,14 +35,24 @@ talks:
       https://www.meetup.com/openstackdk/events/241302507/
 
 - title: Ericsson as Proud Sponsor of OpenStack Days Nordic!
-  location: Copenhagen, DK
-  speaker: Ericsson Meetup Denmark
+  location: Oslo, NO
+  speaker: Ericsson Meetup Norway
   start: 2017-10-18 02:00 UTC
   end: 2017-10-18 03:00 UTC
   description: |
-      Copenhagen, DK
+      Oslo, NO
       Ericsson as Proud Sponsor of OpenStack Days Nordic!
-      https://www.meetup.com/EricssonDenmark/events/243550623/
+      https://www.meetup.com/EricssonNorway/events/243550738/
+
+- title: Learn about the latest network features in OpenStack
+  location: México City, MX
+  speaker: OpenstackMexicoCity
+  start: 2017-10-18 20:30 UTC
+  end: 2017-10-18 21:30 UTC
+  description: |
+      México City, MX
+      Learn about the latest network features in OpenStack
+      https://www.meetup.com/OpenstackMexicoCity/events/244231080/
 
 - title: Второй OpenStack Meetup в Казани
   location: Kazan, RU
@@ -183,4 +93,74 @@ talks:
       Chesterfield, MO, US
       SUSE Cloud strategy for VMs and Containers
       https://www.meetup.com/OpenStack-STL/events/240759508/
+
+- title: All Day DevOps
+  location: Houston, TX
+  speaker: Houston OpenStack Meetup
+  start: 2017-10-24 03:00 UTC
+  end: 2017-10-24 04:00 UTC
+  description: |
+      Houston, TX, US
+      All Day DevOps
+      https://www.meetup.com/openstackhoustonmeetup/events/241353325/
+
+- title: All Day DevOps 2017
+  location: Austin, TX
+  speaker: OpenStack Austin Texas
+  start: 2017-10-24 08:00 UTC
+  end: 2017-10-24 09:00 UTC
+  description: |
+      Austin, TX, US
+      All Day DevOps 2017
+      https://www.meetup.com/OpenStack-Austin/events/243887992/
+
+- title: Function as a Service for OpenStack (Wellington)
+  location: Wellington, NZ
+  speaker: New Zealand OpenStack User Group
+  start: 2017-10-24 00:30 UTC
+  end: 2017-10-24 01:30 UTC
+  description: |
+      Wellington, NZ
+      Function as a Service for OpenStack (Wellington)
+      https://www.meetup.com/New-Zealand-OpenStack-User-Group/events/244239853/
+
+- title: OpenStack Grundlagen Workshop (München)
+  location: München, DE
+  speaker: OpenStack Munich
+  start: 2017-10-25 03:00 UTC
+  end: 2017-10-25 04:00 UTC
+  description: |
+      München, DE
+      OpenStack Grundlagen Workshop (München)
+      https://www.meetup.com/OpenStack-Munich/events/244039769/
+
+- title: Talk About OpenStack
+  location: Fort Collins, CO
+  speaker: Colorado OpenStack
+  start: 2017-10-25 20:00 UTC
+  end: 2017-10-25 21:00 UTC
+  description: |
+      Fort Collins, CO, US
+      Talk About OpenStack
+      https://www.meetup.com/OpenStack-Colorado/events/244148339/
+
+- title: OpenStackOperators Finland Video Call
+  location: Helsinki, FI
+  speaker: OpenStack Finland User Group
+  start: 2017-10-26 06:00 UTC
+  end: 2017-10-26 07:00 UTC
+  description: |
+      Helsinki, FI
+      OpenStackOperators Finland Video Call
+      https://www.meetup.com/OpenStack-Finland-User-Group/events/243550986/
+
+- title: SLUG Oct meeting Openstack virtualisation cluster
+  location: Sydney, AU
+  speaker: Sydney Linux User Group
+  start: 2017-10-27 03:00 UTC
+  end: 2017-10-27 04:00 UTC
+  description: |
+      Sydney, AU
+      SLUG Oct meeting Openstack virtualisation cluster
+      https://www.meetup.com/Sydney-Linux-User-Group/events/244109300/
 
