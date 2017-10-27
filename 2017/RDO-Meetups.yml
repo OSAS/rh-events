@@ -4,16 +4,6 @@ tags: RDO
 
 talks:
 
-- title: SLUG Oct meeting Openstack virtualisation cluster
-  location: Sydney, AU
-  speaker: Sydney Linux User Group
-  start: 2017-10-27 03:00 UTC
-  end: 2017-10-27 04:00 UTC
-  description: |
-      Sydney, AU
-      SLUG Oct meeting Openstack virtualisation cluster
-      https://www.meetup.com/Sydney-Linux-User-Group/events/244109300/
-
 - title: 10月 meetup -- OpenStack 基礎操作
   location: Taipei, TW
   speaker: OpenStack User Group Taiwan
