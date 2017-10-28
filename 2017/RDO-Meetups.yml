@@ -24,16 +24,6 @@ talks:
       OpenStack and CEPH October 2017 meetup
       https://www.meetup.com/Openstack-Amsterdam/events/243578080/
 
-- title: OpenStack Cloud Application Hackathon
-  location: Sydney, AU
-  speaker: Australian OpenStack User Group
-  start: 2017-11-03 00:00 UTC
-  end: 2017-11-03 01:00 UTC
-  description: |
-      Sydney, AU
-      OpenStack Cloud Application Hackathon
-      https://www.meetup.com/Australian-OpenStack-User-Group/events/243322393/
-
 - title: OpenStack Summit Sydney
   location: Sydney, AU
   speaker: Australian OpenStack User Group
