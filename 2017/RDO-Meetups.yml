@@ -4,16 +4,6 @@ tags: RDO
 
 talks:
 
-- title: 10月 meetup -- OpenStack 基礎操作
-  location: Taipei, TW
-  speaker: OpenStack User Group Taiwan
-  start: 2017-10-28 01:30 UTC
-  end: 2017-10-28 02:30 UTC
-  description: |
-      Taipei, TW
-      10月 meetup -- OpenStack 基礎操作
-      https://www.meetup.com/OpenStack-User-Group-Taiwan/events/244425947/
-
 - title: OpenStack and CEPH October 2017 meetup
   location: Amsterdam, NL
   speaker: Openstack & Ceph User Group Amsterdam
@@ -24,6 +14,16 @@ talks:
       OpenStack and CEPH October 2017 meetup
       https://www.meetup.com/Openstack-Amsterdam/events/243578080/
 
+- title: DevOps An introduction to the power  of Ansible Tower
+  location: Orlando, FL
+  speaker: OpenStack Central Florida
+  start: 2017-11-03 19:00 UTC
+  end: 2017-11-03 20:00 UTC
+  description: |
+      Orlando, FL, US
+      DevOps An introduction to the power  of Ansible Tower
+      https://www.meetup.com/Orlando-Central-Florida-OpenStack-Meetup/events/244679149/
+
 - title: OpenStack Summit Sydney
   location: Sydney, AU
   speaker: Australian OpenStack User Group
@@ -33,4 +33,24 @@ talks:
       Sydney, AU
       OpenStack Summit Sydney
       https://www.meetup.com/Australian-OpenStack-User-Group/events/241715874/
+
+- title: VNF Next Virtual Conference & Watch Party
+  location: Dublin, IE
+  speaker: OpenStack Ireland
+  start: 2017-11-13 08:30 UTC
+  end: 2017-11-13 09:30 UTC
+  description: |
+      Dublin, IE
+      VNF Next Virtual Conference & Watch Party
+      https://www.meetup.com/OpenStack-Ireland/events/244249681/
+
+- title: Introduction to upstream testing and code quality
+  location: Chesterfield, MO
+  speaker: OpenStack St. Louis
+  start: 2017-11-14 19:30 UTC
+  end: 2017-11-14 20:30 UTC
+  description: |
+      Chesterfield, MO, US
+      Introduction to upstream testing and code quality
+      https://www.meetup.com/OpenStack-STL/events/243712400/
 
