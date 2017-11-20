@@ -4,53 +4,92 @@ tags: RDO
 
 talks:
 
-- title: OpenStack and CEPH October 2017 meetup
-  location: Amsterdam, NL
-  speaker: Openstack & Ceph User Group Amsterdam
-  start: 2017-11-01 13:30 UTC
-  end: 2017-11-01 14:30 UTC
+- title: OpenStack Day France 2017
+  location: Lyon, FR
+  speaker: OpenStack Rhône-Alpes
+  start: 2017-11-21 03:00 UTC
+  end: 2017-11-21 04:00 UTC
   description: |
-      Amsterdam, NL
-      OpenStack and CEPH October 2017 meetup
-      https://www.meetup.com/Openstack-Amsterdam/events/243578080/
+      Lyon, FR
+      OpenStack Day France 2017
+      https://www.meetup.com/OpenStack-Rhone-Alpes/events/241907156/
 
-- title: DevOps An introduction to the power  of Ansible Tower
-  location: Orlando, FL
-  speaker: OpenStack Central Florida
-  start: 2017-11-03 19:00 UTC
-  end: 2017-11-03 20:00 UTC
+- title: Leveraging Apache Kafka for Web Crawling and Data Processing
+  location: Cork, IE
+  speaker: OpenStack Cork
+  start: 2017-11-21 13:00 UTC
+  end: 2017-11-21 14:00 UTC
   description: |
-      Orlando, FL, US
-      DevOps An introduction to the power  of Ansible Tower
-      https://www.meetup.com/Orlando-Central-Florida-OpenStack-Meetup/events/244679149/
+      Cork, IE
+      Leveraging Apache Kafka for Web Crawling and Data Processing
+      https://www.meetup.com/OpenStack-Cork/events/243678867/
 
-- title: OpenStack Summit Sydney
+- title: OpenStackOperators Finland Video Call
+  location: Helsinki, FI
+  speaker: OpenStack Finland User Group
+  start: 2017-11-23 06:00 UTC
+  end: 2017-11-23 07:00 UTC
+  description: |
+      Helsinki, FI
+      OpenStackOperators Finland Video Call
+      https://www.meetup.com/OpenStack-Finland-User-Group/events/244322285/
+
+- title: 4° Meetup OpenStack Rio de Janeiro no Parque Tecnológico UFRJ
+  location: Rio de Janeiro, BR
+  speaker: OpenStack Brasil
+  start: 2017-11-23 12:00 UTC
+  end: 2017-11-23 13:00 UTC
+  description: |
+      Rio de Janeiro, BR
+      4° Meetup OpenStack Rio de Janeiro no Parque Tecnológico UFRJ
+      https://www.meetup.com/Openstack-Brasil/events/244740084/
+
+- title: Australian OpenStack User Group - Quarterly Brisbane Meetup
   location: Sydney, AU
   speaker: Australian OpenStack User Group
-  start: 2017-11-05 16:00 UTC
-  end: 2017-11-05 17:00 UTC
+  start: 2017-11-27 02:00 UTC
+  end: 2017-11-27 03:00 UTC
   description: |
       Sydney, AU
-      OpenStack Summit Sydney
-      https://www.meetup.com/Australian-OpenStack-User-Group/events/241715874/
+      Australian OpenStack User Group - Quarterly Brisbane Meetup
+      https://www.meetup.com/Australian-OpenStack-User-Group/events/244914989/
 
-- title: VNF Next Virtual Conference & Watch Party
-  location: Dublin, IE
-  speaker: OpenStack Ireland
-  start: 2017-11-13 08:30 UTC
-  end: 2017-11-13 09:30 UTC
+- title: OpenStack Summit Sydney Roundup
+  location: Fort Collins, CO
+  speaker: Colorado OpenStack
+  start: 2017-11-29 20:15 UTC
+  end: 2017-11-29 21:15 UTC
   description: |
-      Dublin, IE
-      VNF Next Virtual Conference & Watch Party
-      https://www.meetup.com/OpenStack-Ireland/events/244249681/
+      Fort Collins, CO, US
+      OpenStack Summit Sydney Roundup
+      https://www.meetup.com/OpenStack-Colorado/events/244852965/
 
-- title: Introduction to upstream testing and code quality
-  location: Chesterfield, MO
-  speaker: OpenStack St. Louis
-  start: 2017-11-14 19:30 UTC
-  end: 2017-11-14 20:30 UTC
+- title: Sailing with the Trade Winds -- Maximize Developer Velocity with Containers
+  location: Sunnyvale, CA
+  speaker: SF Bay Area OpenStack
+  start: 2017-11-29 21:30 UTC
+  end: 2017-11-29 22:30 UTC
   description: |
-      Chesterfield, MO, US
-      Introduction to upstream testing and code quality
-      https://www.meetup.com/OpenStack-STL/events/243712400/
+      Sunnyvale, CA, US
+      Sailing with the Trade Winds -- Maximize Developer Velocity with Containers
+      https://www.meetup.com/openstack/events/244891795/
 
+- title: Discuss and Learn about OpenStack
+  location: Littleton, CO
+  speaker: OpenStack Denver
+  start: 2017-11-30 20:30 UTC
+  end: 2017-11-30 21:30 UTC
+  description: |
+      Littleton, CO, US
+      Discuss and Learn about OpenStack
+      https://www.meetup.com/OpenStack-Denver/events/245027118/
+
+- title: Bootstrapping your product at no cost with OpenStack and AWS
+  location: Pune, IN
+  speaker: Startup Gears Pune
+  start: 2017-12-02 07:30 UTC
+  end: 2017-12-02 08:30 UTC
+  description: |
+      Pune, IN
+      Bootstrapping your product at no cost with OpenStack and AWS
+      https://www.meetup.com/Startup-Gears-Pune/events/244745626/
