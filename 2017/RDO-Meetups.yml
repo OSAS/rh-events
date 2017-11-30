@@ -4,92 +4,113 @@ tags: RDO
 
 talks:
 
-- title: OpenStack Day France 2017
-  location: Lyon, FR
-  speaker: OpenStack Rhône-Alpes
-  start: 2017-11-21 03:00 UTC
-  end: 2017-11-21 04:00 UTC
-  description: |
-      Lyon, FR
-      OpenStack Day France 2017
-      https://www.meetup.com/OpenStack-Rhone-Alpes/events/241907156/
-
-- title: Leveraging Apache Kafka for Web Crawling and Data Processing
-  location: Cork, IE
-  speaker: OpenStack Cork
-  start: 2017-11-21 13:00 UTC
-  end: 2017-11-21 14:00 UTC
-  description: |
-      Cork, IE
-      Leveraging Apache Kafka for Web Crawling and Data Processing
-      https://www.meetup.com/OpenStack-Cork/events/243678867/
-
-- title: OpenStackOperators Finland Video Call
-  location: Helsinki, FI
-  speaker: OpenStack Finland User Group
-  start: 2017-11-23 06:00 UTC
-  end: 2017-11-23 07:00 UTC
-  description: |
-      Helsinki, FI
-      OpenStackOperators Finland Video Call
-      https://www.meetup.com/OpenStack-Finland-User-Group/events/244322285/
-
-- title: 4° Meetup OpenStack Rio de Janeiro no Parque Tecnológico UFRJ
+- title: MEETUP HACKATHON OPENSTACK
   location: Rio de Janeiro, BR
   speaker: OpenStack Brasil
-  start: 2017-11-23 12:00 UTC
-  end: 2017-11-23 13:00 UTC
+  start: 2017-12-01 09:00 UTC
+  end: 2017-12-01 10:00 UTC
   description: |
       Rio de Janeiro, BR
-      4° Meetup OpenStack Rio de Janeiro no Parque Tecnológico UFRJ
-      https://www.meetup.com/Openstack-Brasil/events/244740084/
+      MEETUP HACKATHON OPENSTACK
+      https://www.meetup.com/Openstack-Brasil/events/245436346/
 
-- title: Australian OpenStack User Group - Quarterly Brisbane Meetup
-  location: Sydney, AU
-  speaker: Australian OpenStack User Group
-  start: 2017-11-27 02:00 UTC
-  end: 2017-11-27 03:00 UTC
+- title: VietOpenStack 17th Meetup - #17 OpenStack Sydney 2017 
+  location: Ha Noi, VN
+  speaker: Vietnam OpenStack Official User Group
+  start: 2017-12-01 22:30 UTC
+  end: 2017-12-01 23:30 UTC
   description: |
-      Sydney, AU
-      Australian OpenStack User Group - Quarterly Brisbane Meetup
-      https://www.meetup.com/Australian-OpenStack-User-Group/events/244914989/
-
-- title: OpenStack Summit Sydney Roundup
-  location: Fort Collins, CO
-  speaker: Colorado OpenStack
-  start: 2017-11-29 20:15 UTC
-  end: 2017-11-29 21:15 UTC
-  description: |
-      Fort Collins, CO, US
-      OpenStack Summit Sydney Roundup
-      https://www.meetup.com/OpenStack-Colorado/events/244852965/
-
-- title: Sailing with the Trade Winds -- Maximize Developer Velocity with Containers
-  location: Sunnyvale, CA
-  speaker: SF Bay Area OpenStack
-  start: 2017-11-29 21:30 UTC
-  end: 2017-11-29 22:30 UTC
-  description: |
-      Sunnyvale, CA, US
-      Sailing with the Trade Winds -- Maximize Developer Velocity with Containers
-      https://www.meetup.com/openstack/events/244891795/
-
-- title: Discuss and Learn about OpenStack
-  location: Littleton, CO
-  speaker: OpenStack Denver
-  start: 2017-11-30 20:30 UTC
-  end: 2017-11-30 21:30 UTC
-  description: |
-      Littleton, CO, US
-      Discuss and Learn about OpenStack
-      https://www.meetup.com/OpenStack-Denver/events/245027118/
+      Ha Noi, VN
+      VietOpenStack 17th Meetup - #17 OpenStack Sydney 2017 
+      https://www.meetup.com/VietOpenStack/events/245358922/
 
 - title: Bootstrapping your product at no cost with OpenStack and AWS
   location: Pune, IN
   speaker: Startup Gears Pune
-  start: 2017-12-02 07:30 UTC
-  end: 2017-12-02 08:30 UTC
+  start: 2017-12-02 04:30 UTC
+  end: 2017-12-02 05:30 UTC
   description: |
       Pune, IN
       Bootstrapping your product at no cost with OpenStack and AWS
       https://www.meetup.com/Startup-Gears-Pune/events/244745626/
+
+- title: OpenStack Developer Coffee and Code
+  location: Saint Paul, MN
+  speaker: Minnesota | OpenStack (MnOS)
+  start: 2017-12-04 07:00 UTC
+  end: 2017-12-04 08:00 UTC
+  description: |
+      Saint Paul, MN, US
+      OpenStack Developer Coffee and Code
+      https://www.meetup.com/MnOpenStack/events/245468473/
+
+- title: OpenStack Wrocław Meetup #7 - mini kurs OpenStacka
+  location: Wroclaw, PL
+  speaker: Wroclaw OpenStack Meetup
+  start: 2017-12-06 07:30 UTC
+  end: 2017-12-06 08:30 UTC
+  description: |
+      Wroclaw, PL
+      OpenStack Wrocław Meetup #7 - mini kurs OpenStacka
+      https://www.meetup.com/Wroclaw-OpenStack-Meetup/events/244373729/
+
+- title: Welcome to the next OpenStack Forum! 7/12, 1400 to 1700.
+  location: Oslo, NO
+  speaker: Oslo OpenStack Forum
+  start: 2017-12-07 05:00 UTC
+  end: 2017-12-07 06:00 UTC
+  description: |
+      Oslo, NO
+      Welcome to the next OpenStack Forum! 7/12, 1400 to 1700.
+      https://www.meetup.com/Oslo-OpenStack-Forum/events/244925977/
+
+- title: Q4 MeetUp - Hybrid Clouds, Containerized Control Plane / OpenStack Helm and demo
+  location: Ottawa, ON
+  speaker: OpenStack Ottawa
+  start: 2017-12-12 14:15 UTC
+  end: 2017-12-12 15:15 UTC
+  description: |
+      Ottawa, ON, CA
+      Q4 MeetUp - Hybrid Clouds, Containerized Control Plane / OpenStack Helm and demo
+      https://www.meetup.com/OpenStack-Ottawa/events/245280324/
+
+- title: Introduction to OpenStack security tools for development
+  location: Chesterfield, MO
+  speaker: OpenStack St. Louis
+  start: 2017-12-12 16:30 UTC
+  end: 2017-12-12 17:30 UTC
+  description: |
+      Chesterfield, MO, US
+      Introduction to OpenStack security tools for development
+      https://www.meetup.com/OpenStack-STL/events/245505411/
+
+- title: OpenStack goes ICT Winterfair | 2017
+  location: Amersfoort, NL
+  speaker: OpenStack.nl
+  start: 2017-12-13 03:30 UTC
+  end: 2017-12-13 04:30 UTC
+  description: |
+      Amersfoort, NL
+      OpenStack goes ICT Winterfair | 2017
+      https://www.meetup.com/Openstack-nl/events/235320637/
+
+- title: Q4 MeetUp - Embedded Systems / Hybrid Clouds, Containerized Control Plane...... 
+  location: Montréal, QC
+  speaker: Montréal OpenStack
+  start: 2017-12-13 14:30 UTC
+  end: 2017-12-13 15:30 UTC
+  description: |
+      Montréal, QC, CA
+      Q4 MeetUp - Embedded Systems / Hybrid Clouds, Containerized Control Plane...... 
+      https://www.meetup.com/Montreal-OpenStack/events/244994688/
+
+- title: Services as a Platform Making DevOps Real at Scale
+  location: Sunnyvale, CA
+  speaker: SF Bay Area OpenStack
+  start: 2017-12-13 18:30 UTC
+  end: 2017-12-13 19:30 UTC
+  description: |
+      Sunnyvale, CA, US
+      Services as a Platform Making DevOps Real at Scale
+      https://www.meetup.com/openstack/events/244889782/
+
