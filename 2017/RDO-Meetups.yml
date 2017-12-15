@@ -4,126 +4,6 @@ tags: RDO
 
 talks:
 
-- title: Zerostack Cloud Workshop
-  location: San Diego, CA
-  speaker: OpenStack San Diego
-  start: 2017-12-06 12:00 UTC
-  end: 2017-12-06 13:00 UTC
-  description: |
-      San Diego, CA, US
-      Zerostack Cloud Workshop
-      https://www.meetup.com/OpenStackSanDiego/events/245602220/
-
-- title: OpenStack Wrocław Meetup #7 - mini kurs OpenStacka
-  location: Wroclaw, PL
-  speaker: Wroclaw OpenStack Meetup
-  start: 2017-12-06 07:30 UTC
-  end: 2017-12-06 08:30 UTC
-  description: |
-      Wroclaw, PL
-      OpenStack Wrocław Meetup #7 - mini kurs OpenStacka
-      https://www.meetup.com/Wroclaw-OpenStack-Meetup/events/244373729/
-
-- title: Welcome to the next OpenStack Forum! 7/12, 1400 to 1700.
-  location: Oslo, NO
-  speaker: Oslo OpenStack Forum
-  start: 2017-12-07 05:00 UTC
-  end: 2017-12-07 06:00 UTC
-  description: |
-      Oslo, NO
-      Welcome to the next OpenStack Forum! 7/12, 1400 to 1700.
-      https://www.meetup.com/Oslo-OpenStack-Forum/events/244925977/
-
-- title: Q4 MeetUp - Hybrid Clouds, Containerized Control Plane / OpenStack Helm and demo
-  location: Ottawa, ON
-  speaker: OpenStack Ottawa
-  start: 2017-12-12 14:15 UTC
-  end: 2017-12-12 15:15 UTC
-  description: |
-      Ottawa, ON, CA
-      Q4 MeetUp - Hybrid Clouds, Containerized Control Plane / OpenStack Helm and demo
-      https://www.meetup.com/OpenStack-Ottawa/events/245280324/
-
-- title: Introduction to OpenStack security tools for development
-  location: Chesterfield, MO
-  speaker: OpenStack St. Louis
-  start: 2017-12-12 16:30 UTC
-  end: 2017-12-12 17:30 UTC
-  description: |
-      Chesterfield, MO, US
-      Introduction to OpenStack security tools for development
-      https://www.meetup.com/OpenStack-STL/events/245505411/
-
-- title: OpenStack goes ICT Winterfair | 2017
-  location: Amersfoort, NL
-  speaker: OpenStack.nl
-  start: 2017-12-13 03:30 UTC
-  end: 2017-12-13 04:30 UTC
-  description: |
-      Amersfoort, NL
-      OpenStack goes ICT Winterfair | 2017
-      https://www.meetup.com/Openstack-nl/events/235320637/
-
-- title: Q4 MeetUp - Embedded Systems / Hybrid Clouds, Containerized Control Plane......
-  location: Montréal, QC
-  speaker: Montréal OpenStack
-  start: 2017-12-13 14:30 UTC
-  end: 2017-12-13 15:30 UTC
-  description: |
-      Montréal, QC, CA
-      Q4 MeetUp - Embedded Systems / Hybrid Clouds, Containerized Control Plane......
-      https://www.meetup.com/Montreal-OpenStack/events/244994688/
-
-- title: Take a tour to real OpenStack clouds
-  location: Athens, GR
-  speaker: Athens OpenStack User Group
-  start: 2017-12-13 08:30 UTC
-  end: 2017-12-13 09:30 UTC
-  description: |
-      Athens, GR
-      Take a tour to real OpenStack clouds
-      https://www.meetup.com/Athens-OpenStack-User-Group/events/245493010/
-
-- title: Services as a Platform Making DevOps Real at Scale
-  location: Sunnyvale, CA
-  speaker: SF Bay Area OpenStack
-  start: 2017-12-13 18:30 UTC
-  end: 2017-12-13 19:30 UTC
-  description: |
-      Sunnyvale, CA, US
-      Services as a Platform Making DevOps Real at Scale
-      https://www.meetup.com/openstack/events/244889782/
-
-- title: Welcome to OpenStack Forum! 14/12, 1400 to 1700.
-  location: Stockholm, SE
-  speaker: OpenStack User Group Sweden
-  start: 2017-12-14 05:00 UTC
-  end: 2017-12-14 06:00 UTC
-  description: |
-      Stockholm, SE
-      Welcome to OpenStack Forum! 14/12, 1400 to 1700.
-      https://www.meetup.com/OpenStack-User-Group-Sweden/events/245130622/
-
-- title: Q4 MeetUp - Holiday Gathering
-  location: Toronto, ON
-  speaker: OpenStack Toronto
-  start: 2017-12-14 14:30 UTC
-  end: 2017-12-14 15:30 UTC
-  description: |
-      Toronto, ON, CA
-      Q4 MeetUp - Holiday Gathering
-      https://www.meetup.com/OpenStackTO/events/245559034/
-
-- title: Boston OpenStack Meetup - Container Management
-  location: Boston, MA
-  speaker: Openstack Boston
-  start: 2017-12-14 15:15 UTC
-  end: 2017-12-14 16:15 UTC
-  description: |
-      Boston, MA, US
-      Boston OpenStack Meetup - Container Management
-      https://www.meetup.com/Openstack-Boston/events/244455453/
-
 - title: Construcción de artefactos Packer / Dockerfiles / Openstack Heat / Veewee
   location: México City, MX
   speaker: Infraestructura como código
@@ -153,3 +33,13 @@ talks:
       Budapest, HU
       OpenStack 2017 December - XMas edition
       https://www.meetup.com/OpenStack-Hungary-Meetup-Group/events/245435064/
+
+- title: OpenStack Summit Sydney recap and general meet.
+  location: Perth, AU
+  speaker: Perth OpenStack Meetup
+  start: 2017-12-20 01:30 UTC
+  end: 2017-12-20 02:30 UTC
+  description: |
+      Perth, AU
+      OpenStack Summit Sydney recap and general meet.
+      https://www.meetup.com/Perth-OpenStack-Meetup/events/245464420/
