@@ -1,0 +1,45 @@
+name: RDO Meetups
+type: series
+tags: RDO
+
+talks:
+
+- title: Construcción de artefactos Packer / Dockerfiles / Openstack Heat / Veewee
+  location: México City, MX
+  speaker: Infraestructura como código
+  start: 2018-01-06 14:00 UTC
+  end: 2018-01-06 15:00 UTC
+  description: |
+      México City, MX
+      Construcción de artefactos Packer / Dockerfiles / Openstack Heat / Veewee
+      https://www.meetup.com/Infraestructura-como-codigo/events/245135642/
+
+- title: Monthly meeting for OpenStack Utah
+  location: Lehi, UT
+  speaker: OpenStack Utah
+  start: 2018-01-09 17:30 UTC
+  end: 2018-01-09 18:30 UTC
+  description: |
+      Lehi, UT, US
+      Monthly meeting for OpenStack Utah
+      https://www.meetup.com/openstack-utah/events/245988937/
+
+- title: 14. Meetup Ankara Yeni Başlayanlar için OpenStack
+  location: Istanbul, TR
+  speaker: Turkey OpenStack Meetup
+  start: 2018-01-17 09:00 UTC
+  end: 2018-01-17 10:00 UTC
+  description: |
+      Istanbul, TR
+      14. Meetup Ankara Yeni Başlayanlar için OpenStack
+      https://www.meetup.com/Turkey-OpenStack-Meetup/events/246234712/
+
+- title: OpenStack Meetup Storage Performance -The AWS Way for QoS with OpenStack & Ceph
+  location: Boston, MA
+  speaker: Openstack Boston
+  start: 2018-01-18 15:30 UTC
+  end: 2018-01-18 16:30 UTC
+  description: |
+      Boston, MA, US
+      OpenStack Meetup Storage Performance -The AWS Way for QoS with OpenStack & Ceph
+      https://www.meetup.com/Openstack-Boston/events/245729364/
