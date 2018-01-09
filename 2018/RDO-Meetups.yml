@@ -7,22 +7,12 @@ talks:
 - title: Construcción de artefactos Packer / Dockerfiles / Openstack Heat / Veewee
   location: México City, MX
   speaker: Infraestructura como código
-  start: 2018-01-06 14:00 UTC
-  end: 2018-01-06 15:00 UTC
+  start: 2018-01-13 14:00 UTC
+  end: 2018-01-13 15:00 UTC
   description: |
       México City, MX
       Construcción de artefactos Packer / Dockerfiles / Openstack Heat / Veewee
-      https://www.meetup.com/Infraestructura-como-codigo/events/245135642/
-
-- title: Monthly meeting for OpenStack Utah
-  location: Lehi, UT
-  speaker: OpenStack Utah
-  start: 2018-01-09 17:30 UTC
-  end: 2018-01-09 18:30 UTC
-  description: |
-      Lehi, UT, US
-      Monthly meeting for OpenStack Utah
-      https://www.meetup.com/openstack-utah/events/245988937/
+      https://www.meetup.com/Infraestructura-como-codigo/events/246612800/
 
 - title: 14. Meetup Ankara Yeni Başlayanlar için OpenStack
   location: Istanbul, TR
@@ -43,3 +33,23 @@ talks:
       Boston, MA, US
       OpenStack Meetup Storage Performance -The AWS Way for QoS with OpenStack & Ceph
       https://www.meetup.com/Openstack-Boston/events/245729364/
+
+- title: January OpenStack Meetup 2018
+  location: Bangalore, IN
+  speaker: Indian OpenStack User Group
+  start: 2018-01-19 21:00 UTC
+  end: 2018-01-19 22:00 UTC
+  description: |
+      Bangalore, IN
+      January OpenStack Meetup 2018
+      https://www.meetup.com/Indian-OpenStack-User-Group/events/246476400/
+
+- title: OpenStack Meetup
+  location: Prague, CZ
+  speaker: OpenStack Czech User Group Meetup
+  start: 2018-01-23 09:00 UTC
+  end: 2018-01-23 10:00 UTC
+  description: |
+      Prague, CZ
+      OpenStack Meetup
+      https://www.meetup.com/OpenStack-Czech-User-Group-Meetup/events/245464177/
