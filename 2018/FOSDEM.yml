@@ -248,8 +248,8 @@ talks:
 - title: 'Generic graphics tablets in Linux: hardware peculiarities, software challenges,
     and how to make them work'
   speaker: Nikolai Kondrashov
-  start: 2018-02-03 14:45 CET
-  end: 2018-02-03 15:35 CET
+  start: 2018-02-03 14:50 CET
+  end: 2018-02-03 15:40 CET
   room: K.4.401
   track: Graphics
   description: |
@@ -279,13 +279,27 @@ talks:
     disposal that can help you and your project be recognized for the
     awesome you know it to be: the media.
 
-- title: Community DevRoom lunch time
+- title: Community karoke
   speaker: Laura Czajkowski, Leslie Hawthorn
   start: 2018-02-03 12:50 CET
   end: 2018-02-03 13:25 CET
   room: K.4.601
   track: Community devroom
-  description: In which everyone has time to go get food.
+  description: |
+    We'll do community karaoke using not much but a laptop and the mic in
+    the room. If you have a song you want to karoke, tell us where you can
+    find the music online and come prepared to sing.
+
+    Those who do not wish to sing or listen are welcome to use this time to
+    go have lunch.
+
+- title: Community DevRoom concluding remarks
+  speaker: Laura Czajkowski, Leslie Hawthorn
+  start: 2018-02-03 18:55 CET
+  end: 2018-02-03 19:00 CET
+  room: K.4.601
+  track: Community devroom
+  description: In which Leslie and Laura provide the concluding remarks for the day.
 
 - title: Convergence of your virtualization and container infrastructures with kubevirt
   speaker: Fabian Deutsch
@@ -669,7 +683,7 @@ talks:
     decrease Class Metadata costs.
 
 - title: 'Hairy security: the many threats to a Java web app'
-  speaker: Romain Pelisse
+  speaker: Romain Pelisse, Damien Plard
   start: 2018-02-03 16:50 CET
   end: 2018-02-03 17:15 CET
   room: UD2.208 / Decroly
@@ -850,7 +864,7 @@ talks:
 - title: Fedora modularity ii - the rise, the fall, and the happy future
   speaker: Adam Samalik
   start: 2018-02-04 15:30 CET
-  end: 2018-02-04 15:55 CET
+  end: 2018-02-04 16:25 CET
   room: K.3.201
   track: Distributions
   description: |
