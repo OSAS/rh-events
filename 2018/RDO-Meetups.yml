@@ -4,52 +4,62 @@ tags: RDO
 
 talks:
 
-- title: Construcción de artefactos Packer / Dockerfiles / Openstack Heat / Veewee
+- title: January MeetUp --- OpenStack at Oracle.  A pitch free story
+  location: Toronto, ON
+  speaker: OpenStack Toronto
+  start: 2018-01-29 14:00 UTC
+  end: 2018-01-29 15:00 UTC
+  description: |
+      Toronto, ON, CA
+      January MeetUp --- OpenStack at Oracle.  A pitch free story
+      https://www.meetup.com/OpenStackTO/events/246845436/
+
+- title: Burnin' Down The Cloud Lessons Learned at TWC
+  location: Fort Collins, CO
+  speaker: Colorado OpenStack
+  start: 2018-01-30 17:00 UTC
+  end: 2018-01-30 18:00 UTC
+  description: |
+      Fort Collins, CO, US
+      Burnin' Down The Cloud Lessons Learned at TWC
+      https://www.meetup.com/OpenStack-Colorado/events/246871876/
+
+- title: OpenStack Wrocław Meetup #8 - mini kurs
+  location: Wroclaw, PL
+  speaker: Wroclaw OpenStack Meetup
+  start: 2018-01-31 09:00 UTC
+  end: 2018-01-31 10:00 UTC
+  description: |
+      Wroclaw, PL
+      OpenStack Wrocław Meetup #8 - mini kurs
+      https://www.meetup.com/Wroclaw-OpenStack-Meetup/events/246899477/
+
+- title: Testing Driving Public OpenStacks
+  location: San Diego, CA
+  speaker: OpenStack San Diego
+  start: 2018-02-01 17:30 UTC
+  end: 2018-02-01 18:30 UTC
+  description: |
+      San Diego, CA, US
+      Testing Driving Public OpenStacks
+      https://www.meetup.com/OpenStackSanDiego/events/247200083/
+
+- title: Achieving NFV via Heat,   presenter - Charles Derrick
+  location: Plano, TX
+  speaker: OpenStack DFW
+  start: 2018-02-07 16:00 UTC
+  end: 2018-02-07 17:00 UTC
+  description: |
+      Plano, TX, US
+      Achieving NFV via Heat,   presenter - Charles Derrick
+      https://www.meetup.com/OpenStack-DFW/events/245760185/
+
+- title: Duelo de titanes en almacenamiento definido por software, Ceph v/s ScaleIO
   location: México City, MX
-  speaker: Infraestructura como código
-  start: 2018-01-13 14:00 UTC
-  end: 2018-01-13 15:00 UTC
+  speaker: OpenstackMexicoCity
+  start: 2018-02-08 17:00 UTC
+  end: 2018-02-08 18:00 UTC
   description: |
       México City, MX
-      Construcción de artefactos Packer / Dockerfiles / Openstack Heat / Veewee
-      https://www.meetup.com/Infraestructura-como-codigo/events/246612800/
-
-- title: 14. Meetup Ankara Yeni Başlayanlar için OpenStack
-  location: Istanbul, TR
-  speaker: Turkey OpenStack Meetup
-  start: 2018-01-17 09:00 UTC
-  end: 2018-01-17 10:00 UTC
-  description: |
-      Istanbul, TR
-      14. Meetup Ankara Yeni Başlayanlar için OpenStack
-      https://www.meetup.com/Turkey-OpenStack-Meetup/events/246234712/
-
-- title: OpenStack Meetup Storage Performance -The AWS Way for QoS with OpenStack & Ceph
-  location: Boston, MA
-  speaker: Openstack Boston
-  start: 2018-01-18 15:30 UTC
-  end: 2018-01-18 16:30 UTC
-  description: |
-      Boston, MA, US
-      OpenStack Meetup Storage Performance -The AWS Way for QoS with OpenStack & Ceph
-      https://www.meetup.com/Openstack-Boston/events/245729364/
-
-- title: January OpenStack Meetup 2018
-  location: Bangalore, IN
-  speaker: Indian OpenStack User Group
-  start: 2018-01-19 21:00 UTC
-  end: 2018-01-19 22:00 UTC
-  description: |
-      Bangalore, IN
-      January OpenStack Meetup 2018
-      https://www.meetup.com/Indian-OpenStack-User-Group/events/246476400/
-
-- title: OpenStack Meetup
-  location: Prague, CZ
-  speaker: OpenStack Czech User Group Meetup
-  start: 2018-01-23 09:00 UTC
-  end: 2018-01-23 10:00 UTC
-  description: |
-      Prague, CZ
-      OpenStack Meetup
-      https://www.meetup.com/OpenStack-Czech-User-Group-Meetup/events/245464177/
+      Duelo de titanes en almacenamiento definido por software, Ceph v/s ScaleIO
+      https://www.meetup.com/OpenstackMexicoCity/events/247065462/
