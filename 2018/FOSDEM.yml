@@ -48,7 +48,10 @@ talks:
     favorite programming language as the first language to learn
     programming.
 
-- title: 'Deploying OpenStack in the OPNFV community: cross-community CI'
+- title: 'Integrating cloud and container projects in the OPNFV community: cross-community
+    ci (in this talk we will explain about the OPNFV community, and how it interacts
+    with other communities, such as kubernetes or OpenStack, to offer a platform for
+    cross-project ci.)'
   speaker: Fatih Degirmenci, Yolanda Robla Mota
   start: 2018-02-03 13:30 CET
   end: 2018-02-03 14:00 CET
@@ -377,7 +380,7 @@ talks:
     looks like to a user, and (in brief) how it works under the hood.
 
 - title: Distributed file storage in multi-tenant clouds using Cephfs
-  speaker: Tom Barron, Patrick Donnelly
+  speaker: John Spray, Christian Schwede
   start: 2018-02-03 15:45 CET
   end: 2018-02-03 16:30 CET
   room: UB2.252A / Lameere
@@ -802,6 +805,17 @@ talks:
     access, making it ideal for use with web applications. This talk will
     also provide a demo usage of Swift.
 
+- title: 'Gluster-4.0 and gd2: learn what''s in Gluster''s future'
+  speaker: Kaushal M
+  start: 2018-02-04 09:45 CET
+  end: 2018-02-04 10:25 CET
+  room: H.2213
+  track: Software Defined Storage
+  description: |
+    The new Gluster-4.0 release with GlusterD-2.0 makes Gluster easier to
+    scale, manage, integrate and develop for. Learn how this benefits users
+    and developers.
+
 - title: 'Developing applications with swift as storage system: learn about the API
     features to power up your application'
   speaker: Christian Schwede
@@ -894,7 +908,8 @@ talks:
     designers, especially open source designers, navigate and negotiate the
     diversity in cultures and expectations.
 
-- title: 'Sitl bringup with the iio framework: bootstrapping a x86 based drone platform'
+- title: 'Cancelled sitl bringup with the iio framework: bootstrapping a x86 based
+    drone platform'
   speaker: Bandan Das
   start: 2018-02-04 12:00 CET
   end: 2018-02-04 12:30 CET
