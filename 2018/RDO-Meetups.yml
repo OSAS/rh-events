@@ -4,45 +4,15 @@ tags: RDO
 
 talks:
 
-- title: January MeetUp --- OpenStack at Oracle.  A pitch free story
-  location: Toronto, ON
-  speaker: OpenStack Toronto
-  start: 2018-01-29 14:00 UTC
-  end: 2018-01-29 15:00 UTC
+- title: OpenStack Developer Coffee and Code
+  location: Saint Paul, MN
+  speaker: Minnesota | OpenStack (MnOS)
+  start: 2018-02-07 07:00 UTC
+  end: 2018-02-07 08:00 UTC
   description: |
-      Toronto, ON, CA
-      January MeetUp --- OpenStack at Oracle.  A pitch free story
-      https://www.meetup.com/OpenStackTO/events/246845436/
-
-- title: Burnin' Down The Cloud Lessons Learned at TWC
-  location: Fort Collins, CO
-  speaker: Colorado OpenStack
-  start: 2018-01-30 17:00 UTC
-  end: 2018-01-30 18:00 UTC
-  description: |
-      Fort Collins, CO, US
-      Burnin' Down The Cloud Lessons Learned at TWC
-      https://www.meetup.com/OpenStack-Colorado/events/246871876/
-
-- title: OpenStack Wrocław Meetup #8 - mini kurs
-  location: Wroclaw, PL
-  speaker: Wroclaw OpenStack Meetup
-  start: 2018-01-31 09:00 UTC
-  end: 2018-01-31 10:00 UTC
-  description: |
-      Wroclaw, PL
-      OpenStack Wrocław Meetup #8 - mini kurs
-      https://www.meetup.com/Wroclaw-OpenStack-Meetup/events/246899477/
-
-- title: Testing Driving Public OpenStacks
-  location: San Diego, CA
-  speaker: OpenStack San Diego
-  start: 2018-02-01 17:30 UTC
-  end: 2018-02-01 18:30 UTC
-  description: |
-      San Diego, CA, US
-      Testing Driving Public OpenStacks
-      https://www.meetup.com/OpenStackSanDiego/events/247200083/
+      Saint Paul, MN, US
+      OpenStack Developer Coffee and Code
+      https://www.meetup.com/MnOpenStack/events/247163523/
 
 - title: Achieving NFV via Heat,   presenter - Charles Derrick
   location: Plano, TX
@@ -54,6 +24,16 @@ talks:
       Achieving NFV via Heat,   presenter - Charles Derrick
       https://www.meetup.com/OpenStack-DFW/events/245760185/
 
+- title: Monthly SFOUG Meeting
+  location: Fort Lauderdale, FL
+  speaker: South Florida OpenStack Users Group
+  start: 2018-02-08 14:30 UTC
+  end: 2018-02-08 15:30 UTC
+  description: |
+      Fort Lauderdale, FL, US
+      Monthly SFOUG Meeting
+      https://www.meetup.com/South-Florida-OpenStack-Users-Group/events/247169414/
+
 - title: Duelo de titanes en almacenamiento definido por software, Ceph v/s ScaleIO
   location: México City, MX
   speaker: OpenstackMexicoCity
@@ -63,3 +43,53 @@ talks:
       México City, MX
       Duelo de titanes en almacenamiento definido por software, Ceph v/s ScaleIO
       https://www.meetup.com/OpenstackMexicoCity/events/247065462/
+
+- title: OpenStack + Meltdown + Spectre
+  location: Seattle, WA
+  speaker: OpenStack Seattle
+  start: 2018-02-09 12:00 UTC
+  end: 2018-02-09 13:00 UTC
+  description: |
+      Seattle, WA, US
+      OpenStack + Meltdown + Spectre
+      https://www.meetup.com/OpenStack-Seattle/events/247291230/
+
+- title: Implementing and maintaining Micro-Segmentation in your OpenStack environment
+  location: Austin, TX
+  speaker: OpenStack Austin Texas
+  start: 2018-02-13 16:00 UTC
+  end: 2018-02-13 17:00 UTC
+  description: |
+      Austin, TX, US
+      Implementing and maintaining Micro-Segmentation in your OpenStack environment
+      https://www.meetup.com/OpenStack-Austin/events/246749849/
+
+- title: OpenStack, au pays des API
+  location: Lille, FR
+  speaker: OVH Meetup
+  start: 2018-02-13 09:00 UTC
+  end: 2018-02-13 10:00 UTC
+  description: |
+      Lille, FR
+      OpenStack, au pays des API
+      https://www.meetup.com/OVH-Meetup/events/247153041/
+
+- title: Monthly meeting for OpenStack Utah
+  location: Lehi, UT
+  speaker: OpenStack Utah
+  start: 2018-02-13 17:30 UTC
+  end: 2018-02-13 18:30 UTC
+  description: |
+      Lehi, UT, US
+      Monthly meeting for OpenStack Utah
+      https://www.meetup.com/openstack-utah/events/246750288/
+
+- title: Boston OpenStack Meetup - Save the date Feb 15
+  location: Boston, MA
+  speaker: Openstack Boston
+  start: 2018-02-15 15:15 UTC
+  end: 2018-02-15 16:15 UTC
+  description: |
+      Boston, MA, US
+      Boston OpenStack Meetup - Save the date Feb 15
+      https://www.meetup.com/Openstack-Boston/events/246749654/
