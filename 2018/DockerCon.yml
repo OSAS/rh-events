@@ -1,0 +1,10 @@
+name: DockerCon
+location: San Francisco, CA
+start: 2018-06-12
+end: 2018-06-15
+tags: atomic
+description: |
+  DockerCon 2018 is a multi-day Docker-centric conference organized by Docker, Inc. The conference will feature topics and content about all aspects of Docker and will be suitable for developers, DevOps, Ops, System administrators and C-level executives.
+
+  Additional details about the conference are available at
+  <https://2018.dockercon.com/>.
