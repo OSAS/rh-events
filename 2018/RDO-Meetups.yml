@@ -4,92 +4,92 @@ tags: RDO
 
 talks:
 
-- title: OpenStack Developer Coffee and Code
-  location: Saint Paul, MN
-  speaker: Minnesota | OpenStack (MnOS)
-  start: 2018-02-07 07:00 UTC
-  end: 2018-02-07 08:00 UTC
+- title: Save the Date - OpenStack L.A. Meetup - February 2018
+  location: Pasadena, CA
+  speaker: OpenStack LA
+  start: 2018-02-22 19:00 UTC
+  end: 2018-02-22 20:00 UTC
   description: |
-      Saint Paul, MN, US
-      OpenStack Developer Coffee and Code
-      https://www.meetup.com/MnOpenStack/events/247163523/
+      Pasadena, CA, US
+      Save the Date - OpenStack L.A. Meetup - February 2018
+      https://www.meetup.com/OpenStack-LA/events/247406855/
 
-- title: Achieving NFV via Heat,   presenter - Charles Derrick
-  location: Plano, TX
-  speaker: OpenStack DFW
-  start: 2018-02-07 16:00 UTC
-  end: 2018-02-07 17:00 UTC
+- title: OpenStack Bangalore Meetup @ Walmart Labs
+  location: Bangalore, IN
+  speaker: Indian OpenStack User Group
+  start: 2018-02-23 21:00 UTC
+  end: 2018-02-23 22:00 UTC
   description: |
-      Plano, TX, US
-      Achieving NFV via Heat,   presenter - Charles Derrick
-      https://www.meetup.com/OpenStack-DFW/events/245760185/
+      Bangalore, IN
+      OpenStack Bangalore Meetup @ Walmart Labs
+      https://www.meetup.com/Indian-OpenStack-User-Group/events/247213796/
+
+- title: Australian OpenStack User Group - Quarterly Brisbane Meetup
+  location: Canberra, AU
+  speaker: Australian OpenStack User Group
+  start: 2018-02-25 23:00 UTC
+  end: 2018-02-26 00:00 UTC
+  description: |
+      Canberra, AU
+      Australian OpenStack User Group - Quarterly Brisbane Meetup
+      https://www.meetup.com/Australian-OpenStack-User-Group/events/245476905/
+
+- title: Open Infrastructure? Our panel has the skinny!
+  location: San Diego, CA
+  speaker: OpenStack San Diego
+  start: 2018-02-26 18:00 UTC
+  end: 2018-02-26 19:00 UTC
+  description: |
+      San Diego, CA, US
+      Open Infrastructure? Our panel has the skinny!
+      https://www.meetup.com/OpenStackSanDiego/events/246946385/
+
+- title: Proper Micro-segmentation in OpenStack
+  location: Fort Collins, CO
+  speaker: Colorado OpenStack
+  start: 2018-02-27 17:00 UTC
+  end: 2018-02-27 18:00 UTC
+  description: |
+      Fort Collins, CO, US
+      Proper Micro-segmentation in OpenStack
+      https://www.meetup.com/OpenStack-Colorado/events/246872130/
+
+- title: Open Infrastructure? We've got the Skinny...
+  location: Chicago, IL
+  speaker: Chicago OpenStack Group
+  start: 2018-02-27 16:00 UTC
+  end: 2018-02-27 17:00 UTC
+  description: |
+      Chicago, IL, US
+      Open Infrastructure? We've got the Skinny...
+      https://www.meetup.com/Chicago-OpenStack/events/246535169/
+
+- title: Open Infrastructure? We've got the Skinny...
+  location: New York, NY
+  speaker: OpenStack New York
+  start: 2018-02-28 15:00 UTC
+  end: 2018-02-28 16:00 UTC
+  description: |
+      New York, NY, US
+      Open Infrastructure? We've got the Skinny...
+      https://www.meetup.com/OpenStack-New-York-Meetup/events/246946548/
 
 - title: Monthly SFOUG Meeting
   location: Fort Lauderdale, FL
   speaker: South Florida OpenStack Users Group
-  start: 2018-02-08 14:30 UTC
-  end: 2018-02-08 15:30 UTC
+  start: 2018-03-01 14:15 UTC
+  end: 2018-03-01 15:15 UTC
   description: |
       Fort Lauderdale, FL, US
       Monthly SFOUG Meeting
-      https://www.meetup.com/South-Florida-OpenStack-Users-Group/events/247169414/
+      https://www.meetup.com/South-Florida-OpenStack-Users-Group/events/247169486/
 
-- title: Duelo de titanes en almacenamiento definido por software, Ceph v/s ScaleIO
-  location: México City, MX
-  speaker: OpenstackMexicoCity
-  start: 2018-02-08 17:00 UTC
-  end: 2018-02-08 18:00 UTC
+- title: OpenStack Hamburg Meetup #10 @ScaleUp
+  location: Hamburg, DE
+  speaker: OpenStack Hamburg
+  start: 2018-03-01 09:00 UTC
+  end: 2018-03-01 10:00 UTC
   description: |
-      México City, MX
-      Duelo de titanes en almacenamiento definido por software, Ceph v/s ScaleIO
-      https://www.meetup.com/OpenstackMexicoCity/events/247065462/
-
-- title: OpenStack + Meltdown + Spectre
-  location: Seattle, WA
-  speaker: OpenStack Seattle
-  start: 2018-02-09 12:00 UTC
-  end: 2018-02-09 13:00 UTC
-  description: |
-      Seattle, WA, US
-      OpenStack + Meltdown + Spectre
-      https://www.meetup.com/OpenStack-Seattle/events/247291230/
-
-- title: Implementing and maintaining Micro-Segmentation in your OpenStack environment
-  location: Austin, TX
-  speaker: OpenStack Austin Texas
-  start: 2018-02-13 16:00 UTC
-  end: 2018-02-13 17:00 UTC
-  description: |
-      Austin, TX, US
-      Implementing and maintaining Micro-Segmentation in your OpenStack environment
-      https://www.meetup.com/OpenStack-Austin/events/246749849/
-
-- title: OpenStack, au pays des API
-  location: Lille, FR
-  speaker: OVH Meetup
-  start: 2018-02-13 09:00 UTC
-  end: 2018-02-13 10:00 UTC
-  description: |
-      Lille, FR
-      OpenStack, au pays des API
-      https://www.meetup.com/OVH-Meetup/events/247153041/
-
-- title: Monthly meeting for OpenStack Utah
-  location: Lehi, UT
-  speaker: OpenStack Utah
-  start: 2018-02-13 17:30 UTC
-  end: 2018-02-13 18:30 UTC
-  description: |
-      Lehi, UT, US
-      Monthly meeting for OpenStack Utah
-      https://www.meetup.com/openstack-utah/events/246750288/
-
-- title: Boston OpenStack Meetup - Save the date Feb 15
-  location: Boston, MA
-  speaker: Openstack Boston
-  start: 2018-02-15 15:15 UTC
-  end: 2018-02-15 16:15 UTC
-  description: |
-      Boston, MA, US
-      Boston OpenStack Meetup - Save the date Feb 15
-      https://www.meetup.com/Openstack-Boston/events/246749654/
+      Hamburg, DE
+      OpenStack Hamburg Meetup #10 @ScaleUp
+      https://www.meetup.com/Openstack-Hamburg/events/247487566/
