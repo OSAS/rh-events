@@ -4,76 +4,6 @@ tags: RDO
 
 talks:
 
-- title: OpenStack Developer Coffee and Code 
-  location: Saint Paul, MN
-  speaker: Minnesota | OpenStack (MnOS)
-  start: 2018-03-05 16:00 UTC
-  end: 2018-03-05 17:00 UTC
-  description: |
-      Saint Paul, MN, US
-      OpenStack Developer Coffee and Code
-      https://www.meetup.com/MnOpenStack/events/248228625/
-
-- title: Operating Kubernetes at Scale on OpenStack
-  location: Sunnyvale, CA
-  speaker: SF Bay Area OpenStack
-  start: 2018-03-07 03:30 UTC
-  end: 2018-03-07 04:30 UTC
-  description: |
-      Sunnyvale, CA, US
-      Operating Kubernetes at Scale on OpenStack
-      https://www.meetup.com/openstack/events/247754592/
-
-- title: OpenStack Service Function Chaining - presenter Charles Derrick
-  location: Plano, TX
-  speaker: OpenStack DFW
-  start: 2018-03-08 01:00 UTC
-  end: 2018-03-08 02:00 UTC
-  description: |
-      Plano, TX, US
-      OpenStack Service Function Chaining - presenter Charles Derrick
-      https://www.meetup.com/OpenStack-DFW/events/247782113/
-
-- title: Monthly SFOUG Meeting
-  location: Fort Lauderdale, FL
-  speaker: South Florida OpenStack Users Group
-  start: 2018-03-08 23:15 UTC
-  end: 2018-03-09 00:15 UTC
-  description: |
-      Fort Lauderdale, FL, US
-      Monthly SFOUG Meeting
-      https://www.meetup.com/South-Florida-OpenStack-Users-Group/events/247169486/
-
-- title: Implementing and maintaining Micro-Segmentation in your OpenStack environment
-  location: Austin, TX
-  speaker: OpenStack Austin Texas
-  start: 2018-03-09 01:00 UTC
-  end: 2018-03-09 02:00 UTC
-  description: |
-      Austin, TX, US
-      Implementing and maintaining Micro-Segmentation in your OpenStack environment
-      https://www.meetup.com/OpenStack-Austin/events/246749849/
-
-- title: SysEleven OpenStack Meetup
-  location: Berlin, DE
-  speaker: SysEleven Tech Meetups
-  start: 2018-03-08 18:30 UTC
-  end: 2018-03-08 19:30 UTC
-  description: |
-      Berlin, DE
-      SysEleven OpenStack Meetup
-      https://www.meetup.com/SysElevenTechmeetups/events/247870909/
-
-- title: London OpenStack March Meetup
-  location: London, 17
-  speaker: London OpenStack Meetup
-  start: 2018-03-12 20:00 UTC
-  end: 2018-03-12 21:00 UTC
-  description: |
-      London, 17, GB
-      London OpenStack March Meetup
-      https://www.meetup.com/Openstack-London/events/247958746/
-
 - title: Meet the Experts and Innovators of Red Hat OpenStack
   location: Orlando, FL
   speaker: OpenStack Central Florida
@@ -94,12 +24,53 @@ talks:
       OpenStack Barcelona Meetup block your agenda
       https://www.meetup.com/OpenStack-Barcelona/events/248091344/
 
-- title: Implementing and maintaining Micro-Segmentation in your OpenStack environment
-  location: Boston, MA
-  speaker: Openstack Boston
-  start: 2018-03-15 23:00 UTC
-  end: 2018-03-16 00:00 UTC
+- title: OpenStack et Software Defined Network, retours d'experiences
+  location: Rennes, FR
+  speaker: OpenStackFR Rennes
+  start: 2018-03-19 18:30 UTC
+  end: 2018-03-19 19:30 UTC
   description: |
-      Boston, MA, US
-      Implementing and maintaining Micro-Segmentation in your OpenStack environment
-      https://www.meetup.com/Openstack-Boston/events/247989692/
+      Rennes, FR
+      OpenStack et Software Defined Network, retours d'experiences
+      https://www.meetup.com/OpenStack-Rennes/events/247097412/
+
+- title: March MeetUp - What's new in Queens and our first WORKSHOP!
+  location: Toronto, ON
+  speaker: OpenStack Toronto
+  start: 2018-03-21 22:30 UTC
+  end: 2018-03-21 23:30 UTC
+  description: |
+      Toronto, ON, CA
+      March MeetUp - What's new in Queens and our first WORKSHOP!
+      https://www.meetup.com/OpenStackTO/events/248314294/
+
+- title: Welcome to OpenStack Forum! 22/3, 1400 to 1700.
+  location: Stockholm, SE
+  speaker: OpenStack User Group Sweden
+  start: 2018-03-22 14:00 UTC
+  end: 2018-03-22 15:00 UTC
+  description: |
+      Stockholm, SE
+      Welcome to OpenStack Forum! 22/3, 1400 to 1700.
+      https://www.meetup.com/OpenStack-User-Group-Sweden/events/246034621/
+
+- title: OpenStack Meetup Berlin #12 @ScaleUp 
+  location: Berlin, DE
+  speaker: OpenStack User Group Berlin
+  start: 2018-03-22 18:00 UTC
+  end: 2018-03-22 19:00 UTC
+  description: |
+      Berlin, DE
+      OpenStack Meetup Berlin #12 @ScaleUp 
+      https://www.meetup.com/OpenStack-User-Group-Berlin/events/248256986/
+
+- title: 15. Meetup Ankara Containers, Kubernetes and OpenStack
+  location: Istanbul, TR
+  speaker: Turkey OpenStack Meetup
+  start: 2018-03-22 18:00 UTC
+  end: 2018-03-22 19:00 UTC
+  description: |
+      Istanbul, TR
+      15. Meetup Ankara Containers, Kubernetes and OpenStack
+      https://www.meetup.com/Turkey-OpenStack-Meetup/events/247800122/
+
