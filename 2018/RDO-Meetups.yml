@@ -4,73 +4,103 @@ tags: RDO
 
 talks:
 
-- title: Meet the Experts and Innovators of Red Hat OpenStack
-  location: Orlando, FL
-  speaker: OpenStack Central Florida
-  start: 2018-03-14 23:00 UTC
-  end: 2018-03-15 00:00 UTC
+- title: #workshop  Openstack Redhat
+  location: México City, MX
+  speaker: OpenstackMexicoCity
+  start: 2018-04-07 16:00 UTC
+  end: 2018-04-07 17:00 UTC
   description: |
-      Orlando, FL, US
-      Meet the Experts and Innovators of Red Hat OpenStack
-      https://www.meetup.com/Orlando-Central-Florida-OpenStack-Meetup/events/248131700/
+      México City, MX
+      #workshop  Openstack Redhat
+      https://www.meetup.com/OpenstackMexicoCity/events/249372549/
 
-- title: OpenStack Barcelona Meetup block your agenda
-  location: Barcelona, ES
-  speaker: OpenStack Barcelona
-  start: 2018-03-14 19:00 UTC
-  end: 2018-03-14 20:00 UTC
+- title: OpenStack Meetup Denmark #4 - New release and Storage
+  location: Copenhagen, DK
+  speaker: OpenStack Meetup Denmark
+  start: 2018-04-09 13:00 UTC
+  end: 2018-04-09 14:00 UTC
   description: |
-      Barcelona, ES
-      OpenStack Barcelona Meetup block your agenda
-      https://www.meetup.com/OpenStack-Barcelona/events/248091344/
+      Copenhagen, DK
+      OpenStack Meetup Denmark #4 - New release and Storage
+      https://www.meetup.com/openstackdk/events/248799839/
 
-- title: OpenStack et Software Defined Network, retours d'experiences
-  location: Rennes, FR
-  speaker: OpenStackFR Rennes
-  start: 2018-03-19 18:30 UTC
-  end: 2018-03-19 19:30 UTC
+- title: Open Source Mano (OSM) Tutorial
+  location: Fort Collins, CO
+  speaker: Colorado OpenStack
+  start: 2018-04-09 21:00 UTC
+  end: 2018-04-09 22:00 UTC
   description: |
-      Rennes, FR
-      OpenStack et Software Defined Network, retours d'experiences
-      https://www.meetup.com/OpenStack-Rennes/events/247097412/
+      Fort Collins, CO, US
+      Open Source Mano (OSM) Tutorial
+      https://www.meetup.com/OpenStack-Colorado/events/248905476/
 
-- title: March MeetUp - What's new in Queens and our first WORKSHOP!
-  location: Toronto, ON
-  speaker: OpenStack Toronto
-  start: 2018-03-21 22:30 UTC
-  end: 2018-03-21 23:30 UTC
+- title: Developing a devops friendly Kubernetes integration for ArangoDB
+  location: Köln, DE
+  speaker: OpenStack Meetup Cologne
+  start: 2018-04-12 18:30 UTC
+  end: 2018-04-12 19:30 UTC
   description: |
-      Toronto, ON, CA
-      March MeetUp - What's new in Queens and our first WORKSHOP!
-      https://www.meetup.com/OpenStackTO/events/248314294/
+      Köln, DE
+      Developing a devops friendly Kubernetes integration for ArangoDB
+      https://www.meetup.com/OpenStack-Cologne/events/248888440/
 
-- title: Welcome to OpenStack Forum! 22/3, 1400 to 1700.
-  location: Stockholm, SE
-  speaker: OpenStack User Group Sweden
-  start: 2018-03-22 14:00 UTC
-  end: 2018-03-22 15:00 UTC
+- title: OpenInfrastructure - Three ARMed OpenStack
+  location: Chicago, IL
+  speaker: Chicago OpenStack Group
+  start: 2018-04-18 00:00 UTC
+  end: 2018-04-18 01:00 UTC
   description: |
-      Stockholm, SE
-      Welcome to OpenStack Forum! 22/3, 1400 to 1700.
-      https://www.meetup.com/OpenStack-User-Group-Sweden/events/246034621/
+      Chicago, IL, US
+      OpenInfrastructure - Three ARMed OpenStack
+      https://www.meetup.com/Chicago-OpenStack/events/248638547/
 
-- title: OpenStack Meetup Berlin #12 @ScaleUp 
-  location: Berlin, DE
-  speaker: OpenStack User Group Berlin
-  start: 2018-03-22 18:00 UTC
-  end: 2018-03-22 19:00 UTC
+- title: OpenStack 2018 April
+  location: Budapest, HU
+  speaker: OpenStack Hungary Meetup Group
+  start: 2018-04-17 18:00 UTC
+  end: 2018-04-17 19:00 UTC
   description: |
-      Berlin, DE
-      OpenStack Meetup Berlin #12 @ScaleUp 
-      https://www.meetup.com/OpenStack-User-Group-Berlin/events/248256986/
+      Budapest, HU
+      OpenStack 2018 April
+      https://www.meetup.com/OpenStack-Hungary-Meetup-Group/events/248892392/
 
-- title: 15. Meetup Ankara Containers, Kubernetes and OpenStack
-  location: Istanbul, TR
-  speaker: Turkey OpenStack Meetup
-  start: 2018-03-22 18:00 UTC
-  end: 2018-03-22 19:00 UTC
+- title: OpenInfrastructure - Three ARMed OpenStack
+  location: New York, NY
+  speaker: OpenStack New York
+  start: 2018-04-18 23:00 UTC
+  end: 2018-04-19 00:00 UTC
   description: |
-      Istanbul, TR
-      15. Meetup Ankara Containers, Kubernetes and OpenStack
-      https://www.meetup.com/Turkey-OpenStack-Meetup/events/247800122/
+      New York, NY, US
+      OpenInfrastructure - Three ARMed OpenStack
+      https://www.meetup.com/OpenStack-New-York-Meetup/events/248638611/
+
+- title: OpenInfrastructure - Three ARMed OpenStack
+  location: Reston, VA
+  speaker: OpenStack Northern Virginia
+  start: 2018-04-19 23:00 UTC
+  end: 2018-04-20 00:00 UTC
+  description: |
+      Reston, VA, US
+      OpenInfrastructure - Three ARMed OpenStack
+      https://www.meetup.com/OpenStack-Nova/events/248638665/
+
+- title: Boston OpenStack Meetup - Double header - April 19
+  location: Boston, MA
+  speaker: Openstack Boston
+  start: 2018-04-20 00:00 UTC
+  end: 2018-04-20 01:00 UTC
+  description: |
+      Boston, MA, US
+      Boston OpenStack Meetup - Double header - April 19
+      https://www.meetup.com/Openstack-Boston/events/249035622/
+
+- title: OpenStack Wrocław Meetup #9 - mini kurs
+  location: Wroclaw, PL
+  speaker: Wroclaw OpenStack Meetup
+  start: 2018-04-19 18:00 UTC
+  end: 2018-04-19 19:00 UTC
+  description: |
+      Wroclaw, PL
+      OpenStack Wrocław Meetup #9 - mini kurs
+      https://www.meetup.com/Wroclaw-OpenStack-Meetup/events/249491461/
 
