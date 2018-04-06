@@ -4,14 +4,14 @@ tags: RDO
 
 talks:
 
-- title: workshop: Openstack Redhat
+- title: workshop Openstack Redhat
   location: México City, MX
   speaker: OpenstackMexicoCity
   start: 2018-04-07 16:00 UTC
   end: 2018-04-07 17:00 UTC
   description: |
       México City, MX
-      workshop: Openstack Redhat
+      workshop Openstack Redhat
       https://www.meetup.com/OpenstackMexicoCity/events/249372549/
 
 - title: OpenStack Meetup Denmark 4 - New release and Storage
