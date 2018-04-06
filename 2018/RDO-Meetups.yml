@@ -4,24 +4,24 @@ tags: RDO
 
 talks:
 
-- title: #workshop  Openstack Redhat
+- title: workshop: Openstack Redhat
   location: México City, MX
   speaker: OpenstackMexicoCity
   start: 2018-04-07 16:00 UTC
   end: 2018-04-07 17:00 UTC
   description: |
       México City, MX
-      #workshop  Openstack Redhat
+      workshop: Openstack Redhat
       https://www.meetup.com/OpenstackMexicoCity/events/249372549/
 
-- title: OpenStack Meetup Denmark #4 - New release and Storage
+- title: OpenStack Meetup Denmark 4 - New release and Storage
   location: Copenhagen, DK
   speaker: OpenStack Meetup Denmark
   start: 2018-04-09 13:00 UTC
   end: 2018-04-09 14:00 UTC
   description: |
       Copenhagen, DK
-      OpenStack Meetup Denmark #4 - New release and Storage
+      OpenStack Meetup Denmark 4 - New release and Storage
       https://www.meetup.com/openstackdk/events/248799839/
 
 - title: Open Source Mano (OSM) Tutorial
@@ -94,13 +94,13 @@ talks:
       Boston OpenStack Meetup - Double header - April 19
       https://www.meetup.com/Openstack-Boston/events/249035622/
 
-- title: OpenStack Wrocław Meetup #9 - mini kurs
+- title: OpenStack Wrocław Meetup 9 - mini kurs
   location: Wroclaw, PL
   speaker: Wroclaw OpenStack Meetup
   start: 2018-04-19 18:00 UTC
   end: 2018-04-19 19:00 UTC
   description: |
       Wroclaw, PL
-      OpenStack Wrocław Meetup #9 - mini kurs
+      OpenStack Wrocław Meetup 9 - mini kurs
       https://www.meetup.com/Wroclaw-OpenStack-Meetup/events/249491461/
 
