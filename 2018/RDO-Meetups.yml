@@ -4,46 +4,6 @@ tags: RDO
 
 talks:
 
-- title: workshop Openstack Redhat
-  location: México City, MX
-  speaker: OpenstackMexicoCity
-  start: 2018-04-07 16:00 UTC
-  end: 2018-04-07 17:00 UTC
-  description: |
-      México City, MX
-      workshop Openstack Redhat
-      https://www.meetup.com/OpenstackMexicoCity/events/249372549/
-
-- title: OpenStack Meetup Denmark 4 - New release and Storage
-  location: Copenhagen, DK
-  speaker: OpenStack Meetup Denmark
-  start: 2018-04-09 13:00 UTC
-  end: 2018-04-09 14:00 UTC
-  description: |
-      Copenhagen, DK
-      OpenStack Meetup Denmark 4 - New release and Storage
-      https://www.meetup.com/openstackdk/events/248799839/
-
-- title: Open Source Mano (OSM) Tutorial
-  location: Fort Collins, CO
-  speaker: Colorado OpenStack
-  start: 2018-04-09 21:00 UTC
-  end: 2018-04-09 22:00 UTC
-  description: |
-      Fort Collins, CO, US
-      Open Source Mano (OSM) Tutorial
-      https://www.meetup.com/OpenStack-Colorado/events/248905476/
-
-- title: Developing a devops friendly Kubernetes integration for ArangoDB
-  location: Köln, DE
-  speaker: OpenStack Meetup Cologne
-  start: 2018-04-12 18:30 UTC
-  end: 2018-04-12 19:30 UTC
-  description: |
-      Köln, DE
-      Developing a devops friendly Kubernetes integration for ArangoDB
-      https://www.meetup.com/OpenStack-Cologne/events/248888440/
-
 - title: OpenInfrastructure - Three ARMed OpenStack
   location: Chicago, IL
   speaker: Chicago OpenStack Group
@@ -72,7 +32,17 @@ talks:
   description: |
       New York, NY, US
       OpenInfrastructure - Three ARMed OpenStack
-      https://www.meetup.com/OpenStack-New-York-Meetup/events/248638611/
+      https://www.meetup.com/OpenStack-New-York/events/248638611/
+
+- title: DC | Content Managed Communications Tools | Mobile Apps (IOS, Android, Windows)
+  location: Saint Paul, MN
+  speaker: Minnesota | OpenStack (MnOS)
+  start: 2018-04-19 01:30 UTC
+  end: 2018-04-19 02:30 UTC
+  description: |
+      Saint Paul, MN, US
+      DC | Content Managed Communications Tools | Mobile Apps (IOS, Android, Windows)
+      https://www.meetup.com/MnOpenStack/events/249710147/
 
 - title: OpenInfrastructure - Three ARMed OpenStack
   location: Reston, VA
@@ -94,13 +64,33 @@ talks:
       Boston OpenStack Meetup - Double header - April 19
       https://www.meetup.com/Openstack-Boston/events/249035622/
 
-- title: OpenStack Wrocław Meetup 9 - mini kurs
+- title: "OpenStack Wrocław Meetup #9 - mini kurs"
   location: Wroclaw, PL
   speaker: Wroclaw OpenStack Meetup
   start: 2018-04-19 18:00 UTC
   end: 2018-04-19 19:00 UTC
   description: |
       Wroclaw, PL
-      OpenStack Wrocław Meetup 9 - mini kurs
+      "OpenStack Wrocław Meetup #9 - mini kurs"
       https://www.meetup.com/Wroclaw-OpenStack-Meetup/events/249491461/
+
+- title: Meetup в Mail.ru
+  location: Moscow, RU
+  speaker: OpenStack Russia Moscow
+  start: 2018-04-20 18:00 UTC
+  end: 2018-04-20 19:00 UTC
+  description: |
+      Moscow, RU
+      Meetup в Mail.ru
+      https://www.meetup.com/OpenStack-Russia/events/249026729/
+
+- title: "Шестой OpenStack Meetup St.Petersburg"
+  location: St. Petersburg, RU
+  speaker: OpenStack Russia St. Petersburg
+  start: 2018-04-24 18:00 UTC
+  end: 2018-04-24 19:00 UTC
+  description: |
+      St. Petersburg, RU
+      "Шестой OpenStack Meetup St.Petersburg"
+      https://www.meetup.com/OpenStack-Russia-St-Petersburg/events/249005137/
 
