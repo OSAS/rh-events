@@ -4,93 +4,63 @@ tags: RDO
 
 talks:
 
-- title: OpenInfrastructure - Three ARMed OpenStack
-  location: Chicago, IL
-  speaker: Chicago OpenStack Group
-  start: 2018-04-18 00:00 UTC
-  end: 2018-04-18 01:00 UTC
-  description: |
-      Chicago, IL, US
-      OpenInfrastructure - Three ARMed OpenStack
-      https://www.meetup.com/Chicago-OpenStack/events/248638547/
-
-- title: OpenStack 2018 April
-  location: Budapest, HU
-  speaker: OpenStack Hungary Meetup Group
-  start: 2018-04-17 18:00 UTC
-  end: 2018-04-17 19:00 UTC
-  description: |
-      Budapest, HU
-      OpenStack 2018 April
-      https://www.meetup.com/OpenStack-Hungary-Meetup-Group/events/248892392/
-
-- title: OpenInfrastructure - Three ARMed OpenStack
-  location: New York, NY
-  speaker: OpenStack New York
-  start: 2018-04-18 23:00 UTC
-  end: 2018-04-19 00:00 UTC
-  description: |
-      New York, NY, US
-      OpenInfrastructure - Three ARMed OpenStack
-      https://www.meetup.com/OpenStack-New-York/events/248638611/
-
-- title: DC | Content Managed Communications Tools | Mobile Apps (IOS, Android, Windows)
-  location: Saint Paul, MN
-  speaker: Minnesota | OpenStack (MnOS)
-  start: 2018-04-19 01:30 UTC
-  end: 2018-04-19 02:30 UTC
-  description: |
-      Saint Paul, MN, US
-      DC | Content Managed Communications Tools | Mobile Apps (IOS, Android, Windows)
-      https://www.meetup.com/MnOpenStack/events/249710147/
-
-- title: OpenInfrastructure - Three ARMed OpenStack
-  location: Reston, VA
-  speaker: OpenStack Northern Virginia
-  start: 2018-04-19 23:00 UTC
-  end: 2018-04-20 00:00 UTC
-  description: |
-      Reston, VA, US
-      OpenInfrastructure - Three ARMed OpenStack
-      https://www.meetup.com/OpenStack-Nova/events/248638665/
-
-- title: Boston OpenStack Meetup - Double header - April 19
-  location: Boston, MA
-  speaker: Openstack Boston
-  start: 2018-04-20 00:00 UTC
-  end: 2018-04-20 01:00 UTC
-  description: |
-      Boston, MA, US
-      Boston OpenStack Meetup - Double header - April 19
-      https://www.meetup.com/Openstack-Boston/events/249035622/
-
-- title: "OpenStack Wrocław Meetup #9 - mini kurs"
-  location: Wroclaw, PL
-  speaker: Wroclaw OpenStack Meetup
-  start: 2018-04-19 18:00 UTC
-  end: 2018-04-19 19:00 UTC
-  description: |
-      Wroclaw, PL
-      "OpenStack Wrocław Meetup #9 - mini kurs"
-      https://www.meetup.com/Wroclaw-OpenStack-Meetup/events/249491461/
-
-- title: Meetup в Mail.ru
-  location: Moscow, RU
-  speaker: OpenStack Russia Moscow
-  start: 2018-04-20 18:00 UTC
-  end: 2018-04-20 19:00 UTC
-  description: |
-      Moscow, RU
-      Meetup в Mail.ru
-      https://www.meetup.com/OpenStack-Russia/events/249026729/
-
 - title: "Шестой OpenStack Meetup St.Petersburg"
   location: St. Petersburg, RU
   speaker: OpenStack Russia St. Petersburg
-  start: 2018-04-24 18:00 UTC
-  end: 2018-04-24 19:00 UTC
+  start: 2018-04-24 18:30 UTC
+  end: 2018-04-24 19:30 UTC
   description: |
       St. Petersburg, RU
       "Шестой OpenStack Meetup St.Petersburg"
       https://www.meetup.com/OpenStack-Russia-St-Petersburg/events/249005137/
+
+- title: Making Your Applications Cloudy
+  location: Tel Aviv-Yafo, IL
+  speaker: OpenStack and Open Networking Israel
+  start: 2018-04-25 17:00 UTC
+  end: 2018-04-25 18:00 UTC
+  description: |
+      Tel Aviv-Yafo, IL
+      Making Your Applications Cloudy
+      https://www.meetup.com/OpenStack-Israel/events/249938310/
+
+- title: "April OpenStack meetup @Bangalore"
+  location: Bangalore, IN
+  speaker: Indian OpenStack User Group
+  start: 2018-04-28 06:00 UTC
+  end: 2018-04-28 07:00 UTC
+  description: |
+      Bangalore, IN
+      "April OpenStack meetup @Bangalore"
+      https://www.meetup.com/Indian-OpenStack-User-Group/events/249891291/
+
+- title: Machine Learning and AI - presenter Chris Reece, Technologist, Award Solutions
+  location: Plano, TX
+  speaker: OpenStack DFW
+  start: 2018-05-03 01:00 UTC
+  end: 2018-05-03 02:00 UTC
+  description: |
+      Plano, TX, US
+      Machine Learning and AI - presenter Chris Reece, Technologist, Award Solutions
+      https://www.meetup.com/OpenStack-DFW/events/247511300/
+
+- title: Kubernetes and OpenStack Containers and Virtual Machines
+  location: Toronto, ON
+  speaker: OpenStack Toronto
+  start: 2018-05-03 23:30 UTC
+  end: 2018-05-04 00:30 UTC
+  description: |
+      Toronto, ON, CA
+      Kubernetes and OpenStack Containers and Virtual Machines
+      https://www.meetup.com/OpenStackTO/events/249670062/
+
+- title: Automating BareMetal as a Service with OpenStack and Ansible
+  location: Durham, NC
+  speaker: Triangle OpenStack Meetup
+  start: 2018-05-04 00:30 UTC
+  end: 2018-05-04 01:30 UTC
+  description: |
+      Durham, NC, US
+      Automating BareMetal as a Service with OpenStack and Ansible
+      https://www.meetup.com/Triangle-OpenStack-Meetup/events/249761551/
 
