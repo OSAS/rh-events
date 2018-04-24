@@ -1,0 +1,32 @@
+name: oVirt deep dive talks
+type: series
+description: |
+  Talks from oVirt community members on various technical issues that have to do
+  with oVirt and its development processes
+
+talks:
+  - title: oVirt STDCI v2 deep dive
+    speaker: Barak Korren
+    start: 2018-05-03 08:00 UTC
+    end: 2018-05-03 09:00 UTC
+    location: online via BlueJeans
+    description: |
+      Introduction to the 2nd version of oVirt's CI standard - What is it, what
+      can it do, how to use it and how does it work.
+
+      To join the Meeting:
+      https://bluejeans.com/8705030462
+
+      To join via Room System:
+      Video Conferencing System: redhat.bjn.vc -or-199.48.152.18
+      Meeting ID : 8705030462
+
+      To join via phone :
+      1) Dial:
+          408-915-6466 (United States)
+          (see all numbers - https://www.redhat.com/en/conference-numbers)
+      2) Enter Conference ID : 8705030462
+
+
+      RSVP at:
+      https://www.eventbrite.com/e/ovirt-stdci-v2-deep-dive-tickets-45468120372
