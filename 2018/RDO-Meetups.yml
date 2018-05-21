@@ -4,63 +4,73 @@ tags: RDO
 
 talks:
 
-- title: "Шестой OpenStack Meetup St.Petersburg"
-  location: St. Petersburg, RU
-  speaker: OpenStack Russia St. Petersburg
-  start: 2018-04-24 18:30 UTC
-  end: 2018-04-24 19:30 UTC
+- title: Google's Kelsey Hightower - Kubernetes and the path to Serverless
+  location: Phoenix, AZ
+  speaker: OpenStack Phoenix
+  start: 2018-05-24 03:30 UTC
+  end: 2018-05-24 04:30 UTC
   description: |
-      St. Petersburg, RU
-      "Шестой OpenStack Meetup St.Petersburg"
-      https://www.meetup.com/OpenStack-Russia-St-Petersburg/events/249005137/
+      Phoenix, AZ, US
+      Google's Kelsey Hightower - Kubernetes and the path to Serverless
+      https://www.meetup.com/OpenStack-Phoenix/events/250388175/
 
-- title: Making Your Applications Cloudy
-  location: Tel Aviv-Yafo, IL
-  speaker: OpenStack and Open Networking Israel
-  start: 2018-04-25 17:00 UTC
-  end: 2018-04-25 18:00 UTC
+- title: OpenShift, OpenStack, Ansible, à la conquête du Cloud avec RedHat !
+  location: Paris, FR
+  speaker: Make I.T. Happen
+  start: 2018-05-24 18:30 UTC
+  end: 2018-05-24 19:30 UTC
   description: |
-      Tel Aviv-Yafo, IL
-      Making Your Applications Cloudy
-      https://www.meetup.com/OpenStack-Israel/events/249938310/
+      Paris, FR
+      OpenShift, OpenStack, Ansible, à la conquête du Cloud avec RedHat !
+      https://www.meetup.com/meetup-group-lRMQYUIy/events/250309997/
 
-- title: "April OpenStack meetup @Bangalore"
-  location: Bangalore, IN
-  speaker: Indian OpenStack User Group
-  start: 2018-04-28 06:00 UTC
-  end: 2018-04-28 07:00 UTC
+- title: Tech Learning Hangout Learning RedHat's Latest OpenStack Technology Over Beer 
+  location: Taguig, PH
+  speaker: Manila OpenStack Private Cloud Experts Group
+  start: 2018-05-24 13:30 UTC
+  end: 2018-05-24 14:30 UTC
   description: |
-      Bangalore, IN
-      "April OpenStack meetup @Bangalore"
-      https://www.meetup.com/Indian-OpenStack-User-Group/events/249891291/
+      Taguig, PH
+      Tech Learning Hangout Learning RedHat's Latest OpenStack Technology Over Beer 
+      https://www.meetup.com/OpenStack-Private-Cloud-Experts-Group/events/250032597/
 
-- title: Machine Learning and AI - presenter Chris Reece, Technologist, Award Solutions
-  location: Plano, TX
-  speaker: OpenStack DFW
-  start: 2018-05-03 01:00 UTC
-  end: 2018-05-03 02:00 UTC
+- title: Australian OpenStack User Group - Quarterly Brisbane Meetup
+  location: Sydney, AU
+  speaker: Australian OpenStack User Group
+  start: 2018-05-28 10:00 UTC
+  end: 2018-05-28 11:00 UTC
   description: |
-      Plano, TX, US
-      Machine Learning and AI - presenter Chris Reece, Technologist, Award Solutions
-      https://www.meetup.com/OpenStack-DFW/events/247511300/
+      Sydney, AU
+      Australian OpenStack User Group - Quarterly Brisbane Meetup
+      https://www.meetup.com/Australian-OpenStack-User-Group/events/248516175/
 
-- title: Kubernetes and OpenStack Containers and Virtual Machines
-  location: Toronto, ON
-  speaker: OpenStack Toronto
-  start: 2018-05-03 23:30 UTC
-  end: 2018-05-04 00:30 UTC
+- title: Kubernetes <3 OpenStack
+  location: Wellington, NZ
+  speaker: New Zealand OpenStack User Group
+  start: 2018-05-31 07:00 UTC
+  end: 2018-05-31 08:00 UTC
   description: |
-      Toronto, ON, CA
-      Kubernetes and OpenStack Containers and Virtual Machines
-      https://www.meetup.com/OpenStackTO/events/249670062/
+      Wellington, NZ
+      Kubernetes <3 OpenStack
+      https://www.meetup.com/New-Zealand-OpenStack-User-Group/events/250890247/
 
-- title: Automating BareMetal as a Service with OpenStack and Ansible
-  location: Durham, NC
-  speaker: Triangle OpenStack Meetup
-  start: 2018-05-04 00:30 UTC
-  end: 2018-05-04 01:30 UTC
+- title: Istio 1.0 & K8s <3 OpenStack
+  location: Wellington, NZ
+  speaker: Kubernetes New Zealand
+  start: 2018-05-31 07:00 UTC
+  end: 2018-05-31 08:00 UTC
   description: |
-      Durham, NC, US
-      Automating BareMetal as a Service with OpenStack and Ansible
-      https://www.meetup.com/Triangle-OpenStack-Meetup/events/249761551/
+      Wellington, NZ
+      Istio 1.0 & K8s <3 OpenStack
+      https://www.meetup.com/Kubernetes-New-Zealand/events/250870382/
+
+- title: The easy way to Hybrid Kubernetes on AWS, Azure, GCP, OpenStack and Bare-Metal
+  location: Köln, DE
+  speaker: Cologne-Cloud
+  start: 2018-06-02 10:00 UTC
+  end: 2018-06-02 11:00 UTC
+  description: |
+      Köln, DE
+      The easy way to Hybrid Kubernetes on AWS, Azure, GCP, OpenStack and Bare-Metal
+      https://www.meetup.com/Cologne-Cloud/events/250356865/
 
