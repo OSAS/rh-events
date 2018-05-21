@@ -4,6 +4,8 @@ tags: RDO
 
 talks:
 
+- title: Google's Kelsey Hightower - Kubernetes and the path to Serverless
+  location: Phoenix, AZ
   speaker: OpenStack Phoenix
   start: 2018-05-24 03:30 UTC
   end: 2018-05-24 04:30 UTC
