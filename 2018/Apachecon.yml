@@ -1,10 +1,10 @@
-name: OSCON
-location: Portland, OR
-start: 2018-07-18
-end: 2018-07-19
-tags:
+name: ApacheCon
+location: Montréal, PQ
+start: 2018-09-24
+end: 2018-09-27
+tags: 
 description: |
-  OSCON 2018 gives groundbreaking companies, communities, and thought leaders in open source the opportunity to work together to create stronger projects and industries. In this coming year, our focus is squarely on open source concepts and technologies that have begun to or have the potential to move entire industries forward.
+  Discuss the latest innovations in containers, cloud, DevOps, IoT, servers, web frameworks, plus many other Apache projects and communities in a collaborative, vendor-neutral environment.
 
-  Additional details about the conference are available at
-  <https://conferences.oreilly.com/oscon/oscon-or>.
+  More information is available at
+  <http://www.apachecon.com/acna18/>
