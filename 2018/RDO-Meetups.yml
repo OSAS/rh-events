@@ -4,73 +4,103 @@ tags: RDO
 
 talks:
 
-- title: Google's Kelsey Hightower - Kubernetes and the path to Serverless
-  location: Phoenix, AZ
-  speaker: OpenStack Phoenix
-  start: 2018-05-24 03:30 UTC
-  end: 2018-05-24 04:30 UTC
+- title: "OpenStack Meetup Berlin #13 @ScaleUp"
+  location: Berlin, DE
+  speaker: OpenStack User Group Berlin
+  start: 2018-06-19 18:00 UTC
+  end: 2018-06-19 19:00 UTC
   description: |
-      Phoenix, AZ, US
-      Google's Kelsey Hightower - Kubernetes and the path to Serverless
-      https://www.meetup.com/OpenStack-Phoenix/events/250388175/
+      Berlin, DE
+      "OpenStack Meetup Berlin #13 @ScaleUp"
+      https://www.meetup.com/OpenStack-User-Group-Berlin/events/251561825/
 
-- title: OpenShift, OpenStack, Ansible, à la conquête du Cloud avec RedHat !
-  location: Paris, FR
-  speaker: Make I.T. Happen
-  start: 2018-05-24 18:30 UTC
-  end: 2018-05-24 19:30 UTC
+- title: Stop Throwing Money Away on Cloud
+  location: Palo Alto, CA
+  speaker: SF Bay Cloud Native Open Infra
+  start: 2018-06-20 03:30 UTC
+  end: 2018-06-20 04:30 UTC
   description: |
-      Paris, FR
-      OpenShift, OpenStack, Ansible, à la conquête du Cloud avec RedHat !
-      https://www.meetup.com/meetup-group-lRMQYUIy/events/250309997/
+      Palo Alto, CA, US
+      Stop Throwing Money Away on Cloud
+      https://www.meetup.com/openstack/events/251110189/
 
-- title: Tech Learning Hangout Learning RedHat's Latest OpenStack Technology Over Beer 
-  location: Taguig, PH
-  speaker: Manila OpenStack Private Cloud Experts Group
-  start: 2018-05-24 13:30 UTC
-  end: 2018-05-24 14:30 UTC
+- title: "OpenStack Forum #3"
+  location: Stockholm, SE
+  speaker: OpenStack User Group Sweden
+  start: 2018-06-20 14:00 UTC
+  end: 2018-06-20 15:00 UTC
   description: |
-      Taguig, PH
-      Tech Learning Hangout Learning RedHat's Latest OpenStack Technology Over Beer 
-      https://www.meetup.com/OpenStack-Private-Cloud-Experts-Group/events/250032597/
+      Stockholm, SE
+      "OpenStack Forum #3"
+      https://www.meetup.com/OpenStack-User-Group-Sweden/events/249868407/
+
+- title: Containers rule the world Containerized OpenStack for more efficient Operations
+  location: New York, NY
+  speaker: OpenStack New York
+  start: 2018-06-21 00:00 UTC
+  end: 2018-06-21 01:00 UTC
+  description: |
+      New York, NY, US
+      Containers rule the world Containerized OpenStack for more efficient Operations
+      https://www.meetup.com/OpenStack-New-York/events/250114637/
+
+- title: Containers rule the world Containerized OpenStack for more efficient Operations
+  location: Reston, VA
+  speaker: OpenStack Northern Virginia
+  start: 2018-06-22 00:00 UTC
+  end: 2018-06-22 01:00 UTC
+  description: |
+      Reston, VA, US
+      Containers rule the world Containerized OpenStack for more efficient Operations
+      https://www.meetup.com/OpenStack-Nova/events/250114676/
+
+- title: The easy way to Hybrid Kubernetes on AWS, Azure, GCP, OpenStack and Bare-Metal
+  location: Berlin, DE
+  speaker: Kubernauts Worldwide Meetup
+  start: 2018-06-23 10:00 UTC
+  end: 2018-06-23 11:00 UTC
+  description: |
+      Berlin, DE
+      The easy way to Hybrid Kubernetes on AWS, Azure, GCP, OpenStack and Bare-Metal
+      https://www.meetup.com/kubernauts/events/250660359/
+
+- title: Containers rule the world Containerized OpenStack for more efficient Operations
+  location: Chicago, IL
+  speaker: Chicago Open Infrastructre Group
+  start: 2018-06-26 01:00 UTC
+  end: 2018-06-26 02:00 UTC
+  description: |
+      Chicago, IL, US
+      Containers rule the world Containerized OpenStack for more efficient Operations
+      https://www.meetup.com/Chicago-OpenInfrastructure/events/250114603/
 
 - title: Australian OpenStack User Group - Quarterly Brisbane Meetup
   location: Sydney, AU
-  speaker: Australian OpenStack User Group
-  start: 2018-05-28 10:00 UTC
-  end: 2018-05-28 11:00 UTC
+  speaker: Australian Open Infrastructure User Group
+  start: 2018-06-25 10:00 UTC
+  end: 2018-06-25 11:00 UTC
   description: |
       Sydney, AU
       Australian OpenStack User Group - Quarterly Brisbane Meetup
-      https://www.meetup.com/Australian-OpenStack-User-Group/events/248516175/
+      https://www.meetup.com/Australian-Open-Infrastructure-User-Group/events/251221960/
 
-- title: Kubernetes <3 OpenStack
-  location: Wellington, NZ
-  speaker: New Zealand OpenStack User Group
-  start: 2018-05-31 07:00 UTC
-  end: 2018-05-31 08:00 UTC
+- title: "Kata Containers, Accélérateurs matériels, anniversaire 8 ans"
+  location: Paris, FR
+  speaker: OpenStackFR Paris
+  start: 2018-06-25 18:45 UTC
+  end: 2018-06-25 19:45 UTC
   description: |
-      Wellington, NZ
-      Kubernetes <3 OpenStack
-      https://www.meetup.com/New-Zealand-OpenStack-User-Group/events/250890247/
+      Paris, FR
+      "Kata Containers, Accélérateurs matériels, anniversaire 8 ans"
+      https://www.meetup.com/OpenStack-France/events/251695847/
 
-- title: Istio 1.0 & K8s <3 OpenStack
-  location: Wellington, NZ
-  speaker: Kubernetes New Zealand
-  start: 2018-05-31 07:00 UTC
-  end: 2018-05-31 08:00 UTC
+- title: High Scale Edge IoT, AI & Computing with Kubernetes & Openstack at Target Corp
+  location: Bangalore, IN
+  speaker: Bangalore Configuration Management Meetup
+  start: 2018-06-29 09:30 UTC
+  end: 2018-06-29 10:30 UTC
   description: |
-      Wellington, NZ
-      Istio 1.0 & K8s <3 OpenStack
-      https://www.meetup.com/Kubernetes-New-Zealand/events/250870382/
-
-- title: The easy way to Hybrid Kubernetes on AWS, Azure, GCP, OpenStack and Bare-Metal
-  location: Köln, DE
-  speaker: Cologne-Cloud
-  start: 2018-06-02 10:00 UTC
-  end: 2018-06-02 11:00 UTC
-  description: |
-      Köln, DE
-      The easy way to Hybrid Kubernetes on AWS, Azure, GCP, OpenStack and Bare-Metal
-      https://www.meetup.com/Cologne-Cloud/events/250356865/
+      Bangalore, IN
+      High Scale Edge IoT, AI & Computing with Kubernetes & Openstack at Target Corp
+      https://www.meetup.com/Bangalore-Configuration-Management-Meetup/events/251680938/
 
