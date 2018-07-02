@@ -4,103 +4,82 @@ tags: RDO
 
 talks:
 
-- title: "OpenStack Meetup Berlin #13 @ScaleUp"
-  location: Berlin, DE
-  speaker: OpenStack User Group Berlin
-  start: 2018-06-19 18:00 UTC
-  end: 2018-06-19 19:00 UTC
+- title: Containers, Cloud Native, Kubernetes, Internet of Things, 5G, and Cloud
+  location: Dublin, IE
+  speaker: OpenStack Ireland
+  start: 2018-07-03 19:00 UTC
+  end: 2018-07-03 20:00 UTC
   description: |
-      Berlin, DE
-      "OpenStack Meetup Berlin #13 @ScaleUp"
-      https://www.meetup.com/OpenStack-User-Group-Berlin/events/251561825/
+      Dublin, IE
+      Containers, Cloud Native, Kubernetes, Internet of Things, 5G, and Cloud
+      https://www.meetup.com/OpenStack-Ireland/events/251675405/
 
-- title: Stop Throwing Money Away on Cloud
+- title: OpenStack Birthday Social & Move To Open Infrastructure
+  location: Portland, OR
+  speaker: OpenStack PDX
+  start: 2018-07-10 03:00 UTC
+  end: 2018-07-10 04:00 UTC
+  description: |
+      Portland, OR, US
+      OpenStack Birthday Social & Move To Open Infrastructure
+      https://www.meetup.com/openstack-pdx/events/252038450/
+
+- title: Cloud Native Open Infra Tech Day (w/ Istio keynote, Hands-on Labs and cupcakes!)
   location: Palo Alto, CA
   speaker: SF Bay Cloud Native Open Infra
-  start: 2018-06-20 03:30 UTC
-  end: 2018-06-20 04:30 UTC
+  start: 2018-07-10 22:00 UTC
+  end: 2018-07-10 23:00 UTC
   description: |
       Palo Alto, CA, US
-      Stop Throwing Money Away on Cloud
-      https://www.meetup.com/openstack/events/251110189/
-
-- title: "OpenStack Forum #3"
-  location: Stockholm, SE
-  speaker: OpenStack User Group Sweden
-  start: 2018-06-20 14:00 UTC
-  end: 2018-06-20 15:00 UTC
-  description: |
-      Stockholm, SE
-      "OpenStack Forum #3"
-      https://www.meetup.com/OpenStack-User-Group-Sweden/events/249868407/
-
-- title: Containers rule the world Containerized OpenStack for more efficient Operations
-  location: New York, NY
-  speaker: OpenStack New York
-  start: 2018-06-21 00:00 UTC
-  end: 2018-06-21 01:00 UTC
-  description: |
-      New York, NY, US
-      Containers rule the world Containerized OpenStack for more efficient Operations
-      https://www.meetup.com/OpenStack-New-York/events/250114637/
-
-- title: Containers rule the world Containerized OpenStack for more efficient Operations
-  location: Reston, VA
-  speaker: OpenStack Northern Virginia
-  start: 2018-06-22 00:00 UTC
-  end: 2018-06-22 01:00 UTC
-  description: |
-      Reston, VA, US
-      Containers rule the world Containerized OpenStack for more efficient Operations
-      https://www.meetup.com/OpenStack-Nova/events/250114676/
+      Cloud Native Open Infra Tech Day (w/ Istio keynote, Hands-on Labs and cupcakes!)
+      https://www.meetup.com/openstack/events/251802241/
 
 - title: The easy way to Hybrid Kubernetes on AWS, Azure, GCP, OpenStack and Bare-Metal
-  location: Berlin, DE
-  speaker: Kubernauts Worldwide Meetup
-  start: 2018-06-23 10:00 UTC
-  end: 2018-06-23 11:00 UTC
+  location: "Köln, DE"
+  speaker: Cologne-Cloud
+  start: 2018-07-10 18:00 UTC
+  end: 2018-07-10 19:00 UTC
   description: |
-      Berlin, DE
+      "Köln, DE"
       The easy way to Hybrid Kubernetes on AWS, Azure, GCP, OpenStack and Bare-Metal
-      https://www.meetup.com/kubernauts/events/250660359/
+      https://www.meetup.com/Cologne-Cloud/events/250356865/
 
-- title: Containers rule the world Containerized OpenStack for more efficient Operations
-  location: Chicago, IL
-  speaker: Chicago Open Infrastructre Group
-  start: 2018-06-26 01:00 UTC
-  end: 2018-06-26 02:00 UTC
+- title: OpenStack's 8th birthday! 
+  location: Stockholm, SE
+  speaker: OpenStack User Group Sweden
+  start: 2018-07-12 16:00 UTC
+  end: 2018-07-12 17:00 UTC
   description: |
-      Chicago, IL, US
-      Containers rule the world Containerized OpenStack for more efficient Operations
-      https://www.meetup.com/Chicago-OpenInfrastructure/events/250114603/
+      Stockholm, SE
+      OpenStack's 8th birthday! 
+      https://www.meetup.com/OpenStack-User-Group-Sweden/events/252160544/
 
-- title: Australian OpenStack User Group - Quarterly Brisbane Meetup
-  location: Sydney, AU
-  speaker: Australian Open Infrastructure User Group
-  start: 2018-06-25 10:00 UTC
-  end: 2018-06-25 11:00 UTC
+- title: OpenStack's 8th Birthday Celebration
+  location: Washington, DC
+  speaker: OpenStack DC
+  start: 2018-07-12 23:00 UTC
+  end: 2018-07-13 00:00 UTC
   description: |
-      Sydney, AU
-      Australian OpenStack User Group - Quarterly Brisbane Meetup
-      https://www.meetup.com/Australian-Open-Infrastructure-User-Group/events/251221960/
+      Washington, DC, US
+      OpenStack's 8th Birthday Celebration
+      https://www.meetup.com/OpenStackDC/events/252279760/
 
-- title: "Kata Containers, Accélérateurs matériels, anniversaire 8 ans"
-  location: Paris, FR
-  speaker: OpenStackFR Paris
-  start: 2018-06-25 18:45 UTC
-  end: 2018-06-25 19:45 UTC
+- title: Tungsten Fabric Open Source Multi-Cloud Networking at Scale
+  location: Boston, MA
+  speaker: Openstack Boston
+  start: 2018-07-13 00:30 UTC
+  end: 2018-07-13 01:30 UTC
   description: |
-      Paris, FR
-      "Kata Containers, Accélérateurs matériels, anniversaire 8 ans"
-      https://www.meetup.com/OpenStack-France/events/251695847/
+      Boston, MA, US
+      Tungsten Fabric Open Source Multi-Cloud Networking at Scale
+      https://www.meetup.com/Openstack-Boston/events/251651010/
 
-- title: High Scale Edge IoT, AI & Computing with Kubernetes & Openstack at Target Corp
-  location: Bangalore, IN
-  speaker: Bangalore Configuration Management Meetup
-  start: 2018-06-29 09:30 UTC
-  end: 2018-06-29 10:30 UTC
+- title: "Конференция к дню рождения OpenStack"
+  location: Moscow, RU
+  speaker: OpenStack Russia Moscow
+  start: 2018-07-13 10:00 UTC
+  end: 2018-07-13 11:00 UTC
   description: |
-      Bangalore, IN
-      High Scale Edge IoT, AI & Computing with Kubernetes & Openstack at Target Corp
-      https://www.meetup.com/Bangalore-Configuration-Management-Meetup/events/251680938/
-
+      Moscow, RU
+      "Конференция к дню рождения OpenStack"
+      https://www.meetup.com/OpenStack-Russia/events/251509448/
