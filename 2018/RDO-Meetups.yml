@@ -4,26 +4,6 @@ tags: RDO
 
 talks:
 
-- title: Containers, Cloud Native, Kubernetes, Internet of Things, 5G, and Cloud
-  location: Dublin, IE
-  speaker: OpenStack Ireland
-  start: 2018-07-03 19:00 UTC
-  end: 2018-07-03 20:00 UTC
-  description: |
-      Dublin, IE
-      Containers, Cloud Native, Kubernetes, Internet of Things, 5G, and Cloud
-      https://www.meetup.com/OpenStack-Ireland/events/251675405/
-
-- title: OpenStack Birthday Social & Move To Open Infrastructure
-  location: Portland, OR
-  speaker: OpenStack PDX
-  start: 2018-07-10 03:00 UTC
-  end: 2018-07-10 04:00 UTC
-  description: |
-      Portland, OR, US
-      OpenStack Birthday Social & Move To Open Infrastructure
-      https://www.meetup.com/openstack-pdx/events/252038450/
-
 - title: Cloud Native Open Infra Tech Day (w/ Istio keynote, Hands-on Labs and cupcakes!)
   location: Palo Alto, CA
   speaker: SF Bay Cloud Native Open Infra
@@ -32,7 +12,7 @@ talks:
   description: |
       Palo Alto, CA, US
       Cloud Native Open Infra Tech Day (w/ Istio keynote, Hands-on Labs and cupcakes!)
-      https://www.meetup.com/openstack/events/251802241/
+      https://www.meetup.com/openstack/events/252368073/
 
 - title: The easy way to Hybrid Kubernetes on AWS, Azure, GCP, OpenStack and Bare-Metal
   location: "Köln, DE"
@@ -43,6 +23,16 @@ talks:
       "Köln, DE"
       The easy way to Hybrid Kubernetes on AWS, Azure, GCP, OpenStack and Bare-Metal
       https://www.meetup.com/Cologne-Cloud/events/250356865/
+
+- title: OpenStack & Kubernetes Operators
+  location: "México City, MX"
+  speaker: OpenstackMexicoCity
+  start: 2018-07-12 02:00 UTC
+  end: 2018-07-12 03:00 UTC
+  description: |
+      "México City, MX"
+      OpenStack & Kubernetes Operators
+      https://www.meetup.com/OpenstackMexicoCity/events/252599729/
 
 - title: OpenStack's 8th birthday! 
   location: Stockholm, SE
@@ -83,3 +73,74 @@ talks:
       Moscow, RU
       "Конференция к дню рождения OpenStack"
       https://www.meetup.com/OpenStack-Russia/events/251509448/
+
+- title: OpenStack 8 ans
+  location: Rennes, FR
+  speaker: OpenStackFR Rennes
+  start: 2018-07-16 18:30 UTC
+  end: 2018-07-16 19:30 UTC
+  description: |
+      Rennes, FR
+      OpenStack 8 ans
+      https://www.meetup.com/OpenStack-Rennes/events/251875948/
+
+- title: OpenStack's 8th Birthday Celebration
+  location: San Diego, CA
+  speaker: OpenStack San Diego
+  start: 2018-07-18 03:30 UTC
+  end: 2018-07-18 04:30 UTC
+  description: |
+      San Diego, CA, US
+      OpenStack's 8th Birthday Celebration
+      https://www.meetup.com/OpenStackSanDiego/events/252527277/
+
+- title: "OpenStack 8α γενέθλια"
+  location: Athens, GR
+  speaker: Athens OpenStack User Group
+  start: 2018-07-18 18:00 UTC
+  end: 2018-07-18 19:00 UTC
+  description: |
+      Athens, GR
+      "OpenStack 8α γενέθλια"
+      https://www.meetup.com/Athens-OpenStack-User-Group/events/252463261/
+
+- title: OpenStack's 8th Birthday Celebration
+  location: Pasadena, CA
+  speaker: OpenStack LA
+  start: 2018-07-20 03:30 UTC
+  end: 2018-07-20 04:30 UTC
+  description: |
+      Pasadena, CA, US
+      OpenStack's 8th Birthday Celebration
+      https://www.meetup.com/OpenStack-LA/events/252544589/
+
+- title: OpenStack is turning 8 ! Let's celebrate !
+  location: Barcelona, ES
+  speaker: OpenStack Barcelona
+  start: 2018-07-19 19:00 UTC
+  end: 2018-07-19 20:00 UTC
+  description: |
+      Barcelona, ES
+      OpenStack is turning 8 ! Let's celebrate !
+      https://www.meetup.com/OpenStack-Barcelona/events/252202606/
+
+- title: OpenStack Meetup - 8th Birthday Party
+  location: Atlanta, GA
+  speaker: Atlanta OpenStack Meetup Group
+  start: 2018-07-20 01:00 UTC
+  end: 2018-07-20 02:00 UTC
+  description: |
+      Atlanta, GA, US
+      OpenStack Meetup - 8th Birthday Party
+      https://www.meetup.com/openstack-atlanta/events/251058036/
+
+- title: Australian OpenStack User Group - Quarterly Brisbane Meetup
+  location: Sydney, AU
+  speaker: Australian Open Infrastructure User Group
+  start: 2018-07-23 10:00 UTC
+  end: 2018-07-23 11:00 UTC
+  description: |
+      Sydney, AU
+      Australian OpenStack User Group - Quarterly Brisbane Meetup
+      https://www.meetup.com/Australian-Open-Infrastructure-User-Group/events/252213842/
+
