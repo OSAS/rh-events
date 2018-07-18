@@ -4,95 +4,15 @@ tags: RDO
 
 talks:
 
-- title: Cloud Native Open Infra Tech Day (w/ Istio keynote, Hands-on Labs and cupcakes!)
-  location: Palo Alto, CA
-  speaker: SF Bay Cloud Native Open Infra
-  start: 2018-07-10 22:00 UTC
-  end: 2018-07-10 23:00 UTC
-  description: |
-      Palo Alto, CA, US
-      Cloud Native Open Infra Tech Day (w/ Istio keynote, Hands-on Labs and cupcakes!)
-      https://www.meetup.com/openstack/events/252368073/
-
-- title: The easy way to Hybrid Kubernetes on AWS, Azure, GCP, OpenStack and Bare-Metal
-  location: "Köln, DE"
-  speaker: Cologne-Cloud
-  start: 2018-07-10 18:00 UTC
-  end: 2018-07-10 19:00 UTC
-  description: |
-      "Köln, DE"
-      The easy way to Hybrid Kubernetes on AWS, Azure, GCP, OpenStack and Bare-Metal
-      https://www.meetup.com/Cologne-Cloud/events/250356865/
-
-- title: OpenStack & Kubernetes Operators
-  location: "México City, MX"
-  speaker: OpenstackMexicoCity
-  start: 2018-07-12 02:00 UTC
-  end: 2018-07-12 03:00 UTC
-  description: |
-      "México City, MX"
-      OpenStack & Kubernetes Operators
-      https://www.meetup.com/OpenstackMexicoCity/events/252599729/
-
-- title: OpenStack's 8th birthday! 
-  location: Stockholm, SE
-  speaker: OpenStack User Group Sweden
-  start: 2018-07-12 16:00 UTC
-  end: 2018-07-12 17:00 UTC
-  description: |
-      Stockholm, SE
-      OpenStack's 8th birthday! 
-      https://www.meetup.com/OpenStack-User-Group-Sweden/events/252160544/
-
 - title: OpenStack's 8th Birthday Celebration
-  location: Washington, DC
-  speaker: OpenStack DC
-  start: 2018-07-12 23:00 UTC
-  end: 2018-07-13 00:00 UTC
+  location: Pasadena, CA
+  speaker: OpenStack LA
+  start: 2018-07-19 03:30 UTC
+  end: 2018-07-19 04:30 UTC
   description: |
-      Washington, DC, US
+      Pasadena, CA, US
       OpenStack's 8th Birthday Celebration
-      https://www.meetup.com/OpenStackDC/events/252279760/
-
-- title: Tungsten Fabric Open Source Multi-Cloud Networking at Scale
-  location: Boston, MA
-  speaker: Openstack Boston
-  start: 2018-07-13 00:30 UTC
-  end: 2018-07-13 01:30 UTC
-  description: |
-      Boston, MA, US
-      Tungsten Fabric Open Source Multi-Cloud Networking at Scale
-      https://www.meetup.com/Openstack-Boston/events/251651010/
-
-- title: "Конференция к дню рождения OpenStack"
-  location: Moscow, RU
-  speaker: OpenStack Russia Moscow
-  start: 2018-07-13 10:00 UTC
-  end: 2018-07-13 11:00 UTC
-  description: |
-      Moscow, RU
-      "Конференция к дню рождения OpenStack"
-      https://www.meetup.com/OpenStack-Russia/events/251509448/
-
-- title: OpenStack 8 ans
-  location: Rennes, FR
-  speaker: OpenStackFR Rennes
-  start: 2018-07-16 18:30 UTC
-  end: 2018-07-16 19:30 UTC
-  description: |
-      Rennes, FR
-      OpenStack 8 ans
-      https://www.meetup.com/OpenStack-Rennes/events/251875948/
-
-- title: OpenStack's 8th Birthday Celebration
-  location: San Diego, CA
-  speaker: OpenStack San Diego
-  start: 2018-07-18 03:30 UTC
-  end: 2018-07-18 04:30 UTC
-  description: |
-      San Diego, CA, US
-      OpenStack's 8th Birthday Celebration
-      https://www.meetup.com/OpenStackSanDiego/events/252527277/
+      https://www.meetup.com/OpenStack-LA/events/252544589/
 
 - title: "OpenStack 8α γενέθλια"
   location: Athens, GR
@@ -104,25 +24,15 @@ talks:
       "OpenStack 8α γενέθλια"
       https://www.meetup.com/Athens-OpenStack-User-Group/events/252463261/
 
-- title: OpenStack's 8th Birthday Celebration
-  location: Pasadena, CA
-  speaker: OpenStack LA
-  start: 2018-07-20 03:30 UTC
-  end: 2018-07-20 04:30 UTC
+- title: OpenStack 8th Birthday
+  location: Lagos, NG
+  speaker: OpenStack Nigeria User Group
+  start: 2018-07-19 18:15 UTC
+  end: 2018-07-19 19:15 UTC
   description: |
-      Pasadena, CA, US
-      OpenStack's 8th Birthday Celebration
-      https://www.meetup.com/OpenStack-LA/events/252544589/
-
-- title: OpenStack is turning 8 ! Let's celebrate !
-  location: Barcelona, ES
-  speaker: OpenStack Barcelona
-  start: 2018-07-19 19:00 UTC
-  end: 2018-07-19 20:00 UTC
-  description: |
-      Barcelona, ES
-      OpenStack is turning 8 ! Let's celebrate !
-      https://www.meetup.com/OpenStack-Barcelona/events/252202606/
+      Lagos, NG
+      OpenStack 8th Birthday
+      https://www.meetup.com/OpenStack-Nigeria-User-Group/events/252646184/
 
 - title: OpenStack Meetup - 8th Birthday Party
   location: Atlanta, GA
@@ -134,6 +44,26 @@ talks:
       OpenStack Meetup - 8th Birthday Party
       https://www.meetup.com/openstack-atlanta/events/251058036/
 
+- title: OpenStack is turning 8 ! Let's celebrate !
+  location: Barcelona, ES
+  speaker: OpenStack Barcelona
+  start: 2018-07-19 19:00 UTC
+  end: 2018-07-19 20:00 UTC
+  description: |
+      Barcelona, ES
+      OpenStack is turning 8 ! Let's celebrate !
+      https://www.meetup.com/OpenStack-Barcelona/events/252202606/
+
+- title: OpenStack 8th Birthday CDMX
+  location: México City, MX
+  speaker: OpenstackMexicoCity
+  start: 2018-07-20 03:00 UTC
+  end: 2018-07-20 04:00 UTC
+  description: |
+      México City, MX
+      OpenStack 8th Birthday CDMX
+      https://www.meetup.com/OpenstackMexicoCity/events/252480575/
+
 - title: Australian OpenStack User Group - Quarterly Brisbane Meetup
   location: Sydney, AU
   speaker: Australian Open Infrastructure User Group
@@ -143,4 +73,74 @@ talks:
       Sydney, AU
       Australian OpenStack User Group - Quarterly Brisbane Meetup
       https://www.meetup.com/Australian-Open-Infrastructure-User-Group/events/252213842/
+
+- title: OpenStack 8th Birthday and OpenStack Map
+  location: Loveland, CO
+  speaker: Colorado OpenStack
+  start: 2018-07-25 02:00 UTC
+  end: 2018-07-25 03:00 UTC
+  description: |
+      Loveland, CO, US
+      OpenStack 8th Birthday and OpenStack Map
+      https://www.meetup.com/OpenStack-Colorado/events/251989791/
+
+- title: OpenStack Bucharest Meetup, 8th OpenStack Birthday Celebration
+  location: Bucharest, RO
+  speaker: OpenStack Bucharest, Romania Meetup
+  start: 2018-07-25 17:30 UTC
+  end: 2018-07-25 18:30 UTC
+  description: |
+      Bucharest, RO
+      OpenStack Bucharest Meetup, 8th OpenStack Birthday Celebration
+      https://www.meetup.com/OpenStack-Bucharest-Romania-Meetup/events/252155230/
+
+- title: OpenStack 8th Birthday
+  location: Accra, GH
+  speaker: OpenStack Ghana User Group
+  start: 2018-07-26 18:00 UTC
+  end: 2018-07-26 19:00 UTC
+  description: |
+      Accra, GH
+      OpenStack 8th Birthday
+      https://www.meetup.com/OpenStack-Ghana-User-Group/events/252647276/
+
+- title: "5° Meetup OpenStack Rio de Janeiro no NCE"
+  location: Rio de Janeiro, BR
+  speaker: OpenStack Brasil
+  start: 2018-07-27 19:00 UTC
+  end: 2018-07-27 20:00 UTC
+  description: |
+      Rio de Janeiro, BR
+      "5° Meetup OpenStack Rio de Janeiro no NCE"
+      https://www.meetup.com/Openstack-Brasil/events/252752639/
+
+- title: OpenStack Day São Paulo 2018
+  location: Rio de Janeiro, BR
+  speaker: OpenStack Brasil
+  start: 2018-07-28 13:30 UTC
+  end: 2018-07-28 14:30 UTC
+  description: |
+      Rio de Janeiro, BR
+      OpenStack Day São Paulo 2018
+      https://www.meetup.com/Openstack-Brasil/events/246608391/
+
+- title: Workshop Openstack  The Path of Cloud
+  location: Semarang, ID
+  speaker: Semarang Open Go
+  start: 2018-07-28 05:00 UTC
+  end: 2018-07-28 06:00 UTC
+  description: |
+      Semarang, ID
+      Workshop Openstack  The Path of Cloud
+      https://www.meetup.com/Semarang-Open-Go/events/252862943/
+
+- title: 8th OpenStack Birthday
+  location: Tehran, IR
+  speaker: Iran OpenStack
+  start: 2018-07-31 16:30 UTC
+  end: 2018-07-31 17:30 UTC
+  description: |
+      Tehran, IR
+      8th OpenStack Birthday
+      https://www.meetup.com/Iran-OpenStack/events/252663117/
 
