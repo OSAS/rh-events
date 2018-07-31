@@ -44,6 +44,16 @@ talks:
       Monthly SFOUG Meeting
       https://www.meetup.com/South-Florida-OpenStack-Users-Group/events/252715071/
 
+- title: RDO/OpenStack at DevConf.IN 2018
+  location: Bangalore, IN
+  speaker: Indian OpenStack User Group
+  start: 2018-08-04 05:30 UTC
+  end: 2018-08-04 06:30 UTC
+  description: |
+      Bangalore, IN
+      RDO/OpenStack at DevConf.IN 2018
+      https://www.meetup.com/Indian-OpenStack-User-Group/events/253328815/
+
 - title: OpenStack's subunit2sql
   location: Saint Louis, MO
   speaker: STL Python
