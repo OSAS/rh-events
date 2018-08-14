@@ -4,83 +4,33 @@ tags: RDO
 
 talks:
 
-- title: OpenStack Bucharest Meetup, 8th OpenStack Birthday Celebration
-  location: Bucharest, RO
-  speaker: OpenStack Bucharest, Romania Meetup
-  start: 2018-07-31 17:30 UTC
-  end: 2018-07-31 18:30 UTC
+- title: OpenStack for EDGE infrastructure, A cloud with carrier grade performance.
+  location: Guadalajara, MX
+  speaker: OpenStack GDL
+  start: 2018-08-21 02:00 UTC
+  end: 2018-08-21 03:00 UTC
   description: |
-      Bucharest, RO
-      OpenStack Bucharest Meetup, 8th OpenStack Birthday Celebration
-      https://www.meetup.com/OpenStack-Bucharest-Romania-Meetup/events/252155230/
+      Guadalajara, MX
+      OpenStack for EDGE infrastructure, A cloud with carrier grade performance.
+      https://www.meetup.com/OpenStack-GDL/events/253218173/
 
-- title: 8th OpenStack Birthday
-  location: Tehran, IR
-  speaker: Iran OpenStack
-  start: 2018-07-31 16:30 UTC
-  end: 2018-07-31 17:30 UTC
+- title: OpenInfra Days Vietnam
+  location: Ha Noi, VN
+  speaker: Vietnam OpenStack Official User Group
+  start: 2018-08-25 03:00 UTC
+  end: 2018-08-25 04:00 UTC
   description: |
-      Tehran, IR
-      8th OpenStack Birthday
-      https://www.meetup.com/Iran-OpenStack/events/252663117/
+      Ha Noi, VN
+      OpenInfra Days Vietnam
+      https://www.meetup.com/VietOpenStack/events/252560889/
 
-- title: ONAP - Manish Bhatia, Senior Consultant, Award Solutions 
-  location: Plano, TX
-  speaker: OpenStack DFW
-  start: 2018-08-02 01:00 UTC
-  end: 2018-08-02 02:00 UTC
+- title: "Openstack 8 ans - Côte D'ivoire"
+  location: Abidjan, CI
+  speaker: "Openstack Côte d'Ivoire"
+  start: 2018-08-25 11:30 UTC
+  end: 2018-08-25 12:30 UTC
   description: |
-      Plano, TX, US
-      ONAP - Manish Bhatia, Senior Consultant, Award Solutions 
-      https://www.meetup.com/OpenStack-DFW/events/247511986/
-
-- title: Monthly SFOUG Meeting
-  location: Fort Lauderdale, FL
-  speaker: South Florida OpenStack Users Group
-  start: 2018-08-03 00:00 UTC
-  end: 2018-08-03 01:00 UTC
-  description: |
-      Fort Lauderdale, FL, US
-      Monthly SFOUG Meeting
-      https://www.meetup.com/South-Florida-OpenStack-Users-Group/events/252715071/
-
-- title: RDO/OpenStack at DevConf.IN 2018
-  location: Bangalore, IN
-  speaker: Indian OpenStack User Group
-  start: 2018-08-04 05:30 UTC
-  end: 2018-08-04 06:30 UTC
-  description: |
-      Bangalore, IN
-      RDO/OpenStack at DevConf.IN 2018
-      https://www.meetup.com/Indian-OpenStack-User-Group/events/253328815/
-
-- title: OpenStack's subunit2sql
-  location: Saint Louis, MO
-  speaker: STL Python
-  start: 2018-08-08 02:00 UTC
-  end: 2018-08-08 03:00 UTC
-  description: |
-      Saint Louis, MO, US
-      OpenStack's subunit2sql
-      https://www.meetup.com/STL-Python/events/253033524/
-
-- title: OpenStack's 8th Birthday Celebration
-  location: Seattle, WA
-  speaker: OpenStack Seattle
-  start: 2018-08-09 03:00 UTC
-  end: 2018-08-09 04:00 UTC
-  description: |
-      Seattle, WA, US
-      OpenStack's 8th Birthday Celebration
-      https://www.meetup.com/OpenStack-Seattle/events/252949959/
-
-- title: OSN basics and edge cloud in OpenStack
-  location: Budapest, HU
-  speaker: Open Source Networking User Group Budapest
-  start: 2018-08-08 18:00 UTC
-  end: 2018-08-08 19:00 UTC
-  description: |
-      Budapest, HU
-      OSN basics and edge cloud in OpenStack
-      https://www.meetup.com/Open-Source-Networking-User-Group-BP/events/253054966/
+      Abidjan, CI
+      "Openstack 8 ans - Côte D'ivoire"
+      https://www.meetup.com/Openstack-Cote-divoire/events/252502611/
 
