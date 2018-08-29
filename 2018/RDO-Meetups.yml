@@ -4,43 +4,53 @@ tags: RDO
 
 talks:
 
-- title: OpenStack for EDGE infrastructure, A cloud with carrier grade performance.
-  location: Guadalajara, MX
-  speaker: OpenStack GDL
-  start: 2018-08-21 02:00 UTC
-  end: 2018-08-21 03:00 UTC
-  description: |
-      Guadalajara, MX
-      OpenStack for EDGE infrastructure, A cloud with carrier grade performance.
-      https://www.meetup.com/OpenStack-GDL/events/253218173/
-
-- title: OpenInfra Days Vietnam
-  location: Ha Noi, VN
-  speaker: Vietnam OpenStack Official User Group
-  start: 2018-08-25 03:00 UTC
-  end: 2018-08-25 04:00 UTC
-  description: |
-      Ha Noi, VN
-      OpenInfra Days Vietnam
-      https://www.meetup.com/VietOpenStack/events/252560889/
-
-- title: "Openstack 8 ans - Côte D'ivoire"
-  location: Abidjan, CI
-  speaker: "Openstack Côte d'Ivoire"
-  start: 2018-08-25 11:30 UTC
-  end: 2018-08-25 12:30 UTC
-  description: |
-      Abidjan, CI
-      "Openstack 8 ans - Côte D'ivoire"
-      https://www.meetup.com/Openstack-Cote-divoire/events/252502611/
-
-- title: "Weekly Meeting | What new in Openstack Queens release?"
+- title: Weekly Meeting | What new in Openstack Queens release?
   location: "al-Jaza´ir, DZ"
   speaker: Openstack Algeria
   start: 2018-08-31 22:00 UTC
   end: 2018-08-31 23:00 UTC
   description: |
       "al-Jaza´ir, DZ"
-      "Weekly Meeting | What new in Openstack Queens release?"
+      Weekly Meeting | What new in Openstack Queens release?
       https://www.meetup.com/meetup-group-SdvTXmGl/events/253739675/
+
+- title: Particle Physics and Astronomy, Allison Randal, and the Avi Vantage Platform
+  location: Manchester, 18
+  speaker: Manchester OpenStack Meetup
+  start: 2018-09-03 19:30 UTC
+  end: 2018-09-03 20:30 UTC
+  description: |
+      Manchester, 18, GB
+      Particle Physics and Astronomy, Allison Randal, and the Avi Vantage Platform
+      https://www.meetup.com/Manchester-OpenStack-Meetup/events/253630128/
+
+- title: Tungsten Fabric (formerly OpenContrail) Multi-Cloud Networking at Scale
+  location: Plano, TX
+  speaker: OpenStack DFW
+  start: 2018-09-05 13:00 UTC
+  end: 2018-09-05 14:00 UTC
+  description: |
+      Plano, TX, US
+      Tungsten Fabric (formerly OpenContrail) Multi-Cloud Networking at Scale
+      https://www.meetup.com/OpenStack-DFW/events/251550868/
+
+- title: Edge Computing in and around OpenStack
+  location: Austin, TX
+  speaker: OpenStack Austin Texas
+  start: 2018-09-07 01:30 UTC
+  end: 2018-09-07 02:30 UTC
+  description: |
+      Austin, TX, US
+      Edge Computing in and around OpenStack
+      https://www.meetup.com/OpenStack-Austin/events/253873820/
+
+- title: "OpenStack, ¿qué es y para qué me sirve?"
+  location: Zapopan, MX
+  speaker: Guadalajara Hack Nights
+  start: 2018-09-07 02:00 UTC
+  end: 2018-09-07 03:00 UTC
+  description: |
+      Zapopan, MX
+      "OpenStack, ¿qué es y para qué me sirve?"
+      https://www.meetup.com/Guadalajara-Hack-Nights/events/254070013/
 
