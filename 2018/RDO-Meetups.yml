@@ -4,63 +4,33 @@ tags: RDO
 
 talks:
 
-- title: Tungsten Fabric (formerly OpenContrail) Multi-Cloud Networking at Scale
-  location: Plano, TX
-  speaker: OpenStack DFW
-  start: 2018-09-06 01:00 UTC
-  end: 2018-09-06 02:00 UTC
-  description: |
-      Plano, TX, US
-      Tungsten Fabric (formerly OpenContrail) Multi-Cloud Networking at Scale
-      https://www.meetup.com/OpenStack-DFW/events/251550868/
-
-- title: Monthly SFOUG Meeting
-  location: Fort Lauderdale, FL
-  speaker: South Florida OpenStack Users Group
-  start: 2018-09-07 00:00 UTC
-  end: 2018-09-07 01:00 UTC
-  description: |
-      Fort Lauderdale, FL, US
-      Monthly SFOUG Meeting
-      https://www.meetup.com/South-Florida-OpenStack-Users-Group/events/253884555/
-
-- title: Edge Computing in and around OpenStack
-  location: Austin, TX
-  speaker: OpenStack Austin Texas
-  start: 2018-09-07 01:30 UTC
-  end: 2018-09-07 02:30 UTC
-  description: |
-      Austin, TX, US
-      Edge Computing in and around OpenStack
-      https://www.meetup.com/OpenStack-Austin/events/253873820/
-
-- title: "OpenStack, ¿qué es y para qué me sirve?"
-  location: Zapopan, MX
-  speaker: Guadalajara Hack Nights
-  start: 2018-09-07 02:00 UTC
-  end: 2018-09-07 03:00 UTC
-  description: |
-      Zapopan, MX
-      "OpenStack, ¿qué es y para qué me sirve?"
-      https://www.meetup.com/Guadalajara-Hack-Nights/events/254070013/
-
-- title: Managing Containers with Oracle Cloud
+- title: Container Security Reality Check Kubernetes and Beyond
   location: Palo Alto, CA
   speaker: SF Bay Cloud Native Open Infra
-  start: 2018-09-14 03:00 UTC
-  end: 2018-09-14 04:00 UTC
+  start: 2018-09-26 03:30 UTC
+  end: 2018-09-26 04:30 UTC
   description: |
       Palo Alto, CA, US
-      Managing Containers with Oracle Cloud
-      https://www.meetup.com/openstack/events/254061509/
+      Container Security Reality Check Kubernetes and Beyond
+      https://www.meetup.com/openstack/events/254432089/
 
-- title: First OpenStack User Group Meetup in Algeria
-  location: "al-Jaza´ir, DZ"
-  speaker: Openstack Algeria
-  start: 2018-09-18 09:00 UTC
-  end: 2018-09-18 10:00 UTC
+- title: "Dallas Kubernetes meetup September. Openstack + K8s. Istio Service mesh."
+  location: Dallas, TX
+  speaker: Dallas Kubernetes Meetup
+  start: 2018-09-28 01:00 UTC
+  end: 2018-09-28 02:00 UTC
   description: |
-      "al-Jaza´ir, DZ"
-      First OpenStack User Group Meetup in Algeria
-      https://www.meetup.com/meetup-group-SdvTXmGl/events/253739754/
+      Dallas, TX, US
+      "Dallas Kubernetes meetup September. Openstack + K8s. Istio Service mesh."
+      https://www.meetup.com/Dallas-Kubernetes-Meetup/events/254585965/
+
+- title: "OpenStack Rhône-Alpes Meet-up #8"
+  location: Lyon, FR
+  speaker: "OpenStack Rhône-Alpes"
+  start: 2018-09-27 19:00 UTC
+  end: 2018-09-27 20:00 UTC
+  description: |
+      Lyon, FR
+      "OpenStack Rhône-Alpes Meet-up #8"
+      https://www.meetup.com/OpenStack-Rhone-Alpes/events/254234192/
 
