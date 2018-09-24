@@ -34,3 +34,23 @@ talks:
       "OpenStack Rhône-Alpes Meet-up #8"
       https://www.meetup.com/OpenStack-Rhone-Alpes/events/254234192/
 
+- title: OpenStack Romania Meetup - October 2018 meetup 
+  location: Bucharest, RO
+  speaker: OpenStack Bucharest, Romania Meetup
+  start: 2018-10-04 17:30 UTC
+  end: 2018-10-04 18:30 UTC
+  description: |
+      Bucharest, RO
+      OpenStack Romania Meetup - October 2018 meetup 
+      https://www.meetup.com/OpenStack-Bucharest-Romania-Meetup/events/254813224/
+
+- title: A Gentle, Hands-on Introduction to OpenStack with David L. Willson
+  location: Littleton, CO
+  speaker: Software Freedom School in Denver
+  start: 2018-10-06 17:00 UTC
+  end: 2018-10-06 18:00 UTC
+  description: |
+      Littleton, CO, US
+      A Gentle, Hands-on Introduction to OpenStack with David L. Willson
+      https://www.meetup.com/sofreeus/events/254583920/
+
