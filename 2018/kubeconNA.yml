@@ -1,0 +1,10 @@
+name: KubeCon/CloudNativeCon North America
+location: Seattle, WA
+start: 2018-12-10
+end: 2018-12-13
+tags:
+description: |
+  The Cloud Native Computing Foundation’s flagship conference gathers adopters and technologists from leading open source and cloud native communities in Seattle, WA from December 10-13, 2018. Join Kubernetes, Prometheus, OpenTracing, Fluentd, gRPC, containerd, rkt, CNI, Envoy, Jaeger, Notary, TUF, Vitess, CoreDNS, NATS, Linkerd and Helm as the community gathers for four days to further the education and advancement of cloud native computing.
+
+  Additional details about the conference are available at
+  <https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2018/>.
