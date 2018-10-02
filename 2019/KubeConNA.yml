@@ -1,0 +1,10 @@
+name: KubeCon/CloudeNativeCon North America
+location: San Diego, CA
+start: 2019-11-19
+end: 2019-11-21
+tags:
+description: |
+  The Cloud Native Computing Foundation’s flagship conference gathers adopters and technologists from leading open source and cloud native communities in San Diego, California from November 18-21, 2019. Join Kubernetes, Prometheus, OpenTracing, Fluentd, gRPC, containerd, rkt, CNI, Envoy, Jaeger, Notary, TUF, Vitess, CoreDNS, NATS, Linkerd and Helm as the community gathers for four days to further the education and advancement of cloud native computing.
+
+  Additional details about the conference are available at
+  <https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/>
