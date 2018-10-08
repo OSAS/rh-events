@@ -4,53 +4,63 @@ tags: RDO
 
 talks:
 
-- title: Container Security Reality Check Kubernetes and Beyond
-  location: Palo Alto, CA
-  speaker: SF Bay Cloud Native Open Infra
-  start: 2018-09-26 03:30 UTC
-  end: 2018-09-26 04:30 UTC
+- title: OpenStack Days Nordic - Stockholm 2018
+  location: Stockholm, SE
+  speaker: OpenStack User Group Sweden
+  start: 2018-10-09 08:00 UTC
+  end: 2018-10-09 09:00 UTC
   description: |
-      Palo Alto, CA, US
-      Container Security Reality Check Kubernetes and Beyond
-      https://www.meetup.com/openstack/events/254432089/
+      Stockholm, SE
+      OpenStack Days Nordic - Stockholm 2018
+      https://www.meetup.com/OpenStack-User-Group-Sweden/events/248260324/
 
-- title: "Dallas Kubernetes meetup September. Openstack + K8s. Istio Service mesh."
-  location: Dallas, TX
-  speaker: Dallas Kubernetes Meetup
-  start: 2018-09-28 01:00 UTC
-  end: 2018-09-28 02:00 UTC
+- title: Continuous Integration at Scale - Running a Zuul CI Cloud
+  location: Reston, VA
+  speaker: OpenStack Northern Virginia
+  start: 2018-10-10 00:30 UTC
+  end: 2018-10-10 01:30 UTC
   description: |
-      Dallas, TX, US
-      "Dallas Kubernetes meetup September. Openstack + K8s. Istio Service mesh."
-      https://www.meetup.com/Dallas-Kubernetes-Meetup/events/254585965/
+      Reston, VA, US
+      Continuous Integration at Scale - Running a Zuul CI Cloud
+      https://www.meetup.com/OpenStack-Nova/events/255241322/
 
-- title: "OpenStack Rhône-Alpes Meet-up #8"
-  location: Lyon, FR
-  speaker: "OpenStack Rhône-Alpes"
-  start: 2018-09-27 19:00 UTC
-  end: 2018-09-27 20:00 UTC
+- title: OpenStack Mini-Conf at OSI Days India 2018
+  location: Bangalore, IN
+  speaker: Indian OpenStack User Group
+  start: 2018-10-12 11:30 UTC
+  end: 2018-10-12 12:30 UTC
   description: |
-      Lyon, FR
-      "OpenStack Rhône-Alpes Meet-up #8"
-      https://www.meetup.com/OpenStack-Rhone-Alpes/events/254234192/
+      Bangalore, IN
+      OpenStack Mini-Conf at OSI Days India 2018
+      https://www.meetup.com/Indian-OpenStack-User-Group/events/254375680/
 
-- title: OpenStack Romania Meetup - October 2018 meetup 
-  location: Bucharest, RO
-  speaker: OpenStack Bucharest, Romania Meetup
-  start: 2018-10-04 17:30 UTC
-  end: 2018-10-04 18:30 UTC
+- title: "Kata Containers Meetup@Beijing"
+  location: Shanghai, CN
+  speaker: Shanghai OpenStack Meetup
+  start: 2018-10-17 02:00 UTC
+  end: 2018-10-17 03:00 UTC
   description: |
-      Bucharest, RO
-      OpenStack Romania Meetup - October 2018 meetup 
-      https://www.meetup.com/OpenStack-Bucharest-Romania-Meetup/events/254813224/
+      Shanghai, CN
+      "Kata Containers Meetup@Beijing"
+      https://www.meetup.com/Shanghai-OpenStack-Meetup/events/254371087/
 
-- title: A Gentle, Hands-on Introduction to OpenStack with David L. Willson
-  location: Littleton, CO
-  speaker: Software Freedom School in Denver
-  start: 2018-10-06 17:00 UTC
-  end: 2018-10-06 18:00 UTC
+- title: "1. Meetup der OpenStack User Group Leipzig"
+  location: Leipzig, DE
+  speaker: OpenStack User Group Leipzig
+  start: 2018-10-17 19:00 UTC
+  end: 2018-10-17 20:00 UTC
   description: |
-      Littleton, CO, US
-      A Gentle, Hands-on Introduction to OpenStack with David L. Willson
-      https://www.meetup.com/sofreeus/events/254583920/
+      Leipzig, DE
+      "1. Meetup der OpenStack User Group Leipzig"
+      https://www.meetup.com/OpenStack-User-Group-Leipzig/events/254455697/
+
+- title: "Coffee & Clouds"
+  location: San Diego, CA
+  speaker: OpenStack San Diego
+  start: 2018-10-19 03:00 UTC
+  end: 2018-10-19 04:00 UTC
+  description: |
+      San Diego, CA, US
+      "Coffee & Clouds"
+      https://www.meetup.com/OpenStackSanDiego/events/255246646/
 
