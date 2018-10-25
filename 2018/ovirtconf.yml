@@ -3,39 +3,8 @@ location: Milan, Italy
 start: 2018-11-16
 end: 2018-11-16
 description: |
-Every year, the oVirt event is dedicated to private and enterprises that wants to discover and learn more about open source virtualization is returning to Milan!
+  Every year, the oVirt event is dedicated to private and enterprises that wants to discover and learn more about open source virtualization is returning to Milan!
 
-Additional details about the conference are available at:
-http://www.ovirt-italia.it/2018/10/ovirt-conference-2018.html
-
-talks:
-
-title: oVirt e la sua community
-speaker: Sandro Bonazzola
-description: |
-Discovering the oVirt project, its community and downstream derivatives.
-
-title: Installare oVirt in modalità Self Hosted Engine
-speaker: Stefano Stagnaro
-description: |
-oVirt Self Hosted Engine installation demo
-
-title: Introduzione a Gluster. L'esperienza concreta di Biodec.
-speaker: Ivan Rossi
-description: |
-GlusterFS filesystem, introduction and use cases
-
-title: L’automazione dei processi oVirt con Ansible
-speaker: Simone Tiraboschi
-description: |
-A demo showing how to use ansible for orchestrating and automating oVirt infrastructure resources.
-
-title: Certificarsi RHCVA
-speaker: Gaetano La Rosa
-description: |
-Red Hat Certified Virtualization Administrator - Training on RHV for working with oVirt
-
-title: integrazione tra oVirt e OpenStack
-speaker: Gianluca Cecchi
-description: |
+  Additional details about the conference are available at:
+  http://www.ovirt-italia.it/2018/10/ovirt-conference-2018.html
 oVirt and OpenStack, differents targets, advanced integrations. Discovering major differences and components that can be consumed by oVirt.
