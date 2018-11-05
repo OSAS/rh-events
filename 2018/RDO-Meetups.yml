@@ -4,112 +4,33 @@ tags: RDO
 
 talks:
 
-- title: Coffee & Clouds
-  location: San Diego, CA
-  speaker: OpenStack San Diego
-  start: 2018-10-19 03:00 UTC
-  end: 2018-10-19 04:00 UTC
+- title: "1st VietOpenStack Webinar - How to contribute to Openstack?"
+  location: Ha Noi, VN
+  speaker: Vietnam OpenStack Official User Group
+  start: 2018-11-05 15:00 UTC
+  end: 2018-11-05 16:00 UTC
   description: |
-      San Diego, CA, US
-      Coffee & Clouds
-      https://www.meetup.com/OpenStackSanDiego/events/255246646/
+      Ha Noi, VN
+      "1st VietOpenStack Webinar - How to contribute to Openstack?"
+      https://www.meetup.com/VietOpenStack/events/256002826/
 
-- title: October OpenStack Meetup
-  location: Atlanta, GA
-  speaker: Atlanta OpenStack Meetup Group
-  start: 2018-10-19 01:00 UTC
-  end: 2018-10-19 02:00 UTC
+- title: OpenStack Meetup Berlin - Pre-Summit
+  location: Berlin, DE
+  speaker: OpenStack User Group Berlin
+  start: 2018-11-06 18:30 UTC
+  end: 2018-11-06 19:30 UTC
   description: |
-      Atlanta, GA, US
-      October OpenStack Meetup
-      https://www.meetup.com/openstack-atlanta/events/255495112/
+      Berlin, DE
+      OpenStack Meetup Berlin - Pre-Summit
+      https://www.meetup.com/OpenStack-User-Group-Berlin/events/255488207/
 
-- title: Building the Middle East’s Largest OpenStack based Public Cloud
-  location: Riyadh, SA
-  speaker: Riyadh Data Geeks
-  start: 2018-10-22 17:30 UTC
-  end: 2018-10-22 18:30 UTC
+- title: OpenStack Summit Berlin
+  location: Amersfoort, NL
+  speaker: OpenStack Netherlands
+  start: 2018-11-13 09:00 UTC
+  end: 2018-11-13 10:00 UTC
   description: |
-      Riyadh, SA
-      Building the Middle East’s Largest OpenStack based Public Cloud
-      https://www.meetup.com/DataGeeks/events/255447366/
+      Amersfoort, NL
+      OpenStack Summit Berlin
+      https://www.meetup.com/Openstack-nl/events/254879844/
 
-- title: Running production databases on Red Hat OpenShift - with analyst Janakiram MSV
-  location: Palo Alto, CA
-  speaker: SF Bay Cloud Native Open Infra
-  start: 2018-10-23 19:00 UTC
-  end: 2018-10-23 20:00 UTC
-  description: |
-      Palo Alto, CA, US
-      Running production databases on Red Hat OpenShift - with analyst Janakiram MSV
-      https://www.meetup.com/openstack/events/255622513/
-
-- title: OpenStack Cyborg for AI/ML and Migrating 8.3 PETABYTES of Ceph to Bluestore
-  location: Toronto, ON
-  speaker: OpenStack Toronto
-  start: 2018-10-23 23:30 UTC
-  end: 2018-10-24 00:30 UTC
-  description: |
-      Toronto, ON, CA
-      OpenStack Cyborg for AI/ML and Migrating 8.3 PETABYTES of Ceph to Bluestore
-      https://www.meetup.com/OpenStackTO/events/255170435/
-
-- title: "OpenStack Forum #4"
-  location: Stockholm, SE
-  speaker: OpenStack User Group Sweden
-  start: 2018-10-24 14:00 UTC
-  end: 2018-10-24 15:00 UTC
-  description: |
-      Stockholm, SE
-      "OpenStack Forum #4"
-      https://www.meetup.com/OpenStack-User-Group-Sweden/events/254991122/
-
-- title: "Containers and OpenStack / StarlingX / NFV - It's a Telco infused MeetUp!"
-  location: Ottawa, ON
-  speaker: OpenStack Ottawa
-  start: 2018-10-24 23:15 UTC
-  end: 2018-10-25 00:15 UTC
-  description: |
-      Ottawa, ON, CA
-      "Containers and OpenStack / StarlingX / NFV - It's a Telco infused MeetUp!"
-      https://www.meetup.com/OpenStack-Ottawa/events/255176046/
-
-- title: Continuous Integration at Scale - Running a Zuul CI Cloud
-  location: New York, NY
-  speaker: OpenStack New York
-  start: 2018-10-25 00:00 UTC
-  end: 2018-10-25 01:00 UTC
-  description: |
-      New York, NY, US
-      Continuous Integration at Scale - Running a Zuul CI Cloud
-      https://www.meetup.com/OpenStack-New-York/events/255268788/
-
-- title: "SignalFx Real-Time Analytics & Operational Intelligence for Modern Infra & Apps"
-  location: Boston, MA
-  speaker: Openstack Boston
-  start: 2018-10-25 00:30 UTC
-  end: 2018-10-25 01:30 UTC
-  description: |
-      Boston, MA, US
-      "SignalFx Real-Time Analytics & Operational Intelligence for Modern Infra & Apps"
-      https://www.meetup.com/Openstack-Boston/events/255481141/
-
-- title: "Openstack São Paulo"
-  location: São Paulo, BR
-  speaker: Savant
-  start: 2018-10-25 23:00 UTC
-  end: 2018-10-26 00:00 UTC
-  description: |
-      "São Paulo, BR"
-      "Openstack São Paulo"
-      https://www.meetup.com/Savant/events/254096968/
-
-- title: Continuous Integration at Scale - Running a Zuul CI Cloud
-  location: Pasadena, CA
-  speaker: OpenStack LA
-  start: 2018-10-31 02:30 UTC
-  end: 2018-10-31 03:30 UTC
-  description: |
-      Pasadena, CA, US
-      Continuous Integration at Scale - Running a Zuul CI Cloud
-      https://www.meetup.com/OpenStack-LA/events/255390642/
