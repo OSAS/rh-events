@@ -1,0 +1,10 @@
+name: PyData Miami
+location: Miami, FL
+start: 2019-01-09
+end: 2019-01-11
+tags:
+description: |
+  PyData Miami brings together three interconnected communities: users and developers of data analysis tools, as well as researchers creating new analysis methods. The PyData conference series is anchored in open source Python packages such as NumPy, Pandas, and scikit-learn but also includes approaches to data analysis and visualization in other high level numerical languages such as R and Julia.
+
+  Additional details about the conference are available at
+  <https://pydata.org/miami2019/>
