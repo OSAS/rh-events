@@ -8,3 +8,91 @@ description: |
  
  More information is available at:
  <https://wiki.centos.org/Events/Dojo/Brussels2019>
+
+talks:
+
+- title: "RHEL, Fedora and CentOS: Solving The Penrose Triangle"
+  speaker: Brendan Conoboy
+  start: 2019-02-01 09:30 CET
+  end: 2019-02-01 10:15 CET
+  description: |
+
+- title: CentOS Git infra changes
+  speaker: Fabian Arrotin
+  start: 2019-02-01 09:30 CET
+  end: 2019-02-01 10:15 CET
+  description: |
+
+- title: From regular user to community member
+  speaker: Pablo Greco
+  start: 2019-02-01 10:15 CET
+  end: 2019-02-01 11:00 CET
+  description: |
+
+- title: NFV SIG Introduction and Update
+  speaker: Thomas F Herbert
+  start: 2019-02-01 10:15 CET
+  end: 2019-02-01 11:00 CET
+  description: |
+
+- title: Making SecureBoot less scary
+  speaker: Patrick Uiterwijk
+  start: 2019-02-01 11:30 CET
+  end: 2019-02-01 12:15 CET
+  description: |
+
+- title: Introducing CentOS Community Container Pipeline
+  speaker: Dharmit Shah
+  start: 2019-02-01 11:30 CET
+  end: 2019-02-01 12:15 CET
+  description: |
+
+- title: TBD
+  speaker: TBD
+  start: 2019-02-01 13:30 CET
+  end: 2019-02-01 14:15 CET
+  description: |
+
+- title: Service Assurance Framework - monitoring with low latency
+  speaker: Matthias Runge
+  start: 2019-02-01 13:30 CET
+  end: 2019-02-01 14:15 CET
+  description: |
+
+- title: Give CentOS a try, the easiest way!
+  speaker: Fabiano Fidêncio
+  start: 2019-02-01 14:15 CET
+  end: 2019-02-01 15:00 CET
+  description: |
+
+- title: Building RPMs with Gitlab and Koji
+  speaker: Thomas Oulevey
+  start: 2019-02-01 14:15 CET
+  end: 2019-02-01 15:00 CET
+  description: |
+
+- title: Monitor your CentOS stack with Prometheus
+  speaker: Julien Pivotto
+  start: 2019-02-01 15:30 CET
+  end: 2019-02-01 16:15 CET
+  description: |
+
+- title: From building structures to building infra-structures 
+  speaker: Alexandru Calcatinge
+  start: 2019-02-01 15:30 CET
+  end: 2019-02-01 16:15 CET
+  description: |
+
+- title: Troubleshoot Ansible with an Ara over your shoulder
+  speaker: Haïkel Guémar
+  start: 2019-02-01 16:15 CET
+  end: 2019-02-01 17:00 CET
+  description: |
+
+- title: One playbook to rule them all
+  speaker: Till Maas
+  start: 2019-02-01 16:15 CET
+  end: 2019-02-01 17:00 CET
+  description: |
+
+
