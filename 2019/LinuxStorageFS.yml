@@ -1,0 +1,10 @@
+name: Linux Storage, Filesystem & Memory Management Summit
+location: San Juan, PR
+start: 2019-04-30
+end: 2019-05-02
+tags:
+description: |
+  The Linux Storage, Filesystem & Memory Management Summit gathers the foremost development and research experts and kernel subsystem maintainers to map out and implement improvements to the Linux filesystem, storage and memory management subsystems that will find their way into the mainline kernel and Linux distributions in the next 24-48 months.
+
+  Additional details about the conference are available at
+  <https://events.linuxfoundation.org/events/linux-storage-filesystem-mm-summit-2019/>

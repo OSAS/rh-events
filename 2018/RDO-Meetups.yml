@@ -4,33 +4,43 @@ tags: RDO
 
 talks:
 
-- title: "1st VietOpenStack Webinar - How to contribute to Openstack?"
+- title: Cencosud Meetup Migrando a OpenStack
+  location: Buenos Aires, AR
+  speaker: OpenStack Argentina
+  start: 2018-12-05 22:00 UTC
+  end: 2018-12-05 23:00 UTC
+  description: |
+      Buenos Aires, AR
+      Cencosud Meetup Migrando a OpenStack
+      https://www.meetup.com/openstack-argentina/events/256468115/
+
+- title: "OpenStack Wrocław Meetup #10 - mini kurs"
+  location: Wroclaw, PL
+  speaker: Wroclaw OpenStack Meetup
+  start: 2018-12-05 18:00 UTC
+  end: 2018-12-05 19:00 UTC
+  description: |
+      Wroclaw, PL
+      "OpenStack Wrocław Meetup #10 - mini kurs"
+      https://www.meetup.com/Wroclaw-OpenStack-Meetup/events/256203177/
+
+- title: "Our Monthly meetup !"
+  location: London, ON
+  speaker: Openstack Southwestern Ontario Users Group
+  start: 2018-12-06 17:00 UTC
+  end: 2018-12-06 18:00 UTC
+  description: |
+      London, ON, CA
+      "Our Monthly meetup !"
+      https://www.meetup.com/Openstack-SWO/events/256597290/
+
+- title: 2nd Webinar - Debugging OpenStack Projects
   location: Ha Noi, VN
   speaker: Vietnam OpenStack Official User Group
-  start: 2018-11-05 15:00 UTC
-  end: 2018-11-05 16:00 UTC
+  start: 2018-12-10 15:00 UTC
+  end: 2018-12-10 16:00 UTC
   description: |
       Ha Noi, VN
-      "1st VietOpenStack Webinar - How to contribute to Openstack?"
-      https://www.meetup.com/VietOpenStack/events/256002826/
-
-- title: OpenStack Meetup Berlin - Pre-Summit
-  location: Berlin, DE
-  speaker: OpenStack User Group Berlin
-  start: 2018-11-06 18:30 UTC
-  end: 2018-11-06 19:30 UTC
-  description: |
-      Berlin, DE
-      OpenStack Meetup Berlin - Pre-Summit
-      https://www.meetup.com/OpenStack-User-Group-Berlin/events/255488207/
-
-- title: OpenStack Summit Berlin
-  location: Amersfoort, NL
-  speaker: OpenStack Netherlands
-  start: 2018-11-13 09:00 UTC
-  end: 2018-11-13 10:00 UTC
-  description: |
-      Amersfoort, NL
-      OpenStack Summit Berlin
-      https://www.meetup.com/Openstack-nl/events/254879844/
+      2nd Webinar - Debugging OpenStack Projects
+      https://www.meetup.com/VietOpenStack/events/256877527/
 

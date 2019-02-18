@@ -1,0 +1,9 @@
+name: Performance Co-Pilot Conference
+location: Melbourne, Australia
+start: 2019-03-01
+end: 2019-03-01
+tags:
+description: |
+ The conference brings together developers and performance analysts to collaborate on current and future PCP developments.
+ Presentations and discussion will focus on core PCP technologies as well as closely related projects such as Netflix Vector, Grafana and Redis.
+ More information is available at: <http://pcp.io/conference/2019/home.html>
