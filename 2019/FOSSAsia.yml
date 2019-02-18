@@ -1,0 +1,104 @@
+name: FOSSAsia
+location: Singapore, Singapore
+start: 2019-03-14
+end: 2019-03-17
+tags: centos,manageiq,fedora
+description: |
+ Bringing together an inspiring community across borders and ages to form a better future with Open Technologies and ICT
+
+ More information is available at:
+ <http://2019.fossasia.org/>
+
+talks:
+
+- title: Opening Keynote
+  speaker: Harish Pillay
+  start: 2019-03-14 09:00 SGT
+  end: 2019-03-14 09:30 SGT
+  description: |
+
+- title: Unleashing the power of kubectl
+  speaker: Suraj Narwade
+  start: 2019-03-15 13:00 SGT
+  description: |
+
+- title: Openshift 4.0 on Red Hat CoreOS & Enterprise Linux 8
+  speaker: Rushil Sharma
+  start: 2019-03-15 16:00 SGT
+  description: |
+
+- title: Product & Project Manager’s DevOps Journey to Continuous Delivery
+  speaker: Ranjith Varakantam
+  start: 2019-03-15 17:30 SGT
+  description: |
+
+- title: Using Transtats to ensure package translation completeness
+  speaker: Sundeep Anand
+  start: 2019-03-15 17:40 SGT
+  description: |
+
+- title: Exploring the world of Linux Packaging
+  speaker: Parag Nemade
+  start: 2019-03-15 18:10 SGT
+  description: |
+
+- title: Dependency Analytics for navigating the complexity of open source components
+  speaker: Aagam Shah, Ravindra Singh Ratnawat
+  start: 2019-03-16 10:00 SGT
+  description: |
+
+- title: Manage a community like conducting an orchestra - with a lot of hand waving
+  speaker: Carol Chen
+  start: 2019-03-16 10:30 SGT
+  description: |
+
+- title: "Faster, Cheaper, Leaner: Horizontally Scaling a CI Pipeline"
+  speaker: Yorgos Saslis, Michal Cichra
+  start: 2019-03-16 10:30 SGT
+  description: |
+
+- title: Fundamentals of deploying applications to Kubernetes
+  speaker: Graham Dumpleton, Jorge Morales
+  start: 2019-03-16 11:00 SGT
+  description: |
+
+- title: Meditation is experiential
+  speaker: Jens Petersen
+  start: 2019-03-16 16:00 SGT
+  description: |
+
+- title: Extending Ansible using plugins
+  speaker: Abhijeet Kasurde
+  start: 2019-03-16 17:20 SGT
+  description: |
+
+- title: Attacking Email encryption
+  speaker: Huzaifa Sidhpurwala
+  start: 2019-03-16 17:30 SGT
+  description: |
+
+- title: Orchestrating and Managing Ansible Automation using ManageIQ
+  speaker: Satyajit Bulage
+  start: 2019-03-16 17:50 SGT
+  description: |
+
+- title: Automating Stateful Applications with Kubernetes Operators
+  speaker: Jorge Morales, Graham Dumpleton
+  start: 2019-03-17 10:30 SGT
+  description: |
+
+- title: Containerize your primary workstation! - Fedora Silverblue
+  speaker: Sayan Chowdhury
+  start: 2019-03-17 13:25 SGT
+  description: |
+
+- title: Fedora CoreOS - best host for your containers
+  speaker: Sinny Kumari
+  start: 2019-03-17 13:50 SGT
+  description: |
+
+- title: Flatpak a sandboxing technology
+  speaker: Parag Nemade
+  start: 2019-03-17 15:25 SGT
+  description: |
+
