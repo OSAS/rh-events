@@ -32,7 +32,7 @@ Dir.glob('20*/*.yml').sort.each do |file|
 
           if talk['end']
             date_type = 'end'
-            DateTime.parse(talk['start'])
+            DateTime.parse(talk['end'])
           end
 
         rescue StandardError
