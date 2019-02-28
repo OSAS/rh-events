@@ -19,7 +19,7 @@ talks:
 - title: Introduction to OpenStack
   speaker: Rich Bowen
   start: 2015-02-21 11:00 PDT
-  end: 2013-11-31 11:30 PDT
+  end: 2015-02-21 11:30 PDT
   description: |
     You've seen Cloud in the press for years, and you have a pretty good
     idea of what that means, but what's OpenStack? In this talk, you'll
@@ -39,7 +39,7 @@ talks:
 - title: Solving the Package Problem (Or Making It Infinitely Worse?)
   speaker: Joe Brockmeier
   start: 2015-02-21 13:30 PDT
-  end: 2013-11-31 14:30 PDT
+  end: 2015-02-21 14:30 PDT
   description: |
     We've come a long, long way since the days of installing software by
     compiling source nd shoving it onto a system with `make install`.
@@ -63,7 +63,7 @@ talks:
 - title: Solving (NP-Hard) Scheduling Problems with oVirt and OptaPlanner
   speaker: Jason Brooks
   start: 2015-02-21 18:00 PDT
-  end: 2013-11-31 19:00 PDT
+  end: 2015-02-21 19:00 PDT
   description: |
     Certain scheduling tasks, such as selecting the host to launch a new
     VM or receive a migrating VM, are central to every cloud and
