@@ -1,0 +1,35 @@
+name: RDO Meetups
+type: series
+tags: RDO
+
+talks:
+
+- title: OpenStack Developer Coffee and Code
+  location: Saint Paul, MN
+  speaker: Minnesota | OpenStack (MnOS)
+  start: 2019-03-04 16:00 UTC
+  end: 2019-03-04 17:00 UTC
+  description: |
+      Saint Paul, MN, US
+      OpenStack Developer Coffee and Code
+      https://www.meetup.com/MnOpenStack/events/259298121/
+
+- title: Openstack with Ansible
+  location: Colombo, LK
+  speaker: Colombo Private Cloud Technical Meetup
+  start: 2019-03-07 13:00 UTC
+  end: 2019-03-07 14:00 UTC
+  description: |
+      Colombo, LK
+      Openstack with Ansible
+      https://www.meetup.com/Colombo-Private-Cloud-Technical-Meetup/events/258956673/
+
+- title: OpenStack Forum #5! 
+  location: Stockholm, SE
+  speaker: OpenStack User Group Sweden
+  start: 2019-03-13 14:00 UTC
+  end: 2019-03-13 15:00 UTC
+  description: |
+      Stockholm, SE
+      OpenStack Forum #5! 
+      https://www.meetup.com/OpenStack-User-Group-Sweden/events/257344079/
