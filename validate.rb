@@ -2,9 +2,33 @@
 
 require 'yaml'
 require 'kwalify'
+require 'active_support/time'
 
 schema = Kwalify::Yaml.load_file('schema.yml')
 validator = Kwalify::Validator.new(schema)
+
+
+# adapted from lib/confcal.rb included in community websites
+def tz_lookup time_zone
+  return @tzc[time_zone] if defined? @tzc
+
+  ## Build timezone abbriviation dictionary
+  @tzc ||= {}
+
+  ActiveSupport::TimeZone.all.each do | zone|
+    daylight_abbr = zone.parse('Aug 1').strftime('%Z')
+    standard_abbr = zone.parse('Dec 1').strftime('%Z')
+
+    # It's important to give priority to "standard" time,
+    # as there are some clashes
+    # (Sadly, that's just the way it is)
+    @tzc[standard_abbr] = zone.name unless @tzc[standard_abbr]
+    @tzc[daylight_abbr] = zone.name unless @tzc[daylight_abbr]
+  end
+
+  tz_lookup time_zone
+end
+
 
 valid = true
 
@@ -26,18 +50,28 @@ Dir.glob('20*/*.yml').sort.each do |file|
       doc['talks'].each do |talk|
         begin
           if talk['start']
+            error_type = 'time'
             date_type = 'start'
             DateTime.parse(talk['start'])
+            # also check TZ
+            tz_abbrev = talk['start'][/[a-zA-Z+0-9:]+$/]
+            error_type = 'timezone'
+            raise "wrong timezone" if tz_lookup(tz_abbrev).nil?
           end
 
           if talk['end']
+            error_type = 'time'
             date_type = 'end'
             DateTime.parse(talk['end'])
+            # also check TZ
+            tz_abbrev = talk['end'][/[a-zA-Z+0-9:]+$/]
+            error_type = 'timezone'
+            raise "wrong timezone" if tz_lookup(tz_abbrev).nil?
           end
 
         rescue StandardError
           valid = false
-          puts "Error: #{file}: Invalid #{date_type} time: " \
+          puts "Error: #{file}: Invalid #{date_type} #{error_type}: " \
             "'#{talk[date_type]}' in '#{talk['title']}'"
         end
       end
