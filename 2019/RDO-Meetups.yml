@@ -4,22 +4,12 @@ tags: RDO
 
 talks:
 
-- title: OpenStack Forum #5! 
-  location: Stockholm, SE
-  speaker: OpenStack User Group Sweden
-  start: 2019-03-13 14:00 UTC
-  end: 2019-03-13 15:00 UTC
+- title: OpenInfrastructure Summit
+  location: Denver, Colorado, USA
+  speaker: OpenInfrastructure Summit
+  start: 2019-04-29 15:00 UTC
+  end: 2019-05-02 00:00 UTC
   description: |
-      Stockholm, SE
-      OpenStack Forum #5! 
-      https://www.meetup.com/OpenStack-User-Group-Sweden/events/257344079/
-
-- title: Open Infrastructure Summit Dress Rehearsal Sneak Peak & Pizza Too
-  location: Portland, OR
-  speaker: OpenStack & OpenInfra PDX
-  start: 2019-03-22 01:30 UTC
-  end: 2019-03-22 02:30 UTC
-  description: |
-      Portland, OR, US
-      Open Infrastructure Summit Dress Rehearsal Sneak Peak & Pizza Too
-      https://www.meetup.com/openstackopeninfra-pdx/events/259494022/
+      Denver, Colorado, USA
+      OpenInfrastructure Summit
+      https://www.openstack.org/summit/denver-2019/
