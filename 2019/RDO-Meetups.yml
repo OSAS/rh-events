@@ -4,12 +4,32 @@ tags: RDO
 
 talks:
 
-- title: OpenInfrastructure Summit
-  location: Denver, Colorado, USA
-  speaker: OpenInfrastructure Summit
-  start: 2019-04-29 15:00 UTC
-  end: 2019-05-02 00:00 UTC
+- title: OpenInfrastructure Day Indonesia
+  location: Surabaya, Indonesia
+  speaker: OpenInfrastructure Day Indonesia
+  start: 2019-11-02 23:00 UTC
+  end: 2019-11-03 10:30 UTC
   description: |
-      Denver, Colorado, USA
+      Surabaya, Indonesia
+      OpenInfrastructure Day Indonesia
+      https://www.openstack.id/
+      
+- title: OpenInfrastructure Summit
+  location: Shanghai, China
+  speaker: OpenInfrastructure Summit
+  start: 2019-11-04 00:00 UTC
+  end: 2019-11-07 00:00 UTC
+  description: |
+      Shanghai, China
       OpenInfrastructure Summit
-      https://www.openstack.org/summit/denver-2019/
+      https://www.openstack.org/summit/shanghai-2019
+
+- title: Project Teams Gathering
+  location: Shanghai, China
+  speaker: Project Teams Gathering
+  start: 2019-11-06 00:00 UTC
+  end: 2019-11-09 00:00 UTC
+  description: |
+      Shanghai, China
+      Project Teams Gathering
+      https://www.openstack.org/ptg/
