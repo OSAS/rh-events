@@ -4,32 +4,32 @@ tags: RDO
 
 talks:
 
-- title: OpenInfrastructure Day Indonesia
-  location: Surabaya, Indonesia
-  speaker: OpenInfrastructure Day Indonesia
-  start: 2019-11-02 23:00 UTC
-  end: 2019-11-03 10:30 UTC
+- title: Open Infrastructure and Cloud-native Technologies
+  location: Islamabad, Pakistan
+  speaker: Islamabad OpenStack Meetup Group
+  start: 2019-11-14 12:00 UTC
+  end: 2019-11-14 12:00 UTC
   description: |
-      Surabaya, Indonesia
-      OpenInfrastructure Day Indonesia
-      https://www.openstack.id/
+      Islamabad, Pakistan
+      Open Infrastructure and Cloud-native Technologies
+      https://www.meetup.com/Islamabad-OpenStack-Meetup-Group/events/266362948/
       
-- title: OpenInfrastructure Summit
-  location: Shanghai, China
-  speaker: OpenInfrastructure Summit
-  start: 2019-11-04 00:00 UTC
-  end: 2019-11-07 00:00 UTC
+- title: "VietOpenInfra Technical Meetup #22"
+  location: "CoGo Coworking Space 3 Lương Yên · Hai Bà Trưng"
+  speaker: Vietnam Open Infrastructure Official User Group
+  start: 2019-11-23 06:00 UTC
+  end: 2019-11-23 10:30 UTC
   description: |
-      Shanghai, China
-      OpenInfrastructure Summit
-      https://www.openstack.org/summit/shanghai-2019
+       "CoGo Coworking Space 3 Lương Yên · Hai Bà Trưng"
+       "VietOpenInfra Technical Meetup #22"
+       https://www.meetup.com/VietOpenStack/events/266148439/
 
-- title: Project Teams Gathering
-  location: Shanghai, China
-  speaker: Project Teams Gathering
-  start: 2019-11-06 00:00 UTC
-  end: 2019-11-09 00:00 UTC
+- title: "I/O performance of Kata Containers, OpenStack security automation, and more..."
+  location: "The Microsoft Reactor London 70 Wilson St · London"
+  speaker: London OpenInfra Meetup
+  start: 2019-11-28 19:00 UTC
+  end: 2019-11-28 22:00 UTC
   description: |
-      Shanghai, China
-      Project Teams Gathering
-      https://www.openstack.org/ptg/
+      "The Microsoft Reactor London 70 Wilson St · London"
+      "I/O performance of Kata Containers, OpenStack security automation, and more..."
+      https://www.meetup.com/Openstack-London/events/266230014/
