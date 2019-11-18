@@ -4,16 +4,6 @@ tags: RDO
 
 talks:
 
-- title: Open Infrastructure and Cloud-native Technologies
-  location: Islamabad, Pakistan
-  speaker: Islamabad OpenStack Meetup Group
-  start: 2019-11-14 12:00 UTC
-  end: 2019-11-14 12:00 UTC
-  description: |
-      Islamabad, Pakistan
-      Open Infrastructure and Cloud-native Technologies
-      https://www.meetup.com/Islamabad-OpenStack-Meetup-Group/events/266362948/
-      
 - title: "VietOpenInfra Technical Meetup #22"
   location: "CoGo Coworking Space 3 Lương Yên · Hai Bà Trưng"
   speaker: Vietnam Open Infrastructure Official User Group
@@ -33,3 +23,13 @@ talks:
       "The Microsoft Reactor London 70 Wilson St · London"
       "I/O performance of Kata Containers, OpenStack security automation, and more..."
       https://www.meetup.com/Openstack-London/events/266230014/
+
+- title: "Open Infrastructure: InfraRed"
+  location: "Coffice · Plaza Villa de Madrid 9 · Ciudad de México"
+  speaker: Open Infrastructure CDMX
+  start: 2019-11-29 01:00 UTC
+  end: 2019-11-29 03:00 UTC
+  description: |
+      "Coffice · Plaza Villa de Madrid 9 · Ciudad de México"
+      "Open Infrastructure: InfraRed"
+      https://www.meetup.com/OpenInfrastructureCDMX/events/266319944/
