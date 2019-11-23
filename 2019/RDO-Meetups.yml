@@ -4,16 +4,6 @@ tags: RDO
 
 talks:
 
-- title: "VietOpenInfra Technical Meetup #22"
-  location: "CoGo Coworking Space 3 Lương Yên · Hai Bà Trưng"
-  speaker: Vietnam Open Infrastructure Official User Group
-  start: 2019-11-23 06:00 UTC
-  end: 2019-11-23 10:30 UTC
-  description: |
-       "CoGo Coworking Space 3 Lương Yên · Hai Bà Trưng"
-       "VietOpenInfra Technical Meetup #22"
-       https://www.meetup.com/VietOpenStack/events/266148439/
-
 - title: "I/O performance of Kata Containers, OpenStack security automation, and more..."
   location: "The Microsoft Reactor London 70 Wilson St · London"
   speaker: London OpenInfra Meetup
