@@ -4,22 +4,23 @@ tags: RDO
 
 talks:
 
-- title: "I/O performance of Kata Containers, OpenStack security automation, and more..."
-  location: "The Microsoft Reactor London 70 Wilson St · London"
-  speaker: London OpenInfra Meetup
-  start: 2019-11-28 19:00 UTC
-  end: 2019-11-28 22:00 UTC
-  description: |
-      "The Microsoft Reactor London 70 Wilson St · London"
-      "I/O performance of Kata Containers, OpenStack security automation, and more..."
-      https://www.meetup.com/Openstack-London/events/266230014/
+- title: "OpenInfra Meetup в Mail.ru"
+  location: "Офис компании Mail.Ru Group Москва, Ленинградский проспект 39, стр. 79 · Moscow"
+  speaker: OpenStack & OpenInfra Russia Moscow
+  start: 2019-12-12 17:30 UTC
+  end: 2019-12-12 21:00 UTC
+  description: https://www.meetup.com/OpenStack-Russia/events/266966369/
 
-- title: "Open Infrastructure: InfraRed"
-  location: "Coffice · Plaza Villa de Madrid 9 · Ciudad de México"
-  speaker: Open Infrastructure CDMX
-  start: 2019-11-29 01:00 UTC
-  end: 2019-11-29 03:00 UTC
-  description: |
-      "Coffice · Plaza Villa de Madrid 9 · Ciudad de México"
-      "Open Infrastructure: InfraRed"
-      https://www.meetup.com/OpenInfrastructureCDMX/events/266319944/
+- title: "Indonesia OpenStack Meetup #7 - Jakarta"
+  location: "Satrio Tower Building Jl. Prof. DR. Satrio No.RT.7, RW.2 · Kota Jakarta Selatan"
+  speaker: Indonesia OpenStack User Group
+  start: 2019-12-12 12:00 UTC
+  end: 2019-12-12 14:00 UTC
+  description: https://www.meetup.com/Indonesia-OpenStack-User-Group/events/266966431/
+
+- title: "Meetup #1 - Roadmap 202"
+  location: "Hochschule Osnabrück – Campus Lingen Kaiserstraße 10C · Lingen (Ems)"
+  speaker: OpenInfra Lower Saxony
+  start: 2019-12-17 18:00 UTC
+  end: 2019-12-17 20:00 UTC
+  description: https://www.meetup.com/OpenInfra-LowerSaxony/events/266801333/
